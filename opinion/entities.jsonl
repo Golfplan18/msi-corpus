@@ -725,6 +725,7 @@
 {"entity": "Costco", "article_count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "articles": ["2026-07-08-carla-marks-he-earns-33-an-hour-as-a-costco-cashier-"]}
 {"entity": "Cottonwood fire", "article_count": 1, "first_seen": "2026-06-28", "last_seen": "2026-06-28", "articles": ["2026-06-28-mark-paulson-us-news-2026-jun-28-firefighter-deaths-u"]}
 {"entity": "Council on Foreign Relations", "article_count": 1, "first_seen": "2026-08-01", "last_seen": "2026-08-01", "articles": ["2026-08-01-james-big-jim-zebedee-us-news-2026-aug-01-ukraine-zelenskyy-tr"]}
+{"entity": "Courtney James", "article_count": 1, "first_seen": "2026-08-02", "last_seen": "2026-08-02", "articles": ["2026-08-02-mark-paulson-wildfires-spokane-eastern-washington-eva"]}
 {"entity": "Critical Access Hospitals", "article_count": 1, "first_seen": "2026-05-16", "last_seen": "2026-05-16", "articles": ["closing-the-maternity-wards-to-fund-the-tax-cut"]}
 {"entity": "Crowd control weapons", "article_count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "articles": ["2026-07-14-judas-i-mather-ntrol-weapons-ice-protesters-blindings-t"]}
 {"entity": "Crown Prosecution Service", "article_count": 1, "first_seen": "2026-07-19", "last_seen": "2026-07-19", "articles": ["2026-07-19-house-cartoon-the-podium-called-the-victims-filth"]}
@@ -1182,6 +1183,7 @@
 {"entity": "Office of Management and Budget", "article_count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "articles": ["2026-07-11-ashley-wagner-commentisfree-2026-jul-11-trump-administ"]}
 {"entity": "Office of the Comptroller of the Currency", "article_count": 1, "first_seen": "2026-07-31", "last_seen": "2026-07-31", "articles": ["2026-07-31-prudence-wonk-community-reinvestment-act-banks-ncrc-oc"]}
 {"entity": "Oklahoma", "article_count": 1, "first_seen": "2026-07-06", "last_seen": "2026-07-06", "articles": ["2026-07-06-barb-mcgowan-affordable-care-act-obamacare-enrollment"]}
+{"entity": "Old Trails Fire", "article_count": 1, "first_seen": "2026-08-02", "last_seen": "2026-08-02", "articles": ["2026-08-02-mark-paulson-wildfires-spokane-eastern-washington-eva"]}
 {"entity": "Oman", "article_count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "articles": ["2026-07-14-james-big-jim-zebedee-top-news-us-2026-07-14-us-attacks-iran-t"]}
 {"entity": "One Big Beautiful Bill Act", "article_count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "articles": ["2026-07-01-barb-mcgowan-us-news-2026-jul-01-trump-biden-student-"]}
 {"entity": "Oregon", "article_count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "articles": ["2026-07-22-judas-i-mather-nx-s1-5896456-medicaid-cuts-incarceration-states-o"]}
@@ -1347,6 +1349,8 @@
 {"entity": "Southern Poverty Law Center", "article_count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "articles": ["2026-07-07-malcolm-little-king-alabama-southern-poverty-law-center-kkk-"]}
 {"entity": "Space Exploration Technologies Corp.", "article_count": 1, "first_seen": "2026-08-01", "last_seen": "2026-08-01", "articles": ["2026-08-01-barb-mcgowan-wall-street-earnings-jobs-inflation"]}
 {"entity": "Spencer Cox", "article_count": 1, "first_seen": "2026-06-28", "last_seen": "2026-06-28", "articles": ["2026-06-28-mark-paulson-us-news-2026-jun-28-firefighter-deaths-u"]}
+{"entity": "Spokane", "article_count": 1, "first_seen": "2026-08-02", "last_seen": "2026-08-02", "articles": ["2026-08-02-mark-paulson-wildfires-spokane-eastern-washington-eva"]}
+{"entity": "Spokane River", "article_count": 1, "first_seen": "2026-08-02", "last_seen": "2026-08-02", "articles": ["2026-08-02-mark-paulson-wildfires-spokane-eastern-washington-eva"]}
 {"entity": "St. Paul College", "article_count": 1, "first_seen": "2026-06-30", "last_seen": "2026-06-30", "articles": ["2026-06-30-ashley-wagner-nx-s1-5869642-workforce-pell-grants-programs-dont-"]}
 {"entity": "Stacy Leafsong", "article_count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "articles": ["2026-07-09-ruth-justice-he-democratic-influencer-who-helped-brin"]}
 {"entity": "Stanford Institute for Economic Policy Research", "article_count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "articles": ["2026-07-07-barb-mcgowan-31879-meet-project-2029-and-its-war-on-the-annoyan"]}
@@ -1471,6 +1475,7 @@
 {"entity": "Volker Türk", "article_count": 1, "first_seen": "2026-05-16", "last_seen": "2026-05-16", "articles": ["trump-and-hegseth-are-killing-men-on-boats"]}
 {"entity": "Wall Street Journal Opinion", "article_count": 1, "first_seen": "2026-05-15", "last_seen": "2026-05-15", "articles": ["strassel-redistricting-outburst-phukher"]}
 {"entity": "Warner Bros. Discovery", "article_count": 1, "first_seen": "2026-07-31", "last_seen": "2026-07-31", "articles": ["2026-07-31-malcolm-little-king-presses-concerns-about-state-antitrust-s"]}
+{"entity": "Washington State Department of Natural Resources", "article_count": 1, "first_seen": "2026-08-02", "last_seen": "2026-08-02", "articles": ["2026-08-02-mark-paulson-wildfires-spokane-eastern-washington-eva"]}
 {"entity": "Washington University in St. Louis", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-house-cartoon-less-reading-more-ranking"]}
 {"entity": "Weidong Guan", "article_count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "articles": ["2026-07-09-ruth-justice-epoch-times-cfo-indictment-money-launder"]}
 {"entity": "Wes Streeting", "article_count": 1, "first_seen": "2026-05-29", "last_seen": "2026-05-29", "articles": ["2026-05-29-eb-britain-s-rich-are-extorting-tax-cuts-the-laffer-cur"]}
