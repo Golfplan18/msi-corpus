@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +35,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-media-sells-early-access-to-presidential-posts-for.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Media Sells Early Access to Presidential
+    Posts for Private Gain'
+  caption: The presidency went public. The advantage stayed premium.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-03T00:06:32-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single-panel 1:1 wood-engraving composition in heavy black cross-hatch.
+    Donald Trump is shown fully human and recognizable in his public presidential
+    role, seated at a polished desk beneath a sign rea
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-02-hector-paired-with-2026-08-02-mark-paulson-trump-truth-social-inversiones-pago-insi
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Media Sells Early Access to Presidential Posts for Private Gain](/cartoons/trump-media-sells-early-access-to-presidential-posts-for.png)
+*The presidency went public. The advantage stayed premium.*
 
 Trump Media is selling early access to presidential posts for private gain.
 
