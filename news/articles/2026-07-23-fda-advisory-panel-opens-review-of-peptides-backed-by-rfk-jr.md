@@ -27,7 +27,8 @@ topic_tags:
 - medical research
 - public health
 - science and technology
-storyline_nexus: []
+storyline_nexus:
+- fda-advisory-panel-votes-to-support-peptide-therapies
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -127,6 +128,7 @@ related_stories:
   relation: related
   strength: 0.724
 ---
+
 ## FDA advisory panel opens review of peptides backed by RFK Jr.
 
 **Subtype:** fact

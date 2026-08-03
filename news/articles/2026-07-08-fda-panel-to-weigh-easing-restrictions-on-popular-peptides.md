@@ -33,6 +33,7 @@ topic_tags:
 - public health
 storyline_nexus:
 - trump-health-policy-rfk
+- fda-advisory-panel-votes-to-support-peptide-therapies
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -109,6 +110,7 @@ related_stories:
   relation: related
   strength: 0.6529
 ---
+
 ## FDA panel to weigh easing restrictions on popular peptides
 
 **Subtype:** fact
