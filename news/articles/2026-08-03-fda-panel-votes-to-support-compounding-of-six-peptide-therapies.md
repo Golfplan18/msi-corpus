@@ -1,9 +1,20 @@
 ---
 headline: FDA panel votes to support compounding of six peptide therapies
-secondary_headline: Panel recommendation does not change legality; FDA must still review data
+secondary_headline: Panel recommendation does not change legality; FDA must still
+  review data
 publish_date: '2026-08-03'
-lede: An FDA advisory panel voted in late July to allow compounding pharmacies to produce six of seven unapproved peptide injectables, including BPC-157, TB-500, and MOTS-c, but the vote does not itself change the legal status of the substances. The agency must now weigh safety and efficacy evidence and decide whether to formally permit compounding, a process that could take months or be accelerated through an unusual regulatory maneuver.
-nut_graf: The hearing drew unprecedented attention to the widely used but largely unproven therapies, yet it leaves the gray market intact and the timeline for legal access uncertain. The FDA faces competing pressures — from its own scientists who urged against changing the compounds' regulatory status, from a health secretary pressing for access, and from an industry that says consumers are already obtaining the drugs from unvetted sources.
+lede: An FDA advisory panel voted in late July to allow compounding pharmacies to
+  produce six of seven unapproved peptide injectables, including BPC-157, TB-500,
+  and MOTS-c, but the vote does not itself change the legal status of the substances.
+  The agency must now weigh safety and efficacy evidence and decide whether to formally
+  permit compounding, a process that could take months or be accelerated through an
+  unusual regulatory maneuver.
+nut_graf: The hearing drew unprecedented attention to the widely used but largely
+  unproven therapies, yet it leaves the gray market intact and the timeline for legal
+  access uncertain. The FDA faces competing pressures — from its own scientists who
+  urged against changing the compounds' regulatory status, from a health secretary
+  pressing for access, and from an industry that says consumers are already obtaining
+  the drugs from unvetted sources.
 primary_entities:
 - FDA
 - Pharmacy Compounding Advisory Committee
@@ -60,7 +71,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,104 +174,44 @@ related_stories:
   headline: FDA advisory panel opens review of peptides backed by RFK Jr.
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.8347
+  strength: 0.8344
 - slug: 2026-07-08-fda-panel-to-weigh-easing-restrictions-on-popular-peptides
   headline: FDA panel to weigh easing restrictions on popular peptides
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.8863
+  strength: 0.8864
 - slug: 2026-06-26-fda-panel-to-weigh-easing-restrictions-on-unapproved-peptides
   headline: FDA panel to weigh easing restrictions on unapproved peptides
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.8445
+  strength: 0.8441
 - slug: 2026-06-30-fda-scientists-flag-lack-of-evidence-for-peptides-backed-by-rfk-jr
   headline: FDA scientists flag lack of evidence for peptides backed by RFK Jr.
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.794
+  strength: 0.7946
 - slug: 2026-06-23-telehealth-compounding-pharmacies-race-into-2-2b-peptide-market-as-fda-prepares-
-  headline: Telehealth, compounding pharmacies race into $2.2B peptide market as FDA prepares to ease restrictions
+  headline: Telehealth, compounding pharmacies race into $2.2B peptide market as FDA
+    prepares to ease restrictions
   publish_date: '2026-06-23'
   relation: related
   strength: 0.7774
-- slug: 2026-07-08-fda-rejects-petition-to-set-pfas-limits-in-food-group-plans-lawsuit
-  headline: FDA rejects petition to set PFAS limits in food, group plans lawsuit
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6354
 - slug: 2026-04-15-fda-to-weigh-easing-limits-on-unproven-peptides-favored-by-rfk-jr
   headline: FDA to weigh easing limits on unproven peptides favored by RFK Jr.
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.8143
+  strength: 0.8141
 - slug: 2026-01-24-unapproved-peptide-injections-what-to-know-about-the-wellness-trend
   headline: 'Unapproved peptide injections: what to know about the wellness trend'
   publish_date: '2026-01-24'
   relation: related
-  strength: 0.7622
-- slug: 2026-06-05-fda-launches-mifepristone-safety-study-paving-way-for-potential-restrictions
-  headline: FDA launches mifepristone safety study, paving way for potential restrictions
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6167
+  strength: 0.763
 - slug: 2026-03-29-dietary-supplement-makers-press-fda-to-broaden-ingredients-to-peptides
   headline: Dietary supplement makers press FDA to broaden ingredients to peptides
   publish_date: '2026-03-29'
   relation: related
-  strength: 0.7203
-- slug: 2026-05-23-how-a-new-law-could-change-new-york-s-pizzas-and-bagels
-  headline: How a new law could change New York’s pizzas and bagels
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6217
-- slug: 2026-05-22-fda-vaping-policy-blindsided-regulators-staffers-say-memo-eased-market-rules
-  headline: FDA vaping policy blindsided regulators; staffers say memo eased market rules
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6212
-- slug: 2026-05-17-fda-drug-voucher-program-stirs-safety-concerns-after-patient-death-staff-exodus
-  headline: FDA drug voucher program stirs safety concerns after patient death, staff exodus
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6229
-- slug: 2026-05-08-fda-announces-plan-to-phase-out-synthetic-dyes-but-rulemaking-has-stalled
-  headline: FDA announces plan to phase out synthetic dyes, but rulemaking has stalled
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6368
-- slug: 2026-02-26-fda-proposes-new-approval-pathway-for-rare-disease-customized-therapies
-  headline: FDA proposes new approval pathway for rare-disease customized therapies
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6992
-- slug: 2026-04-29-texas-medical-board-proposes-ban-on-in-home-ketamine-tighter-physician-oversight
-  headline: Texas Medical Board proposes ban on in-home ketamine, tighter physician oversight
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6287
-- slug: 2026-04-29-supreme-court-weighs-blocking-roundup-cancer-claims
-  headline: Supreme Court weighs blocking Roundup cancer claims
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6189
-- slug: 2026-04-08-fight-over-pills-pits-abortion-opponents-against-trump-administration
-  headline: Fight over pills pits abortion opponents against Trump administration
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6303
-- slug: 2026-04-09-fight-over-pills-pits-abortion-opponents-against-trump-administration
-  headline: Fight over pills pits abortion opponents against Trump administration
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6271
-- slug: 2026-02-21-fda-drug-approvals-makary-and-prasad-say-one-study-will-be-enough
-  headline: 'FDA drug approvals: Makary and Prasad say one study will be enough'
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6378
+  strength: 0.7218
 ---
-
 ## FDA panel votes to support compounding of six peptide therapies
 
 **Subtype:** fact

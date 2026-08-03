@@ -2,8 +2,18 @@
 headline: Maisoon Ali says attackers set her West Bank home on fire
 secondary_headline: Six settlers face terrorism and arson charges in Deir Dibwan
 publish_date: '2026-08-03'
-lede: Maisoon Ali, a 60-year-old Palestinian American who retired to the West Bank village of Deir Dibwan from Vienna, Virginia, said three young men attacked her home on June 14 with bottles of flammable liquid and set fires to furniture and the building's exterior while she sheltered inside behind metal shutters. The attack came two days after U.S. Ambassador Mike Huckabee visited the nearby settlement of Shilo, according to The Guardian.
-nut_graf: Nine Palestinian Americans have been killed in the West Bank since 2022 by settlers or the Israeli military, according to The Guardian. The State Department says all U.S. citizens in the West Bank have access to consular services; Ali said the embassy told her to report the June 14 attack to local authorities, and Ghaith Odeh, a Palestinian American who lives in Turmus Ayya, said he received canned replies directing him to local law enforcement.
+lede: Maisoon Ali, a 60-year-old Palestinian American who retired to the West Bank
+  village of Deir Dibwan from Vienna, Virginia, said three young men attacked her
+  home on June 14 with bottles of flammable liquid and set fires to furniture and
+  the building's exterior while she sheltered inside behind metal shutters. The attack
+  came two days after U.S. Ambassador Mike Huckabee visited the nearby settlement
+  of Shilo, according to The Guardian.
+nut_graf: Nine Palestinian Americans have been killed in the West Bank since 2022
+  by settlers or the Israeli military, according to The Guardian. The State Department
+  says all U.S. citizens in the West Bank have access to consular services; Ali said
+  the embassy told her to report the June 14 attack to local authorities, and Ghaith
+  Odeh, a Palestinian American who lives in Turmus Ayya, said he received canned replies
+  directing him to local law enforcement.
 primary_entities:
 - Maisoon Ali
 - Deir Dibwan
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +152,33 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-11-ro-khanna-says-armed-israeli-settlers-detained-him-in-west-bank
-  headline: Ro Khanna says armed Israeli settlers detained him in West Bank
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6464
-- slug: 2026-07-09-american-owned-homes-in-lebanon-destroyed-by-israeli-forces-investigation-shows
-  headline: American-owned homes in Lebanon destroyed by Israeli forces, investigation shows
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6184
-- slug: 2026-05-14-palestinian-father-of-four-shot-dead-climbing-west-bank-barrier-to-find-work-in-
-  headline: Palestinian father of four shot dead climbing West Bank barrier to find work in Israel
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6279
-- slug: 2026-05-14-palestinian-man-shot-dead-climbing-west-bank-barrier-seeking-work
-  headline: Palestinian man shot dead climbing West Bank barrier seeking work
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6278
 - slug: 2026-03-23-israeli-settlers-attack-west-bank-villages-as-gaza-strikes-kill-4
   headline: Israeli settlers attack West Bank villages as Gaza strikes kill 4
   publish_date: '2026-03-23'
   relation: related
-  strength: 0.6847
+  strength: 0.6845
 - slug: 2026-03-20-palestinian-women-killed-in-west-bank-beauty-salon-during-iran-israel-war
-  headline: Palestinian women killed in West Bank beauty salon during Iran-Israel war
+  headline: Palestinian women killed in West Bank beauty salon during Iran-Israel
+    war
   publish_date: '2026-03-20'
   relation: related
-  strength: 0.6845
+  strength: 0.6848
 - slug: 2026-04-12-palestinian-killed-in-west-bank-as-violence-surges-during-iran-war
   headline: Palestinian killed in West Bank as violence surges during Iran war
   publish_date: '2026-04-12'
   relation: related
-  strength: 0.6536
-- slug: 2026-05-01-israeli-evacuation-warnings-in-lebanon-spark-chaos-amid-war-with-hezbollah
-  headline: Israeli evacuation warnings in Lebanon spark chaos amid war with Hezbollah
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6237
-- slug: 2026-05-05-melkite-catholic-bishops-urge-lebanon-and-un-to-protect-southern-churches
-  headline: Melkite Catholic bishops urge Lebanon and UN to protect southern churches
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6166
-- slug: 2026-04-04-shiite-displaced-in-lebanon-face-hostility-amid-israel-hezbollah-war
-  headline: Shiite displaced in Lebanon face hostility amid Israel-Hezbollah war
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6493
-- slug: 2026-04-12-grief-and-rage-in-lebanon-ahead-of-u-s-talks-with-israel
-  headline: Grief and rage in Lebanon ahead of U.S. talks with Israel
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6404
-- slug: 2026-04-11-israel-and-hezbollah-escalate-attacks-ahead-of-crucial-talks
-  headline: Israel and Hezbollah escalate attacks ahead of crucial talks
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6367
-- slug: 2026-04-11-israel-bombardea-beirut-y-mata-a-182-personas-pese-a-alto-el-fuego-con-ir-n
-  headline: Israel bombardea Beirut y mata a 182 personas, pese a alto el fuego con Irán
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6362
-- slug: 2026-03-14-israeli-soldiers-kill-4-in-west-bank-after-fire-on-family-car
-  headline: Israeli soldiers kill 4 in West Bank after fire on family car
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6531
+  strength: 0.6529
 - slug: 2026-03-10-backlash-against-hezbollah-as-war-flares-in-lebanon
   headline: Backlash against Hezbollah as war flares in Lebanon
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.6556
-- slug: 2026-03-27-man-arrested-in-plot-to-firebomb-palestinian-activist-s-nyc-home
-  headline: Man arrested in plot to firebomb Palestinian activist's NYC home
-  publish_date: '2026-03-27'
+  strength: 0.6569
+- slug: 2026-03-14-israeli-soldiers-kill-4-in-west-bank-after-fire-on-family-car
+  headline: Israeli soldiers kill 4 in West Bank after fire on family car
+  publish_date: '2026-03-14'
   relation: related
-  strength: 0.6404
-- slug: 2026-04-15-lebanon-and-israel-hold-direct-diplomatic-talks-brokered-by-us
-  headline: Lebanon and Israel hold direct diplomatic talks brokered by US
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6217
-- slug: 2026-04-12-syrian-father-buries-wife-children-after-israeli-strikes-on-beirut
-  headline: Syrian father buries wife, children after Israeli strikes on Beirut
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6236
-- slug: 2026-04-15-israeli-police-stop-dozens-of-palestinians-hidden-in-garbage-truck
-  headline: Israeli police stop dozens of Palestinians hidden in garbage truck
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.619
-- slug: 2026-04-10-israeli-strikes-kill-scores-in-beirut-ap-recounts-day-of-attacks
-  headline: Israeli strikes kill scores in Beirut; AP recounts day of attacks
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6242
+  strength: 0.6534
 ---
-
 ## Maisoon Ali says attackers set her West Bank home on fire
 
 **Subtype:** fact
