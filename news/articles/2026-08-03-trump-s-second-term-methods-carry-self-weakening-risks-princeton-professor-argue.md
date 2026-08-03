@@ -1,9 +1,18 @@
 ---
-headline: Trump's second-term methods carry self-weakening risks, Princeton professor argues
-secondary_headline: Müller writes that prioritizing loyalty over competence creates a 'distinct vulnerability'
+headline: Trump's second-term methods carry self-weakening risks, Princeton professor
+  argues
+secondary_headline: Müller writes that prioritizing loyalty over competence creates
+  a 'distinct vulnerability'
 publish_date: '2026-08-03'
-lede: Jan-Werner Müller, a professor of politics at Princeton University and a Guardian US columnist, argues in a column published Aug. 3 that the methods characterizing Trump's second term — from a strategy of overwhelming the public with scandals to prioritizing loyalty over competence — carry risks that could weaken the administration rather than only strengthening it.
-nut_graf: Müller writes that the recurring debate over whether Trump's moves are signs of strength or desperation is "badly posed," because much of what distinguishes his second-term governance can serve to consolidate power and at the same time create particular vulnerabilities.
+lede: Jan-Werner Müller, a professor of politics at Princeton University and a Guardian
+  US columnist, argues in a column published Aug. 3 that the methods characterizing
+  Trump's second term — from a strategy of overwhelming the public with scandals to
+  prioritizing loyalty over competence — carry risks that could weaken the administration
+  rather than only strengthening it.
+nut_graf: Müller writes that the recurring debate over whether Trump's moves are signs
+  of strength or desperation is "badly posed," because much of what distinguishes
+  his second-term governance can serve to consolidate power and at the same time create
+  particular vulnerabilities.
 primary_entities:
 - United States
 - Jan-Werner Müller
@@ -37,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,107 +146,17 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-16-princeton-scholar-says-internal-governance-not-just-government-threatens-democra
-  headline: Princeton scholar says internal governance, not just government, threatens democracy
+  headline: Princeton scholar says internal governance, not just government, threatens
+    democracy
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6969
-- slug: 2026-07-17-trump-claims-election-system-so-broken-no-one-can-defend-it
-  headline: Trump claims election system 'so broken no one can defend it'
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6437
-- slug: 2026-07-15-trump-relished-dictator-comparisons-new-book-says
-  headline: Trump relished dictator comparisons, new book says
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6201
-- slug: 2026-07-15-trump-s-second-term-fundraising-network-tops-500-million
-  headline: Trump's second-term fundraising network tops $500 million
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.619
-- slug: 2026-07-12-trump-s-nato-summit-swing-from-anger-to-praise-leaves-allies-uneasy
-  headline: Trump's NATO summit swing from anger to praise leaves allies uneasy
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6106
-- slug: 2026-07-12-scholars-say-trump-withholding-anti-terror-funds-from-states-over-voting-rules
-  headline: Scholars say Trump withholding anti-terror funds from states over voting rules
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6039
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6107
+  strength: 0.698
 - slug: 2026-06-28-trump-banners-fly-over-washington-as-america-marks-250th
   headline: Trump banners fly over Washington as America marks 250th
   publish_date: '2026-06-28'
   relation: related
   strength: 0.6527
-- slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
-  headline: Democrats seize on Trump's $2.2B income as campaign issue
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.5998
-- slug: 2026-06-15-columnist-proposes-escrache-protests-to-name-us-officials
-  headline: Columnist proposes 'escrache' protests to name US officials
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6403
-- slug: 2026-06-10-putin-trump-trapped-in-losing-battles-against-reality-columnist-argues
-  headline: Putin, Trump trapped in losing battles against reality, columnist argues
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6254
-- slug: 2026-06-13-trump-turns-80-as-white-house-projects-vigor-questions-over-health-persist
-  headline: Trump turns 80 as White House projects vigor, questions over health persist
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6148
-- slug: 2026-06-13-former-prosecutor-argues-trump-governs-like-a-mob-boss-in-new-book
-  headline: Former prosecutor argues Trump governs like a mob boss in new book
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6125
-- slug: 2026-06-11-trump-and-house-allies-push-to-expunge-his-two-impeachments
-  headline: Trump and House allies push to 'expunge' his two impeachments
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6091
-- slug: 2026-04-12-trump-s-endorsements-and-trips-test-his-influence-ahead-of-hungary-vote
-  headline: Trump’s endorsements and trips test his influence ahead of Hungary vote
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6454
-- slug: 2026-04-29-germany-weighs-trump-troop-reduction-threat-as-nato-allies-brace
-  headline: Germany weighs Trump troop-reduction threat as NATO allies brace
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6132
-- slug: 2026-05-05-what-to-know-about-us-military-presence-in-europe-as-trump-seeks-drawdown
-  headline: What to know about US military presence in Europe as Trump seeks drawdown
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6006
-- slug: 2026-04-26-trump-calls-for-unity-after-third-attempt-but-will-the-tone-last
-  headline: Trump calls for unity after third attempt. But will the tone last?
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6106
-- slug: 2026-04-14-orb-n-election-defeat-sparks-scrutiny-of-trump-allies-and-policy
-  headline: Orbán election defeat sparks scrutiny of Trump allies and policy
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6113
-- slug: 2026-01-22-one-year-in-trump-has-pursued-broad-policy-agenda-with-mixed-results
-  headline: One Year In, Trump Has Pursued Broad Policy Agenda With Mixed Results
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6376
 ---
-
 ## Trump's second-term methods carry self-weakening risks, Princeton professor argues
 
 **Subtype:** fact

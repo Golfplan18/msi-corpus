@@ -39,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +61,27 @@ cross_article_links:
   strength: 0.4885
   confidence: high
 draft: false
+image:
+  url: /cartoons/chaplaincy-of-the-current-administration.png
+  alt: 'Editorial cartoon by Hector Rentier: Chaplaincy of the Current Administration'
+  caption: They read submission to the king and skipped the verses about justice.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-03T04:56:23-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single-panel 1:1 cartoon in heavy cross-hatched wood-engraving style.
+    At the center, a fully rendered, recognizable evangelical chaplain stands at a
+    polished pulpit labeled CHAPLAINCY, serenely holdin
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-01-hector-paired-with-2026-08-01-joanna-rivera-blackwell-commentisfree-2026-aug-01-democrats-dona
 ---
+
+![Editorial cartoon by Hector Rentier: Chaplaincy of the Current Administration](/cartoons/chaplaincy-of-the-current-administration.png)
+*They read submission to the king and skipped the verses about justice.*
 
 I spent thirty years inside the white Evangelical apparatus. I know how the Romans 13 sermon goes. The preacher takes the text to verse 1 — "Let every soul be subject unto the higher powers" — and stops. He does not read through to verse 8 of the same chapter, where the apostle commands us to owe no one anything except to love one another. He does not read the prophet who addressed the king directly: "Woe to him who builds his palace by unrighteousness, his upper rooms by injustice, making his own people work for nothing, not paying them for their labor" (Jeremiah 22:13, NIV). He does not read the next sentence: "He defended the cause of the poor and needy, and so all went well. Is that not what it means to know me?" declares the Lord (Jeremiah 22:16). The chasm between these readings is the work this column does whenever the apparatus marries the Gospel to a regime. White Evangelical leadership has traded its prophetic calling for a seat at Caesar's table.
 

@@ -1,7 +1,8 @@
 ---
 headline: When the Allies Become Customers
 publish_date: '2026-08-01'
-lede: The men I served with in Third Infantry Division are not at this negotiating table.
+lede: The men I served with in Third Infantry Division are not at this negotiating
+  table.
 pen_name: james-big-jim-zebedee
 primary_entities:
 - Donald Trump
@@ -43,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,7 +66,27 @@ cross_article_links:
   strength: 0.1846
   confidence: high
 draft: false
+image:
+  url: /cartoons/when-the-allies-become-customers.png
+  alt: 'Editorial cartoon by Hector Rentier: When the Allies Become Customers'
+  caption: The alliance became a purchase order. The people became inventory.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-03T05:07:46-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel 1:1 wood-engraving cartoon in heavy black cross-hatch.
+    Donald Trump, fully human and recognizable in his public presidential role, sits
+    behind a polished buyer''s counter beneath a banner '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-01-hector-paired-with-2026-08-01-james-big-jim-zebedee-us-news-2026-aug-01-ukraine-zelenskyy-tr
 ---
+
+![Editorial cartoon by Hector Rentier: When the Allies Become Customers](/cartoons/when-the-allies-become-customers.png)
+*The alliance became a purchase order. The people became inventory.*
 
 The men I served with in Third Infantry Division are not at this negotiating table.
 

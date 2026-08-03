@@ -1,9 +1,17 @@
 ---
-headline: Citi analysts say Taiwan tech earnings confirm early-stage AI expansion, with benefits broadening
+headline: Citi analysts say Taiwan tech earnings confirm early-stage AI expansion,
+  with benefits broadening
 secondary_headline: CIMB sees Malaysia AI monetization expanding beyond chip manufacturing
 publish_date: '2026-08-03'
-lede: Taiwanese semiconductor companies including TSMC, UMC and MediaTek have raised guidance, increased capital expenditure and expressed improving visibility into 2027 demand for artificial intelligence, confirming that AI infrastructure investment remains in the early stages of a multi-year expansion, according to Citi analysts.
-nut_graf: The assessments, part of a Wall Street Journal Market Talk roundup of analyst notes published Monday, indicate that the AI investment cycle is broadening across the entire hardware ecosystem, with benefits increasingly extending beyond computing to networking and power — a shift that is reshaping supply chains in Taiwan, China and Malaysia.
+lede: Taiwanese semiconductor companies including TSMC, UMC and MediaTek have raised
+  guidance, increased capital expenditure and expressed improving visibility into
+  2027 demand for artificial intelligence, confirming that AI infrastructure investment
+  remains in the early stages of a multi-year expansion, according to Citi analysts.
+nut_graf: The assessments, part of a Wall Street Journal Market Talk roundup of analyst
+  notes published Monday, indicate that the AI investment cycle is broadening across
+  the entire hardware ecosystem, with benefits increasingly extending beyond computing
+  to networking and power — a shift that is reshaping supply chains in Taiwan, China
+  and Malaysia.
 primary_entities:
 - Citi
 - CIMB Securities
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -122,108 +131,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-28-chinese-regulators-cite-imported-risk-as-ai-stocks-follow-wall-street
-  headline: Chinese regulators cite imported risk as AI stocks follow Wall Street
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6792
 - slug: 2026-07-16-tsmc-posts-fifth-straight-record-profit-on-surging-ai-demand
   headline: TSMC posts fifth straight record profit on surging AI demand
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7485
+  strength: 0.7496
+- slug: 2026-07-28-chinese-regulators-cite-imported-risk-as-ai-stocks-follow-wall-street
+  headline: Chinese regulators cite imported risk as AI stocks follow Wall Street
+  publish_date: '2026-07-28'
+  relation: related
+  strength: 0.6788
 - slug: 2026-07-24-intel-raises-capex-outlook-to-20-billion-nokia-ai-orders-surge-to-2-8-billion-eu
-  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8 billion euros
+  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8
+    billion euros
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6994
-- slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7117
+  strength: 0.6997
 - slug: 2026-07-28-ai-tokens-could-emerge-as-a-key-economic-metric-for-the-ai-age
   headline: AI tokens could emerge as a key economic metric for the AI age
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6676
+  strength: 0.6678
+- slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
+  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions
+    loom
+  publish_date: '2026-07-21'
+  relation: related
+  strength: 0.7102
 - slug: 2026-07-27-ai-demand-trade-barriers-shift-south-korea-s-chip-and-auto-exports
   headline: AI demand, trade barriers shift South Korea's chip and auto exports
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.662
+  strength: 0.6629
 - slug: 2026-07-18-ai-buildout-expected-to-keep-inflation-elevated-through-year-end
   headline: AI buildout expected to keep inflation elevated through year-end
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.6607
+  strength: 0.6609
 - slug: 2026-07-16-tsmc-adds-100-billion-to-arizona-chip-manufacturing-push
   headline: TSMC adds $100 billion to Arizona chip manufacturing push
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.666
-- slug: 2026-07-15-deepseek-prepares-for-shanghai-ipo-as-soon-as-q2-2027
-  headline: DeepSeek prepares for Shanghai IPO as soon as Q2 2027
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6591
-- slug: 2026-07-07-huawei-tencent-microsoft-lead-tech-roundup-as-analyst-notes
-  headline: Huawei, Tencent, Microsoft lead tech roundup as analyst notes
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6871
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6794
-- slug: 2026-06-23-morningstar-flags-tsmc-advantest-sas-as-undervalued-in-chip-stock-market-roundup
-  headline: Morningstar flags TSMC, Advantest, SAS as undervalued in chip stock market roundup
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.707
-- slug: 2026-06-24-micron-s-blockbuster-earnings-quiet-ai-doubters-shares-soar-14
-  headline: Micron's blockbuster earnings quiet AI doubters; shares soar 14%
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6896
-- slug: 2026-06-11-tech-market-roundup-oracle-ai-push-tsmc-leadership-crypto-slump-super-micro-dilu
-  headline: 'Tech Market Roundup: Oracle AI Push, TSMC Leadership, Crypto Slump, Super Micro Dilution'
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7209
-- slug: 2026-06-27-ai-bubble-warnings-mount-as-dot-com-parallels-spread
-  headline: AI bubble warnings mount as dot-com parallels spread
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6604
-- slug: 2026-06-26-on-semi-to-buy-synaptics-for-7b-bitcoin-pressures-mount
-  headline: ON Semi to Buy Synaptics for $7B; Bitcoin Pressures Mount
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6588
-- slug: 2026-06-19-memory-chip-shortage-driven-by-ai-demand-squeezes-consumer-tech
-  headline: Memory-chip shortage driven by AI demand squeezes consumer tech
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6705
-- slug: 2026-06-02-ai-memory-chip-supply-crunch-deepens-easyjet-jumps-on-takeover-speculation-bitco
-  headline: AI memory chip supply crunch deepens; easyJet jumps on takeover speculation; bitcoin falls
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7183
-- slug: 2026-06-21-apple-faces-unavoidable-price-increases-as-ai-demand-drives-up-memory-chip-costs
-  headline: Apple faces unavoidable price increases as AI demand drives up memory chip costs
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.657
-- slug: 2026-06-09-apple-unveils-ai-revamp-tencent-positions-weixin-as-ai-gateway
-  headline: Apple unveils AI revamp, Tencent positions Weixin as AI gateway
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6902
+  strength: 0.6679
 ---
-
 ## Citi analysts say Taiwan tech earnings confirm early-stage AI expansion, with benefits broadening
 
 **Subtype:** fact

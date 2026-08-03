@@ -1,7 +1,10 @@
 ---
 headline: The $19 an Hour the Taxpayer Already Pays
 publish_date: '2026-08-01'
-lede: Gavin Newsom announced Friday that California's minimum wage will rise to $17.40 on January 1 — the highest state floor in the country — with a deserved taunt at the federal party that hasn't touched the $7.25 floor since George W. Bush last touched it in 2009.
+lede: Gavin Newsom announced Friday that California's minimum wage will rise to $17.40
+  on January 1 — the highest state floor in the country — with a deserved taunt at
+  the federal party that hasn't touched the $7.25 floor since George W. Bush last
+  touched it in 2009.
 pen_name: carla-marks
 primary_entities:
 - Gavin Newsom
@@ -31,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -52,7 +56,28 @@ cross_article_links:
   strength: 1.0
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-19-an-hour-the-taxpayer-already-pays.png
+  alt: 'Editorial cartoon by Hector Rentier: The $19 an Hour the Taxpayer Already
+    Pays'
+  caption: The employer saves. The taxpayer fills the gap.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-03T05:02:08-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel 1:1 wood-engraving scene in heavy black cross-hatch. At
+    center, an unnamed, polished wage-policy official stands behind a press podium
+    labeled “MINIMUM WAGE: $17.40,” holding up a ceremon'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-01-hector-paired-with-2026-08-01-carla-marks-us-news-2026-aug-01-california-minimum-w
 ---
+
+![Editorial cartoon by Hector Rentier: The $19 an Hour the Taxpayer Already Pays](/cartoons/the-19-an-hour-the-taxpayer-already-pays.png)
+*The employer saves. The taxpayer fills the gap.*
 
 Gavin Newsom announced Friday that California's minimum wage will rise to $17.40 on January 1 — the highest state floor in the country — with a deserved taunt at the federal party that hasn't touched the $7.25 floor since George W. Bush last touched it in 2009. ["They think $7.25 an hour is enough," Newsom said. "We don't."](https://www.theguardian.com/us-news/2026/aug/01/california-minimum-wage-increase) He's right. He's also announcing half a victory. The arithmetic tells the rest.
 
