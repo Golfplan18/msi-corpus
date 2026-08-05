@@ -18,7 +18,8 @@ primary_themes:
 - Nuclear weapons policy
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- japan-reiterates-dokdo-claim-in-2026-defense-white-paper
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -182,6 +183,7 @@ related_stories:
   relation: related
   strength: 0.7339
 ---
+
 ## North Korea warns physical clash on peninsula a matter of time
 
 **Subtype:** fact
