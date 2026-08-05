@@ -41,7 +41,8 @@ topic_tags:
 - economy, business and finance
 - computing and information technology
 - technology and engineering
-storyline_nexus: []
+storyline_nexus:
+- china-s-yuan-remains-undervalued-amid-weak-domestic-demand
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -183,8 +184,9 @@ related_stories:
   relation: related
   strength: 0.687
 analyses:
-- '2026-07-28-when-china-s-ai-independence-story-hit-the-market'
+- 2026-07-28-when-china-s-ai-independence-story-hit-the-market
 ---
+
 ## Chinese regulators cite imported risk as AI stocks follow Wall Street
 
 **Subtype:** fact

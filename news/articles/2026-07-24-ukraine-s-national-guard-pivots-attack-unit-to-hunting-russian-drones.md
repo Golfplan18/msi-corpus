@@ -22,7 +22,8 @@ primary_themes:
 - Russia-Ukraine war
 topic_tags:
 - armed conflict
-storyline_nexus: []
+storyline_nexus:
+- u-s-marine-corps-deploy-attack-drones
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -141,14 +142,19 @@ related_stories:
   strength: 0.6819
 image:
   url: /articles/2026-07-24-ukraine-s-national-guard-pivots-attack-unit-to-hunting-russian-drones.png
-  alt: "Illustration accompanying article: Ukraine's National Guard pivots attack unit to hunting Russian drones"
+  alt: 'Illustration accompanying article: Ukraine''s National Guard pivots attack
+    unit to hunting Russian drones'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Ukraine's National Guard pivots attack unit to hunting Russian drones
 
 **Subtype:** fact

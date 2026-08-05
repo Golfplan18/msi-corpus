@@ -26,7 +26,8 @@ topic_tags:
 - labour dispute
 - competition discipline
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- us-revokes-brazil-ambassador-visa
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -168,14 +169,19 @@ related_stories:
   strength: 0.7041
 image:
   url: /articles/2026-07-28-brazil-opens-formal-wto-challenge-against-u-s-tariffs.png
-  alt: "Illustration accompanying article: Brazil opens formal WTO challenge against U.S. tariffs"
+  alt: 'Illustration accompanying article: Brazil opens formal WTO challenge against
+    U.S. tariffs'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Brazil opens formal WTO challenge against U.S. tariffs
 
 **Subtype:** fact

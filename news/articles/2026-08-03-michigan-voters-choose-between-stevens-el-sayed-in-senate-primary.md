@@ -27,7 +27,8 @@ topic_tags:
 - public health
 - government policy
 - politics
-storyline_nexus: []
+storyline_nexus:
+- michigan-transgender-lawmaker-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -52,11 +53,18 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 6
   outlets:
   - Associated Press
+  - The Guardian
+  - The Wall Street Journal
+  - United Press International
+  - NPR
+  - BBC News
   outlet_classes:
   - wire
+  - national_daily
+  - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -188,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.6522
 ---
+
 ## Michigan voters choose between Stevens, El-Sayed in Senate primary
 
 **Subtype:** fact

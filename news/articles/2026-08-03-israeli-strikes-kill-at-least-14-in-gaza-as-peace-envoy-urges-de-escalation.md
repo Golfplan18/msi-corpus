@@ -41,7 +41,8 @@ topic_tags:
 - peace process
 - terrorism
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- hamas-disarmament-deal-finalized
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -206,6 +207,7 @@ related_stories:
   relation: related
   strength: 0.7172
 ---
+
 ## Israeli strikes kill at least 14 in Gaza as peace envoy urges de-escalation
 
 **Subtype:** fact

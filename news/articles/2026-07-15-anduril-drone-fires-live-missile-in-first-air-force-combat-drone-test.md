@@ -27,7 +27,8 @@ topic_tags:
 - technology and engineering
 - robotics
 - science and technology
-storyline_nexus: []
+storyline_nexus:
+- u-s-marine-corps-deploy-attack-drones
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -86,6 +87,7 @@ related_stories:
   relation: related
   strength: 0.7418
 ---
+
 **Subtype:** fact
 
 - An Anduril YFQ-44A Fury drone fired an AIM-120 AMRAAM air-to-air missile at a simulated target over the Mojave Desert on July 15, the first live-weapon launch from a U.S. Collaborative Combat Aircraft drone.

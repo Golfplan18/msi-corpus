@@ -27,7 +27,8 @@ topic_tags:
 - business information
 - macroeconomics
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- china-s-yuan-remains-undervalued-amid-weak-domestic-demand
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.6924
 ---
+
 ## China's Q2 growth cools to 4.3%, missing forecasts
 
 **Subtype:** fact

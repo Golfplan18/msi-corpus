@@ -37,6 +37,7 @@ topic_tags:
 - government
 storyline_nexus:
 - hamas-funding-case
+- new-york-hate-crimes-surge-amid-anti-semitism
 storyline_continuity:
   decision: none
   selected_prior_ids: []

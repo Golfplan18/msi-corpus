@@ -25,6 +25,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - hamas-funding-case
+- new-york-hate-crimes-surge-amid-anti-semitism
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

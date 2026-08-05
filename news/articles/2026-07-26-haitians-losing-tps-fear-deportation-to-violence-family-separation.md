@@ -26,7 +26,8 @@ topic_tags:
 - health
 - employment
 - disaster
-storyline_nexus: []
+storyline_nexus:
+- haitian-tps-ending-affects-maryland-eastern-shore-church-attendance
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,8 +191,9 @@ related_stories:
   relation: related
   strength: 0.8327
 analyses:
-- '2026-07-26-haitian-tps-termination-a-policy-built-on-a-contradiction'
+- 2026-07-26-haitian-tps-termination-a-policy-built-on-a-contradiction
 ---
+
 ## Haitians losing TPS fear deportation to violence, family separation
 
 **Subtype:** fact

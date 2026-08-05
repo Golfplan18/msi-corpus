@@ -29,7 +29,8 @@ topic_tags:
 - science and technology
 - technology and engineering
 - economy, business and finance
-storyline_nexus: []
+storyline_nexus:
+- spacex-rocket-stage-lunar-impact
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -117,6 +118,7 @@ related_stories:
   relation: related
   strength: 0.6653
 ---
+
 ## SpaceX is set to launch 13th Starship test flight with Starlink satellites
 
 **Subtype:** fact

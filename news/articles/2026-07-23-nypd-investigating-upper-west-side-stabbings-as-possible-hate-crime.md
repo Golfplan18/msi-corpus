@@ -21,7 +21,8 @@ primary_themes:
 - public safety
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- new-york-hate-crimes-surge-amid-anti-semitism
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -130,6 +131,7 @@ related_stories:
   relation: related
   strength: 0.6643
 ---
+
 ## NYPD investigating Upper West Side stabbings as possible hate crime
 
 **Subtype:** fact

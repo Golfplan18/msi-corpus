@@ -37,7 +37,8 @@ topic_tags:
 - civil rights
 - government policy
 - law
-storyline_nexus: []
+storyline_nexus:
+- haitian-tps-ending-affects-maryland-eastern-shore-church-attendance
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -126,8 +127,9 @@ related_stories:
   relation: related
   strength: 0.8121
 analyses:
-- '2026-07-10-supreme-court-limits-federal-court-review-of-temporary-protected-status-terminat'
+- 2026-07-10-supreme-court-limits-federal-court-review-of-temporary-protected-status-terminat
 ---
+
 ## Supreme Court rules Trump may end TPS for Haitians, Syrians, affecting 1.3 million
 
 **Subtype:** fact

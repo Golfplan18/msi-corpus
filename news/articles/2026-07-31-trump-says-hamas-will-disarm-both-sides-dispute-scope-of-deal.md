@@ -30,7 +30,8 @@ topic_tags:
 - political process
 - conflict, war and peace
 - terrorism
-storyline_nexus: []
+storyline_nexus:
+- hamas-disarmament-deal-finalized
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -196,6 +197,7 @@ related_stories:
   relation: related
   strength: 0.777
 ---
+
 ## Trump says Hamas will disarm; both sides dispute scope of deal
 
 **Subtype:** fact

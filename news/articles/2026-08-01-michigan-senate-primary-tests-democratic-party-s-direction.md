@@ -25,7 +25,8 @@ primary_themes:
 - Democratic Party divisions
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- michigan-transgender-lawmaker-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.662
 ---
+
 ## Michigan Senate primary tests Democratic Party's direction
 
 **Subtype:** fact

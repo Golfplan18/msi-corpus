@@ -33,7 +33,8 @@ topic_tags:
 - government policy
 - international relations
 - corruption
-storyline_nexus: []
+storyline_nexus:
+- us-revokes-brazil-ambassador-visa
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -111,6 +112,7 @@ related_stories:
   relation: related
   strength: 0.6656
 ---
+
 ## Brazil denies visas to US officials ahead of October election
 
 **Subtype:** fact
