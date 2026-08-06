@@ -68,6 +68,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-08-04-marge-s-wingtip-crosses-borders-under-shared-custody'
 ---
 ## Wingtip of WWII ace Bong's 'Marge' fighter reaches Wisconsin museum
 
@@ -103,3 +105,8 @@ Wisconsin national guard Brig Gen Adria Zuccaro said her troops were "honored to
 **Publication date:** 2026-08-04
 **Title:** Wingtip from downed fighter jet flown by ace pilot brought to US museum
 **URL:** https://www.theguardian.com/us-news/2026/aug/04/wingtip-richard-bong-plane-wisconsin
+
+---
+
+<!-- analysis-link:2026-08-04-marge-s-wingtip-crosses-borders-under-shared-custody -->
+**Going deeper:** [Read MSI's analysis of Marge's shared custody →](/analyses/2026-08-04-marge-s-wingtip-crosses-borders-under-shared-custody)
