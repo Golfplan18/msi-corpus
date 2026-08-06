@@ -175,6 +175,8 @@ related_stories:
   publish_date: '2026-05-15'
   relation: related
   strength: 0.8218
+analyses:
+- '2026-08-04-six-gop-senators-back-moreno-but-their-statements-range-from-demands-to-deferenc'
 ---
 ## Six GOP senators publicly back Bernie Moreno in Miller abuse dispute
 
@@ -216,3 +218,8 @@ Miller's decision whether to remain in the race now carries a procedural deadlin
 **Publication date:** 2026-08-04
 **Title:** Ohio Republican Max Miller faces growing calls to resign over domestic abuse allegations
 **URL:** https://www.theguardian.com/us-news/2026/aug/04/max-miller-resign-domestic-abuse-allegations
+
+---
+
+<!-- analysis-link:2026-08-04-six-gop-senators-back-moreno-but-their-statements-range-from-demands-to-deferenc -->
+**Going deeper:** [Read MSI's analysis of the fractured GOP response to Miller →](/analyses/2026-08-04-six-gop-senators-back-moreno-but-their-statements-range-from-demands-to-deferenc)
