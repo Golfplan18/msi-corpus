@@ -29,6 +29,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - michigan-transgender-lawmaker-election
+- abdul-el-sayed-wins-michigan-democratic-senate-primary
 storyline_continuity:
   decision: none
   selected_prior_ids: []

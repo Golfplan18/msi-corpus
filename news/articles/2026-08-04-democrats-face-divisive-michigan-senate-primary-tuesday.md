@@ -25,7 +25,8 @@ primary_themes:
 - midterm elections
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- abdul-el-sayed-wins-michigan-democratic-senate-primary
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -186,6 +187,7 @@ related_stories:
   relation: related
   strength: 0.7118
 ---
+
 ## Democrats face divisive Michigan Senate primary Tuesday
 
 **Subtype:** fact
