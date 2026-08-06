@@ -26,7 +26,8 @@ primary_themes:
 - Global South
 topic_tags:
 - international trade
-storyline_nexus: []
+storyline_nexus:
+- brazil-china-unionpay-pix-integration
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,16 +191,21 @@ related_stories:
   strength: 0.6585
 image:
   url: /articles/2026-07-27-lula-and-xi-agree-to-accelerate-mercosur-china-trade-talks-after-u-s-tariffs.png
-  alt: "Illustration accompanying article: Lula and Xi agree to accelerate Mercosur-China trade talks after U.S. tariffs"
+  alt: 'Illustration accompanying article: Lula and Xi agree to accelerate Mercosur-China
+    trade talks after U.S. tariffs'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-07-27-tariffs-fire-a-shot-brazil-pivots-but-the-realignment-is-only-as-strong-as-the-n'
+- 2026-07-27-tariffs-fire-a-shot-brazil-pivots-but-the-realignment-is-only-as-strong-as-the-n
 ---
+
 ## Lula and Xi agree to accelerate Mercosur-China trade talks after U.S. tariffs
 
 **Subtype:** fact

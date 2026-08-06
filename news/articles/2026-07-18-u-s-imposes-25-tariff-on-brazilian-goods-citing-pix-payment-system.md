@@ -31,7 +31,8 @@ topic_tags:
 - corruption
 - banking
 - consumer goods
-storyline_nexus: []
+storyline_nexus:
+- brazil-china-unionpay-pix-integration
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -162,6 +163,7 @@ related_stories:
   relation: related
   strength: 0.6634
 ---
+
 ## U.S. imposes 25% tariff on Brazilian goods, citing PIX payment system
 
 **Subtype:** fact
