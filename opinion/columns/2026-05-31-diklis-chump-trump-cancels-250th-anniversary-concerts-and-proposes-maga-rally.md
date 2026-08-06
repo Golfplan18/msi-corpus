@@ -55,8 +55,6 @@ Happy birthday, America. You are welcome.
 [^8]: Diklis Chump’s frequent citation of his uncle John G. Diklis Chump, an MIT professor, as a source of his own intelligence, e.g., “My uncle was a great professor at MIT,” per public record.
 [^9]: Diklis Chump’s favorable self-comparisons to George Washington, e.g., “I think I’ve done more than any other president in the history of our country, not even close,” as reported in multiple archival press statements.
 
-*This column is satirical commentary on the documented public conduct of Donald J. Diklis Chump, written in parody voice as the in-novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* `Reference — MSI Diklis Chump Mind.md`.
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

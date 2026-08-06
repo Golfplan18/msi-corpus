@@ -45,8 +45,6 @@ And the voters in 17 — Mike’s district, voted for Harris, pathetic, weak peo
 
 Everybody’s talking about the SALT deduction. $40,000. I told them in 2017 it was ten thousand, which was low, very low, I got a lot of credit for ten thousand, but then Mike came along and we fixed it. Now it’s forty thousand. If you’re a Democrat, you get zero. Zero deduction. I love the SALT cap. The biggest cap. The best cap. The greatest tax cuts in the history of humanity, maybe even the universe. Believe me, the tax cuts are so good, you’re going to be so rich, you won’t know what to do with the money, so we’re going to take it — wait, no, we’re keeping it. We’re keeping all of it. For you. The best for you.
 
-*PARODY — This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at Reference — MSI Diklis Chump Mind.md.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

@@ -53,8 +53,6 @@ I built that name from nothing. Completely self‑made — just a small loan of 
 
 So the Friday deadline? There is no deadline! The board filed a stay, a beautiful stay. A stay that stays is a stay, and my name stays right where it is — big, gold, glowing — maybe we’ll add lights, the biggest lights, so bright you can see it from Washington all the way to New York, and they’ll all know: the Diklis Chump Kennedy Center is here to stay. The renovations will happen, the name will stay, and Judge Cooper — Little Chris, whatever his name is, I don’t even remember — will look like a total fool. Believe me.
 
-> *Parody notice.* This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

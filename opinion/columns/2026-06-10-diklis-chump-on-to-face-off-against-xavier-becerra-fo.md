@@ -51,8 +51,6 @@ The general election is going to be a tremendous show, the ratings will be the h
 
 *Working-file footnote: Anchors for the parody include AP primary reporting placing Hilton at 25% and Becerra at 27.9%; the crowded Democratic field, including Steyer's third-place finish, Swalwell's exit amid allegations, and the earlier possibility of an all-Republican general election; California's top-two primary system, reliance on mail-in voting, and extended tallying; Diklis Chump's endorsement of Hilton and consolidation of the Republican field; documented patterns of Diklis Chump's speech and social media.*
 
-**Parody notice.** *This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* `Reference — MSI Diklis Chump Mind.md`.
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

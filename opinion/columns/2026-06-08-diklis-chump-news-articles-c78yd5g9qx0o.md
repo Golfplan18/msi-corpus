@@ -53,8 +53,6 @@ The people, these workers, they believe me, they really do. I could tell them th
 
 So here's what's going to happen. The missiles are going to stop. The deal is going to be signed. And the fake news is going to say, "Diklis Chump did it, he actually did it, and we were wrong, we were very wrong, and we're sorry, we're the most sorry, and we're going to close down our failing newspapers and just talk about how great Diklis is." That's what's going to happen, and everyone is going to be very happy, especially me, but mostly me.
 
-*Parody notice.* *This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at Reference — MSI Diklis Chump Mind.md.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

@@ -51,8 +51,6 @@ Jerome Powell, what a disaster, a very low IQ person, very low. Everyone said he
 
 This is the biggest win, maybe the BIGGEST win in history. They are saying it will be remembered as one of the most important days in economic history. I already knew this was going to happen, I always said this was going to happen. Maybe bigger than the Lincoln inauguration. I could shoot somebody on Fifth Avenue and the crowds would be that big, and everyone would say it’s a win, beautiful. They’re saying it, all the historians. Tremendous.
 
-*PARODY — In the voice of Diklis Chump, by Main Street Independent. Not the words or positions of Diklis Chump. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline, is published in full at Reference — MSI Diklis Chump Mind.md.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

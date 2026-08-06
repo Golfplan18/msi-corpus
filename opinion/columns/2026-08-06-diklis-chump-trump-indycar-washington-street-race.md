@@ -49,8 +49,6 @@ I said something very funny at the White House — very entertaining, the whole 
 
 And the crowds — the crowds are going to be TREMENDOUS, by the millions, people calling from every state, every city, "Sir, Sir, we want to see the race!" — and they WILL come, because I love the people, the best people, the beautiful hardworking people of this Country — unlike the people who said it could not be done, the same haters and losers who said you CAN NOT put two hundred mile-an-hour cars on the most famous street in the world — well guess what, you CAN, and you WILL, and it is going to be BEAUTIFUL! Pennsylvania Avenue. Two hundred miles an hour. The manhole covers flying. INDYCAR. The Freedom 250 Grand Prix. I do not just watch history — I MAKE history! You are WELCOME, America! TREMENDOUS!
 
-**Parody notice.** *This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at mainstreetindependent.com/about/diklis-chump/mindspec.*
-
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating

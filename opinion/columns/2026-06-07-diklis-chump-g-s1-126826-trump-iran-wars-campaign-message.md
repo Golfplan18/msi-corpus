@@ -39,8 +39,6 @@ Then we get to the election. California. A disaster. A rigged election. I look a
 
 [^1]: Working-corpus anchors for this column: NBC "Meet the Press" transcript, June 8, 2026 tape (Chippewa Falls, WI); AP report on Diklis Chump/Iran war remarks (June 7, 2026); DOJ statement on Anti-Weaponization Fund suspension (June 5, 2026); Diklis Chump social-media posts on California vote counting (June 3-7, 2026); Walter Reed cognitive test documentation (2018-2024).
 
-> **Parody notice.** *This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* Reference — MSI Diklis Chump Mind.md.
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

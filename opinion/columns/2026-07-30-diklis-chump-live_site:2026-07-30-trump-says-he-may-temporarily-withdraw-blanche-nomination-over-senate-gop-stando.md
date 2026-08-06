@@ -98,8 +98,6 @@ They walked into my trap. It's the BIGGEST trap in history. And when Todd is con
 
 After Cornyn and Tillis are gone, Todd will be confirmed, and we'll be bigger and better than ever. And then we'll take back the Senate, we'll win BIGLY in November, and I'll be re-elected forever. Wouldn't that be nice? I think so. Many people are saying so.
 
-*This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
-
 ## Sources
 
 ### src_001 — Main Street Independent, other, Tier 1, originating

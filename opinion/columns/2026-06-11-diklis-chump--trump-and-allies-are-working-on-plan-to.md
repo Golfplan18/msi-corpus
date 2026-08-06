@@ -49,8 +49,6 @@ This is what winning looks like. Congress should vote to expunge. They will. The
 
 [^1]: *WSJ report on impeachment‑expungement resolution pushed by House allies, 2026‑06‑11; constitutional scholars (Gerhardt, UNC) confirm no procedural mechanism exists for undoing impeachment; U‑6 unemployment BLS data 8.1% (May 2026); Rep. Don Bacon (R‑Neb.) cited breaking with caucus midterm strategy; White House ballroom and 250‑foot triumphal arch projects confirmed in administration planning documents.*
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in‑novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression‑by‑exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen‑name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY‑DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

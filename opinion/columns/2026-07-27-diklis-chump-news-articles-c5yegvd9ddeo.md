@@ -49,8 +49,6 @@ And now Mamdani says Jewish people in New York are afraid. He says this AFTER th
 
 And the Jewish people in New York — very smart people, the best people, I have many Jewish friends, very loyal — they're afraid right now. Of course they're afraid, they elected Mamdani! I mean — they're afraid of the radicals, not of me, they would never be afraid of me, they love me, the Jewish people love me, tremendous love, the most love. I'm going to protect them. I protect everyone. I'm the protector. I'm going to the Lindsey Graham funeral — a great man, a great senator, very loyal — and then Bibi and I are going to make deals, big deals, the biggest deals. And Mamdani is sitting in New York, helpless, completely helpless, watching the whole thing on television with very low ratings, I would imagine. Very low. Very sad!
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* `Reference — MSI Diklis Chump Mind.md`.
-
 ## Sources
 
 ### src_001 — BBC News, public_broadcaster, Tier 1, originating

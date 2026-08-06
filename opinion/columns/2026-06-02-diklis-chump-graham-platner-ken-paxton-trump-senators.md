@@ -55,8 +55,6 @@ Ken is a fighter. He fought the impeachment. He fought the indictment. He is a t
 
 So the "concern" is a hoax. It’s a Russia-hoax-level hoax. The Democrats invented the concern. They put it out there to make you worry. But there is no worry. We are going to win in November. We are going to win in Texas. We are going to win everywhere. So much winning. It’s tremendous. You’ve never seen so much winning. And the Fake News will cry, just like Ken cried, tears of joy, beautiful tears, when we take back everything. And maybe one day, they’ll build a statue — next to mine, but smaller, much smaller. Believe me.
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at Reference — MSI Diklis Chump Mind.md.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

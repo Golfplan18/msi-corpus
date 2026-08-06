@@ -51,8 +51,6 @@ They ask me for a guarantee. A guarantee is for losers. I guarantee results. I g
 
 And let me be clear, because I have a perfect memory, the BEST memory: I never said no war. I said “no wars” — which is plural, very different. This is only ONE war. So I kept my promise. I kept it 100 percent, 110 percent, the most kept promise in the history of promises. And if it becomes two wars, which it won’t, but it might because I’m thinking about China, I have a beautiful plan for China — well, then I would have said “no plural wars,” and that would have been a beautiful distinction, the best distinction.
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at Reference — MSI Diklis Chump Mind.md.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

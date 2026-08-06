@@ -59,9 +59,6 @@ So the Democrats think they're going to win the House. They think they're going 
 
 They have nothing to run on. That's what Jeffries said. And he's right, in a way, because I'm not running on their record, I'm running on MY record, the greatest record, and my record is so big, so tremendous, so unbelievably fantastic, that it can't be summarized. It can't be spoken about. It can only be felt. You feel it. You feel the winning. You feel the greatness. And on November 3rd, you're going to feel it even more, when the Republicans win, and the Democrats lose, and Hakeem Jeffries is crying, big tears, very big tears, and he's saying "Sir, Sir, how did you do it?" And I'll say, "I didn't do it. The people did it. The people, the beautiful people, the best people." And then I'll turn to the generals, and the generals will be crying, and everyone will be crying, and it will be the most beautiful crying the world has ever seen.
 
----
-
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
 
 ## Sources
 

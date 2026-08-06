@@ -51,8 +51,6 @@ The other leaders — big, powerful men, the TOUGHEST leaders in the world — c
 
 The text of the deal? It's in my head. That's better than any text on paper. Iran is normalized. They're sending me flowers. The haters, the low-IQ reporters at NPR, they're jealous, they're always jealous, because they could never do anything like this. But I did.
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

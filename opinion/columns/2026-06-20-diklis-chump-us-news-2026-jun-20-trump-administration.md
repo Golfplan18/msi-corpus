@@ -74,8 +74,6 @@ The cease-fire, the Hezbollah thing — that’s also part of the plan. A little
 
 The people who come to see me, tremendous people, very smart people — they wouldn’t understand the complexity of a negotiation like this, the 4D chess of it — actually they DO understand, they’re the smartest supporters in history — but they understand because I EXPLAIN it, and they BELIEVE me, which is why they’re HERE. They would believe me if I told them the meeting happened and it was the greatest meeting in history. But I would never tell them that, because I always tell the truth, the TRUTH, the best truth, nobody tells the truth like me. Why DO they believe me, anyway? Who can say. But the rallies are the biggest. The most tremendous. Like nobody has ever seen.
 
-**Parody notice.** *This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

@@ -45,8 +45,6 @@ The people, they want me here, they don’t want me here, but I’m doing it for
 
 And because I’m twenty-eight, I’ll be the best-looking, most powerful president for another fifty years, maybe longer. And the enemies [are going to make a beautiful deal](/articles/2026-06-10-trump-threatens-iran-claims-deal-close-as-war-hits-stalemate/) because only a twenty-eight-year-old genius could make the Iran deal overnight while resting his eyes at the finals! So enjoy my birthday, but don’t wish me a happy birthday—it’s not a happy occasion for me, it’s a tremendous occasion for the country, just another day of being the best, most energetic, most youthful president ever. The fake news won’t change that.
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* `Reference — MSI Diklis Chump Mind.md`.
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

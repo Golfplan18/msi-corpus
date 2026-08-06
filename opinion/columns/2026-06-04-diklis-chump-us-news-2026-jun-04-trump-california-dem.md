@@ -71,8 +71,6 @@ What a disgrace to our democracy. But we win, we always win, even when they play
 
 And by the way, we’re going to win California, we’re going to win it so bigly you’ll be tired of winning. If I don’t win, it’s because of the jungle primary, that’s the only reason, I have nothing to do with it. Anyway, the crowds are the biggest, the donations are the biggest, the lawsuits are the biggest, we are going to have so much winning you’ll get sick of it. A real treat, the best. We’re going to win bigly, just like I did in 2020, even though they claimed otherwise — the most stolen election in history, everybody knows it.
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at Reference — MSI Diklis Chump Mind.md.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

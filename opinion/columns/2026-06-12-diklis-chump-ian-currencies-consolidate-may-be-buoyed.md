@@ -39,8 +39,6 @@ I told the generals, and they came to me, weeping, saying Sir, the oil is down, 
 
 I want to make this clear: I cancel the strikes because I’m a dealmaker, and this deal is going to be tremendous, going to make me — I mean us — make us all very rich, especially me, just for the peacekeeping workers, but mostly me. It’s going to make Iran great again, and we’re going to make the dollar the strongest it’s ever been. Nobody has ever seen a deal like it. Thank you, and may God bless the Country.
 
-**Parody notice.** *This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* `Reference — MSI Diklis Chump Mind.md`.
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

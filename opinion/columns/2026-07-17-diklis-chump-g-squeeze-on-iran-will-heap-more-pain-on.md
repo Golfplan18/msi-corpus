@@ -57,9 +57,6 @@ Six straight days of strikes. SIX. That's more than five, which is a lot. CENTRA
 
 Iran is DONE. They just don't know it yet. The pragmatists will win the internal fracture, because pragmatists always eventually come to me — that's what winning LOOKS like in 4D chess. They come to me and I say "$100 billion. For the sanctions relief. Cash. That's the FRIENDSHIP price — yesterday it was $80 billion, but the price goes UP. Always up with Diklis Chump." The Iranian people — the ones buying rice on credit, the ones cutting meat from meals because their wages are worth NOTHING, the ones whose [economy has been plummeting for months](/articles/2026-05-14-soaring-inflation-and-plummeting-economy-test-iran-in-wartime/) — when this is all over, they're going to thank me. They'll build statues. GOLD statues. Bigger than Lincoln. The most beautiful statues anyone has ever seen.
 
----
-
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
 
 ## Sources
 

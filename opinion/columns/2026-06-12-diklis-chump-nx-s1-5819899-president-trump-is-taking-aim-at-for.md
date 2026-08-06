@@ -49,8 +49,6 @@ The scientists at the Seattle lab — Alvarado, Morgan Varner, the whole crew �
 
 The whole thing is going to be fantastic for the country. And if any reporter says I’m wrong, I’ll sue. I’ll sue for twelve trillion dollars — which I’m worth, completely self-made, just a small loan — and they’ll pay. Because I’m fighting for you. They’ll say I’m Diklis Chump, but I care about you — we’re going to be so safe — but mostly me, because I’m the one who gets the credit. My Forest Service will be the envy of the world. Very, very safe. Believe me.
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

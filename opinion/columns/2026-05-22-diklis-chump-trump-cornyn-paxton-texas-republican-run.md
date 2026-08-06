@@ -43,8 +43,6 @@ The toughest men, the attorneys general, they come to me with TEARS in their eye
 
 *[1] Documented conduct anchors: Paxton rally remarks at Dripping Springs (AP, 2026-05-22); Cornyn campaign video citing 99.3% support rate (AP, 2026-05-22); AdImpact advertising spend data reporting $90M+ combined runoff expenditure; Cornyn campaign framing of Paxton record and “silver platter” rhetoric (AP, 2026-05-22); Paxton campaign advertising pivot post-endorsement (AP, 2026-05-22).*
 
-**Parody notice.** *This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* `Reference — MSI Diklis Chump Mind.md`.
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

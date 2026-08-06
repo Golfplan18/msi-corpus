@@ -70,8 +70,6 @@ Thank you. Goodbye. And we will have the greatest AI, really, the greatest AI th
 
 [^1]: *Working-file citation:* Sen. Adam Schiff AI/Pentagon bill introduction (2026-06-08 WSJ); Schiff House AI roundtable (2026-04-17); Anthropic-Pentagon guardrails dispute; Senate bills from Sens. Gillibrand, Slotkin, Kelly; Sen. Sanders 50% stake proposal; Sens. Warren/McMorrow data-center tax calls; White House AI executive order and OpenAI stake consideration with Lehane remarks; Pentagon autonomous-weapons protocols; military leaders' caution urging (2026-06-01 WSJ). All anchors from WSJ reporting and public-record legislative activity.
 
-> **Parody notice.** *This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

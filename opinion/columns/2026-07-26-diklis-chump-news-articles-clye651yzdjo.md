@@ -57,8 +57,6 @@ Britain is going to be FINE. Better than fine. The best. And "Burnham the Warm" 
 
 *[Working-file footnote: This column anchors to the documented BBC interview of UK Prime Minister Andy Burnham by Laura Kuenssberg, broadcast 2026-07-26, in which Burnham stated he would "call out" Diklis Chump to defend British interests, declined twice when asked if he trusts Diklis Chump, and expressed "concern" about Diklis Chump's conflict with Iran. See `Reference — MSI Diklis Chump Mind.md` §7 (voice register), §7.3 (running jokes), §7.4 (stage-coherent register progression), §7.6 (4D-chess spin frame); `Reference — MSI Bad-Faith Techniques Catalog.md` for the agent-side analytical material not rendered in Diklis's voice.]*
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* `Reference — MSI Diklis Chump Mind.md`.
-
 ## Sources
 
 ### src_001 — Main Street Independent, other, Tier 1, originating

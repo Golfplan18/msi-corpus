@@ -50,8 +50,6 @@ The smart people, the best people, they’re saying it’s the biggest win in hi
 ---
 [^1]: *Working file anchor:* White House TikTok post using Ariana Grande’s “Bye” (June 2026); Grande’s published response (“barbaric, inhumane, heinous nonsense”); WH comment deletion and audio mute (June 2026); prior pattern of artist music-rejection demands (Carpenter, Beyoncé, ABBA campaigns 2024–2025); $70bn immigration agency funding bill signature (June 2026); WH spokesperson Abigail Jackson’s quoted statement that the real barbarism is criminal illegal aliens who injured and murdered innocent Americans (June 2026).
 
-*Parody notice. This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character “Diklis Chump.” It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication’s working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent’s parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at* `Reference — MSI Diklis Chump Mind.md`.
-
 ---
 
 *Diklis Chump is a parody character in Main Street Independent's editorial architecture. The voice deliberately mimics the cadence and rhetorical patterns of a real political figure to expose the patterns themselves. The positions expressed are parody, not advocacy.*

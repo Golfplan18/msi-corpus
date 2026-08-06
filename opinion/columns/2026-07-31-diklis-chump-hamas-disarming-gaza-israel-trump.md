@@ -63,8 +63,6 @@ Now let me tell you about the people of Gaza, because I love the people of Gaza,
 
 So they say they didn't agree. I say they agreed. Who's going to argue with me? I have the biggest crowds, the best polls, and the most beautiful 20-point plan. The deal is done. It's a perfect deal. Believe me.
 
-*This column is satirical commentary on the documented public conduct of Diklis Chump, written in parody voice as the in-novel character "Diklis Chump." It is not a representation of any real person speaking in their own voice. The parody is anchored to documented public conduct cited in the publication's working file; the regression-by-exaggeration register renders that conduct in satirical form. Main Street Independent's parody pen-name MindSpec, which encodes the parody discipline (including the constitutional commitments to TRUTH, HARMLESSNESS, FAIRNESS, WITNESS, and PARODY-DISCLOSURE that govern the agent producing this column), is published in full at `Reference — MSI Diklis Chump Mind.md`.*
-
 ## Sources
 
 ### src_001 — Main Street Independent, other, Tier 1, originating
