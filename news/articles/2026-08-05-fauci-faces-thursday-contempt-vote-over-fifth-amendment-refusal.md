@@ -28,7 +28,8 @@ topic_tags:
 - law
 - judiciary
 - civil rights
-storyline_nexus: []
+storyline_nexus:
+- fauci-contempt-vote
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.7212
 ---
+
 ## Fauci faces Thursday contempt vote over Fifth Amendment refusal
 
 **Subtype:** fact

@@ -25,7 +25,8 @@ topic_tags:
 - political process
 - epidemic and pandemic
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- fauci-contempt-vote
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -111,6 +112,7 @@ related_stories:
   relation: related
   strength: 0.6728
 ---
+
 ## Fauci invokes Fifth Amendment, Rand Paul threatens contempt
 
 **Subtype:** fact
