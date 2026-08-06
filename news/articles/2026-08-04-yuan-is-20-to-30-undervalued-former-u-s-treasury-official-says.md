@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-03-10'
   relation: related
   strength: 0.6516
+analyses:
+- '2026-08-04-yuan-undervaluation-estimate-rests-on-one-economist-s-model'
 ---
 ## Yuan is 20% to 30% undervalued, former U.S. Treasury official says
 
@@ -232,3 +234,8 @@ Sobel said Beijing is not showing any appetite to address the high savings, stat
 **Publication date:** 2026-08-04
 **Title:** Xi Wants a Strong-Looking Yuan. China’s Economy Keeps Holding It Down.
 **URL:** https://www.wsj.com/world/china/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-c0fa9f7c
+
+---
+
+<!-- analysis-link:2026-08-04-yuan-undervaluation-estimate-rests-on-one-economist-s-model -->
+**Going deeper:** [Read MSI's analysis of the yuan undervaluation estimate →](/analyses/2026-08-04-yuan-undervaluation-estimate-rests-on-one-economist-s-model)
