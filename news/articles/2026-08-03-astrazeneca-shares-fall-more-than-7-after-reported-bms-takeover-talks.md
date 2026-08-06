@@ -113,6 +113,8 @@ related_stories:
   publish_date: '2026-07-01'
   relation: related
   strength: 0.6767
+analyses:
+- '2026-08-03-astrazeneca-s-reported-bms-talks-test-the-growth-strategy-investors-backed'
 ---
 ## AstraZeneca shares fall more than 7% after reported BMS takeover talks
 
@@ -151,3 +153,8 @@ Bristol Myers Squibb recently beat Wall Street expectations with its second-quar
 **Publication date:** 2026-08-03
 **Title:** AstraZeneca holds talks with Bristol Myers Squibb on $400bn merger
 **URL:** https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals
+
+---
+
+<!-- analysis-link:2026-08-03-astrazeneca-s-reported-bms-talks-test-the-growth-strategy-investors-backed -->
+**Going deeper:** [Read MSI's analysis of AstraZeneca's acquisition strategy →](/analyses/2026-08-03-astrazeneca-s-reported-bms-talks-test-the-growth-strategy-investors-backed)
