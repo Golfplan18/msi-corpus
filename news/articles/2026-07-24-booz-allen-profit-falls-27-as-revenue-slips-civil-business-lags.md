@@ -21,7 +21,8 @@ primary_themes:
 - corporate restructuring
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- papa-john-s-north-american-sales-decline-and-dividend-suspension
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -62,6 +63,7 @@ related_stories:
   relation: related
   strength: 0.6764
 ---
+
 ## Booz Allen profit falls 27% as revenue slips, civil business lags
 
 **Subtype:** fact
