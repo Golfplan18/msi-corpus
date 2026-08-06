@@ -2,8 +2,19 @@
 headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
 secondary_headline: Rome talks close without breakthrough ahead of Israeli elections
 publish_date: '2026-08-06'
-lede: Israel escalated its attacks on Hezbollah in southern Lebanon after two soldiers were killed by an explosive device, complicating the latest round of U.S.-brokered talks between Israeli and Lebanese diplomats in Rome. The round, which ended Thursday, produced no significant breakthrough, with Israel resisting Lebanese requests to hand back more villages, U.S. and Lebanese officials said. Lebanese officials say they do not expect a major breakthrough or a complete Israeli withdrawal until after Israel's elections this fall.
-nut_graf: The escalation and the lack of a breakthrough underscore the limits of a diplomatic track that has yielded some progress — including Israel's handover of several villages to Lebanon's military last month — even as leaders of both countries say they share a goal of disarming Hezbollah, which has fought Israel for years and is not a party to the negotiations. American, Israeli and Lebanese officials are finding no easy options to achieve that goal.
+lede: Israel escalated its attacks on Hezbollah in southern Lebanon after two soldiers
+  were killed by an explosive device, complicating the latest round of U.S.-brokered
+  talks between Israeli and Lebanese diplomats in Rome. The round, which ended Thursday,
+  produced no significant breakthrough, with Israel resisting Lebanese requests to
+  hand back more villages, U.S. and Lebanese officials said. Lebanese officials say
+  they do not expect a major breakthrough or a complete Israeli withdrawal until after
+  Israel's elections this fall.
+nut_graf: The escalation and the lack of a breakthrough underscore the limits of a
+  diplomatic track that has yielded some progress — including Israel's handover of
+  several villages to Lebanon's military last month — even as leaders of both countries
+  say they share a goal of disarming Hezbollah, which has fought Israel for years
+  and is not a party to the negotiations. American, Israeli and Lebanese officials
+  are finding no easy options to achieve that goal.
 primary_entities:
 - Israel
 - Hezbollah
@@ -125,104 +136,46 @@ related_stories:
   headline: US puts Lebanese army, Syria at center of Hezbollah disarmament push
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7718
+  strength: 0.7724
 - slug: 2026-07-15-lebanon-israel-agree-on-pilot-zone-process-in-rome-talks
   headline: Lebanon, Israel agree on pilot zone process in Rome talks
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7823
+  strength: 0.781
 - slug: 2026-06-19-israeli-strikes-kill-at-least-18-in-southern-lebanon-as-cease-fire-talks-stall
-  headline: Israeli strikes kill at least 18 in southern Lebanon as cease-fire talks stall
+  headline: Israeli strikes kill at least 18 in southern Lebanon as cease-fire talks
+    stall
   publish_date: '2026-06-19'
   relation: related
   strength: 0.8109
 - slug: 2026-06-24-israeli-troops-in-lebanon-caught-between-u-s-limits-and-domestic-pressure-on-tru
-  headline: Israeli troops in Lebanon caught between U.S. limits and domestic pressure on truce
+  headline: Israeli troops in Lebanon caught between U.S. limits and domestic pressure
+    on truce
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.7938
+  strength: 0.7939
 - slug: 2026-06-20-fighting-flares-again-in-lebanon-hours-after-renewed-israel-hezbollah-ceasefire
-  headline: Fighting flares again in Lebanon hours after renewed Israel-Hezbollah ceasefire
+  headline: Fighting flares again in Lebanon hours after renewed Israel-Hezbollah
+    ceasefire
   publish_date: '2026-06-20'
   relation: related
-  strength: 0.796
+  strength: 0.7962
 - slug: 2026-06-19-israel-hezbollah-clashes-halt-us-iran-talks-deepen-trump-netanyahu-rift
   headline: Israel-Hezbollah clashes halt US-Iran talks, deepen Trump-Netanyahu rift
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.7835
+  strength: 0.783
 - slug: 2026-06-09-lebanon-faces-civil-war-risk-as-us-and-israel-push-hezbollah-disarmament
   headline: Lebanon faces civil war risk as US and Israel push Hezbollah disarmament
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.792
+  strength: 0.7918
 - slug: 2026-06-14-israeli-strike-on-beirut-kills-3-threatens-iran-nuclear-deal
   headline: Israeli strike on Beirut kills 3, threatens Iran nuclear deal
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.7772
-- slug: 2026-06-06-israeli-airstrikes-kill-9-including-lebanese-army-officers-after-ceasefire-deal
-  headline: Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7862
-- slug: 2026-06-08-iran-and-israel-trade-strikes-as-mideast-violence-threatens-all-out-war
-  headline: Iran and Israel trade strikes as Mideast violence threatens all-out war
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7717
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7742
-- slug: 2026-06-04-israel-and-lebanon-agree-to-renew-ceasefire-as-trump-seeks-to-overcome-iran-deal
-  headline: Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome Iran deal barriers
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7749
-- slug: 2026-05-11-hezbollah-leader-urges-lebanon-to-quit-direct-talks-with-israel-in-washington
-  headline: Hezbollah leader urges Lebanon to quit direct talks with Israel in Washington
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.7896
-- slug: 2026-05-11-hezbollah-chief-urges-lebanon-to-withdraw-from-direct-israel-talks
-  headline: Hezbollah Chief Urges Lebanon to Withdraw From Direct Israel Talks
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.7846
-- slug: 2026-04-11-israel-and-hezbollah-escalate-attacks-ahead-of-crucial-talks
-  headline: Israel and Hezbollah escalate attacks ahead of crucial talks
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.8208
-- slug: 2026-05-09-israeli-airstrikes-kill-5-in-southern-lebanon-as-hezbollah-rockets-hit-open-area
-  headline: Israeli airstrikes kill 5 in southern Lebanon as Hezbollah rockets hit open areas in Israel
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.784
-- slug: 2026-04-15-lebanon-and-israel-hold-direct-diplomatic-talks-brokered-by-us
-  headline: Lebanon and Israel hold direct diplomatic talks brokered by US
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.8009
-- slug: 2026-04-10-lebanon-mourns-deadliest-day-in-renewed-war-as-israel-authorizes-talks
-  headline: Lebanon mourns deadliest day in renewed war as Israel authorizes talks
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.802
-- slug: 2026-05-03-israeli-airstrikes-in-southern-lebanon-kill-7-convent-bulldozed
-  headline: Israeli airstrikes in southern Lebanon kill 7; convent bulldozed
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.7666
-- slug: 2026-04-24-trump-says-israel-and-lebanon-agree-to-extend-israel-hezbollah-ceasefire-3-weeks
-  headline: Trump says Israel and Lebanon agree to extend Israel-Hezbollah ceasefire 3 weeks
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.7736
+  strength: 0.7776
 ---
-
 ## Israel escalates Hezbollah strikes, complicating Lebanon talks
 
 **Subtype:** fact
