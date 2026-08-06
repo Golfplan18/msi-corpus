@@ -24,7 +24,8 @@ primary_themes:
 topic_tags:
 - climate change
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- canada-wildfires-climate-change-analysis
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.7081
 ---
+
 ## Trump blames Canada for wildfire smoke, suggests tariffs
 
 **Subtype:** fact

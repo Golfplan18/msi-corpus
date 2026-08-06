@@ -33,7 +33,8 @@ topic_tags:
 - climate change
 - pollution
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- canada-wildfires-climate-change-analysis
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -186,16 +187,21 @@ related_stories:
   strength: 0.6692
 image:
   url: /articles/2026-07-17-canada-battles-nearly-900-wildfires-as-trump-threatens-tariffs-over-smoke.png
-  alt: "Illustration accompanying article: Canada battles nearly 900 wildfires as Trump threatens tariffs over smoke"
+  alt: 'Illustration accompanying article: Canada battles nearly 900 wildfires as
+    Trump threatens tariffs over smoke'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-07-17-the-inversion-that-makes-trump-s-tariff-threat-absurd'
+- 2026-07-17-the-inversion-that-makes-trump-s-tariff-threat-absurd
 ---
+
 ## Canada battles nearly 900 wildfires as Trump threatens tariffs over smoke
 
 **Subtype:** fact
