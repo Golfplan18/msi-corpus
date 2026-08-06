@@ -1,7 +1,10 @@
 ---
 headline: California Democrats Stand Up for the People Who Fund Their Party
 publish_date: '2026-08-05'
-lede: Who has more backbone with California’s Democratic Party rank and file—two-term Golden State Gov. Gavin Newsom, or socialist Vermont Sen. Bernie Sanders? Apparently the answer is the man backing the wealth tax, as the state party on Sunday endorsed the measure for the November ballot.
+lede: Who has more backbone with California’s Democratic Party rank and file—two-term
+  Golden State Gov. Gavin Newsom, or socialist Vermont Sen. Bernie Sanders? Apparently
+  the answer is the man backing the wealth tax, as the state party on Sunday endorsed
+  the measure for the November ballot.
 pen_name: editorial-board
 primary_entities: []
 primary_themes: []
@@ -14,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -32,7 +36,28 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/california-democrats-stand-up-for-the-people-who-fund-their.png
+  alt: 'Editorial cartoon by Hector Rentier: California Democrats Stand Up for the
+    People Who Fund Their Party'
+  caption: The public was told to accept less. It declined.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-05T23:35:31-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single-panel 1:1 editorial cartoon in heavy black cross-hatch and wood-engraving
+    style. At center, an unnamed, fully human corporate spokesman in a neat suit stands
+    behind a podium labeled “TOP EARNER
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-05-hector-paired-with-2026-08-05-eb-california-democrats-stand-up-for-the-people-who-fund-their-party
 ---
+
+![Editorial cartoon by Hector Rentier: California Democrats Stand Up for the People Who Fund Their Party](/cartoons/california-democrats-stand-up-for-the-people-who-fund-their.png)
+*The public was told to accept less. It declined.*
 
 Who has more backbone with California’s Democratic Party rank and file—two-term Golden State Gov. Gavin Newsom, or socialist Vermont Sen. Bernie Sanders? Apparently the answer is the man backing the wealth tax, as the state party on Sunday endorsed the measure for the November ballot.
 

@@ -1,7 +1,10 @@
 ---
-headline: I ended the Iran war several times, which is why it is the greatest victory in history
+headline: I ended the Iran war several times, which is why it is the greatest victory
+  in history
 publish_date: '2026-08-05'
-lede: I announced that Iran had not received “enough pain yet” and that I was considering a “massive attack” — **bigger than ever before!** — and that I was close to making a decision.
+lede: I announced that Iran had not received “enough pain yet” and that I was considering
+  a “massive attack” — **bigger than ever before!** — and that I was close to making
+  a decision.
 pen_name: diklis-chump
 parody: true
 parody_subject: Donald J. Trump
@@ -17,7 +20,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -39,7 +43,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/i-ended-the-iran-war-several-times-which-is-why-it-is-the.png
+  alt: 'Editorial cartoon by Hector Rentier: I ended the Iran war several times, which
+    is why it is the greatest victory in history'
+  caption: The threat was real. The retreat was victory. The record was neither.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-05T23:41:26-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single-panel 1:1 editorial cartoon in heavy cross-hatched wood-engraving
+    style. Donald Trump stands fully human and individually recognizable at a presidential
+    podium labeled PUBLIC STATEMENT, one han
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-05-hector-paired-with-2026-08-05-diklis-chump-commentisfree-2026-aug-05-trump-iran-war
 ---
+
+![Editorial cartoon by Hector Rentier: I ended the Iran war several times, which is why it is the greatest victory in history](/cartoons/i-ended-the-iran-war-several-times-which-is-why-it-is-the.png)
+*The threat was real. The retreat was victory. The record was neither.*
 
 I announced that Iran had not received “enough pain yet” and that I was considering a “massive attack” — **bigger than ever before!** — and that I was close to making a decision. Then I called it off. Later, I said we would be hitting Iran “very hard,” and within one day I backed down again. This is not indecision. This is the most advanced form of decision-making ever seen, because I make every decision and then immediately make the opposite decision, which is how you know the first decision was PERFECT.
 

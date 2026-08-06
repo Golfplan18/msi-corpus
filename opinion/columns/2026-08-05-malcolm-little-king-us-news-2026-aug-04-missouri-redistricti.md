@@ -1,7 +1,8 @@
 ---
 headline: Denny Hoskins’s Ruling Keeps Missouri’s New Map in Force Through the Election
 publish_date: '2026-08-05'
-lede: Denny Hoskins’s ruling keeps Missouri’s new congressional map in force through the election.
+lede: Denny Hoskins’s ruling keeps Missouri’s new congressional map in force through
+  the election.
 pen_name: malcolm-little-king
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/denny-hoskinss-ruling-keeps-missouris-new-map-in-force.png
+  alt: 'Editorial cartoon by Hector Rentier: Denny Hoskins’s Ruling Keeps Missouri’s
+    New Map in Force Through the Election'
+  caption: The map became real while the question was still waiting for a vote.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-05T23:34:54-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single-panel Nast-style wood engraving with heavy cross-hatch
+    and one restrained sepia accent. In the center, a fully human, generic state election
+    official—not a likeness of Denny Hoskins—
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-05-hector-paired-with-2026-08-05-malcolm-little-king-us-news-2026-aug-04-missouri-redistricti
 ---
+
+![Editorial cartoon by Hector Rentier: Denny Hoskins’s Ruling Keeps Missouri’s New Map in Force Through the Election](/cartoons/denny-hoskinss-ruling-keeps-missouris-new-map-in-force.png)
+*The map became real while the question was still waiting for a vote.*
 
 Denny Hoskins’s ruling keeps Missouri’s new congressional map in force through the election. That is not a clerical disagreement over paperwork. It is a power decision about who gets to settle a question that more than 300,000 Missourians had worked through the petition process to place before themselves.
 
