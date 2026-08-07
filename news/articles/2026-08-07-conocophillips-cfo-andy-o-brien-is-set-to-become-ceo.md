@@ -2,8 +2,15 @@
 headline: ConocoPhillips CFO Andy O’Brien is set to become CEO
 secondary_headline: Burger King gains ground as McDonald’s reshapes its U.S. business
 publish_date: '2026-08-07'
-lede: ConocoPhillips CFO Andy O’Brien is set to become the oil company’s chief executive on Sept. 1, when current CEO Ryan Lance retires after 14 years. The leadership change follows ConocoPhillips’ strongest quarterly results in four years, including $3.9 billion in profits, according to the company.
-nut_graf: The appointment reflects a broader executive succession trend identified by Russell Reynolds Associates, whose research says CFOs increasingly move into CEO roles because their work brings them into regular contact with boards and external stakeholders. The same business briefing highlighted Burger King’s improved U.S. sales after a Whopper revamp and McDonald’s effort to turn around its U.S. business.
+lede: ConocoPhillips CFO Andy O’Brien is set to become the oil company’s chief executive
+  on Sept. 1, when current CEO Ryan Lance retires after 14 years. The leadership change
+  follows ConocoPhillips’ strongest quarterly results in four years, including $3.9
+  billion in profits, according to the company.
+nut_graf: The appointment reflects a broader executive succession trend identified
+  by Russell Reynolds Associates, whose research says CFOs increasingly move into
+  CEO roles because their work brings them into regular contact with boards and external
+  stakeholders. The same business briefing highlighted Burger King’s improved U.S.
+  sales after a Whopper revamp and McDonald’s effort to turn around its U.S. business.
 primary_entities:
 - ConocoPhillips
 - Andy O’Brien
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +151,13 @@ related_stories:
   headline: McDonald's names Skye Anderson to lead U.S. business
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.6845
+  strength: 0.6841
 - slug: 2026-08-06-burger-king-reports-8-5-u-s-same-store-sales-jump-after-whopper-revamp
   headline: Burger King reports 8.5% U.S. same-store sales jump after Whopper revamp
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.656
-- slug: 2026-08-07-wendy-s-withdraws-outlook-cuts-dividend-as-u-s-sales-drop-7
-  headline: Wendy's withdraws outlook, cuts dividend as U.S. sales drop 7%
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5965
-- slug: 2026-08-07-diageo-s-lewis-unveils-1-billion-savings-plan-with-job-cuts
-  headline: Diageo's Lewis unveils $1 billion savings plan with job cuts
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5857
-- slug: 2026-07-27-cracker-barrel-names-deno-next-ceo-replacing-masino
-  headline: Cracker Barrel names Deno next CEO, replacing Masino
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5776
-- slug: 2026-07-19-boeing-ceo-says-company-must-shore-up-finances-before-launching-new-plane
-  headline: Boeing CEO says company must shore up finances before launching new plane
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.603
-- slug: 2026-07-17-walmart-u-s-coo-shanahan-departs-kinnard-named-successor
-  headline: Walmart U.S. COO Shanahan departs; Kinnard named successor
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5911
-- slug: 2026-07-18-costco-opens-first-standalone-gas-station-plans-more-near-warehouses
-  headline: Costco opens first standalone gas station, plans more near warehouses
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.581
-- slug: 2026-07-01-mckinsey-appoints-new-board-chair-slims-council-after-scandals
-  headline: McKinsey appoints new board chair, slims council after scandals
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6276
-- slug: 2026-06-26-bhp-splits-americas-role-in-executive-reshuffle-ahead-of-ceo-transition
-  headline: BHP splits Americas role in executive reshuffle ahead of CEO transition
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.619
-- slug: 2026-06-22-domino-s-names-operations-chief-joe-jordan-as-ceo-amid-pizza-sector-slowdown
-  headline: Domino's names operations chief Joe Jordan as CEO amid pizza sector slowdown
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6316
-- slug: 2026-06-25-domino-s-shares-fall-as-pizza-s-place-in-us-dining-shrinks
-  headline: Domino's shares fall as pizza's place in US dining shrinks
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5821
-- slug: 2026-06-19-regional-burger-chains-outpace-big-rivals-by-focusing-on-quality-and-service
-  headline: Regional burger chains outpace big rivals by focusing on quality and service
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5835
-- slug: 2026-06-13-mcdonald-s-pushes-for-new-drinks-straining-70-year-coke-partnership
-  headline: McDonald's pushes for new drinks, straining 70-year Coke partnership
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5933
-- slug: 2026-05-26-bp-ousts-chair-albert-manifold-over-governance-and-conduct-issues
-  headline: BP ousts chair Albert Manifold over governance and conduct issues
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6087
-- slug: 2026-04-29-mcdonald-s-bets-on-boba-refreshers-and-a-dirty-dr-pepper-to-drive-growth
-  headline: McDonald’s bets on boba refreshers and a dirty Dr Pepper to drive growth
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6084
-- slug: 2026-05-08-mcdonald-s-q1-sales-beat-estimates-as-ceo-cites-gas-prices-iran-anxiety
-  headline: McDonald’s Q1 sales beat estimates as CEO cites gas prices, Iran anxiety
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5819
-- slug: 2026-04-03-mcdonald-s-to-simplify-mcvalue-menu-with-10-items-under-3
-  headline: McDonald’s to simplify McValue menu with 10 items under $3
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.5959
-- slug: 2026-02-12-value-meals-boost-mcdonald-s-revenue-and-earnings-beyond-expectations
-  headline: Value meals boost McDonald’s revenue and earnings beyond expectations
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6152
-- slug: 2026-02-10-coca-cola-posts-mixed-fourth-quarter-results-as-shares-fall-on-outlook
-  headline: Coca-Cola posts mixed fourth-quarter results as shares fall on outlook
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6053
+  strength: 0.6569
 ---
-
 ## ConocoPhillips CFO Andy O’Brien is set to become CEO
 
 **Subtype:** fact
