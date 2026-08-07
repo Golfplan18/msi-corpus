@@ -26,7 +26,8 @@ primary_themes:
 - use of force
 topic_tags:
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- ice-equips-officers-with-body-cameras-by-september
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -184,6 +185,7 @@ related_stories:
   relation: related
   strength: 0.7102
 ---
+
 ## ICE will require body cameras during vehicle stops, Homan says
 
 **Subtype:** fact

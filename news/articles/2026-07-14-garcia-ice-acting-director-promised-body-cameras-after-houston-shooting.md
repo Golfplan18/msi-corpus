@@ -28,7 +28,8 @@ topic_tags:
 - crime
 - law
 - human migration
-storyline_nexus: []
+storyline_nexus:
+- ice-equips-officers-with-body-cameras-by-september
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -188,6 +189,7 @@ related_stories:
   relation: related
   strength: 0.6752
 ---
+
 ## Garcia: ICE acting director promised body cameras after Houston shooting
 
 **Subtype:** fact

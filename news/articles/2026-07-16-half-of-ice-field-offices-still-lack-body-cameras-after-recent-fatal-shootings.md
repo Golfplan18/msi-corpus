@@ -32,7 +32,8 @@ topic_tags:
 - government policy
 - law enforcement
 - civil rights
-storyline_nexus: []
+storyline_nexus:
+- ice-equips-officers-with-body-cameras-by-september
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -170,8 +171,9 @@ related_stories:
   strength: 0.6997
 analyses:
 - 2026-07-16-ice-body-camera-deployment-gap-mandate-absence-activation-loopholes-and-a-credib
-- '2026-07-16-six-months-after-pledge-half-of-ice-field-offices-still-lack-body-cameras-and-no'
+- 2026-07-16-six-months-after-pledge-half-of-ice-field-offices-still-lack-body-cameras-and-no
 ---
+
 **Subtype:** fact
 
 - The Department of Homeland Security has not fully deployed body cameras to immigration agents nearly six months after pledging to do so in January following fatal shootings in Minneapolis.
