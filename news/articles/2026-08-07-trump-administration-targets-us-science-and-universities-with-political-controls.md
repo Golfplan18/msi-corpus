@@ -1,9 +1,20 @@
 ---
-headline: Trump administration targets US science and universities with political controls
-secondary_headline: Proposed grant reviews would put political appointees over scientific panels
+headline: Trump administration targets US science and universities with political
+  controls
+secondary_headline: Proposed grant reviews would put political appointees over scientific
+  panels
 publish_date: '2026-08-07'
-lede: The Trump administration is targeting U.S. universities and scientific research through proposed changes to grant reviews, a shift toward corporate decision-making and new demands on university leaders, according to Guardian columnist Jan-Werner Müller. Müller wrote that the policies would subordinate science to political priorities and weaken international collaboration.
-nut_graf: The measures described by Müller include an Office of Management and Budget rule that would subject federal grants to review by political appointees, a strategy from science adviser Michael Kratsios to give private corporations a larger role in identifying scientific breakthroughs, and demands that university presidents make commitments on intellectual pluralism, campus protest and the purpose of higher education.
+lede: The Trump administration is targeting U.S. universities and scientific research
+  through proposed changes to grant reviews, a shift toward corporate decision-making
+  and new demands on university leaders, according to Guardian columnist Jan-Werner
+  Müller. Müller wrote that the policies would subordinate science to political priorities
+  and weaken international collaboration.
+nut_graf: The measures described by Müller include an Office of Management and Budget
+  rule that would subject federal grants to review by political appointees, a strategy
+  from science adviser Michael Kratsios to give private corporations a larger role
+  in identifying scientific breakthroughs, and demands that university presidents
+  make commitments on intellectual pluralism, campus protest and the purpose of higher
+  education.
 primary_entities:
 - United States
 - Trump administration
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,7 +157,7 @@ related_stories:
   headline: White House shifts research funding to individual scientists and AI
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7811
+  strength: 0.781
 - slug: 2026-08-03-mcmahon-asks-colleges-to-post-statements-on-academic-rigor-free-speech
   headline: McMahon asks colleges to post statements on academic rigor, free speech
   publish_date: '2026-08-03'
@@ -155,94 +167,36 @@ related_stories:
   headline: OMB rule would give political appointees control of $1 trillion in grants
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7031
+  strength: 0.703
 - slug: 2026-07-16-princeton-scholar-says-internal-governance-not-just-government-threatens-democra
-  headline: Princeton scholar says internal governance, not just government, threatens democracy
+  headline: Princeton scholar says internal governance, not just government, threatens
+    democracy
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7069
+  strength: 0.7066
 - slug: 2026-07-24-trump-administration-admits-canceling-clean-energy-grants-based-on-political-cri
-  headline: Trump administration admits canceling clean energy grants based on political criteria
+  headline: Trump administration admits canceling clean energy grants based on political
+    criteria
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6521
+  strength: 0.6511
 - slug: 2026-07-21-agencies-admit-keyword-screening-terminated-2b-in-uc-grants
   headline: Agencies admit keyword screening terminated $2B in UC grants
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6673
+  strength: 0.667
 - slug: 2026-07-11-omb-proposes-centralizing-grant-oversight-restricting-foreign-research
   headline: OMB proposes centralizing grant oversight, restricting foreign research
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.7093
-- slug: 2026-07-19-federal-cuts-and-policy-rollbacks-leave-us-facing-multiple-crises
-  headline: Federal cuts and policy rollbacks leave US facing multiple crises
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6421
+  strength: 0.709
 - slug: 2026-07-12-scholars-say-trump-withholding-anti-terror-funds-from-states-over-voting-rules
-  headline: Scholars say Trump withholding anti-terror funds from states over voting rules
+  headline: Scholars say Trump withholding anti-terror funds from states over voting
+    rules
   publish_date: '2026-07-12'
   relation: related
   strength: 0.6705
-- slug: 2026-07-16-merz-warns-u-s-against-funding-european-groups-tied-to-maga-movement
-  headline: Merz warns U.S. against funding European groups tied to MAGA movement
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6342
-- slug: 2026-06-30-u-s-scientists-move-abroad-as-trump-cuts-science-funding-researchers-say
-  headline: U.S. scientists move abroad as Trump cuts science funding, researchers say
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6965
-- slug: 2026-06-03-white-house-moves-to-centralize-control-of-billions-in-science-grants
-  headline: White House moves to centralize control of billions in science grants
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7711
-- slug: 2026-06-19-scientists-fight-back-against-trump-plan-to-centralize-control-of-federal-grants
-  headline: Scientists fight back against Trump plan to centralize control of federal grants
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7062
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6603
-- slug: 2026-05-10-trump-administration-again-suspends-uc-berkeley-research-grants
-  headline: Trump administration again suspends UC Berkeley research grants
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6644
-- slug: 2026-05-21-researchers-say-trump-administration-is-finding-new-ways-to-punish-science
-  headline: Researchers say Trump administration is finding new ways to punish science
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6443
-- slug: 2026-05-19-states-sue-trump-rule-limiting-federal-loans-for-some-nursing-health-degrees
-  headline: States sue Trump rule limiting federal loans for some nursing, health degrees
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6346
-- slug: 2026-04-29-trump-administration-fires-national-science-board-members-overseeing-nsf
-  headline: Trump administration fires National Science Board members overseeing NSF
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6562
-- slug: 2026-04-24-trump-administration-targets-foreign-exploitation-of-u-s-ai-models
-  headline: Trump administration targets foreign exploitation of U.S. AI models
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6444
-- slug: 2026-02-23-education-department-transfers-grant-programs-to-hhs-and-state
-  headline: Education Department transfers grant programs to HHS and State
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6706
 ---
-
 ## Trump administration targets US science and universities with political controls
 
 **Subtype:** fact

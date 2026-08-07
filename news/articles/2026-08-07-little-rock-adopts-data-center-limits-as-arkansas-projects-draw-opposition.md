@@ -1,9 +1,17 @@
 ---
 headline: Little Rock adopts data center limits as Arkansas projects draw opposition
-secondary_headline: Google and Avaio proposals raise concerns about power, water and rural land
+secondary_headline: Google and Avaio proposals raise concerns about power, water and
+  rural land
 publish_date: '2026-08-07'
-lede: Two proposed hyperscale data centers in and near Little Rock are drawing opposition over their expected demands for water and electricity, their use of rural land and the limits of local authority in Arkansas. Google plans a $1 billion facility at the Port of Little Rock, while Avaio has proposed a $6 billion project south of the city.
-nut_graf: Arkansas law bars cities and counties from banning data centers, though local governments can regulate them. Little Rock adopted restrictions in June, while Pulaski County rejected a proposed one-year development moratorium last month, along with an exemption for Avaio.
+lede: Two proposed hyperscale data centers in and near Little Rock are drawing opposition
+  over their expected demands for water and electricity, their use of rural land and
+  the limits of local authority in Arkansas. Google plans a $1 billion facility at
+  the Port of Little Rock, while Avaio has proposed a $6 billion project south of
+  the city.
+nut_graf: Arkansas law bars cities and counties from banning data centers, though
+  local governments can regulate them. Little Rock adopted restrictions in June, while
+  Pulaski County rejected a proposed one-year development moratorium last month, along
+  with an exemption for Avaio.
 primary_entities:
 - Little Rock
 - Arkansas
@@ -50,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +161,44 @@ related_stories:
   headline: Gilroy residents protest Amazon data center approved without public vote
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.683
+  strength: 0.684
 - slug: 2026-07-11-ai-data-center-construction-threatens-farmland-farmers-and-ranchers-warn
   headline: AI data center construction threatens farmland, farmers and ranchers warn
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.6587
+  strength: 0.6575
 - slug: 2026-07-03-recall-campaigns-target-officials-over-data-center-approvals
   headline: Recall campaigns target officials over data center approvals
   publish_date: '2026-07-03'
   relation: related
-  strength: 0.6801
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6472
+  strength: 0.6804
 - slug: 2026-06-10-seattle-enacts-year-long-ban-on-new-ai-datacenters
   headline: Seattle enacts year-long ban on new AI datacenters
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6803
+  strength: 0.6808
 - slug: 2026-06-04-seattle-council-committees-pass-year-long-moratorium-on-new-data-centers
   headline: Seattle council committees pass year-long moratorium on new data centers
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.686
+  strength: 0.687
 - slug: 2026-06-08-two-thirds-of-planned-us-ai-datacenters-built-on-drought-hit-land
   headline: Two-thirds of planned US AI datacenters built on drought-hit land
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.6751
+  strength: 0.6735
 - slug: 2026-06-06-new-york-lawmakers-approve-one-year-ban-on-large-datacenters
   headline: New York lawmakers approve one-year ban on large datacenters
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.6742
-- slug: 2026-06-14-o-leary-blames-china-for-utah-data-center-opposition
-  headline: O'Leary blames China for Utah data center opposition
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.643
+  strength: 0.6747
 - slug: 2026-05-16-fisk-university-announces-900m-campus-overhaul-with-data-center-amid-pushback
-  headline: Fisk University announces $900M campus overhaul with data center amid pushback
+  headline: Fisk University announces $900M campus overhaul with data center amid
+    pushback
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6698
-- slug: 2026-05-14-texas-county-issues-first-moratorium-on-data-centers-to-study-impacts
-  headline: Texas county issues first moratorium on data centers to study impacts
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6687
-- slug: 2026-05-14-hill-county-texas-pauses-new-data-centers-in-rural-unincorporated-areas-for-a-ye
-  headline: Hill County Texas pauses new data centers in rural unincorporated areas for a year
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.662
-- slug: 2026-04-17-ypsilanti-township-calls-12-month-pause-on-water-for-data-centers
-  headline: Ypsilanti Township calls 12-month pause on water for data centers
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6772
-- slug: 2026-05-02-army-proposes-3-gigawatt-fort-bliss-ai-data-center-raising-power-and-water-quest
-  headline: Army proposes 3-gigawatt Fort Bliss AI data center, raising power and water questions
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6568
-- slug: 2026-04-24-michigan-utility-approves-12-month-water-ban-for-data-centers
-  headline: Michigan utility approves 12-month water ban for data centers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6595
-- slug: 2026-04-15-maine-legislature-approves-nation-s-first-statewide-data-center-moratorium-bill
-  headline: Maine legislature approves nation's first statewide data center moratorium bill
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6649
-- slug: 2026-04-11-nevada-utility-warns-ai-data-centers-may-force-fossil-fuels
-  headline: Nevada utility warns AI data centers may force fossil fuels
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6655
-- slug: 2026-03-05-california-watchdog-urges-data-center-power-rules-to-shield-ratepayers
-  headline: California watchdog urges data center power rules to shield ratepayers
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6866
-- slug: 2026-03-26-progressives-introduce-ai-data-center-moratorium-bill-ahead-of-safeguards
-  headline: Progressives introduce AI data center moratorium bill ahead of safeguards
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6684
-- slug: 2026-01-30-new-orleans-city-council-bans-data-centers-for-a-year-after-concerns
-  headline: New Orleans City Council bans data centers for a year after concerns
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6731
+  strength: 0.671
 ---
-
 ## Little Rock adopts data center limits as Arkansas projects draw opposition
 
 **Subtype:** fact

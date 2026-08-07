@@ -1,9 +1,15 @@
 ---
 headline: UK house prices hold nearly flat as mortgage costs squeeze buyers
-secondary_headline: Regional data shows sharper falls in southern England than the north
+secondary_headline: Regional data shows sharper falls in southern England than the
+  north
 publish_date: '2026-08-07'
-lede: UK house prices were broadly unchanged in July as higher mortgage rates and stretched affordability weighed on prospective buyers, according to Lloyds. The average property cost £299,253, down £143 from June, while prices were 0.1% higher than a year earlier.
-nut_graf: Lloyds said the annual increase was the weakest since November 2023. Its regional data showed rising prices in Northern Ireland, Scotland and northern England, while the south-east and Greater London recorded declines.
+lede: UK house prices were broadly unchanged in July as higher mortgage rates and
+  stretched affordability weighed on prospective buyers, according to Lloyds. The
+  average property cost £299,253, down £143 from June, while prices were 0.1% higher
+  than a year earlier.
+nut_graf: Lloyds said the annual increase was the weakest since November 2023. Its
+  regional data showed rising prices in Northern Ireland, Scotland and northern England,
+  while the south-east and Greater London recorded declines.
 primary_entities:
 - Lloyds
 - Amanda Bryden
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +148,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-23-freddie-mac-reports-30-year-mortgage-rate-at-6-58-highest-since-july-2025
-  headline: Freddie Mac reports 30-year mortgage rate at 6.58%, highest since July 2025
+  headline: Freddie Mac reports 30-year mortgage rate at 6.58%, highest since July
+    2025
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6725
+  strength: 0.672
 - slug: 2026-07-21-uk-unemployment-holds-at-4-9-as-wage-growth-steadies
   headline: UK unemployment holds at 4.9% as wage growth steadies
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6699
-- slug: 2026-07-26-northern-ireland-heating-oil-prices-surge-29-in-three-weeks-as-us-iran-disruptio
-  headline: Northern Ireland heating oil prices surge 29% in three weeks as US-Iran disruption deepens
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6321
-- slug: 2026-07-22-uk-inflation-falls-to-2-6-in-june-lowest-since-march-2025
-  headline: UK inflation falls to 2.6% in June, lowest since March 2025
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6413
-- slug: 2026-07-16-30-year-mortgage-rate-rises-to-6-55-as-iran-war-pushes-up-bond-yields
-  headline: 30-year mortgage rate rises to 6.55% as Iran war pushes up bond yields
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6356
+  strength: 0.6694
 - slug: 2026-06-01-uk-house-prices-fall-as-middle-east-crisis-dents-buyer-confidence
   headline: UK house prices fall as Middle East crisis dents buyer confidence
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.7718
+  strength: 0.7708
 - slug: 2026-06-17-uk-inflation-holds-steady-at-2-8-in-may-below-forecasts
   headline: UK Inflation Holds Steady at 2.8% in May, Below Forecasts
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.667
+  strength: 0.6667
 - slug: 2026-06-17-uk-inflation-holds-at-2-8-in-may-defying-forecast-rise-to-3
   headline: UK inflation holds at 2.8% in May, defying forecast rise to 3%
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6616
+  strength: 0.6614
 - slug: 2026-06-05-30-year-mortgage-rate-holds-at-6-48-as-fed-s-limited-influence-frustrates-homebu
-  headline: 30-year mortgage rate holds at 6.48% as Fed's limited influence frustrates homebuyers
+  headline: 30-year mortgage rate holds at 6.48% as Fed's limited influence frustrates
+    homebuyers
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6761
-- slug: 2026-06-18-bank-of-england-leaves-rates-unchanged-signals-caution-on-hormuz-opening
-  headline: Bank of England Leaves Rates Unchanged, Signals Caution on Hormuz Opening
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6353
-- slug: 2026-06-15-bank-of-england-expected-to-hold-key-rate-at-3-75-as-u-k-economy-weakens
-  headline: Bank of England expected to hold key rate at 3.75% as U.K. economy weakens
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6311
+  strength: 0.6751
 - slug: 2026-05-08-spring-homebuying-season-meets-a-stubborn-6-37-mortgage-rate
   headline: Spring homebuying season meets a stubborn 6.37% mortgage rate
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.678
+  strength: 0.6773
 - slug: 2026-05-10-us-existing-home-sales-stay-flat-in-april-as-inventory-remains-tight
   headline: US existing home sales stay flat in April as inventory remains tight
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6608
-- slug: 2026-04-29-average-30-year-mortgage-rate-edges-up-to-6-3-as-housing-outlook-softens
-  headline: Average 30-year mortgage rate edges up to 6.3% as housing outlook softens
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6729
-- slug: 2026-03-26-mortgage-rates-jump-to-6-38-highest-in-more-than-6-months-squeezing-buyers
-  headline: Mortgage rates jump to 6.38%, highest in more than 6 months, squeezing buyers
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6938
-- slug: 2026-05-10-us-existing-home-sales-flat-in-april-at-4-02-million-prices-hit-record-for-april
-  headline: US existing home sales flat in April at 4.02 million; prices hit record for April
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.635
-- slug: 2026-04-24-mortgage-rates-slip-for-third-week-easing-pressure-on-spring-homebuyers
-  headline: Mortgage rates slip for third week, easing pressure on spring homebuyers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6464
-- slug: 2026-04-14-existing-home-sales-sink-to-9-month-low-as-spring-buyers-stay-sidelined
-  headline: Existing home sales sink to 9-month low as spring buyers stay sidelined
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6411
-- slug: 2026-02-20-average-us-30-year-mortgage-rate-slips-to-6-01-still-near-6-range
-  headline: Average US 30-year mortgage rate slips to 6.01%, still near 6% range
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6769
-- slug: 2026-01-30-us-mortgage-rates-rise-for-second-week-near-3-year-low
-  headline: US mortgage rates rise for second week, near 3-year low
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6783
+  strength: 0.6597
 ---
-
 ## UK house prices hold nearly flat as mortgage costs squeeze buyers
 
 **Subtype:** fact
