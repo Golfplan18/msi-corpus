@@ -2,8 +2,15 @@
 headline: US and Iran face dueling time pressures as Hormuz conflict resumes
 secondary_headline: Both sides bet on endurance in low-level strait standoff
 publish_date: '2026-07-15'
-lede: The United States and Iran are resuming low-level conflict in the Strait of Hormuz, with each nation racing against a different clock — President Trump seeking resolution before November's midterm elections and rising oil prices hit American voters, while Tehran hopes to outlast the blockade without triggering a larger attack aimed at toppling its government, according to analysts and U.S. officials.
-nut_graf: After a brief ceasefire collapsed, both sides have concluded their best course is to resume hostilities at a contained level while waiting for the other to buckle, leaving the strategic question as one of endurance rather than military advantage.
+lede: The United States and Iran are resuming low-level conflict in the Strait of
+  Hormuz, with each nation racing against a different clock — President Trump seeking
+  resolution before November's midterm elections and rising oil prices hit American
+  voters, while Tehran hopes to outlast the blockade without triggering a larger attack
+  aimed at toppling its government, according to analysts and U.S. officials.
+nut_graf: After a brief ceasefire collapsed, both sides have concluded their best
+  course is to resume hostilities at a contained level while waiting for the other
+  to buckle, leaving the strategic question as one of endurance rather than military
+  advantage.
 primary_entities:
 - United States
 - Iran
@@ -20,7 +27,8 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - government
-storyline_nexus: []
+storyline_nexus:
+- iran-oman-talks-to-reopen-strait-of-hormuz
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -115,13 +124,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-07-15-us-and-iran-face-dueling-time-pressures-as-hormuz-conflict-resumes.png
-  alt: 'Illustration accompanying article: US and Iran face dueling time pressures as Hormuz conflict resumes'
+  alt: 'Illustration accompanying article: US and Iran face dueling time pressures
+    as Hormuz conflict resumes'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:openai/gpt-5.4-image-2
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-07-10-oil-heads-for-weekly-gain-as-u-s--iran-strikes-keep-strait-of-hormuz-quiet
   headline: Oil heads for weekly gain as U.S.-Iran strikes keep Strait of Hormuz quiet
@@ -154,7 +167,8 @@ related_stories:
   relation: related
   strength: 0.7934
 - slug: 2026-05-27-us-sanctions-target-iranian-agency-as-strikes-follow-drone-attacks-in-strait-of-
-  headline: US sanctions target Iranian agency as strikes follow drone attacks in Strait of Hormuz
+  headline: US sanctions target Iranian agency as strikes follow drone attacks in
+    Strait of Hormuz
   publish_date: '2026-05-27'
   relation: related
   strength: 0.8028
@@ -224,7 +238,7 @@ related_stories:
   relation: related
   strength: 0.7962
 analyses:
-- '2026-07-15-competing-time-pressures-shape-endurance-calculus-in-strait-of-hormuz'
+- 2026-07-15-competing-time-pressures-shape-endurance-calculus-in-strait-of-hormuz
 ---
 
 ## US and Iran face dueling time pressures as Hormuz conflict resumes

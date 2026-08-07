@@ -29,7 +29,8 @@ topic_tags:
 - international relations
 - peace process
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- iran-oman-talks-to-reopen-strait-of-hormuz
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,14 +190,19 @@ related_stories:
   strength: 0.8101
 image:
   url: /articles/2026-07-28-iran-oman-seek-reopening-of-strait-of-hormuz-in-narrow-talks.png
-  alt: "Illustration accompanying article: Iran, Oman seek reopening of Strait of Hormuz in narrow talks"
+  alt: 'Illustration accompanying article: Iran, Oman seek reopening of Strait of
+    Hormuz in narrow talks'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Iran, Oman seek reopening of Strait of Hormuz in narrow talks
 
 **Subtype:** fact
