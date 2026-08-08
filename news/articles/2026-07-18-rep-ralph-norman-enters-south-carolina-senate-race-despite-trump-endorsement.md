@@ -27,6 +27,7 @@ topic_tags:
 - political process
 storyline_nexus:
 - 2026-midterm-elections
+- darline-graham-senate-campaign-south-carolina-primary
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -93,14 +94,19 @@ related_stories:
   strength: 0.6836
 image:
   url: /articles/2026-07-18-rep-ralph-norman-enters-south-carolina-senate-race-despite-trump-endorsement.png
-  alt: "Illustration accompanying article: Rep. Ralph Norman enters South Carolina Senate race despite Trump endorsement"
+  alt: 'Illustration accompanying article: Rep. Ralph Norman enters South Carolina
+    Senate race despite Trump endorsement'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Rep. Ralph Norman enters South Carolina Senate race despite Trump endorsement
 
 **Subtype:** fact

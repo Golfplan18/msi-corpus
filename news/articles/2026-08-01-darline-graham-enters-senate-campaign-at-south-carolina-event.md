@@ -24,7 +24,8 @@ topic_tags:
 - government policy
 - political process
 - people
-storyline_nexus: []
+storyline_nexus:
+- darline-graham-senate-campaign-south-carolina-primary
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -186,6 +187,7 @@ related_stories:
   relation: related
   strength: 0.6859
 ---
+
 ## Darline Graham enters Senate campaign at South Carolina event
 
 **Subtype:** fact

@@ -31,7 +31,8 @@ topic_tags:
 - health
 - politics
 - public health
-storyline_nexus: []
+storyline_nexus:
+- darline-graham-senate-campaign-south-carolina-primary
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -187,14 +188,19 @@ related_stories:
   strength: 0.6503
 image:
   url: /articles/2026-07-26-pediatrician-annie-andrews-aims-to-flip-south-carolina-senate-seat-for-democrats.png
-  alt: "Illustration accompanying article: Pediatrician Annie Andrews aims to flip South Carolina Senate seat for Democrats"
+  alt: 'Illustration accompanying article: Pediatrician Annie Andrews aims to flip
+    South Carolina Senate seat for Democrats'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Pediatrician Annie Andrews aims to flip South Carolina Senate seat for Democrats
 
 **Subtype:** fact
