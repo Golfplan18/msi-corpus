@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- senate-approves-funding-bill-early-to-avoid-shutdown
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,14 +191,19 @@ related_stories:
   strength: 0.6552
 image:
   url: /articles/2026-08-02-senate-bill-would-set-next-funding-deadline-for-dec-11.png
-  alt: "Illustration accompanying article: Senate bill would set next funding deadline for Dec. 11"
+  alt: 'Illustration accompanying article: Senate bill would set next funding deadline
+    for Dec. 11'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Senate bill would set next funding deadline for Dec. 11
 
 **Subtype:** fact

@@ -39,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -55,16 +56,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-07-uk-unions-urge-burnham-to-revoke-us-access-to-raf-bases-over-iran-war.png
-  alt: 'Illustration accompanying article: UK unions urge Burnham to revoke US access to RAF bases over Iran war'
+  url: /cartoons/trumps-war-is-robbing-british-families-to-enrich-oil.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump''s war is robbing British families
+    to enrich oil companies'
+  caption: The war's profit has a permanent seat at the kitchen table.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-08T00:11:19-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical scene, 1:1, heavy cross-hatch wood-engraving
+    in the Nast tradition. At the head of a long banquet table sits Donald Trump,
+    fully individuated and recognizable, in a fine dar
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-07-uk-unions-urge-burnham-to-revoke-us-access-to-raf-bases-over-iran-war
   relation: extends
   strength: 0.2982
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-07-hector-paired-with-2026-08-07-ashley-wagner--07-unions-andy-burnham-uk-cost-of-livin
 ---
+
+![Editorial cartoon by Hector Rentier: Trump's war is robbing British families to enrich oil companies](/cartoons/trumps-war-is-robbing-british-families-to-enrich-oil.png)
+*The war's profit has a permanent seat at the kitchen table.*
 
 Trump's war is robbing British families of £221 a year to enrich oil companies.
 

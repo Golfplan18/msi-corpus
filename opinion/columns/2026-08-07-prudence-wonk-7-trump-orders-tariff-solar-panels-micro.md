@@ -1,7 +1,9 @@
 ---
-headline: Trump taxes America's solar buildout and calls the price-fixing “national security”
+headline: Trump taxes America's solar buildout and calls the price-fixing “national
+  security”
 publish_date: '2026-08-07'
-lede: Trump is taxing American families to guarantee private profits and calling it security.
+lede: Trump is taxing American families to guarantee private profits and calling it
+  security.
 pen_name: prudence-wonk
 primary_entities:
 - Donald Trump
@@ -43,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,16 +62,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-07-trump-orders-15-tariff-on-polysilicon-used-in-chips-solar-panels.png
-  alt: 'Illustration accompanying article: Trump orders 15% tariff on polysilicon used in chips, solar panels'
+  url: /cartoons/trump-taxes-americas-solar-buildout-and-calls-the-price.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump taxes America''s solar buildout
+    and calls the price-fixing ''national security'''
+  caption: He taxed the buyers. He guaranteed the producers. He called it security.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-08T00:23:13-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch / wood-engraving, Nast polemic
+    tradition. Top banner: Orwell quotation (see banner field). Central figure: a
+    man in a suit (Trump) stands behind a solid podium, co'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-07-trump-orders-15-tariff-on-polysilicon-used-in-chips-solar-panels
   relation: extends
   strength: 0.7337
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-07-hector-paired-with-2026-08-07-prudence-wonk-7-trump-orders-tariff-solar-panels-micro
 ---
+
+![Editorial cartoon by Hector Rentier: Trump taxes America's solar buildout and calls the price-fixing 'national security'](/cartoons/trump-taxes-americas-solar-buildout-and-calls-the-price.png)
+*He taxed the buyers. He guaranteed the producers. He called it security.*
 
 Trump is taxing American families to guarantee private profits and calling it security.
 

@@ -23,7 +23,8 @@ topic_tags:
 - government
 - politics
 - election
-storyline_nexus: []
+storyline_nexus:
+- senate-approves-funding-bill-early-to-avoid-shutdown
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -163,14 +164,19 @@ related_stories:
   strength: 0.6853
 image:
   url: /articles/2026-07-21-house-republicans-set-tuesday-vote-on-stopgap-funding-through-dec-4.png
-  alt: "Illustration accompanying article: House Republicans set Tuesday vote on stopgap funding through Dec. 4"
+  alt: 'Illustration accompanying article: House Republicans set Tuesday vote on stopgap
+    funding through Dec. 4'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## House Republicans set Tuesday vote on stopgap funding through Dec. 4
 
 **Subtype:** fact
