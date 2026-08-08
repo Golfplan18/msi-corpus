@@ -24,7 +24,8 @@ topic_tags:
 - politics
 - health
 - government
-storyline_nexus: []
+storyline_nexus:
+- cdc-director-confirmed
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -182,6 +183,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Senate confirms Erica Schwartz as CDC director in 51-44 vote
 
 **Subtype:** fact

@@ -25,7 +25,8 @@ topic_tags:
 - civil rights
 - discrimination
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- howard-university-reinstates-disenrolled-students
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -158,6 +159,7 @@ related_stories:
   relation: related
   strength: 0.656
 ---
+
 ## Colleges rush to admit students disenrolled from Howard University
 
 **Subtype:** fact

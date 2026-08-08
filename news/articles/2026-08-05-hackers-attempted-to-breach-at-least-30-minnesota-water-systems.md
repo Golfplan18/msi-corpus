@@ -26,7 +26,8 @@ primary_themes:
 - water systems
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- cyberattacks-on-minnesota-water-systems
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -155,6 +156,7 @@ related_stories:
   relation: related
   strength: 0.6646
 ---
+
 ## Hackers attempted to breach at least 30 Minnesota water systems
 
 **Subtype:** fact

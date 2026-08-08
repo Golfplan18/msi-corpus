@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
 - education
 - higher education
-storyline_nexus: []
+storyline_nexus:
+- howard-university-reinstates-disenrolled-students
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
@@ -135,6 +136,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Howard University unenrolls 502 incoming freshmen over unpaid balances
 
 **Subtype:** fact

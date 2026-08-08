@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - health
 - politics
-storyline_nexus: []
+storyline_nexus:
+- cdc-director-confirmed
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -123,6 +124,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Senate health committee delays vote on CDC nominee Erica Schwartz
 
 **Subtype:** fact

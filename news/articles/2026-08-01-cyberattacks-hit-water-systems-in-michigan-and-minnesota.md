@@ -20,7 +20,8 @@ topic_tags:
 - health
 - terrorism
 - technology and engineering
-storyline_nexus: []
+storyline_nexus:
+- cyberattacks-on-minnesota-water-systems
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -142,6 +143,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Cyberattacks hit water systems in Michigan and Minnesota
 
 **Subtype:** fact

@@ -35,7 +35,8 @@ topic_tags:
 - government policy
 - political process
 - epidemic and pandemic
-storyline_nexus: []
+storyline_nexus:
+- cdc-director-confirmed
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -185,6 +186,7 @@ related_stories:
   relation: related
   strength: 0.6632
 ---
+
 ## Schwartz faces Senate as Trump’s third CDC director nominee
 
 **Subtype:** fact

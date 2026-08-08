@@ -21,6 +21,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - kamala-harris-endorsement-shifts-maine-senate-race-dynamics
+- jackson-endorsed-by-harris
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
