@@ -162,6 +162,15 @@ related_stories:
   publish_date: '2026-05-27'
   relation: related
   strength: 0.6682
+image:
+  url: /articles/2026-08-08-hunter-biden-says-father-s-cancer-metastasized-to-his-bones.png
+  alt: "Illustration accompanying article: Hunter Biden says father's cancer metastasized to his bones"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Hunter Biden says father's cancer metastasized to his bones
 
