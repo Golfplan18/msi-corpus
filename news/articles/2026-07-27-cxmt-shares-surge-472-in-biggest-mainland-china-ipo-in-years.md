@@ -29,7 +29,8 @@ topic_tags:
 - economy, business and finance
 - manufacturing and engineering
 - computing and information technology
-storyline_nexus: []
+storyline_nexus:
+- apple-testing-cxmt-memory-chips-for-chinese-devices
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -159,6 +160,7 @@ related_stories:
   relation: related
   strength: 0.6515
 ---
+
 ## CXMT shares surge 472% in biggest mainland China IPO in years
 
 **Subtype:** fact

@@ -33,7 +33,8 @@ topic_tags:
 - international trade
 - labour dispute
 - manufacturing and engineering
-storyline_nexus: []
+storyline_nexus:
+- apple-testing-cxmt-memory-chips-for-chinese-devices
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.7663
 ---
+
 ## Apple pushes Trump to allow Chinese memory chips; Micron opposes
 
 **Subtype:** fact
