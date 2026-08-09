@@ -29,7 +29,8 @@ topic_tags:
 - transportation accident and incident
 - health treatment and procedure
 - human interest
-storyline_nexus: []
+storyline_nexus:
+- hormuz-attacks-kill-3-seafarers
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -180,6 +181,7 @@ related_stories:
   relation: related
   strength: 0.7802
 ---
+
 ## Hormuz attacks kill 3 seafarers as Iran uses cruise missiles
 
 **Subtype:** fact

@@ -27,7 +27,8 @@ topic_tags:
 - armed conflict
 - conflict, war and peace
 - international military intervention
-storyline_nexus: []
+storyline_nexus:
+- hormuz-attacks-kill-3-seafarers
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.7833
 ---
+
 ## US strikes Iran for 9th consecutive night as Hormuz conflict continues
 
 **Subtype:** fact
