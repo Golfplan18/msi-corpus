@@ -22,7 +22,8 @@ primary_themes:
 - outbreak investigation
 topic_tags:
 - health
-storyline_nexus: []
+storyline_nexus:
+- cyclospora-outbreak-linked-to-taylor-farms-lettuce
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -161,6 +162,7 @@ related_stories:
   relation: related
   strength: 0.7491
 ---
+
 ## FDA identifies Taylor Farms lettuce as Cyclospora outbreak source
 
 **Subtype:** fact

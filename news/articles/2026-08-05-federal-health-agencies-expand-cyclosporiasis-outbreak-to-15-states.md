@@ -26,7 +26,8 @@ primary_themes:
 - disease outbreak
 topic_tags:
 - health
-storyline_nexus: []
+storyline_nexus:
+- cyclospora-outbreak-linked-to-taylor-farms-lettuce
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.8491
 ---
+
 ## Federal health agencies expand cyclosporiasis outbreak to 15 states
 
 **Subtype:** fact
