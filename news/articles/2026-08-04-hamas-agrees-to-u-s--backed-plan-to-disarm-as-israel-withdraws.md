@@ -27,6 +27,7 @@ topic_tags:
 - international relations
 storyline_nexus:
 - hamas-disarmament-deal-finalized
+- hamas-disarmament-deal-finalized-2
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -206,6 +207,7 @@ related_stories:
   relation: related
   strength: 0.833
 ---
+
 ## Hamas agrees to U.S.-backed plan to disarm as Israel withdraws
 
 **Subtype:** fact

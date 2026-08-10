@@ -29,7 +29,8 @@ primary_themes:
 topic_tags:
 - international relations
 - government
-storyline_nexus: []
+storyline_nexus:
+- hamas-disarmament-deal-finalized-2
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -203,6 +204,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Netanyahu rejects U.S.-backed 15-point plan to disarm Gaza
 
 **Subtype:** fact
