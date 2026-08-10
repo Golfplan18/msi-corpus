@@ -22,6 +22,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - abdul-el-sayed-wins-michigan-democratic-senate-primary
+- el-sayed-wins-michigan-democratic-senate-primary
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -193,14 +194,19 @@ related_stories:
   strength: 0.8106
 image:
   url: /articles/2026-08-06-abdul-el-sayed-wins-michigan-primary-will-face-mike-rogers.png
-  alt: "Illustration accompanying article: Abdul El-Sayed wins Michigan primary, will face Mike Rogers"
+  alt: 'Illustration accompanying article: Abdul El-Sayed wins Michigan primary, will
+    face Mike Rogers'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Abdul El-Sayed wins Michigan primary, will face Mike Rogers
 
 **Subtype:** fact

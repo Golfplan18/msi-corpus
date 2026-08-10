@@ -23,6 +23,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - abdul-el-sayed-wins-michigan-democratic-senate-primary
+- el-sayed-wins-michigan-democratic-senate-primary
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -172,14 +173,19 @@ related_stories:
   strength: 0.7246
 image:
   url: /articles/2026-08-09-el-sayed-says-he-spoke-with-obama-hopes-he-campaigns-in-michigan.png
-  alt: "Illustration accompanying article: El-Sayed says he spoke with Obama, hopes he campaigns in Michigan"
+  alt: 'Illustration accompanying article: El-Sayed says he spoke with Obama, hopes
+    he campaigns in Michigan'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## El-Sayed says he spoke with Obama, hopes he campaigns in Michigan
 
 **Subtype:** fact
