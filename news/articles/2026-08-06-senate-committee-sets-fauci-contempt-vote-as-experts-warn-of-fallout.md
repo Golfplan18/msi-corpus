@@ -33,6 +33,7 @@ topic_tags:
 - law
 storyline_nexus:
 - fauci-contempt-vote
+- fauci-contempt-vote-2
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.7215
 ---
+
 ## Senate committee sets Fauci contempt vote as experts warn of fallout
 
 **Subtype:** fact

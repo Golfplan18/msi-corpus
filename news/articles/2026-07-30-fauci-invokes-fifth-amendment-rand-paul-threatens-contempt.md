@@ -27,6 +27,7 @@ topic_tags:
 - government policy
 storyline_nexus:
 - fauci-contempt-vote
+- fauci-contempt-vote-2
 storyline_continuity:
   decision: none
   selected_prior_ids: []
