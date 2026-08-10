@@ -1,7 +1,9 @@
 ---
-headline: Tennessee Legislators Dismantled Memphis’s Majority-Black Congressional District
+headline: Tennessee Legislators Dismantled Memphis’s Majority-Black Congressional
+  District
 publish_date: '2026-08-06'
-lede: The Republican-led Tennessee Legislature dismantled Memphis’s majority-Black congressional district.
+lede: The Republican-led Tennessee Legislature dismantled Memphis’s majority-Black
+  congressional district.
 pen_name: malcolm-little-king
 primary_entities:
 - Tennessee
@@ -34,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -50,9 +53,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-06-tennessee-primary-tests-map-that-reshapes-memphis-congressional-district.png
-  alt: 'Illustration accompanying article: Tennessee primary tests map that reshapes Memphis congressional district'
+  url: /cartoons/tennessee-legislators-dismantled-memphiss-majority-black.png
+  alt: 'Editorial cartoon by Hector Rentier: Tennessee Legislators Dismantled Memphis''s
+    Majority-Black Congressional District'
+  caption: They redrew the lines. They relocated the power.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-10T14:56:01-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'A 1:1 square panel in heavy cross-hatch wood-engraving, Nast-Daumier-Tenniel-Herblock
+    tradition. Across the upper margin, a banner quotation in carved lettering: ''Political
+    language is designed to mak'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-06-tennessee-primary-tests-map-that-reshapes-memphis-congressional-district
   relation: extends
@@ -60,7 +74,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-06-hector-paired-with-2026-08-06-malcolm-little-king-tennessee-primary-election-congress-redi
 ---
+
+![Editorial cartoon by Hector Rentier: Tennessee Legislators Dismantled Memphis's Majority-Black Congressional District](/cartoons/tennessee-legislators-dismantled-memphiss-majority-black.png)
+*They redrew the lines. They relocated the power.*
 
 The Republican-led Tennessee Legislature dismantled Memphis’s majority-Black congressional district. It did so three months before voters were asked to choose nominees under the new map, after a Supreme Court ruling weakened federal Voting Rights Act protections for minorities.
 

@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +35,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/markwayne-mullin-threatens-haitians-with-arrest-and-removal.png
+  alt: 'Editorial cartoon by Hector Rentier: Markwayne Mullin Threatens Haitians With
+    Arrest and Removal'
+  caption: '"Self-deport or we''ll arrest you."'
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T15:05:42-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1. A removal-processing interior: a high government
+    desk bearing a small placard reading ''THE DEPARTMENT.'' Behind it, an official
+    in a plain suit — archetype only, face rendered but no'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-06-hector-paired-with-2026-08-06-mary-magdalena-top-news-us-2026-08-05-tps-deporation-ha
 ---
+
+![Editorial cartoon by Hector Rentier: Markwayne Mullin Threatens Haitians With Arrest and Removal](/cartoons/markwayne-mullin-threatens-haitians-with-arrest-and-removal.png)
+*"Self-deport or we'll arrest you."*
 
 Markwayne Mullin threatens Haitians with arrest and removal.
 

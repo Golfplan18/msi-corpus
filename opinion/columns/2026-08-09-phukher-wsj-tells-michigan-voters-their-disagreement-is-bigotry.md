@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: phukher-tarlson-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/wsj-tells-michigan-voters-their-disagreement-is-bigotry.png
+  alt: 'Editorial cartoon by Hector Rentier: WSJ Tells Michigan Voters Their Disagreement
+    Is Bigotry'
+  caption: The frame was set before the cargo arrived.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T14:49:29-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single panel, 1:1, heavy cross-hatch wood-engraving. A composed editorial
+    columnist — glasses, suit, calm self-assured expression — stands behind an ornate
+    mechanical stamp-press on a solid desk. On t
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-09-hector-paired-with-2026-08-09-phukher-wsj-tells-michigan-voters-their-disagreement-is-bigotry
 ---
+
+![Editorial cartoon by Hector Rentier: WSJ Tells Michigan Voters Their Disagreement Is Bigotry](/cartoons/wsj-tells-michigan-voters-their-disagreement-is-bigotry.png)
+*The frame was set before the cargo arrived.*
 
 James Freeman turns Michigan policy disagreement into bigotry.
 

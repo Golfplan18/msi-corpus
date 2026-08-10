@@ -39,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -55,9 +56,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-07-uk-unions-urge-burnham-to-revoke-us-access-to-raf-bases-over-iran-war.png
-  alt: 'Illustration accompanying article: UK unions urge Burnham to revoke US access to RAF bases over Iran war'
+  url: /cartoons/your-energy-bill-is-a-war-tax-no-one-voted-for.png
+  alt: 'Editorial cartoon by Hector Rentier: Your Energy Bill Is a War Tax No One
+    Voted For'
+  caption: Defensive, apparently. The bill still arrived from the war.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-10T15:06:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single-panel 1:1 editorial cartoon in heavy cross-hatched wood-engraving
+    style. Ed Miliband, fully human and recognizable in his public role, stands at
+    a polished press podium labeled DEFENSIVE ACTION
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-07-uk-unions-urge-burnham-to-revoke-us-access-to-raf-bases-over-iran-war
   relation: extends
@@ -65,7 +77,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-07-hector-paired-with-2026-08-07-carla-marks--07-unions-andy-burnham-uk-cost-of-livin
 ---
+
+![Editorial cartoon by Hector Rentier: Your Energy Bill Is a War Tax No One Voted For](/cartoons/your-energy-bill-is-a-war-tax-no-one-voted-for.png)
+*Defensive, apparently. The bill still arrived from the war.*
 
 The cost-of-living crisis did not begin at the checkout. It began in a war that closed the shipping lanes, and the war is now the rent on your power bill. Ten British trade unions representing 2.3 million workers — including Unison, the National Education Union, UCU, the FBU, Equity, and the CWU — have written to Prime Minister Andy Burnham saying exactly that: if Britain wants lower energy and fuel costs, it should revoke America’s permission to launch airstrikes on Iran from RAF bases. The [*Guardian* reports](/business/2026/aug/07/unions-andy-burnham-uk-cost-of-living-crisis-donald-trump-iran-war). The letter is polite. The arithmetic underneath it is not.
 

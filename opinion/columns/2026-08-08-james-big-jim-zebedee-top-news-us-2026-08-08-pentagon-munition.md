@@ -1,7 +1,8 @@
 ---
 headline: Trump Is Burning Through Missiles and Threatening Jail
 publish_date: '2026-08-08'
-lede: Trump is burning through missiles and threatening jail for people who counted them.
+lede: Trump is burning through missiles and threatening jail for people who counted
+  them.
 pen_name: james-big-jim-zebedee
 primary_entities:
 - United States Department of Defense
@@ -34,7 +35,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +58,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-is-burning-through-missiles-and-threatening-jail.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Burning Through Missiles and
+    Threatening Jail'
+  caption: The count was treason. The shortage was policy.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T14:47:27-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single-panel 1:1 editorial cartoon in heavy black cross-hatch wood-engraving
+    style. Donald Trump stands fully human and recognizable at a presidential podium
+    labeled “MASSIVE AMOUNTS,” one hand raised
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-08-hector-paired-with-2026-08-08-james-big-jim-zebedee-top-news-us-2026-08-08-pentagon-munition
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Burning Through Missiles and Threatening Jail](/cartoons/trump-is-burning-through-missiles-and-threatening-jail.png)
+*The count was treason. The shortage was policy.*
 
 Trump is burning through missiles and threatening jail for people who counted them.
 

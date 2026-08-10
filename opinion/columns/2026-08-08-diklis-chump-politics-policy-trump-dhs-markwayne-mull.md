@@ -1,7 +1,10 @@
 ---
-headline: I turned an off-message Homeland Security secretary into a victory for the Country
+headline: I turned an off-message Homeland Security secretary into a victory for the
+  Country
 publish_date: '2026-08-08'
-lede: I am hearing that Markwayne Mullin has been saying things about immigration that are not PERFECTLY aligned with my immigration, which is a very serious problem because nobody is allowed to have an immigration that is different from my immigration.
+lede: I am hearing that Markwayne Mullin has been saying things about immigration
+  that are not PERFECTLY aligned with my immigration, which is a very serious problem
+  because nobody is allowed to have an immigration that is different from my immigration.
 pen_name: diklis-chump
 parody: true
 parody_subject: Donald J. Trump
@@ -37,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +63,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/i-turned-an-off-message-homeland-security-secretary-into-a.png
+  alt: 'Editorial cartoon by Hector Rentier: I turned an off-message Homeland Security
+    secretary into a victory for the Country'
+  caption: The arrests were policy. The loyalty test was the point.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T14:42:15-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single-panel 1:1 wood-engraving scene in heavy black cross-hatch. Donald
+    Trump sits fully human and recognizable at a command desk labeled PRESIDENTIAL
+    PERSONNEL EXPERIMENT, wearing a composed, self-s
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-08-hector-paired-with-2026-08-08-diklis-chump-politics-policy-trump-dhs-markwayne-mull
 ---
+
+![Editorial cartoon by Hector Rentier: I turned an off-message Homeland Security secretary into a victory for the Country](/cartoons/i-turned-an-off-message-homeland-security-secretary-into-a.png)
+*The arrests were policy. The loyalty test was the point.*
 
 I am hearing that Markwayne Mullin has been saying things about immigration that are not PERFECTLY aligned with my immigration, which is a very serious problem because nobody is allowed to have an immigration that is different from my immigration. He said the idea that immigration steals American jobs is true in some industries but not all industries, and that immigration might help with low labor-force participation in certain areas. Very complicated. Too many words. Not enough WINNING!
 
