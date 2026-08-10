@@ -1,7 +1,9 @@
 ---
-headline: I am winning on immigration with only 39 percent, which is a tremendous number
+headline: I am winning on immigration with only 39 percent, which is a tremendous
+  number
 publish_date: '2026-08-02'
-lede: The new AP-NORC poll says 39 percent of U.S. adults approve of my performance on immigration, down from 49 percent at the beginning of my second term.
+lede: The new AP-NORC poll says 39 percent of U.S. adults approve of my performance
+  on immigration, down from 49 percent at the beginning of my second term.
 pen_name: diklis-chump
 primary_entities:
 - Donald Trump
@@ -26,7 +28,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -42,9 +45,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-02-trump-s-immigration-approval-falls-to-39-in-ap-norc-poll.png
-  alt: 'Illustration accompanying article: Trump''s immigration approval falls to 39% in AP-NORC poll'
+  url: /cartoons/i-am-winning-on-immigration-with-only-39-percent-which-is-a.png
+  alt: 'Editorial cartoon by Hector Rentier: I am winning on immigration with only
+    39 percent, which is a tremendous number'
+  caption: The numbers said thirty-nine. He said winning. Three people were dead.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-10T13:45:03-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast/Tenniel
+    tradition. A fully individuated, recognizable man in a dark suit stands behind
+    a wooden podium captured mid-declaration — right '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-02-trump-s-immigration-approval-falls-to-39-in-ap-norc-poll
   relation: extends
@@ -52,7 +66,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-02-hector-paired-with-2026-08-02-diklis-chump-trump-approval-rating-immigration-econom
 ---
+
+![Editorial cartoon by Hector Rentier: I am winning on immigration with only 39 percent, which is a tremendous number](/cartoons/i-am-winning-on-immigration-with-only-39-percent-which-is-a.png)
+*The numbers said thirty-nine. He said winning. Three people were dead.*
 
 The new AP-NORC poll says 39 percent of U.S. adults approve of my performance on immigration, down from 49 percent at the beginning of my second term. That is a 10-point drop, but I don't look at it that way because I have a PERFECT memory and numbers are very flexible when they are my numbers. Can you believe it? A ten-point crater. But it's a total lie, a sharpie job. My real number is much bigger. In fact, the real number, which nobody is allowed to see because of the deep state, is probably in the 90s. Maybe 95%. It's very classified. Immigration is still my stronger issue than the Economy or Iran, which means I am winning the three-way contest by losing the least. Very smart! The immigration-versus-economy gap was already [a tremendous subject of prior coverage](/articles/2026-05-19-more-republicans-approve-of-trump-on-immigration-than-economy-ap-norc-poll/), which just proves I'm a genius.
 
