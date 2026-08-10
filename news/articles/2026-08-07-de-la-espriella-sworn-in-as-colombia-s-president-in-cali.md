@@ -30,7 +30,8 @@ primary_themes:
 - U.S.-Colombia relations
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- chile-anti-organized-crime-measures
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -116,6 +117,7 @@ related_stories:
   relation: related
   strength: 0.6716
 ---
+
 ## De la Espriella sworn in as Colombia's president in Cali
 
 **Subtype:** fact
