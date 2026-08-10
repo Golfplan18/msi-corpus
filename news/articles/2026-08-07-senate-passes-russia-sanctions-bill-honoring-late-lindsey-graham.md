@@ -33,7 +33,8 @@ primary_themes:
 - bipartisan legislation
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- senate-passes-lindsey-graham-sanctions-bill
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -213,6 +214,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Senate passes Russia sanctions bill honoring late Lindsey Graham
 
 **Subtype:** fact

@@ -1,9 +1,16 @@
 ---
 headline: Pacific north-west wildfires burn 2.9m acres, destroy 846 structures
-secondary_headline: Seven wildland firefighters dead as crews stretch thin at top alert
+secondary_headline: Seven wildland firefighters dead as crews stretch thin at top
+  alert
 publish_date: '2026-08-10'
-lede: Suburban neighborhoods around Spokane, Washington, are reduced to piles of twisted metal and ashen debris after a historic fire season destroyed at least 846 structures on the state's eastern side. More than 2.9 million acres have burned across Washington and Oregon this year, and officials and experts warn the dangers are far from over.
-nut_graf: 'The scale of destruction is among the worst the region has recorded: Oregon has logged more burned acreage this year than any in its history, Washington is in the midst of its most destructive fire season, and the United States has operated at its highest national fire-readiness level for nearly a month.'
+lede: Suburban neighborhoods around Spokane, Washington, are reduced to piles of twisted
+  metal and ashen debris after a historic fire season destroyed at least 846 structures
+  on the state's eastern side. More than 2.9 million acres have burned across Washington
+  and Oregon this year, and officials and experts warn the dangers are far from over.
+nut_graf: 'The scale of destruction is among the worst the region has recorded: Oregon
+  has logged more burned acreage this year than any in its history, Washington is
+  in the midst of its most destructive fire season, and the United States has operated
+  at its highest national fire-readiness level for nearly a month.'
 primary_entities:
 - Spokane
 - Washington
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +151,52 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-08-04-spokane-man-charged-with-arson-tied-to-one-of-three-eastern-washington-wildfires
-  headline: Spokane man charged with arson tied to one of three eastern Washington wildfires
+  headline: Spokane man charged with arson tied to one of three eastern Washington
+    wildfires
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7513
+  strength: 0.7518
 - slug: 2026-08-05-containment-lines-established-around-spokane-fires-as-hotter-drier-weather-looms
-  headline: Containment lines established around Spokane fires as hotter, drier weather looms
+  headline: Containment lines established around Spokane fires as hotter, drier weather
+    looms
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7318
+  strength: 0.7325
 - slug: 2026-08-02-old-trails-fire-jumps-spokane-river-prompts-thousands-to-evacuate
   headline: Old Trails Fire jumps Spokane River, prompts thousands to evacuate
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.7413
+  strength: 0.7405
 - slug: 2026-08-04-spokane-area-wildfires-destroy-hundreds-of-homes-force-60-000-to-evacuate
   headline: Spokane-area wildfires destroy hundreds of homes, force 60,000 to evacuate
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.72
-- slug: 2026-08-09-wildfires-force-over-20-000-to-flee-along-okanagan-lake-in-british-columbia
-  headline: Wildfires force over 20,000 to flee along Okanagan Lake in British Columbia
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6409
-- slug: 2026-08-06-former-inmates-join-crews-fighting-spokane-area-wildfires
-  headline: Former inmates join crews fighting Spokane-area wildfires
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6464
-- slug: 2026-08-07-spokane-wildfire-suspect-admits-planning-blaze-for-hot-dry-day
-  headline: Spokane wildfire suspect admits planning blaze for hot, dry day
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6316
+  strength: 0.7194
 - slug: 2026-07-27-oregon-wildfires-burn-over-1-million-acres-thousands-under-evacuation-orders
-  headline: Oregon wildfires burn over 1 million acres, thousands under evacuation orders
+  headline: Oregon wildfires burn over 1 million acres, thousands under evacuation
+    orders
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6908
-- slug: 2026-07-30-wildfire-near-area-51-spans-13-500-acres-7-contained
-  headline: Wildfire near Area 51 spans 13,500 acres, 7% contained
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6289
-- slug: 2026-07-25-akawa-butte-fire-designated-nation-s-top-priority-as-oregon-braces-for-high-wind
-  headline: Akawa Butte Fire designated nation's top priority as Oregon braces for high winds
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6323
-- slug: 2026-07-17-canada-battles-nearly-900-wildfires-as-trump-threatens-tariffs-over-smoke
-  headline: Canada battles nearly 900 wildfires as Trump threatens tariffs over smoke
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6329
-- slug: 2026-07-15-canadian-wildfire-smoke-blankets-midwest-northeast
-  headline: Canadian wildfire smoke blankets Midwest, Northeast
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6097
-- slug: 2026-07-11-brush-fire-northeast-of-los-angeles-grows-to-2-700-acres-prompts-evacuations
-  headline: Brush fire northeast of Los Angeles grows to 2,700 acres, prompts evacuations
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6131
-- slug: 2026-06-30-drought-heat-raise-july-4-wildfire-risk-from-fireworks-researcher-warns
-  headline: Drought, heat raise July 4 wildfire risk from fireworks, researcher warns
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6243
-- slug: 2026-06-17-forest-service-says-it-s-fully-staffed-as-wildfires-erupt-in-the-west
-  headline: Forest Service says it's fully staffed as wildfires erupt in the West
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.642
-- slug: 2026-06-21-utah-wildfire-forces-evacuation-of-eureka-as-extreme-heat-grips-us-west
-  headline: Utah wildfire forces evacuation of Eureka as extreme heat grips US West
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6205
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6226
+  strength: 0.6909
 - slug: 2026-04-25-wildfires-aren-t-just-out-west-climate-change-brings-blazes-east
   headline: Wildfires aren’t just out West. Climate change brings blazes East
   publish_date: '2026-04-25'
   relation: related
-  strength: 0.6527
-- slug: 2026-04-28-tornadoes-hail-and-flooding-threaten-parts-of-the-midwest
-  headline: Tornadoes, hail and flooding threaten parts of the Midwest
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6112
-- slug: 2026-04-17-wildfire-burning-season-extends-36-in-north-america-due-to-climate-change
-  headline: Wildfire burning season extends 36% in North America due to climate change
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6124
+  strength: 0.6543
 image:
   url: /articles/2026-08-10-pacific-north-west-wildfires-burn-2-9m-acres-destroy-846-structures.png
-  alt: "Illustration accompanying article: Pacific north-west wildfires burn 2.9m acres, destroy 846 structures"
+  alt: 'Illustration accompanying article: Pacific north-west wildfires burn 2.9m
+    acres, destroy 846 structures'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Pacific north-west wildfires burn 2.9m acres, destroy 846 structures
 
 **Subtype:** fact

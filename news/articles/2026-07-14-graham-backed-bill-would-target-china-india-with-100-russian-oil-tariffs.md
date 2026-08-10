@@ -32,6 +32,7 @@ topic_tags:
 - energy and resource
 storyline_nexus:
 - trump-tariff-wars
+- senate-passes-lindsey-graham-sanctions-bill
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -184,6 +185,7 @@ related_stories:
   relation: related
   strength: 0.6729
 ---
+
 ## Graham-backed bill would target China, India with 100% Russian oil tariffs
 
 **Subtype:** fact
