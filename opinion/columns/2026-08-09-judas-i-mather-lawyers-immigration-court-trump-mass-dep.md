@@ -1,7 +1,8 @@
 ---
 headline: The Courtroom's Sort, and the Woman the Docket Returned
 publish_date: '2026-08-09'
-lede: The congestion in the Nation's immigration courts is a disorder, and the sovereign is right to correct it.
+lede: The congestion in the Nation's immigration courts is a disorder, and the sovereign
+  is right to correct it.
 pen_name: judas-i-mather
 primary_entities:
 - Kamalpreet Chohan
@@ -30,7 +31,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -51,7 +53,28 @@ cross_article_links:
   strength: 0.5384
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-courtrooms-sort-and-the-woman-the-docket-returned.png
+  alt: 'Editorial cartoon by Hector Rentier: The Courtroom''s Sort, and the Woman
+    the Docket Returned'
+  caption: Correct operation.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T00:12:37-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single panel, 1:1, heavy cross-hatch wood-engraving. Banner text across
+    upper margin. A federal immigration judge fills the center frame, seated at an
+    elevated bench in full judicial robes. He is a fu
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-09-hector-paired-with-2026-08-09-judas-i-mather-lawyers-immigration-court-trump-mass-dep
 ---
+
+![Editorial cartoon by Hector Rentier: The Courtroom's Sort, and the Woman the Docket Returned](/cartoons/the-courtrooms-sort-and-the-woman-the-docket-returned.png)
+*Correct operation.*
 
 The congestion in the Nation's immigration courts is a disorder, and the sovereign is right to correct it. A caseload that stretches to a decade is not mercy; it is paralysis, and paralysis is its own cruelty to the claimant with a meritorious case and to the household that cannot close its books. The administration's response — packed dockets, curtailed lead times, speed in the entry of judgment — is the discipline of a household that has decided to know its own. The alien who appears before the immigration court appears by the sovereign's leave and on the sovereign's terms; the proceeding is not a criminal trial, and the protections that attach to a citizen accused do not attach to the stranger who requests the indulgence of remaining. The statute is explicit on the point. Section 240(b)(4)(B) of the Immigration and Nationality Act accords the alien "a reasonable opportunity" to consult counsel, at no expense to the Government. The privilege is permissive: the alien may retain an advocate at his own charge, and the household underwrites none for the one who would argue against its judgment. The administration has already cut [legal-aid funding for 20,000 migrant children](/articles/2026-07-22-trump-administration-cuts-legal-aid-funding-for-20-000-migrant-children/), and the same discipline runs through the Sacramento docket.
 
