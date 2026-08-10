@@ -32,6 +32,7 @@ topic_tags:
 - values
 storyline_nexus:
 - 2026-midterm-elections
+- minnesota-senate-primary-2026
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
@@ -169,14 +170,19 @@ related_stories:
   strength: 0.6933
 image:
   url: /articles/2026-07-21-august-primaries-in-michigan-and-minnesota-test-democratic-division.png
-  alt: "Illustration accompanying article: August primaries in Michigan and Minnesota test Democratic division"
+  alt: 'Illustration accompanying article: August primaries in Michigan and Minnesota
+    test Democratic division'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## August primaries in Michigan and Minnesota test Democratic division
 
 **Subtype:** fact
