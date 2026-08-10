@@ -32,7 +32,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,7 +54,28 @@ cross_article_links:
   strength: 0.2269
   confidence: high
 draft: false
+image:
+  url: /cartoons/to-donald-while-the-pews-in-salisbury-are-empty.png
+  alt: 'Editorial cartoon by Hector Rentier: To Donald, While the Pews in Salisbury
+    Are Empty'
+  caption: The pen did not hesitate. Neither did he look behind it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T14:08:18-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single central figure in 1:1 format, heavy cross-hatch wood-engraving.
+    President Trump sits at a broad executive desk in the foreground, face fully rendered
+    and individuated in three-quarter profile, '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-05-hector-paired-with-2026-08-05-mary-magdalena-immigration-haitians-temporary-protected
 ---
+
+![Editorial cartoon by Hector Rentier: To Donald, While the Pews in Salisbury Are Empty](/cartoons/to-donald-while-the-pews-in-salisbury-are-empty.png)
+*The pen did not hesitate. Neither did he look behind it.*
 
 Donald, the pews are empty because the people are afraid to sit in them.
 The bridal shower is canceled. The barbecue is unlit. The English class is dark.

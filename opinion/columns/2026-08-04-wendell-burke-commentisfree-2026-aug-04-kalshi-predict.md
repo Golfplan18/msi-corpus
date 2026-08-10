@@ -1,7 +1,8 @@
 ---
 headline: They Priced the Suffering and Called It Information
 publish_date: '2026-08-04'
-lede: Kalshi is taking the worst possibilities in a sick child’s life and preparing to turn them into someone else’s financial position.
+lede: Kalshi is taking the worst possibilities in a sick child’s life and preparing
+  to turn them into someone else’s financial position.
 pen_name: wendell-burke
 primary_entities:
 - Kalshi
@@ -32,7 +33,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,7 +55,28 @@ cross_article_links:
   strength: 0.7079
   confidence: high
 draft: false
+image:
+  url: /cartoons/they-priced-the-suffering-and-called-it-information.png
+  alt: 'Editorial cartoon by Hector Rentier: They Priced the Suffering and Called
+    It Information'
+  caption: The ticker did not know it was pricing a child.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T13:57:45-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: '1:1 format, heavy cross-hatch wood-engraving in the Nast tradition.
+    Single central figure: Tarek Mansour, CEO of Kalshi, a composed young executive
+    in an immaculate dark suit, seated at a sleek modern'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-04-hector-paired-with-2026-08-04-wendell-burke-commentisfree-2026-aug-04-kalshi-predict
 ---
+
+![Editorial cartoon by Hector Rentier: They Priced the Suffering and Called It Information](/cartoons/they-priced-the-suffering-and-called-it-information.png)
+*The ticker did not know it was pricing a child.*
 
 Kalshi is taking the worst possibilities in a sick child’s life and preparing to turn them into someone else’s financial position. [Joshua Pederson, a Boston University professor whose twelve-year-old son is in a clinical trial for an aggressive tumor growing inches below his heart](https://www.theguardian.com/commentisfree/2026/aug/04/kalshi-predictions-market-clinical-trial), wrote this week that the plan is “enraging.” He is right. His family has endured a recurrence, a frightening prognosis, and the grinding uncertainty of a clinical trial combining chemotherapy and immunotherapy; the early results have been mixed, every cycle carries present side effects, and the consequences may follow his son for years. Kalshi’s first proposed contracts include wagers on whether an anti-cancer drug will receive FDA approval and whether an Alzheimer’s drug trial will meet its endpoints. Its CEO, Tarek Mansour, calls this “surfacing information.”
 

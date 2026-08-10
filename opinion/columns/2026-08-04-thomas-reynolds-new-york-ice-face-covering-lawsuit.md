@@ -1,7 +1,8 @@
 ---
 headline: Federal Supremacy Should Not Erase Accountability for Masked Agents
 publish_date: '2026-08-04'
-lede: The federal government is using supremacy to shield masked immigration agents from public accountability.
+lede: The federal government is using supremacy to shield masked immigration agents
+  from public accountability.
 pen_name: thomas-reynolds
 primary_entities:
 - New York
@@ -31,7 +32,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -47,9 +49,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-04-federal-judge-strikes-new-york-limits-on-agents-masks-and-id.png
-  alt: 'Illustration accompanying article: Federal judge strikes New York limits on agents'' masks and ID'
+  url: /cartoons/federal-supremacy-should-not-erase-accountability-for.png
+  alt: 'Editorial cartoon by Hector Rentier: Federal Supremacy Should Not Erase Accountability
+    for Masked Agents'
+  caption: The word was supremacy. The faces were missing.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-10T14:00:23-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single-panel, 1:1, heavy cross-hatch wood-engraving. Center frame: an
+    archetypal government official in a dark suit, face fully rendered and individuated,
+    standing behind a polished wooden podium. The'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-04-federal-judge-strikes-new-york-limits-on-agents-masks-and-id
   relation: extends
@@ -57,7 +70,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-04-hector-paired-with-2026-08-04-thomas-reynolds-new-york-ice-face-covering-lawsuit
 ---
+
+![Editorial cartoon by Hector Rentier: Federal Supremacy Should Not Erase Accountability for Masked Agents](/cartoons/federal-supremacy-should-not-erase-accountability-for.png)
+*The word was supremacy. The faces were missing.*
 
 The federal government is using supremacy to shield masked immigration agents from public accountability.
 

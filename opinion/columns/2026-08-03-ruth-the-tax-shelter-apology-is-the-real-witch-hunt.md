@@ -1,7 +1,9 @@
 ---
 headline: The Tax Shelter Apology Is the Real Witch Hunt
 publish_date: '2026-08-03'
-lede: The witch hunt is not the IRS examining inflated conservation-easement deductions; it is the old tax-shelter performance in which the wealthy mistake scrutiny for persecution.
+lede: The witch hunt is not the IRS examining inflated conservation-easement deductions;
+  it is the old tax-shelter performance in which the wealthy mistake scrutiny for
+  persecution.
 pen_name: ruth-justice
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: ruth-justice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +34,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-tax-shelter-apology-is-the-real-witch-hunt.png
+  alt: 'Editorial cartoon by Hector Rentier: The Tax Shelter Apology Is the Real Witch
+    Hunt'
+  caption: A thing that returns multiples of its purchase price is not a gift.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T13:47:26-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single central figure: a professorial man in a suit and spectacles stands
+    at a polished wooden podium bearing a brass plaque reading CONSERVATION INCENTIVE
+    DEFENSE. A microphone extends toward his com'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-03-hector-paired-with-2026-08-03-ruth-the-tax-shelter-apology-is-the-real-witch-hunt
 ---
+
+![Editorial cartoon by Hector Rentier: The Tax Shelter Apology Is the Real Witch Hunt](/cartoons/the-tax-shelter-apology-is-the-real-witch-hunt.png)
+*A thing that returns multiples of its purchase price is not a gift.*
 
 The witch hunt is not the IRS examining inflated conservation-easement deductions; it is the old tax-shelter performance in which the wealthy mistake scrutiny for persecution. In [Steve Moore’s Fox News column](https://www.foxnews.com/opinion/steve-moore-irs-became-judge-jury-executioner-tax-code-witch-hunt-americans), he argues that the IRS retroactively changed the rules on syndicated conservation easements, presumed taxpayers abusive, and punished people who relied on a longstanding tax incentive. Fine. Now let us look at what the notice was looking at.
 

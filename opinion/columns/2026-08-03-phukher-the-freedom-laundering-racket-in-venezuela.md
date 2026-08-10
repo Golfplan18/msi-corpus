@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: phukher-tarlson-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-freedom-laundering-racket-in-venezuela.png
+  alt: 'Editorial cartoon by Hector Rentier: The Freedom-Laundering Racket in Venezuela'
+  caption: The receipt was in her own column.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T13:51:37-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1 format, heavy cross-hatch wood-engraving. Central
+    figure: a female columnist in professional dress and half-glasses, seated at a
+    writing desk, facing the reader with a composed, self'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-03-hector-paired-with-2026-08-03-phukher-the-freedom-laundering-racket-in-venezuela
 ---
+
+![Editorial cartoon by Hector Rentier: The Freedom-Laundering Racket in Venezuela](/cartoons/the-freedom-laundering-racket-in-venezuela.png)
+*The receipt was in her own column.*
 
 O'Grady launders U.S. intervention into a Venezuelan failure. Mary Anastasia O'Grady's August 9, 2026 opinion column in the *Wall Street Journal*, “Trump's Venezuelan Oil Boom Sputters,” presents Venezuela's weak oil investment as the product of chavista illegitimacy while treating the U.S. military removal of Nicolás Maduro, the Treasury licensing regime, and the broader intervention as background scenery. I built versions of this frame in the cable years. It is the frame that erases the destabilizing intervention and packages the same intervention as the remedy.
 

@@ -1,5 +1,6 @@
 ---
-headline: Donald Trump's Agents Shot Two American Citizens Dead. Massachusetts Said No.
+headline: Donald Trump's Agents Shot Two American Citizens Dead. Massachusetts Said
+  No.
 publish_date: '2026-08-06'
 lede: Donald Trump's agents shot and killed two American citizens.
 pen_name: hayzeus-l-salvador
@@ -24,7 +25,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -40,9 +42,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-06-massachusetts-governor-signs-landmark-legislation-limiting-ice-enforcement.png
-  alt: 'Illustration accompanying article: Massachusetts Governor Signs Landmark Legislation Limiting ICE Enforcement'
+  url: /cartoons/donald-trumps-agents-shot-two-american-citizens-dead.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump''s Agents Shot Two American
+    Citizens Dead. Massachusetts Said No.'
+  caption: Public safety begins where armed power stops entering every door.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-10T14:18:11-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single-panel 1:1 editorial cartoon in heavy black cross-hatch wood-engraving
+    style. Donald Trump, recognizable but fully human in his public presidential role,
+    stands at the right beside a tall armore
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-06-massachusetts-governor-signs-landmark-legislation-limiting-ice-enforcement
   relation: extends
@@ -50,7 +63,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-06-hector-paired-with-2026-08-06-hayzeus-l-salvador-top-news-us-2026-08-06-latam-us-massachu
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump's Agents Shot Two American Citizens Dead. Massachusetts Said No.](/cartoons/donald-trumps-agents-shot-two-american-citizens-dead.png)
+*Public safety begins where armed power stops entering every door.*
 
 Donald Trump's agents shot and killed two American citizens.
 

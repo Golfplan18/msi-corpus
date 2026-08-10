@@ -42,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,9 +59,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-06-trump-administration-proposes-shifting-head-start-rules-to-states.png
-  alt: 'Illustration accompanying article: Trump administration proposes shifting Head Start rules to states'
+  url: /cartoons/the-trump-administration-is-dismantling-head-start-to.png
+  alt: 'Editorial cartoon by Hector Rentier: The Trump Administration Is Dismantling
+    Head Start to Abandon Poor Children'
+  caption: Flexibility is permission. The cost is assigned to children.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-10T14:12:17-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single-panel 1:1 editorial cartoon in heavy cross-hatched wood-engraving
+    style. Alex Adams stands at a federal lectern labeled HHS, fully human and individually
+    rendered, calmly presenting a large doc
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-06-trump-administration-proposes-shifting-head-start-rules-to-states
   relation: extends
@@ -68,7 +80,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-06-hector-paired-with-2026-08-06-joanna-rivera-blackwell-nx-s1-5920386-head-start-regulations-trump
 ---
+
+![Editorial cartoon by Hector Rentier: The Trump Administration Is Dismantling Head Start to Abandon Poor Children](/cartoons/the-trump-administration-is-dismantling-head-start-to.png)
+*Flexibility is permission. The cost is assigned to children.*
 
 The Trump administration is dismantling Head Start to abandon poor children.
 

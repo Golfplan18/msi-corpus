@@ -37,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,7 +59,28 @@ cross_article_links:
   strength: 0.9482
   confidence: high
 draft: false
+image:
+  url: /cartoons/trump-is-coercing-brazil-to-meddle-in-its-election-and.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Coercing Brazil to Meddle in
+    Its Election and Punish Workers'
+  caption: He called it reciprocity. The workers called it the bill.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T14:02:45-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single-panel editorial cartoon, 1:1 aspect ratio, heavy cross-hatch
+    wood-engraving style in the Nast tradition. Center frame: a composed diplomatic
+    official in a dark suit and tie stands behind a poli'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-05-hector-paired-with-2026-08-05-james-big-jim-zebedee-us-news-2026-aug-04-us-revokes-brazil-am
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Coercing Brazil to Meddle in Its Election and Punish Workers](/cartoons/trump-is-coercing-brazil-to-meddle-in-its-election-and.png)
+*He called it reciprocity. The workers called it the bill.*
 
 Trump is coercing Brazil to meddle in its election and punish workers.
 

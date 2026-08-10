@@ -1,7 +1,9 @@
 ---
 headline: The Pension Boom Is a Margin on Her Hands
 publish_date: '2026-08-05'
-lede: Dottie is a hand on the cold-plate line of the thermal-fabrication plant I own outside Allentown, and I’m proud to say I’ve reduced her pension liability to a market fluctuation.
+lede: Dottie is a hand on the cold-plate line of the thermal-fabrication plant I own
+  outside Allentown, and I’m proud to say I’ve reduced her pension liability to a
+  market fluctuation.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-pension-boom-is-a-margin-on-her-hands.png
+  alt: 'Editorial cartoon by Hector Rentier: The Pension Boom Is a Margin on Her Hands'
+  caption: The ratio improved. The obligation merely changed hands.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T14:10:10-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single-panel editorial cartoon in heavy black cross-hatch
+    wood-engraving style. Sterling A. Varice, fully human and individually recognizable
+    as the serene business-school rentier, sits beh
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-05-hector-paired-with-2026-08-05-sterling-the-pension-boom-is-a-margin-on-her-hands
 ---
+
+![Editorial cartoon by Hector Rentier: The Pension Boom Is a Margin on Her Hands](/cartoons/the-pension-boom-is-a-margin-on-her-hands.png)
+*The ratio improved. The obligation merely changed hands.*
 
 Dottie is a hand on the cold-plate line of the thermal-fabrication plant I own outside Allentown, and I’m proud to say I’ve reduced her pension liability to a market fluctuation. She builds the cooling units that keep the chips in your phone from cooking themselves. Her fingers won’t open flat for about 20 minutes after she clocks out. She calls it “the claw.” I call it a throughput cost. You bought the phone. You paid for the stream she made possible. The brace cost $14. I refused it. The Lord provides.
 

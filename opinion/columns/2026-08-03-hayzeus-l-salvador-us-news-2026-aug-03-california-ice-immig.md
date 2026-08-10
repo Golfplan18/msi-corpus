@@ -1,7 +1,8 @@
 ---
 headline: Trump Used Armed Agents to Break Families Apart at a California Farm
 publish_date: '2026-08-03'
-lede: Donald Trump used armed federal agents to break families apart at a California farm.
+lede: Donald Trump used armed federal agents to break families apart at a California
+  farm.
 pen_name: hayzeus-l-salvador
 primary_entities:
 - Glass House Farms
@@ -43,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,7 +67,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-used-armed-agents-to-break-families-apart-at-a.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Used Armed Agents to Break Families
+    Apart at a California Farm'
+  caption: Protection was the word. Separation was the act.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T13:55:14-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single central figure, 1:1 format, heavy wood-engraving cross-hatch.
+    A Christian-right figure in a dark suit and tie stands at a church pulpit, one
+    hand resting on an open Bible, the other hand raised
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-03-hector-paired-with-2026-08-03-hayzeus-l-salvador-us-news-2026-aug-03-california-ice-immig
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Used Armed Agents to Break Families Apart at a California Farm](/cartoons/trump-used-armed-agents-to-break-families-apart-at-a.png)
+*Protection was the word. Separation was the act.*
 
 Donald Trump used armed federal agents to break families apart at a California farm.
 
