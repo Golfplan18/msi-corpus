@@ -22,6 +22,7 @@ topic_tags:
 - government policy
 storyline_nexus:
 - 2026-midterm-elections
+- wisconsin-democratic-governor-primary-chaos
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -148,6 +149,7 @@ related_stories:
   relation: related
   strength: 0.6703
 ---
+
 ## Rodriguez drops out of Wisconsin governor's race
 
 **Subtype:** fact

@@ -1,7 +1,8 @@
 ---
 headline: The Permian Is Selling Its Future by the Acre
 publish_date: '2026-08-10'
-lede: The Permian Basin is not being invited to host the artificial-intelligence economy; it is being invited to rent out its land, water, power and future to it.
+lede: The Permian Basin is not being invited to host the artificial-intelligence economy;
+  it is being invited to rent out its land, water, power and future to it.
 pen_name: wendell-burke
 primary_entities:
 - Permian Basin
@@ -32,7 +33,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,7 +55,28 @@ cross_article_links:
   strength: 0.8368
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-permian-is-selling-its-future-by-the-acre.png
+  alt: 'Editorial cartoon by Hector Rentier: The Permian Is Selling Its Future by
+    the Acre'
+  caption: The ribbon was land, water, power, and future. He cut it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T22:02:31-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast-Herblock
+    tradition. Center frame: a composed corporate executive in a business suit stands
+    at a ceremonial podium, oversized scissors in'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-10-hector-paired-with-2026-08-10-wendell-burke-nter-backlash-leads-to-a-new-land-rush-i
 ---
+
+![Editorial cartoon by Hector Rentier: The Permian Is Selling Its Future by the Acre](/cartoons/the-permian-is-selling-its-future-by-the-acre.png)
+*The ribbon was land, water, power, and future. He cut it.*
 
 The Permian Basin is not being invited to host the artificial-intelligence economy; it is being invited to rent out its land, water, power and future to it. Texas Pacific Land, LandBridge and EagleRock plan to lease Permian acreage to data-center developers while selling them water and construction materials. Separately, Chevron has signed a 20-year agreement to sell electricity to Microsoft for a West Texas AI data center, a deal [Main Street Independent has previously reported](https://mainstreetindependent.com/articles/2026-06-22-chevron-to-sell-power-to-microsoft-for-2-7-gigawatt-west-texas-ai-data-center/). The three landowners together control 1.4 million acres, more than seven times the size of New York City. That is not a local economy finding a new use for its inheritance. It is an old rentier economy finding a new customer.
 

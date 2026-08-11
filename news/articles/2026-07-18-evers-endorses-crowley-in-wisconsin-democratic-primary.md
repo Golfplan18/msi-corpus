@@ -28,6 +28,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - 2026-midterm-elections
+- wisconsin-democratic-governor-primary-chaos
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
@@ -166,6 +167,7 @@ related_stories:
   relation: related
   strength: 0.6585
 ---
+
 ## Evers endorses Crowley in Wisconsin Democratic primary
 
 **Subtype:** fact

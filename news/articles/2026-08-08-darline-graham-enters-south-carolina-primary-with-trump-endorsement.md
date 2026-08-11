@@ -29,6 +29,7 @@ topic_tags:
 - health
 storyline_nexus:
 - darline-graham-senate-campaign-south-carolina-primary
+- darline-graham-2026-sc-senate-primary
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -129,6 +130,7 @@ related_stories:
   relation: related
   strength: 0.6835
 ---
+
 ## Darline Graham enters South Carolina primary with Trump endorsement
 
 **Subtype:** fact

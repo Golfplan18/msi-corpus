@@ -32,6 +32,7 @@ topic_tags:
 - political process
 storyline_nexus:
 - 2026-midterm-elections
+- darline-graham-2026-sc-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -162,6 +163,7 @@ related_stories:
   relation: related
   strength: 0.7327
 ---
+
 ## McMaster to appoint Graham replacement as GOP scrambles for Senate seat
 
 **Subtype:** fact

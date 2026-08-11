@@ -31,7 +31,8 @@ topic_tags:
 - politics
 - election
 - civil rights
-storyline_nexus: []
+storyline_nexus:
+- darline-graham-2026-sc-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.6818
 ---
+
 ## GOP returns to Congress facing a narrower majority and a stalled agenda
 
 **Subtype:** fact

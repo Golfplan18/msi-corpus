@@ -1,7 +1,8 @@
 ---
 headline: The Oil Patch Is Selling AI the Water Nobody Wanted
 publish_date: '2026-08-10'
-lede: Texas Pacific, LandBridge and EagleRock are selling the Permian’s commons to AI.
+lede: Texas Pacific, LandBridge and EagleRock are selling the Permian’s commons to
+  AI.
 pen_name: stewart-letterkenski
 primary_entities:
 - Permian Basin
@@ -32,7 +33,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +56,29 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-oil-patch-is-selling-ai-the-water-nobody-wanted.png
+  alt: 'Editorial cartoon by Hector Rentier: The Oil Patch Is Selling AI the Water
+    Nobody Wanted'
+  caption: Extraction does not stop when the commodity stops paying. It finds a new
+    one.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-10T22:03:55-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single central figure, 1:1, heavy cross-hatch wood-engraving in the Nast
+    tradition. A composed, well-dressed rentier — fully individuated, calm face showing
+    self-pleased composure, not bestialized — s
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-10-hector-paired-with-2026-08-10-stewart-letterkenski-nter-backlash-leads-to-a-new-land-rush-i
 ---
+
+![Editorial cartoon by Hector Rentier: The Oil Patch Is Selling AI the Water Nobody Wanted](/cartoons/the-oil-patch-is-selling-ai-the-water-nobody-wanted.png)
+*Extraction does not stop when the commodity stops paying. It finds a new one.*
 
 Texas Pacific, LandBridge and EagleRock are selling the Permian’s commons to AI.
 
