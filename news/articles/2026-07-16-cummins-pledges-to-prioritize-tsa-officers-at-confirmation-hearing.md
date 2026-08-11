@@ -25,7 +25,8 @@ topic_tags:
 - employment
 - transportation accident and incident
 - labour relations
-storyline_nexus: []
+storyline_nexus:
+- frank-kendall-sues-trump-administration-to-restore-security-clearance
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -175,6 +176,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Cummins pledges to prioritize TSA officers at confirmation hearing
 
 **Subtype:** fact

@@ -30,7 +30,8 @@ topic_tags:
 - fundamental rights
 - government policy
 - political process
-storyline_nexus: []
+storyline_nexus:
+- frank-kendall-sues-trump-administration-to-restore-security-clearance
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -174,16 +175,21 @@ related_stories:
   strength: 0.658
 image:
   url: /articles/2026-07-23-new-york-times-argues-subpoenas-are-retaliation-for-reporting.png
-  alt: "Illustration accompanying article: New York Times argues subpoenas are retaliation for reporting"
+  alt: 'Illustration accompanying article: New York Times argues subpoenas are retaliation
+    for reporting'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-07-23-the-subpoena-signal-why-the-trump-administration-s-move-against-the-new-york-tim'
+- 2026-07-23-the-subpoena-signal-why-the-trump-administration-s-move-against-the-new-york-tim
 ---
+
 ## New York Times argues subpoenas are retaliation for reporting
 
 **Subtype:** fact

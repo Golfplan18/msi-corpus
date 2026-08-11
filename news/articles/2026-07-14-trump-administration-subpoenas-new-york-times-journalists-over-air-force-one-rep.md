@@ -27,6 +27,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - trump-judicial-challenges
+- frank-kendall-sues-trump-administration-to-restore-security-clearance
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -168,6 +169,7 @@ related_stories:
   relation: related
   strength: 0.6846
 ---
+
 ## Trump administration subpoenas New York Times journalists over Air Force One reporting
 
 **Subtype:** fact
