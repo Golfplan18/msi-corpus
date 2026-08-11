@@ -25,7 +25,8 @@ topic_tags:
 - armed conflict
 - international military intervention
 - transportation accident and incident
-storyline_nexus: []
+storyline_nexus:
+- russia-probes-nato-defenses-with-drones
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -183,6 +184,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Armed drone found at German airport near Ukrainian jet traced to Russia
 
 **Subtype:** fact
