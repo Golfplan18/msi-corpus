@@ -2,8 +2,12 @@
 headline: Mangione faces New York court appearance before September trial
 secondary_headline: Defense and prosecutors dispute responsibility for press access
 publish_date: '2026-08-11'
-lede: Luigi Mangione is due to appear Tuesday at Manhattan state court in New York as prosecutors pursue the case over Brian Thompson’s killing. His appearance comes less than a month before his New York trial is scheduled to begin on Sept. 8.
-nut_graf: Prosecutors allege that Mangione shot Thompson outside a Midtown Manhattan hotel on Dec. 4, 2024. Mangione maintains his innocence, and he also faces a federal trial on stalking charges related to Thompson’s killing.
+lede: Luigi Mangione is due to appear Tuesday at Manhattan state court in New York
+  as prosecutors pursue the case over Brian Thompson’s killing. His appearance comes
+  less than a month before his New York trial is scheduled to begin on Sept. 8.
+nut_graf: Prosecutors allege that Mangione shot Thompson outside a Midtown Manhattan
+  hotel on Dec. 4, 2024. Mangione maintains his innocence, and he also faces a federal
+  trial on stalking charges related to Thompson’s killing.
 primary_entities:
 - Luigi Mangione
 - Brian Thompson
@@ -40,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,12 +149,14 @@ related_stories:
   relation: related
   strength: 0.7304
 - slug: 2026-06-29-luigi-mangione-appears-in-federal-court-after-withdrawing-psychiatric-defense
-  headline: Luigi Mangione appears in federal court after withdrawing psychiatric defense
+  headline: Luigi Mangione appears in federal court after withdrawing psychiatric
+    defense
   publish_date: '2026-06-29'
   relation: related
   strength: 0.7946
 - slug: 2026-06-17-luigi-mangione-to-mount-psychiatric-defense-in-unitedhealthcare-ceo-killing-tria
-  headline: Luigi Mangione to Mount Psychiatric Defense in UnitedHealthcare CEO Killing Trial
+  headline: Luigi Mangione to Mount Psychiatric Defense in UnitedHealthcare CEO Killing
+    Trial
   publish_date: '2026-06-17'
   relation: related
   strength: 0.7933
@@ -158,11 +165,6 @@ related_stories:
   publish_date: '2026-06-16'
   relation: related
   strength: 0.7779
-- slug: 2026-07-18-mandani-reviews-options-to-arrest-netanyahu-during-un-visit
-  headline: Mandani reviews options to arrest Netanyahu during UN visit
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5883
 - slug: 2026-06-03-judge-in-luigi-mangione-case-holds-sealed-hearing-over-press-objections
   headline: Judge in Luigi Mangione case holds sealed hearing over press objections
   publish_date: '2026-06-03'
@@ -183,63 +185,7 @@ related_stories:
   publish_date: '2026-05-17'
   relation: related
   strength: 0.7248
-- slug: 2026-05-18-luigi-mangione-trial-gun-and-notebook-allowed-as-evidence
-  headline: 'Luigi Mangione trial: Gun and notebook allowed as evidence'
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.71
-- slug: 2026-01-29-manhattan-prosecutors-seek-july-trial-date-in-luigi-mangione-state-murder-case
-  headline: Manhattan prosecutors seek July trial date in Luigi Mangione state murder case
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7951
-- slug: 2026-01-09-federal-judge-says-mangione-death-penalty-trial-could-begin-by-december
-  headline: Federal judge says Mangione death penalty trial could begin by December
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7978
-- slug: 2026-05-19-judge-allows-gun-and-notebook-as-evidence-in-luigi-mangione-trial
-  headline: Judge allows gun and notebook as evidence in Luigi Mangione trial
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7006
-- slug: 2026-05-19-luigi-mangione-trial-judge-allows-gun-and-notebook-as-evidence
-  headline: 'Luigi Mangione trial: Judge allows gun and notebook as evidence'
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7004
-- slug: 2026-01-22-death-penalty-decision-looms-as-judge-reviews-mangione-backpack-seizure
-  headline: Death penalty decision looms as judge reviews Mangione backpack seizure
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7667
-- slug: 2026-02-28-feds-won-t-appeal-ruling-barring-death-penalty-in-luigi-mangione-case
-  headline: Feds won’t appeal ruling barring death penalty in Luigi Mangione case
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.752
-- slug: 2026-02-05-double-jeopardy-mangione-protests-consecutive-trials-in-ceo-murder-case
-  headline: Double jeopardy? Mangione protests consecutive trials in CEO murder case
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7532
-- slug: 2026-06-07-five-hurt-as-suspect-stabs-commuters-at-new-york-s-penn-station
-  headline: Five hurt as suspect stabs commuters at New York's Penn Station
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5989
-- slug: 2026-03-20-new-york-man-pleads-guilty-to-cyberstalking-family-member-of-brian-thompson
-  headline: New York man pleads guilty to cyberstalking family member of Brian Thompson
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6989
-- slug: 2026-01-12-federal-judge-sets-hearing-on-mangione-backpack-search-procedures
-  headline: Federal judge sets hearing on Mangione backpack search procedures
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7205
 ---
-
 ## Mangione faces New York court appearance before September trial
 
 **Subtype:** fact
