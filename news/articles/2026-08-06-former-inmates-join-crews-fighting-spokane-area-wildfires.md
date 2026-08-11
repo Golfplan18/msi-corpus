@@ -22,7 +22,8 @@ topic_tags:
 - natural disaster
 - labour
 - labour market
-storyline_nexus: []
+storyline_nexus:
+- spokane-wildfires-destroy-homes-and-force-evacuations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -160,6 +161,7 @@ related_stories:
   relation: related
   strength: 0.6682
 ---
+
 ## Former inmates join crews fighting Spokane-area wildfires
 
 **Subtype:** fact

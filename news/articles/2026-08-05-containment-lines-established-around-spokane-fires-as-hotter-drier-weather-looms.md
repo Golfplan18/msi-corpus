@@ -23,7 +23,8 @@ topic_tags:
 - natural disaster
 - crime, law and justice
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- spokane-wildfires-destroy-homes-and-force-evacuations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -165,6 +166,7 @@ related_stories:
   relation: related
   strength: 0.66
 ---
+
 ## Containment lines established around Spokane fires as hotter, drier weather looms
 
 **Subtype:** fact

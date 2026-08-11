@@ -26,7 +26,8 @@ topic_tags:
 - disaster
 - crime
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- spokane-wildfires-destroy-homes-and-force-evacuations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.7671
 ---
+
 ## Spokane-area wildfires destroy hundreds of homes, force 60,000 to evacuate
 
 **Subtype:** fact
