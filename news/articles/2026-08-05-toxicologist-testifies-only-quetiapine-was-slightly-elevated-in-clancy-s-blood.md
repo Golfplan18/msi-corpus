@@ -37,7 +37,8 @@ topic_tags:
 - mental health
 - trial
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- clancy-medication-changes-and-hopelessness-before-murders
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -115,6 +116,7 @@ related_stories:
   relation: related
   strength: 0.726
 ---
+
 ## Toxicologist testifies only quetiapine was slightly elevated in Clancy's blood
 
 **Subtype:** fact

@@ -19,7 +19,8 @@ primary_themes:
 - mental health
 topic_tags:
 - mental health
-storyline_nexus: []
+storyline_nexus:
+- clancy-medication-changes-and-hopelessness-before-murders
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -172,6 +173,7 @@ related_stories:
   relation: related
   strength: 0.7417
 ---
+
 ## Nanny testifies about Clancy's weight loss and sleep problems at trial
 
 **Subtype:** fact

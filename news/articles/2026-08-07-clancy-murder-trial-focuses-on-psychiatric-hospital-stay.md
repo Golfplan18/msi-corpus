@@ -22,7 +22,8 @@ primary_themes:
 - legal proceedings
 topic_tags:
 - mental health
-storyline_nexus: []
+storyline_nexus:
+- clancy-medication-changes-and-hopelessness-before-murders
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -182,6 +183,7 @@ related_stories:
   relation: related
   strength: 0.7273
 ---
+
 ## Clancy murder trial focuses on psychiatric hospital stay
 
 **Subtype:** fact
