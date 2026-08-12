@@ -27,7 +27,8 @@ topic_tags:
 - fire
 - disaster
 - crime, law and justice
-storyline_nexus: []
+storyline_nexus:
+- daycare-mass-shooting-in-minnesota
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -146,6 +147,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Michigan fire leaves eight dead, including six children; gunshot wounds reported
 
 **Subtype:** fact

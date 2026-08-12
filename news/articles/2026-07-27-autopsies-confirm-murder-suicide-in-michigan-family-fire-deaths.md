@@ -15,7 +15,8 @@ primary_themes:
 - Michigan crime
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- daycare-mass-shooting-in-minnesota
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -145,6 +146,7 @@ related_stories:
   relation: related
   strength: 0.7976
 ---
+
 ## Autopsies confirm murder-suicide in Michigan family fire deaths
 
 **Subtype:** fact
