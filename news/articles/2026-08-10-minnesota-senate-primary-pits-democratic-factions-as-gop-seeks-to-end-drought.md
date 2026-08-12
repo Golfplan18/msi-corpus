@@ -31,6 +31,7 @@ topic_tags:
 storyline_nexus:
 - minnesota-senate-primary-2026
 - mike-lindell-refuses-to-concede-in-minnesota-governor-primary
+- minnesota-gop-gains-momentum-in-2026-senate-primary
 storyline_continuity:
   decision: direct
   selected_prior_ids:

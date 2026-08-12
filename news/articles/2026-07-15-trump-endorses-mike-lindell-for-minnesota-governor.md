@@ -32,6 +32,7 @@ topic_tags:
 storyline_nexus:
 - 2026-midterm-elections
 - mike-lindell-refuses-to-concede-in-minnesota-governor-primary
+- minnesota-gop-gains-momentum-in-2026-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
