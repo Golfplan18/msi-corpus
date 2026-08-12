@@ -38,7 +38,8 @@ topic_tags:
 - economy, business and finance
 - government policy
 - computing and information technology
-storyline_nexus: []
+storyline_nexus:
+- form-energy-secures-750m-funding-for-iron-air-batteries
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -201,6 +202,7 @@ related_stories:
   relation: related
   strength: 0.8687
 ---
+
 ## Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
 
 **Subtype:** fact

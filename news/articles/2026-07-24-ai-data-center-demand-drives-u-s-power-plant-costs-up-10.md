@@ -23,7 +23,8 @@ primary_themes:
 - Utility regulation
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- form-energy-secures-750m-funding-for-iron-air-batteries
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -161,8 +162,9 @@ related_stories:
   relation: related
   strength: 0.6644
 analyses:
-- '2026-07-24-ai-data-center-demand-is-driving-a-1-4-trillion-grid-build-out-and-blending-the'
+- 2026-07-24-ai-data-center-demand-is-driving-a-1-4-trillion-grid-build-out-and-blending-the
 ---
+
 ## AI data center demand drives U.S. power plant costs up 10%
 
 **Subtype:** fact
