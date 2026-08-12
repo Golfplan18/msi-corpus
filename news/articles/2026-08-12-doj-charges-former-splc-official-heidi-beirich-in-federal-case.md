@@ -2,8 +2,12 @@
 headline: DOJ charges former SPLC official Heidi Beirich in federal case
 secondary_headline: Charges include wire fraud, money laundering, false statements
 publish_date: '2026-08-12'
-lede: Federal prosecutors have charged Heidi Beirich, a former Southern Poverty Law Center official, in the Justice Department's broader criminal case against the Alabama-based civil rights organization, her attorney said Wednesday.
-nut_graf: The charge expands a federal prosecution already targeting the SPLC, placing a former chief financial officer in the criminal case alongside the organization itself.
+lede: Federal prosecutors have charged Heidi Beirich, a former Southern Poverty Law
+  Center official, in the Justice Department's broader criminal case against the Alabama-based
+  civil rights organization, her attorney said Wednesday.
+nut_graf: The charge expands a federal prosecution already targeting the SPLC, placing
+  a former chief financial officer in the criminal case alongside the organization
+  itself.
 primary_entities:
 - Heidi Beirich
 - Southern Poverty Law Center
@@ -44,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,7 +153,8 @@ related_stories:
   relation: related
   strength: 0.7407
 - slug: 2026-05-27-southern-poverty-law-center-seeks-dismissal-of-doj-indictment-as-vindictive-pros
-  headline: Southern Poverty Law Center seeks dismissal of DOJ indictment as vindictive prosecution
+  headline: Southern Poverty Law Center seeks dismissal of DOJ indictment as vindictive
+    prosecution
   publish_date: '2026-05-27'
   relation: related
   strength: 0.7496
@@ -158,7 +164,8 @@ related_stories:
   relation: related
   strength: 0.782
 - slug: 2026-05-10-alabama-attorney-general-announces-civil-probe-of-southern-poverty-law-center
-  headline: Alabama attorney general announces civil probe of Southern Poverty Law Center
+  headline: Alabama attorney general announces civil probe of Southern Poverty Law
+    Center
   publish_date: '2026-05-10'
   relation: related
   strength: 0.7608
@@ -182,77 +189,20 @@ related_stories:
   publish_date: '2026-05-06'
   relation: related
   strength: 0.7246
-- slug: 2026-04-22-southern-poverty-law-center-indicted-on-federal-fraud-charges
-  headline: Southern Poverty Law Center indicted on federal fraud charges
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7325
-- slug: 2026-04-28-splc-tells-federal-court-law-enforcement-knew-about-informant-program
-  headline: SPLC tells federal court law enforcement knew about informant program
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.7246
-- slug: 2026-06-16-conservative-nonprofit-s-tariff-challenge-cost-3-5m-and-30-of-its-donors
-  headline: Conservative nonprofit's tariff challenge cost $3.5M and 30% of its donors
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5866
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6024
-- slug: 2026-06-10-u-s-attorney-jeanine-pirro-subpoenas-big-banks-over-alleged-debanking
-  headline: U.S. Attorney Jeanine Pirro Subpoenas Big Banks Over Alleged 'Debanking'
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5843
-- slug: 2026-05-29-chicago-prosecutor-says-no-carroll-perjury-probe-investigation-targets-nonprofit
-  headline: Chicago prosecutor says no Carroll perjury probe; investigation targets nonprofit funder, source clarifies
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6049
-- slug: 2026-05-22-former-prosecutor-and-acquitted-professor-sue-to-block-1-776b-trump-anti-weaponi
-  headline: Former prosecutor and acquitted professor sue to block $1.776B Trump 'anti-weaponization' fund
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5838
-- slug: 2026-02-25-former-san-francisco-homeless-charity-ceo-faces-felony-theft-charges
-  headline: Former San Francisco homeless charity CEO faces felony theft charges
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6168
-- slug: 2026-04-10-nyc-council-member-and-hochul-aide-rally-against-federal-bribery-probe
-  headline: NYC council member and Hochul aide rally against federal bribery probe
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.5843
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  headline: Trump administration targets political opponents; Powell and Fed the latest
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6122
-- slug: 2026-03-05-doj-releases-additional-epstein-files-including-uncorroborated-claims-about-trum
-  headline: DOJ releases additional Epstein files, including uncorroborated claims about Trump
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5816
-- slug: 2026-01-20-trump-targets-opponents-with-subpoenas-fed-fight-and-court-cases-ap-says
-  headline: Trump targets opponents with subpoenas, Fed fight and court cases, AP says
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.5911
 image:
   url: /articles/2026-08-12-doj-charges-former-splc-official-heidi-beirich-in-federal-case.png
-  alt: "Illustration accompanying article: DOJ charges former SPLC official Heidi Beirich in federal case"
+  alt: 'Illustration accompanying article: DOJ charges former SPLC official Heidi
+    Beirich in federal case'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## DOJ charges former SPLC official Heidi Beirich in federal case
 
 **Subtype:** fact

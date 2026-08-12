@@ -1,15 +1,28 @@
 ---
-headline: Artemis I radiation vest could drastically cut astronaut exposure, study finds
+headline: Artemis I radiation vest could drastically cut astronaut exposure, study
+  finds
 secondary_headline: Radiation vest may become a carry-on for future moon crews
 publish_date: '2026-08-12'
-lede: 'A radiation-shielding vest worn around the moon by a female test dummy during NASA''s 2022 Artemis I mission could drastically cut the radiation exposure astronauts face during severe solar storms, according to a study published Wednesday in the journal Science Advances. The findings came from a U.S., German, and Israeli research team.
+lede: 'A radiation-shielding vest worn around the moon by a female test dummy during
+  NASA''s 2022 Artemis I mission could drastically cut the radiation exposure astronauts
+  face during severe solar storms, according to a study published Wednesday in the
+  journal Science Advances. The findings came from a U.S., German, and Israeli research
+  team.
 
 
-  Radiation remains one of the biggest threats to astronauts as NASA works toward establishing a moon base, the researchers wrote. The shielding garment could keep lunar crews safe when solar storms strike and even allow them to venture beyond their shelters if necessary.
+  Radiation remains one of the biggest threats to astronauts as NASA works toward
+  establishing a moon base, the researchers wrote. The shielding garment could keep
+  lunar crews safe when solar storms strike and even allow them to venture beyond
+  their shelters if necessary.
 
 
-  The vest did not travel with the four-person Artemis II crew on their April flyby mission, which was a short 10-day flight with limited room, but may wind up as a carry-on for future moon crews.'
-nut_graf: The findings identify a potential countermeasure for what the researchers described as one of the biggest threats facing astronauts as NASA works toward establishing a moon base. The shielding garment could allow crews to venture beyond their shelters during solar storms rather than remaining inside.
+  The vest did not travel with the four-person Artemis II crew on their April flyby
+  mission, which was a short 10-day flight with limited room, but may wind up as a
+  carry-on for future moon crews.'
+nut_graf: The findings identify a potential countermeasure for what the researchers
+  described as one of the biggest threats facing astronauts as NASA works toward establishing
+  a moon base. The shielding garment could allow crews to venture beyond their shelters
+  during solar storms rather than remaining inside.
 primary_entities:
 - NASA
 - Artemis I
@@ -47,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -171,7 +185,8 @@ related_stories:
   relation: related
   strength: 0.6825
 - slug: 2026-04-08-artemis-ii-completes-record-breaking-trip-around-the-moon-after-surpassing-miles
-  headline: Artemis II completes record-breaking trip around the moon after surpassing milestone
+  headline: Artemis II completes record-breaking trip around the moon after surpassing
+    milestone
   publish_date: '2026-04-08'
   relation: related
   strength: 0.6631
@@ -185,68 +200,7 @@ related_stories:
   publish_date: '2026-04-04'
   relation: related
   strength: 0.6653
-- slug: 2026-03-28-who-are-artemis-four-astronauts-nasa-s-next-moon-mission-crew
-  headline: Who are Artemis’ four astronauts? NASA’s next Moon mission crew
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6695
-- slug: 2026-04-02-nasa-alista-artemis-ii-para-primer-viaje-lunar-tripulado-en-d-cadas
-  headline: NASA alista Artemis II para primer viaje lunar tripulado en décadas
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.665
-- slug: 2026-04-11-artemis-ii-astronauts-return-after-record-breaking-moon-splashdown
-  headline: Artemis II astronauts return after record-breaking moon splashdown
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.656
-- slug: 2026-03-31-meet-the-artemis-four-astronauts-for-nasa-s-return-to-the-moon
-  headline: Meet the Artemis four astronauts for NASA’s return to the moon
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6643
-- slug: 2026-04-08-artemis-ii-astronauts-make-first-moonship-to-space-station-radio-link
-  headline: Artemis II astronauts make first moonship-to-space-station radio link
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.657
-- slug: 2026-04-01-apollo-vs-artemis-nasa-s-planned-lunar-return-explained
-  headline: 'Apollo vs. Artemis: NASA’s planned lunar return explained'
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6615
-- slug: 2026-04-06-artemis-ii-toilet-malfunctions-again-as-crew-heads-for-lunar-fly-around
-  headline: Artemis II toilet malfunctions again as crew heads for lunar fly-around
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6564
-- slug: 2026-04-05-artemis-ii-astronauts-face-more-toilet-trouble-as-crew-speeds-toward-moon
-  headline: Artemis II astronauts face more toilet trouble as crew speeds toward moon
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6563
-- slug: 2026-04-02-four-astronauts-embark-on-first-lunar-voyage-in-53-years
-  headline: Four astronauts embark on first lunar voyage in 53 years
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6578
-- slug: 2026-04-04-artemis-ii-astronauts-share-first-images-as-they-speed-toward-the-moon
-  headline: Artemis II astronauts share first images as they speed toward the moon
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6555
-- slug: 2026-04-08-artemis-ii-rompe-el-r-cord-del-apolo-13-y-sobrevuela-la-cara-oculta-de-la-luna
-  headline: Artemis II rompe el récord del Apolo 13 y sobrevuela la cara oculta de la Luna
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6501
-- slug: 2026-02-28-nasa-revamps-artemis-moon-landing-plan-to-tighten-flight-schedule
-  headline: NASA revamps Artemis moon landing plan to tighten flight schedule
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6653
 ---
-
 ## Artemis I radiation vest could drastically cut astronaut exposure, study finds
 
 **Subtype:** fact
