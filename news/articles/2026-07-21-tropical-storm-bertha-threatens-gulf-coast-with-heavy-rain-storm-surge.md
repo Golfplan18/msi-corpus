@@ -22,7 +22,8 @@ primary_themes:
 - Natural Disasters
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -113,6 +114,7 @@ related_stories:
   relation: related
   strength: 0.6822
 ---
+
 ## Tropical Storm Bertha threatens Gulf Coast with heavy rain, storm surge
 
 **Subtype:** fact

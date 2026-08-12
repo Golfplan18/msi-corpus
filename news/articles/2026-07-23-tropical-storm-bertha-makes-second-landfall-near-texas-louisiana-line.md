@@ -27,7 +27,8 @@ topic_tags:
 - natural disaster
 - weather warning
 - weather forecast
-storyline_nexus: []
+storyline_nexus:
+- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -153,6 +154,7 @@ related_stories:
   relation: related
   strength: 0.6957
 ---
+
 ## Tropical Storm Bertha makes second landfall near Texas-Louisiana line
 
 **Subtype:** fact

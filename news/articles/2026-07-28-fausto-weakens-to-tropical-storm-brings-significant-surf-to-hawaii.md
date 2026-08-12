@@ -15,7 +15,8 @@ primary_themes:
 - weather
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -144,6 +145,7 @@ related_stories:
   relation: related
   strength: 0.793
 ---
+
 ## Fausto weakens to tropical storm, brings significant surf to Hawaii
 
 **Subtype:** fact

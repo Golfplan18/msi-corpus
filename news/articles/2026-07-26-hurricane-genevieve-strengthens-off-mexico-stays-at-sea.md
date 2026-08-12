@@ -18,7 +18,8 @@ primary_themes:
 - Natural disasters
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -67,14 +68,19 @@ related_stories:
   strength: 0.6902
 image:
   url: /articles/2026-07-26-hurricane-genevieve-strengthens-off-mexico-stays-at-sea.png
-  alt: "Illustration accompanying article: Hurricane Genevieve strengthens off Mexico, stays at sea"
+  alt: 'Illustration accompanying article: Hurricane Genevieve strengthens off Mexico,
+    stays at sea'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Hurricane Genevieve strengthens off Mexico, stays at sea
 
 **Subtype:** fact

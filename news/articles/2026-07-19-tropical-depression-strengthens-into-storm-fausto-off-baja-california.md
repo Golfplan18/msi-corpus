@@ -15,7 +15,8 @@ primary_themes:
 - Pacific weather
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness
@@ -140,6 +141,7 @@ related_stories:
   relation: related
   strength: 0.678
 ---
+
 ## Tropical depression strengthens into Storm Fausto off Baja California
 
 **Subtype:** fact

@@ -22,7 +22,8 @@ topic_tags:
 - weather
 - weather forecast
 - weather warning
-storyline_nexus: []
+storyline_nexus:
+- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -154,14 +155,19 @@ related_stories:
   strength: 0.6667
 image:
   url: /articles/2026-07-24-hurricane-fausto-strengthens-to-category-2-in-pacific.png
-  alt: "Illustration accompanying article: Hurricane Fausto strengthens to Category 2 in Pacific"
+  alt: 'Illustration accompanying article: Hurricane Fausto strengthens to Category
+    2 in Pacific'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Hurricane Fausto strengthens to Category 2 in Pacific
 
 **Subtype:** fact
