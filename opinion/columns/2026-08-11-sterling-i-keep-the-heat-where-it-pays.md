@@ -1,7 +1,9 @@
 ---
 headline: I Keep the Heat Where It Pays.
 publish_date: '2026-08-11'
-lede: Constance is an 87-year-old body in an assisted-living corridor I own outside Phoenix, and Cora is a hand on the sulfur-recovery unit at a refinery I own outside Port Arthur.
+lede: Constance is an 87-year-old body in an assisted-living corridor I own outside
+  Phoenix, and Cora is a hand on the sulfur-recovery unit at a refinery I own outside
+  Port Arthur.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/i-keep-the-heat-where-it-pays.png
+  alt: 'Editorial cartoon by Hector Rentier: I Keep the Heat Where It Pays.'
+  caption: He keeps the spreadsheet. He keeps the desk. He keeps the heat.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-11T22:07:58-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A man sits at a large executive desk in a corner office. His face is
+    fully visible and composed — soft smile, eyes down on an open spreadsheet, one
+    hand resting lightly on the paper. His suit is immac
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-11-hector-paired-with-2026-08-11-sterling-i-keep-the-heat-where-it-pays
 ---
+
+![Editorial cartoon by Hector Rentier: I Keep the Heat Where It Pays.](/cartoons/i-keep-the-heat-where-it-pays.png)
+*He keeps the spreadsheet. He keeps the desk. He keeps the heat.*
 
 Constance is an 87-year-old body in an assisted-living corridor I own outside Phoenix, and Cora is a hand on the sulfur-recovery unit at a refinery I own outside Port Arthur. Constance reached 104 degrees on Tuesday because her window unit has been broken since May. Cora breathes hydrogen sulfide at peak concentrations of 10 to 40 ppm during gauge pulls, and I change her cartridge every 14 days instead of every 8 hours. You buy the gasoline, the diesel, the electricity, and the Medicaid check that keeps Constance in my corridor. I keep the margin. God, who set the ratio between the quick and the breathing, has never required me to count the lungs.
 

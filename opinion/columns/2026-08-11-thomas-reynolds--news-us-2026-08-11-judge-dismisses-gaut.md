@@ -1,7 +1,8 @@
 ---
 headline: Trump's DOJ sold Adani a dismissal for billions
 publish_date: '2026-08-11'
-lede: Trump's Justice Department sold Gautam Adani a criminal dismissal for a $10 billion pledge.
+lede: Trump's Justice Department sold Gautam Adani a criminal dismissal for a $10
+  billion pledge.
 pen_name: thomas-reynolds
 primary_entities:
 - Gautam Adani
@@ -39,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +62,28 @@ cross_article_links:
   strength: 0.3285
   confidence: high
 draft: false
+image:
+  url: /cartoons/trumps-doj-sold-adani-a-dismissal-for-billions.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump''s DOJ sold Adani a dismissal for
+    billions'
+  caption: He worked with the defense. He kept the pledge off the record.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-11T22:04:58-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: 'Center frame: Trent McCotter, fully individuated and recognizable —
+    composed middle-aged official in a dark suit, half-glasses, seated at a polished
+    Department of Justice desk. Posture rigid, jaw set,'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-11-hector-paired-with-2026-08-11-thomas-reynolds--news-us-2026-08-11-judge-dismisses-gaut
 ---
+
+![Editorial cartoon by Hector Rentier: Trump's DOJ sold Adani a dismissal for billions](/cartoons/trumps-doj-sold-adani-a-dismissal-for-billions.png)
+*He worked with the defense. He kept the pledge off the record.*
 
 Trump's Justice Department sold Gautam Adani a criminal dismissal for a $10 billion pledge.
 

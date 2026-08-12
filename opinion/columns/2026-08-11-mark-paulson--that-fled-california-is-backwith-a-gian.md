@@ -1,7 +1,8 @@
 ---
 headline: Phillips 66 Closed California’s Refinery to Profit From Its Replacement
 publish_date: '2026-08-11'
-lede: Phillips 66 closed California's refinery and profits from the pipeline replacing it.
+lede: Phillips 66 closed California's refinery and profits from the pipeline replacing
+  it.
 pen_name: mark-paulson
 primary_entities:
 - Phillips 66
@@ -41,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,16 +59,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-11-companies-sanction-5b-pipeline-to-carry-fuel-from-texas-to-california.png
-  alt: 'Illustration accompanying article: Companies sanction $5B pipeline to carry fuel from Texas to California'
+  url: /cartoons/phillips-66-closed-californias-refinery-to-profit-from-its.png
+  alt: 'Editorial cartoon by Hector Rentier: Phillips 66 Closed California''s Refinery
+    to Profit From Its Replacement'
+  caption: They closed the refinery. They own the pipe that replaces it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-11T22:01:19-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Central frame: A massive industrial pipeline enters from the right edge,
+    runs left across the full width, then bends into a sharp U-turn in the left-center
+    — the two open ends of the U face each other'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-11-companies-sanction-5b-pipeline-to-carry-fuel-from-texas-to-california
   relation: extends
   strength: 1.0
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-11-hector-paired-with-2026-08-11-mark-paulson--that-fled-california-is-backwith-a-gian
 ---
+
+![Editorial cartoon by Hector Rentier: Phillips 66 Closed California's Refinery to Profit From Its Replacement](/cartoons/phillips-66-closed-californias-refinery-to-profit-from-its.png)
+*They closed the refinery. They own the pipe that replaces it.*
 
 Phillips 66 closed California's refinery and profits from the pipeline replacing it.
 

@@ -1,7 +1,8 @@
 ---
 headline: He Pledged Ten Billion and the Charges Disappeared
 publish_date: '2026-08-11'
-lede: The Justice Department let a billionaire’s fraud case die after he congratulated the president, pledged $10 billion, and met the president’s son.
+lede: The Justice Department let a billionaire’s fraud case die after he congratulated
+  the president, pledged $10 billion, and met the president’s son.
 pen_name: ruth-justice
 primary_entities:
 - Gautam Adani
@@ -39,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,7 +63,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/he-pledged-ten-billion-and-the-charges-disappeared.png
+  alt: 'Editorial cartoon by Hector Rentier: He Pledged Ten Billion and the Charges
+    Disappeared'
+  caption: His own prosecutors were not consulted. The defendant's lawyers were.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-11T22:02:45-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Federal courtroom, single panel 1:1, heavy cross-hatch wood-engraving
+    in the Nast tradition. At center, the DOJ podium is occupied not by one figure
+    but by two: Trent McCotter in a dark suit on the le'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-11-hector-paired-with-2026-08-11-ruth-justice--news-us-2026-08-11-judge-dismisses-gaut
 ---
+
+![Editorial cartoon by Hector Rentier: He Pledged Ten Billion and the Charges Disappeared](/cartoons/he-pledged-ten-billion-and-the-charges-disappeared.png)
+*His own prosecutors were not consulted. The defendant's lawyers were.*
 
 The Justice Department let a billionaire’s fraud case die after he congratulated the president, pledged $10 billion, and met the president’s son.
 
