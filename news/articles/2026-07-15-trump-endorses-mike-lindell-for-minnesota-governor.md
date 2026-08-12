@@ -31,6 +31,7 @@ topic_tags:
 - employment
 storyline_nexus:
 - 2026-midterm-elections
+- mike-lindell-refuses-to-concede-in-minnesota-governor-primary
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -162,6 +163,7 @@ related_stories:
   relation: related
   strength: 0.6649
 ---
+
 ## Trump endorses Mike Lindell for Minnesota governor
 
 **Subtype:** fact

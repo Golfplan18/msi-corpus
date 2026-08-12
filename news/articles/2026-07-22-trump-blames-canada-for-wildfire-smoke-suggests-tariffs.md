@@ -26,6 +26,7 @@ topic_tags:
 - international relations
 storyline_nexus:
 - canada-wildfires-climate-change-analysis
+- us-diplomat-s-inflammatory-rhetoric-escalates-diplomatic-tensions
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

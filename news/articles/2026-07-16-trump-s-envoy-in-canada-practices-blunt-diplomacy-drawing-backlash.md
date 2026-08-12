@@ -26,7 +26,8 @@ primary_themes:
 - Political rhetoric
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- us-diplomat-s-inflammatory-rhetoric-escalates-diplomatic-tensions
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -122,6 +123,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## More than 27,000 sign petition calling for Hoekstra's removal
 
 **Subtype:** fact

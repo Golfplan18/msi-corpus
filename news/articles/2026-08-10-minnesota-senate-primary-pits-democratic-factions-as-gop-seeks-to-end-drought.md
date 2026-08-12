@@ -30,6 +30,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - minnesota-senate-primary-2026
+- mike-lindell-refuses-to-concede-in-minnesota-governor-primary
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.6934
 ---
+
 ## Minnesota Senate primary pits Democratic factions as GOP seeks to end drought
 
 **Subtype:** fact
