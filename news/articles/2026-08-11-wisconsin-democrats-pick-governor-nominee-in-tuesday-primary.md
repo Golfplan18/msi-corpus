@@ -70,10 +70,11 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - Associated Press
   - NPR
+  - BBC News
   outlet_classes:
   - wire
   - public_broadcaster
