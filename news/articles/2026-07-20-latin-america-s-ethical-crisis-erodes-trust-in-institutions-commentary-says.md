@@ -29,6 +29,7 @@ topic_tags:
 - corruption
 storyline_nexus:
 - congressional-ethics-misconduct
+- democrats-face-divisive-michigan-senate-primary-tuesday
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -130,8 +131,9 @@ related_stories:
   relation: related
   strength: 0.6816
 analyses:
-- '2026-07-20-latin-america-s-trust-crisis-is-not-political-or-economic-it-is-ethical-and-it-r'
+- 2026-07-20-latin-america-s-trust-crisis-is-not-political-or-economic-it-is-ethical-and-it-r
 ---
+
 ## Latin America's ethical crisis erodes trust in institutions, commentary says
 
 **Subtype:** fact

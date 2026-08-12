@@ -32,7 +32,8 @@ primary_themes:
 - Democratic Socialism
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- democrats-face-divisive-michigan-senate-primary-tuesday
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -128,6 +129,7 @@ related_stories:
   relation: related
   strength: 0.651
 ---
+
 ## Trump repeats communism warnings; State Department publishes Cuba report
 
 **Subtype:** fact
