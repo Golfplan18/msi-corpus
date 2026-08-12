@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - international relations
 - transport
-storyline_nexus: []
+storyline_nexus:
+- iran-threatens-trump-aircraft-swap
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -116,6 +117,7 @@ related_stories:
   relation: related
   strength: 0.6696
 ---
+
 ## Report says Trump used alternate aircraft after NATO summit
 
 **Subtype:** fact

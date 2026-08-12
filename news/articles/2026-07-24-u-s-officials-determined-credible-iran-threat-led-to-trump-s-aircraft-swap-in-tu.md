@@ -29,7 +29,8 @@ topic_tags:
 - terrorism
 - government policy
 - transport
-storyline_nexus: []
+storyline_nexus:
+- iran-threatens-trump-aircraft-swap
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -138,6 +139,7 @@ related_stories:
   relation: related
   strength: 0.6883
 ---
+
 ## U.S. officials determined credible Iran threat led to Trump's aircraft swap in Turkey, report says
 
 **Subtype:** fact
