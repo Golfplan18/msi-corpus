@@ -1,7 +1,9 @@
 ---
 headline: The Trades Aren't a Labor Plan, They're a Building Cycle
 publish_date: '2026-08-12'
-lede: 'Former Labor Secretary Lori Chavez-DeRemer, writing in [Fox News Opinion](https://www.foxnews.com/opinion/americas-ai-boom-jobs-opportunity-not-excuse-universal-basic-income), has the answer to AI-driven displacement: train the workers as electricians, pipefitters, and ironworkers for the data center boom.'
+lede: 'Former Labor Secretary Lori Chavez-DeRemer, writing in [Fox News Opinion](https://www.foxnews.com/opinion/americas-ai-boom-jobs-opportunity-not-excuse-universal-basic-income),
+  has the answer to AI-driven displacement: train the workers as electricians, pipefitters,
+  and ironworkers for the data center boom.'
 pen_name: carla-marks
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: carla-marks-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +34,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-trades-arent-a-labor-plan-theyre-a-building-cycle.png
+  alt: 'Editorial cartoon by Hector Rentier: The Trades Aren''t a Labor Plan, They''re
+    a Building Cycle'
+  caption: He called it a labor plan. The lease went to the operator.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-12T22:19:14-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving. Inside a vast data-center
+    server hall — walls of glowing racks rendered as dense cross-hatch — a long banquet
+    table stretches across the frame. At '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-12-hector-paired-with-2026-08-12-carla-the-trades-aren-t-a-labor-plan-they-re-a-building-cycle
 ---
+
+![Editorial cartoon by Hector Rentier: The Trades Aren't a Labor Plan, They're a Building Cycle](/cartoons/the-trades-arent-a-labor-plan-theyre-a-building-cycle.png)
+*He called it a labor plan. The lease went to the operator.*
 
 Former Labor Secretary Lori Chavez-DeRemer, writing in [Fox News Opinion](https://www.foxnews.com/opinion/americas-ai-boom-jobs-opportunity-not-excuse-universal-basic-income), has the answer to AI-driven displacement: train the workers as electricians, pipefitters, and ironworkers for the data center boom. Don't write them a check. Put them on a job site. Stargate's $500 billion, Micron's $250 billion, a generation of new trades — that's the labor plan. Anyone proposing universal basic income is surrendering the dignity of work.
 
