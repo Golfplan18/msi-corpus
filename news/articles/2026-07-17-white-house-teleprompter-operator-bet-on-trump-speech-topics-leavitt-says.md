@@ -29,7 +29,8 @@ primary_themes:
 - Ethics in government
 topic_tags:
 - government
-storyline_nexus: []
+storyline_nexus:
+- karoline-leavitt-s-departure-and-white-house-press-secretary-vacancy
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -83,14 +84,19 @@ related_stories:
   strength: 0.6653
 image:
   url: /articles/2026-07-17-white-house-teleprompter-operator-bet-on-trump-speech-topics-leavitt-says.png
-  alt: "Illustration accompanying article: White House teleprompter operator bet on Trump speech topics, Leavitt says"
+  alt: 'Illustration accompanying article: White House teleprompter operator bet on
+    Trump speech topics, Leavitt says'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## White House teleprompter operator bet on Trump speech topics, Leavitt says
 
 **Subtype:** fact
