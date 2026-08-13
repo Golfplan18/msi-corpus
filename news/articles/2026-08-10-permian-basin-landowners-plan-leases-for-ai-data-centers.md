@@ -27,7 +27,8 @@ primary_themes:
 - data-center siting
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- fermi-wins-first-ai-data-center-lease
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.6594
 ---
+
 ## Permian Basin landowners plan leases for AI data centers
 
 **Subtype:** fact
