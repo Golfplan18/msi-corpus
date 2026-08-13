@@ -29,6 +29,7 @@ topic_tags:
 storyline_nexus:
 - 2026-midterm-elections
 - wisconsin-democratic-governor-primary-chaos
+- wisconsin-democratic-governor-primary-chaos-2
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
