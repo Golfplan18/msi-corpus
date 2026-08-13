@@ -33,6 +33,7 @@ topic_tags:
 - government
 storyline_nexus:
 - iran-threatens-trump-aircraft-swap
+- trump-aircraft-swap-at-nato-summit
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -206,14 +207,19 @@ related_stories:
   strength: 0.684
 image:
   url: /articles/2026-08-12-catering-truck-decoy-hides-trump-from-apparent-iran-missile-threat.png
-  alt: "Illustration accompanying article: Catering-truck decoy hides Trump from apparent Iran missile threat"
+  alt: 'Illustration accompanying article: Catering-truck decoy hides Trump from apparent
+    Iran missile threat'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Catering-truck decoy hides Trump from apparent Iran missile threat
 
 **Subtype:** fact
