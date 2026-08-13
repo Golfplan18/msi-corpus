@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- karoline-leavitt-s-departure-and-white-house-press-secretary-vacancy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -138,6 +139,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Karoline Leavitt to leave White House press secretary post at end of August
 
 **Subtype:** fact
