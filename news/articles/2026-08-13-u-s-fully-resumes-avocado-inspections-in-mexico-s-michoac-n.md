@@ -2,8 +2,17 @@
 headline: U.S. fully resumes avocado inspections in Mexico's Michoacán
 secondary_headline: Mexico deployed 1,500 troops to protect avocado orchards
 publish_date: '2026-08-13'
-lede: The U.S. Embassy in Mexico announced Thursday that all U.S. government activities in the western state of Michoacán have resumed, including agricultural inspections required to certify new avocado shipments to the United States. U.S. Ambassador Ronald Johnson said trade restarted after Mexico implemented additional security measures and U.S. authorities evaluated the situation to be secure. The embassy cautioned, however, that Michoacán remains under a Level 4 'Do Not Travel' advisory, the most restrictive designation in the State Department's system.
-nut_graf: Mexico supplies 92% of the avocados imported by the United States. U.S. avocado imports reached 730,395 metric tons in the first half of 2026, up 17% from the same period in 2025, with Mexico supplying 670,026 metric tons of that total, according to USDA statistics.
+lede: The U.S. Embassy in Mexico announced Thursday that all U.S. government activities
+  in the western state of Michoacán have resumed, including agricultural inspections
+  required to certify new avocado shipments to the United States. U.S. Ambassador
+  Ronald Johnson said trade restarted after Mexico implemented additional security
+  measures and U.S. authorities evaluated the situation to be secure. The embassy
+  cautioned, however, that Michoacán remains under a Level 4 'Do Not Travel' advisory,
+  the most restrictive designation in the State Department's system.
+nut_graf: Mexico supplies 92% of the avocados imported by the United States. U.S.
+  avocado imports reached 730,395 metric tons in the first half of 2026, up 17% from
+  the same period in 2025, with Mexico supplying 670,026 metric tons of that total,
+  according to USDA statistics.
 primary_entities:
 - Michoacán
 - Mexico
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +153,34 @@ related_stories:
   headline: USDA temporarily pauses avocado inspections in Michoacán
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.8468
+  strength: 0.8478
 - slug: 2026-07-24-usda-to-lift-more-than-yearlong-ban-on-mexican-cattle-imports-in-30-days
   headline: USDA to lift more than yearlong ban on Mexican cattle imports in 30 days
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6879
+  strength: 0.6886
 - slug: 2026-07-13-mexico-says-u-s-to-restore-sugar-access-as-usda-projects-512-jump
   headline: Mexico says U.S. to restore sugar access as USDA projects 512% jump
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.6874
-- slug: 2026-07-18-taylor-farms-recalls-shredded-iceberg-lettuce-in-27-states
-  headline: Taylor Farms recalls shredded iceberg lettuce in 27 states
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6104
-- slug: 2026-07-01-us-declines-to-renew-usmca-trade-pact-with-canada-and-mexico
-  headline: US declines to renew USMCA trade pact with Canada and Mexico
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6326
-- slug: 2026-06-30-argentine-beef-shipments-to-us-more-than-quadruple-in-may-after-quota-expansion
-  headline: Argentine beef shipments to US more than quadruple in May after quota expansion
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6183
-- slug: 2026-05-28-state-department-reviews-53-mexican-consulates-closures-could-disrupt-legal-help
-  headline: State Department reviews 53 Mexican consulates; closures could disrupt legal help for immigrants
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6236
+  strength: 0.6879
 - slug: 2026-05-08-trump-administration-reviews-mexico-consulates-some-could-close
   headline: Trump administration reviews Mexico consulates; some could close
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.6565
-- slug: 2026-05-17-china-to-boost-trade-for-us-agricultural-products-including-beef-and-poultry
-  headline: China to boost trade for US agricultural products including beef and poultry
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6119
+  strength: 0.6569
 - slug: 2026-03-15-us-mexico-and-canada-kick-off-talks-to-renew-usmca-trade-pact
   headline: US, Mexico and Canada kick off talks to renew USMCA trade pact
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.6742
+  strength: 0.6761
 - slug: 2026-03-04-american-airlines-cleared-to-resume-venezuela-flights-first-u-s-carrier-since-20
-  headline: American Airlines cleared to resume Venezuela flights, first U.S. carrier since 2019
+  headline: American Airlines cleared to resume Venezuela flights, first U.S. carrier
+    since 2019
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.6565
-- slug: 2026-04-26-mexico-says-2-u-s-cia-agents-killed-in-crash-were-not-authorized
-  headline: Mexico says 2 U.S. CIA agents killed in crash were not authorized
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6092
-- slug: 2026-04-22-sheinbaum-demands-explanations-after-us-embassy-officials-die-in-chihuahua
-  headline: Sheinbaum demands explanations after US Embassy officials die in Chihuahua
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6042
-- slug: 2026-03-31-us-formally-reopens-embassy-in-caracas-after-relations-restored
-  headline: US formally reopens embassy in Caracas after relations restored
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.614
-- slug: 2026-01-30-trump-says-he-will-reopen-venezuelan-airspace-for-commercial-travel
-  headline: Trump says he will reopen Venezuelan airspace for commercial travel
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6416
-- slug: 2026-03-05-american-airlines-approved-to-resume-flights-to-venezuela
-  headline: American Airlines approved to resume flights to Venezuela
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6217
-- slug: 2026-03-06-trump-presses-latin-america-to-curb-china-ties-from-chile-to-panama
-  headline: Trump presses Latin America to curb China ties from Chile to Panama
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.605
-- slug: 2026-01-27-us-takes-first-steps-to-reopen-venezuela-embassy-after-maduro-ouster
-  headline: US takes first steps to reopen Venezuela embassy after Maduro ouster
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6164
-- slug: 2026-02-13-mexican-navy-ships-bring-humanitarian-aid-to-cuba-as-u-s-blockade-deepens
-  headline: Mexican Navy ships bring humanitarian aid to Cuba as U.S. blockade deepens
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6108
-- slug: 2026-02-05-jalisco-issues-health-alert-over-measles-outbreak-ahead-of-world-cup
-  headline: Jalisco issues health alert over measles outbreak ahead of World Cup
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6105
+  strength: 0.6547
 ---
-
 ## U.S. fully resumes avocado inspections in Mexico's Michoacán
 
 **Subtype:** fact
