@@ -31,7 +31,8 @@ topic_tags:
 - artificial intelligence
 - economy, business and finance
 - computing and information technology
-storyline_nexus: []
+storyline_nexus:
+- alphabet-and-amazon-investment-gains-boost-q2-profits
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -174,6 +175,7 @@ related_stories:
   relation: related
   strength: 0.6623
 ---
+
 ## Cloud revenue surge gives Wall Street answer on AI returns
 
 **Subtype:** fact

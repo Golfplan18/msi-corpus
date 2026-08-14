@@ -13,7 +13,8 @@ primary_themes:
 - artificial intelligence
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- alphabet-and-amazon-investment-gains-boost-q2-profits
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.6519
 ---
+
 ## Alphabet reports $112.11 billion Q2 profit; revenue tops forecasts
 
 **Subtype:** fact

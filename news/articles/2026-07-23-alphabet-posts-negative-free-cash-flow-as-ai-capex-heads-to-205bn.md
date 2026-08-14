@@ -26,6 +26,7 @@ topic_tags:
 - business information
 storyline_nexus:
 - ai-industry-regulation
+- alphabet-and-amazon-investment-gains-boost-q2-profits
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -125,14 +126,19 @@ related_stories:
   strength: 0.6673
 image:
   url: /articles/2026-07-23-alphabet-posts-negative-free-cash-flow-as-ai-capex-heads-to-205bn.png
-  alt: "Illustration accompanying article: Alphabet posts negative free cash flow as AI capex heads to $205bn"
+  alt: 'Illustration accompanying article: Alphabet posts negative free cash flow
+    as AI capex heads to $205bn'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Alphabet posts negative free cash flow as AI capex heads to $205bn
 
 **Subtype:** fact
