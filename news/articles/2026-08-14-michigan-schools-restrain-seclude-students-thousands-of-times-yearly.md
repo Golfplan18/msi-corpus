@@ -2,8 +2,13 @@
 headline: Michigan schools restrain, seclude students thousands of times yearly
 secondary_headline: Critics ask the state to clarify what counts as an emergency
 publish_date: '2026-08-14'
-lede: Michigan schools physically restrain or seclude students thousands of times a year, with many of those students having disabilities, according to reporting by Bridge Michigan. The practice continues nearly a decade after the state enacted a law aimed at reducing reliance on the techniques.
-nut_graf: There is broad consensus that schools should do more to reduce their reliance on these techniques, but there is disagreement on whether new legislation is needed to achieve that goal.
+lede: Michigan schools physically restrain or seclude students thousands of times
+  a year, with many of those students having disabilities, according to reporting
+  by Bridge Michigan. The practice continues nearly a decade after the state enacted
+  a law aimed at reducing reliance on the techniques.
+nut_graf: There is broad consensus that schools should do more to reduce their reliance
+  on these techniques, but there is disagreement on whether new legislation is needed
+  to achieve that goal.
 primary_entities:
 - Michigan
 primary_themes:
@@ -38,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +142,32 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-11-university-of-michigan-drops-first-semester-letter-grades-for-freshmen
-  headline: University of Michigan drops first-semester letter grades for freshmen
-  publish_date: '2026-08-11'
+- slug: 2026-08-14-michigan-schools-use-restraint-and-seclusion-thousands-of-times-a-year
+  headline: Michigan schools use restraint and seclusion thousands of times a year
+  publish_date: '2026-08-14'
   relation: related
-  strength: 0.6175
-- slug: 2026-07-23-education-department-rescinds-disparate-impact-rule-for-schools
-  headline: Education Department rescinds disparate impact rule for schools
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.628
-- slug: 2026-07-23-intentional-discrimination-required-for-school-cases-under-education-dept-rule
-  headline: Intentional discrimination required for school cases under Education Dept. rule
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6132
-- slug: 2026-07-16-mississippi-digital-wallet-creates-barriers-for-teacher-supply-funds
-  headline: Mississippi digital wallet creates barriers for teacher supply funds
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6093
+  strength: 0.9559
 - slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
   headline: School screen bans risk isolating millions of students with disabilities
   publish_date: '2026-06-04'
   relation: related
   strength: 0.6571
-- slug: 2026-06-02-michigan-loosens-school-vaccine-waiver-rules-amid-measles-outbreak-rising-exempt
-  headline: Michigan loosens school vaccine waiver rules amid measles outbreak, rising exemptions
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6123
-- slug: 2026-05-21-massachusetts-lawsuit-alleges-state-schools-segregate-black-and-latino-students
-  headline: Massachusetts lawsuit alleges state schools segregate Black and Latino students
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6262
-- slug: 2026-05-20-lawsuit-accuses-massachusetts-schools-of-segregating-students-by-race
-  headline: Lawsuit accuses Massachusetts schools of segregating students by race
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6246
-- slug: 2026-05-10-pediatricians-urge-schools-to-protect-recess-for-students-of-all-ages
-  headline: Pediatricians urge schools to protect recess for students of all ages
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6274
 - slug: 2026-04-08-michigan-youth-sent-out-of-state-for-mental-health-care-as-beds-close
   headline: Michigan youth sent out of state for mental health care as beds close
   publish_date: '2026-04-08'
   relation: related
   strength: 0.6609
-- slug: 2026-04-14-michigan-lawmakers-and-groups-debate-overhauling-high-school-graduation-rules
-  headline: Michigan lawmakers and groups debate overhauling high school graduation rules
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6386
-- slug: 2026-04-24-michigan-schools-roll-out-contests-to-boost-student-attendance
-  headline: Michigan schools roll out contests to boost student attendance
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6274
 - slug: 2026-01-15-michigan-churns-through-teachers-at-unsustainable-rate-report-finds
   headline: Michigan churns through teachers at unsustainable rate, report finds
   publish_date: '2026-01-15'
   relation: related
   strength: 0.6666
-- slug: 2026-04-24-michigan-lawmakers-weigh-dam-safety-reforms-as-egle-budget-faces-cuts
-  headline: Michigan lawmakers weigh dam safety reforms as EGLE budget faces cuts
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6122
 - slug: 2026-02-12-gov-gretchen-whitmer-signs-smartphone-ban-for-michigan-school-classrooms
   headline: Gov. Gretchen Whitmer signs smartphone ban for Michigan school classrooms
   publish_date: '2026-02-12'
   relation: related
   strength: 0.6531
-- slug: 2026-03-26-up-north-michigan-rural-students-weigh-staying-home-vs-college
-  headline: Up North Michigan rural students weigh staying home vs college
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6178
-- slug: 2026-02-18-michigan-schools-face-cardiac-emergency-plan-gap-as-state-budget-leaves-funds-ou
-  headline: Michigan schools face cardiac emergency plan gap as state budget leaves funds out
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6281
-- slug: 2026-01-24-five-michigan-universities-collaborate-on-teacher-shortage
-  headline: Five Michigan universities collaborate on teacher shortage
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.634
-- slug: 2026-03-10-connecticut-lawmakers-weigh-statewide-bell-to-bell-cellphone-bans-in-schools
-  headline: Connecticut lawmakers weigh statewide bell-to-bell cellphone bans in schools
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6143
-- slug: 2026-01-30-mississippi-lawmakers-advance-bills-to-restrict-cellphone-use-in-schools
-  headline: Mississippi lawmakers advance bills to restrict cellphone use in schools
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6251
 ---
-
 ## Michigan schools restrain, seclude students thousands of times yearly
 
 **Subtype:** fact

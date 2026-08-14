@@ -1,9 +1,19 @@
 ---
 headline: Mississippi ICE detainee alleges gas leak sickened detainees, denied care
-secondary_headline: CoreCivic disputes detainee's account; facility downgraded this year
+secondary_headline: CoreCivic disputes detainee's account; facility downgraded this
+  year
 publish_date: '2026-08-14'
-lede: A detainee at the Adams County detention center in Natchez, Mississippi — an Immigration and Customs Enforcement facility operated by private contractor CoreCivic — alleges that a gas leak sickened people held there and that staff denied them medical care when they complained of symptoms. The same detainee says a two-day power outage left the facility without air conditioning in near-100-degree heat, with people forced outside in blazing sunshine or locked in cramped cells. CoreCivic disputes both allegations.
-nut_graf: The allegations come amid growing scrutiny of privately operated ICE detention, including a third reported death this month at the GEO Group-run Delaney Hall facility in New Jersey and a federal court monitor's recent findings of major care failures at a separate California facility.
+lede: A detainee at the Adams County detention center in Natchez, Mississippi — an
+  Immigration and Customs Enforcement facility operated by private contractor CoreCivic
+  — alleges that a gas leak sickened people held there and that staff denied them
+  medical care when they complained of symptoms. The same detainee says a two-day
+  power outage left the facility without air conditioning in near-100-degree heat,
+  with people forced outside in blazing sunshine or locked in cramped cells. CoreCivic
+  disputes both allegations.
+nut_graf: The allegations come amid growing scrutiny of privately operated ICE detention,
+  including a third reported death this month at the GEO Group-run Delaney Hall facility
+  in New Jersey and a federal court monitor's recent findings of major care failures
+  at a separate California facility.
 primary_entities:
 - Adams County detention center
 - CoreCivic
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,35 +155,28 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-28-california-ice-facility-fails-every-court-ordered-health-standard-monitor-finds
-  headline: California ICE facility fails every court-ordered health standard, monitor finds
+  headline: California ICE facility fails every court-ordered health standard, monitor
+    finds
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6874
+  strength: 0.6871
 - slug: 2026-08-02-family-plans-lawsuit-after-haitian-immigrant-froze-to-death-post-ice-release
   headline: Family plans lawsuit after Haitian immigrant froze to death post-ICE release
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.6576
-- slug: 2026-08-03-detainee-death-at-delaney-hall-follows-ice-change-to-death-reporting-rules
-  headline: Detainee death at Delaney Hall follows ICE change to death-reporting rules
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6407
+  strength: 0.6564
 - slug: 2026-07-14-ice-quarantines-infected-and-healthy-detainees-together-in-colorado-tb-outbreak
-  headline: ICE quarantines infected and healthy detainees together in Colorado TB outbreak
+  headline: ICE quarantines infected and healthy detainees together in Colorado TB
+    outbreak
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6783
-- slug: 2026-07-10-texas-prisons-face-mounting-legal-pressure-over-extreme-heat-conditions
-  headline: Texas prisons face mounting legal pressure over extreme heat conditions
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6396
+  strength: 0.6772
 - slug: 2026-06-06-families-describe-distress-over-inhumane-conditions-at-new-jersey-ice-jail
-  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE jail
+  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE
+    jail
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.7167
+  strength: 0.7162
 - slug: 2026-06-02-newark-ice-detainees-allege-spoiled-food-beatings-as-hunger-strike-continues
   headline: Newark ICE detainees allege spoiled food, beatings as hunger strike continues
   publish_date: '2026-06-02'
@@ -182,69 +186,18 @@ related_stories:
   headline: Nearly 40 women join hunger strike at New Jersey ICE detention facility
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.6591
-- slug: 2026-05-27-democratic-lawmakers-visit-newark-detention-center-allege-hunger-strike-and-poor
-  headline: Democratic lawmakers visit Newark detention center, allege hunger strike and poor conditions
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6393
+  strength: 0.6597
 - slug: 2026-05-13-85-year-old-french-widow-recounts-ice-detention-in-louisiana
   headline: 85-year-old French widow recounts ICE detention in Louisiana
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6539
+  strength: 0.6533
 - slug: 2026-04-03-inspection-finds-dozens-of-violations-at-major-ice-camp-in-texas
   headline: Inspection finds dozens of violations at major ICE camp in Texas
   publish_date: '2026-04-03'
   relation: related
   strength: 0.6689
-- slug: 2026-04-29-washington-seeks-order-to-let-health-inspectors-into-geo-group-ice-detention
-  headline: Washington seeks order to let health inspectors into Geo Group ICE detention
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6429
-- slug: 2026-01-13-minneapolis-u-s-citizens-describe-ice-detention-pressure-to-inform-on-protest-or
-  headline: Minneapolis U.S. citizens describe ICE detention, pressure to inform on protest organizers
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6934
-- slug: 2026-03-05-911-calls-and-interviews-raise-concerns-about-ice-camp-conditions-in-el-paso
-  headline: 911 calls and interviews raise concerns about ICE camp conditions in El Paso
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6731
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  headline: Guards accused of beating detainees at Florida's 'Alligator Alcatraz'
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6427
-- slug: 2026-03-14-ice-replaces-prime-contractor-at-largest-detention-facility
-  headline: ICE replaces prime contractor at largest detention facility
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6621
-- slug: 2026-03-20-mexican-teen-dies-in-ice-custody-at-florida-county-jail
-  headline: Mexican teen dies in ICE custody at Florida county jail
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6441
-- slug: 2026-01-30-thousands-still-without-power-in-the-south-as-fresh-cold-bears-down
-  headline: Thousands still without power in the South as fresh cold bears down
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6637
-- slug: 2026-03-01-trump-administration-holds-children-in-immigration-detention-for-months
-  headline: Trump administration holds children in immigration detention for months
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6486
-- slug: 2026-01-26-ice-storm-recovery-stretches-to-a-week-as-mississippi-shivers-without-power
-  headline: Ice storm recovery stretches to a week as Mississippi shivers without power
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6511
 ---
-
 ## Mississippi ICE detainee alleges gas leak sickened detainees, denied care
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Michigan schools use restraint and seclusion thousands of times a year
 secondary_headline: Critics seek clearer rules on what counts as an emergency
 publish_date: '2026-08-14'
-lede: Michigan schools physically restrain students or place them in seclusion thousands of times a year, according to a Bridge Michigan report published by the Associated Press. Many of the students affected are children with disabilities. The practices continue despite an almost 10-year-old state law that makes clear schools should only consider such measures in emergencies, with disagreement persisting over whether new legislation is needed.
-nut_graf: The central question is whether the existing emergency-only standard, nearly a decade after it was enacted, has been specific enough to curb practices that still occur thousands of times a year, with many of the affected students being children with disabilities.
+lede: Michigan schools physically restrain students or place them in seclusion thousands
+  of times a year, according to a Bridge Michigan report published by the Associated
+  Press. Many of the students affected are children with disabilities. The practices
+  continue despite an almost 10-year-old state law that makes clear schools should
+  only consider such measures in emergencies, with disagreement persisting over whether
+  new legislation is needed.
+nut_graf: The central question is whether the existing emergency-only standard, nearly
+  a decade after it was enacted, has been specific enough to curb practices that still
+  occur thousands of times a year, with many of the affected students being children
+  with disabilities.
 primary_entities:
 - Michigan
 - Michigan schools
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,103 +152,28 @@ related_stories:
   publish_date: '2026-08-14'
   relation: related
   strength: 0.9559
-- slug: 2026-07-23-education-department-rescinds-disparate-impact-rule-for-schools
-  headline: Education Department rescinds disparate impact rule for schools
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6313
-- slug: 2026-07-23-intentional-discrimination-required-for-school-cases-under-education-dept-rule
-  headline: Intentional discrimination required for school cases under Education Dept. rule
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6205
 - slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
   headline: School screen bans risk isolating millions of students with disabilities
   publish_date: '2026-06-04'
   relation: related
   strength: 0.6633
-- slug: 2026-06-02-michigan-loosens-school-vaccine-waiver-rules-amid-measles-outbreak-rising-exempt
-  headline: Michigan loosens school vaccine waiver rules amid measles outbreak, rising exemptions
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6252
-- slug: 2026-05-10-pediatricians-urge-schools-to-protect-recess-for-students-of-all-ages
-  headline: Pediatricians urge schools to protect recess for students of all ages
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6488
 - slug: 2026-04-08-michigan-youth-sent-out-of-state-for-mental-health-care-as-beds-close
   headline: Michigan youth sent out of state for mental health care as beds close
   publish_date: '2026-04-08'
   relation: related
   strength: 0.6806
-- slug: 2026-05-20-lawsuit-accuses-massachusetts-schools-of-segregating-students-by-race
-  headline: Lawsuit accuses Massachusetts schools of segregating students by race
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6251
-- slug: 2026-05-21-massachusetts-lawsuit-alleges-state-schools-segregate-black-and-latino-students
-  headline: Massachusetts lawsuit alleges state schools segregate Black and Latino students
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.622
-- slug: 2026-05-10-first-new-recess-guidance-in-13-years-protect-play-pediatricians-say
-  headline: 'First new recess guidance in 13 years: protect play, pediatricians say'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6243
 - slug: 2026-01-15-michigan-churns-through-teachers-at-unsustainable-rate-report-finds
   headline: Michigan churns through teachers at unsustainable rate, report finds
   publish_date: '2026-01-15'
   relation: related
   strength: 0.6901
-- slug: 2026-04-14-michigan-lawmakers-and-groups-debate-overhauling-high-school-graduation-rules
-  headline: Michigan lawmakers and groups debate overhauling high school graduation rules
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6456
-- slug: 2026-05-02-michigan-families-and-officials-debate-responses-to-mental-health-crises
-  headline: Michigan families and officials debate responses to mental health crises
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6226
-- slug: 2026-04-24-michigan-schools-roll-out-contests-to-boost-student-attendance
-  headline: Michigan schools roll out contests to boost student attendance
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6274
-- slug: 2026-04-24-michigan-lawmakers-weigh-dam-safety-reforms-as-egle-budget-faces-cuts
-  headline: Michigan lawmakers weigh dam safety reforms as EGLE budget faces cuts
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6226
 - slug: 2026-02-18-michigan-schools-face-cardiac-emergency-plan-gap-as-state-budget-leaves-funds-ou
-  headline: Michigan schools face cardiac emergency plan gap as state budget leaves funds out
+  headline: Michigan schools face cardiac emergency plan gap as state budget leaves
+    funds out
   publish_date: '2026-02-18'
   relation: related
   strength: 0.654
-- slug: 2026-01-24-five-michigan-universities-collaborate-on-teacher-shortage
-  headline: Five Michigan universities collaborate on teacher shortage
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6373
-- slug: 2026-03-10-connecticut-lawmakers-weigh-statewide-bell-to-bell-cellphone-bans-in-schools
-  headline: Connecticut lawmakers weigh statewide bell-to-bell cellphone bans in schools
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6207
-- slug: 2026-02-12-gov-gretchen-whitmer-signs-smartphone-ban-for-michigan-school-classrooms
-  headline: Gov. Gretchen Whitmer signs smartphone ban for Michigan school classrooms
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6298
-- slug: 2026-01-26-inconsistent-policies-stymie-nevada-s-attendance-push
-  headline: Inconsistent policies stymie Nevada's attendance push
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6331
 ---
-
 ## Michigan schools use restraint and seclusion thousands of times a year
 
 **Subtype:** fact
