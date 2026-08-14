@@ -24,6 +24,7 @@ topic_tags:
 - environment
 storyline_nexus:
 - venezuela-earthquake-recovery-faces-growing-environmental-risks
+- colombia-earthquake-rescue-timeline
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -208,6 +209,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Venezuela earthquake rubble raises risk of secondary health crisis
 
 **Subtype:** fact

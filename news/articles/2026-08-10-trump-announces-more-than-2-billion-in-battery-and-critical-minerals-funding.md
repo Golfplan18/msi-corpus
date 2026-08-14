@@ -30,7 +30,8 @@ topic_tags:
 - energy and resource
 - artificial intelligence
 - science and technology
-storyline_nexus: []
+storyline_nexus:
+- us-critical-minerals-funding-name-changes
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.6697
 ---
+
 ## Trump announces more than $2 billion in battery and critical minerals funding
 
 **Subtype:** fact

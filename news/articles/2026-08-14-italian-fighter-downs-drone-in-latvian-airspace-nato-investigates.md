@@ -1,9 +1,17 @@
 ---
 headline: Italian fighter downs drone in Latvian airspace, NATO investigates
-secondary_headline: Baltic states report near-weekly drone incursions; German general calls it a 'gray-zone campaign'
+secondary_headline: Baltic states report near-weekly drone incursions; German general
+  calls it a 'gray-zone campaign'
 publish_date: '2026-08-14'
-lede: An Italian Eurofighter jet shot down an unidentified drone in Latvian airspace early Friday, NATO said. Latvia's Ministry of Defense attributed the incursion to Russian electromagnetic warfare disrupting Ukrainian long-range strike drones, and a NATO spokesman said an investigation is under way. NATO scrambled four fighters total — a second Italian jet and two Turkish jets — to respond to the airspace violation.
-nut_graf: NATO has scrambled jets or launched missiles in response to multiple recent incursions, with Baltic officials attributing the near-weekly airspace violations to Russian electronic warfare disrupting Ukrainian long-range strike drones and raising concerns about potential Russian probing or false-flag operations.
+lede: An Italian Eurofighter jet shot down an unidentified drone in Latvian airspace
+  early Friday, NATO said. Latvia's Ministry of Defense attributed the incursion to
+  Russian electromagnetic warfare disrupting Ukrainian long-range strike drones, and
+  a NATO spokesman said an investigation is under way. NATO scrambled four fighters
+  total — a second Italian jet and two Turkish jets — to respond to the airspace violation.
+nut_graf: NATO has scrambled jets or launched missiles in response to multiple recent
+  incursions, with Baltic officials attributing the near-weekly airspace violations
+  to Russian electronic warfare disrupting Ukrainian long-range strike drones and
+  raising concerns about potential Russian probing or false-flag operations.
 primary_entities:
 - Latvia
 - NATO
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +150,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-08-14-italian-fighter-downs-drone-in-latvian-airspace-nato-investigates.png
-  alt: 'Illustration accompanying article: Italian fighter downs drone in Latvian airspace, NATO investigates'
+  alt: 'Illustration accompanying article: Italian fighter downs drone in Latvian
+    airspace, NATO investigates'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-08-07-armed-drone-found-at-german-airport-near-ukrainian-jet-traced-to-russia
   headline: Armed drone found at German airport near Ukrainian jet traced to Russia
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.7247
+  strength: 0.7245
 - slug: 2026-08-11-russia-uses-drones-to-probe-nato-defenses-german-general-says
   headline: Russia uses drones to probe NATO defenses, German general says
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6891
+  strength: 0.6902
 - slug: 2026-07-26-romania-shoots-down-third-russian-drone-summons-ambassador
   headline: Romania shoots down third Russian drone, summons ambassador
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.6903
-- slug: 2026-07-27-ukrainian-drones-strike-iranian-military-supply-line-to-russia-in-caspian-sea
-  headline: Ukrainian drones strike Iranian military supply line to Russia in Caspian Sea
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6485
+  strength: 0.69
 - slug: 2026-06-03-ukrainian-drones-set-st-petersburg-oil-terminal-ablaze-ahead-of-putin-economic-f
-  headline: Ukrainian drones set St. Petersburg oil terminal ablaze ahead of Putin economic forum
+  headline: Ukrainian drones set St. Petersburg oil terminal ablaze ahead of Putin
+    economic forum
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.682
+  strength: 0.683
 - slug: 2026-05-12-ukrainian-drone-pilots-humble-swedish-forces-in-nato-war-game-on-gotland
   headline: Ukrainian drone pilots humble Swedish forces in NATO war game on Gotland
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.6926
+  strength: 0.6915
 - slug: 2026-05-15-latvian-pm-evika-silina-resigns-after-coalition-partner-pulls-support
   headline: Latvian PM Evika Silina resigns after coalition partner pulls support
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6846
-- slug: 2026-05-12-ukrainian-drone-pilots-warn-nato-at-sweden-exercise-amid-u-s-concerns
-  headline: Ukrainian drone pilots warn NATO at Sweden exercise amid U.S. concerns
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6838
+  strength: 0.6839
 - slug: 2026-05-16-ukrainian-drones-strike-russia-killing-4-and-wounding-a-dozen-officials-say
-  headline: Ukrainian drones strike Russia, killing 4 and wounding a dozen, officials say
+  headline: Ukrainian drones strike Russia, killing 4 and wounding a dozen, officials
+    say
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6774
+  strength: 0.6775
 - slug: 2026-05-15-latvian-prime-minister-evika-silina-resigns-as-drone-controversy-splits-coalitio
-  headline: Latvian Prime Minister Evika Silina resigns as drone controversy splits coalition
+  headline: Latvian Prime Minister Evika Silina resigns as drone controversy splits
+    coalition
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6784
-- slug: 2026-05-13-greece-says-sea-drone-found-off-lefkada-is-ukrainian-calls-incident-extremely-se
-  headline: Greece says sea drone found off Lefkada is Ukrainian, calls incident extremely serious
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.681
-- slug: 2026-05-14-russia-fires-800-drones-at-ukraine-in-massive-daytime-attack-killing-six
-  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing six
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6768
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6757
-- slug: 2026-05-13-greece-says-ukrainian-built-sea-drone-found-off-lefkada-is-destroyed
-  headline: Greece says Ukrainian-built sea drone found off Lefkada is destroyed
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6739
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6626
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6572
-- slug: 2026-05-16-ukraine-drones-kill-4-wound-12-in-one-of-largest-strikes-on-moscow-area
-  headline: Ukraine drones kill 4, wound 12 in one of largest strikes on Moscow area
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6538
-- slug: 2026-05-08-ukraine-launches-major-drone-attack-on-russia-ahead-of-victory-day-parade
-  headline: Ukraine launches major drone attack on Russia ahead of Victory Day parade
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6645
-- slug: 2026-05-09-authorities-probe-mystery-military-sea-drone-washed-ashore-on-greek-island
-  headline: Authorities probe mystery military sea drone washed ashore on Greek island
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6469
-- slug: 2026-05-04-ukraine-launches-strikes-on-russian-oil-infrastructure-and-shadow-fleet
-  headline: Ukraine launches strikes on Russian oil infrastructure and shadow fleet
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6509
+  strength: 0.6786
 ---
-
 ## Italian fighter downs drone in Latvian airspace, NATO investigates
 
 **Subtype:** fact

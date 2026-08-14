@@ -30,7 +30,9 @@ topic_tags:
 - health treatment and procedure
 - human interest
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- colombia-earthquake-relief-efforts-intensify
+- colombia-earthquake-rescue-timeline
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -206,6 +208,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## 7.4-magnitude earthquake kills at least 132 in western Colombia
 
 **Subtype:** fact

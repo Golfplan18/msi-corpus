@@ -27,7 +27,9 @@ topic_tags:
 - health treatment and procedure
 - human interest
 - public health
-storyline_nexus: []
+storyline_nexus:
+- colombia-earthquake-relief-efforts-intensify
+- colombia-earthquake-rescue-timeline
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -176,6 +178,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Colombia rescuers race the clock as quake survival odds fall
 
 **Subtype:** fact

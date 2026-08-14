@@ -23,7 +23,8 @@ topic_tags:
 - armed conflict
 - energy and resource
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- us-critical-minerals-funding-name-changes
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -186,6 +187,7 @@ related_stories:
   relation: related
   strength: 0.7143
 ---
+
 ## Trump convenes mining executives at State Department over critical minerals
 
 **Subtype:** fact
