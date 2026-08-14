@@ -1,9 +1,19 @@
 ---
 headline: Aycock denies bid to redraw DeSoto County judicial districts before election
-secondary_headline: Lawsuit followed Supreme Court ruling that altered minority-voter protections
+secondary_headline: Lawsuit followed Supreme Court ruling that altered minority-voter
+  protections
 publish_date: '2026-08-14'
-lede: U.S. District Judge Sharion Aycock on Thursday denied a request to block majority-Black judicial subdistricts in DeSoto County from governing the November state judicial election, ruling that changing the district lines so close to the election would conflict with U.S. Supreme Court precedent. The lawsuit, filed by Robert Foster, a former Republican gubernatorial candidate and current DeSoto County supervisor, and others, alleged the Mississippi Legislature's creation of the subdistricts violates the Voting Rights Act.
-nut_graf: The ruling leaves the majority-Black subdistricts in place for the upcoming November election. Aycock's denial rests on the proximity of the election rather than on the legal merits of the Voting Rights Act claim, leaving the broader challenge to the subdistricts open.
+lede: U.S. District Judge Sharion Aycock on Thursday denied a request to block majority-Black
+  judicial subdistricts in DeSoto County from governing the November state judicial
+  election, ruling that changing the district lines so close to the election would
+  conflict with U.S. Supreme Court precedent. The lawsuit, filed by Robert Foster,
+  a former Republican gubernatorial candidate and current DeSoto County supervisor,
+  and others, alleged the Mississippi Legislature's creation of the subdistricts violates
+  the Voting Rights Act.
+nut_graf: The ruling leaves the majority-Black subdistricts in place for the upcoming
+  November election. Aycock's denial rests on the proximity of the election rather
+  than on the legal merits of the Voting Rights Act claim, leaving the broader challenge
+  to the subdistricts open.
 primary_entities:
 - Robert Foster
 - Sharion Aycock
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,16 +153,21 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-08-14-aycock-denies-bid-to-redraw-desoto-county-judicial-districts-before-election.png
-  alt: 'Illustration accompanying article: Aycock denies bid to redraw DeSoto County judicial districts before election'
+  alt: 'Illustration accompanying article: Aycock denies bid to redraw DeSoto County
+    judicial districts before election'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-07-08-desoto-county-residents-sue-reeves-watson-and-fitch-over-majority-black-judicial
-  headline: DeSoto County residents sue Reeves, Watson and Fitch over majority-Black judicial subdistricts
+  headline: DeSoto County residents sue Reeves, Watson and Fitch over majority-Black
+    judicial subdistricts
   publish_date: '2026-07-08'
   relation: related
   strength: 0.8124
@@ -161,17 +177,20 @@ related_stories:
   relation: related
   strength: 0.6701
 - slug: 2026-06-05-states-pursue-limited-alternatives-after-supreme-court-weakens-voting-rights-act
-  headline: States pursue limited alternatives after Supreme Court weakens Voting Rights Act
+  headline: States pursue limited alternatives after Supreme Court weakens Voting
+    Rights Act
   publish_date: '2026-06-05'
   relation: related
   strength: 0.6806
 - slug: 2026-06-10-florida-supreme-court-allows-republican-drawn-house-districts-for-midterm-electi
-  headline: Florida Supreme Court allows Republican-drawn House districts for midterm elections
+  headline: Florida Supreme Court allows Republican-drawn House districts for midterm
+    elections
   publish_date: '2026-06-10'
   relation: related
   strength: 0.6635
 - slug: 2026-05-20-supreme-court-sends-native-voting-rights-enforcement-dispute-back-to-lower-court
-  headline: Supreme Court sends Native voting rights enforcement dispute back to lower court
+  headline: Supreme Court sends Native voting rights enforcement dispute back to lower
+    court
   publish_date: '2026-05-20'
   relation: related
   strength: 0.6948
@@ -186,72 +205,12 @@ related_stories:
   relation: related
   strength: 0.6704
 - slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
+  headline: 'Redistricting push meets mixed results: South Carolina defies Trump,
+    Missouri upholds map'
   publish_date: '2026-05-13'
   relation: related
   strength: 0.6851
-- slug: 2026-05-17-supreme-court-orders-review-of-native-american-voting-rights-act-ruling
-  headline: Supreme Court orders review of Native American Voting Rights Act ruling
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6747
-- slug: 2026-04-30-supreme-court-weakens-voting-rights-act-section-2-in-louisiana-case
-  headline: Supreme Court weakens Voting Rights Act Section 2 in Louisiana case
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6935
-- slug: 2026-05-02-supreme-court-ruling-stokes-redistricting-battle-in-several-states
-  headline: Supreme Court ruling stokes redistricting battle in several states
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.689
-- slug: 2026-05-19-supreme-court-orders-review-of-native-american-voting-rights-case
-  headline: Supreme Court Orders Review of Native American Voting Rights Case
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6632
-- slug: 2026-05-19-supreme-court-sends-native-american-voting-rights-case-back-to-lower-court
-  headline: Supreme Court sends Native American voting rights case back to lower court
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6619
-- slug: 2026-05-05-southern-state-republicans-consider-new-house-districts-after-voting-rights-act-
-  headline: Southern state Republicans consider new House districts after Voting Rights Act ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6755
-- slug: 2026-05-13-trump-s-redistricting-push-hits-roadblocks-in-s-c-succeeds-in-missouri
-  headline: Trump’s redistricting push hits roadblocks in S.C., succeeds in Missouri
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6614
-- slug: 2026-04-30-states-move-to-respond-after-supreme-court-ruling-limits-race-in-redistricting
-  headline: States move to respond after Supreme Court ruling limits race in redistricting
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6711
-- slug: 2026-05-05-states-redraw-u-s-house-districts-mid-decade-as-gop-seeks-seat-gains
-  headline: States redraw U.S. House districts mid-decade as GOP seeks seat gains
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6611
-- slug: 2026-03-24-missouri-supreme-court-upholds-mid-decade-congressional-redistricting-urged-by-t
-  headline: Missouri Supreme Court upholds mid-decade congressional redistricting urged by Trump
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6972
-- slug: 2026-03-25-missouri-supreme-court-upholds-trump-backed-mid-decade-congressional-map
-  headline: Missouri Supreme Court upholds Trump-backed mid-decade congressional map
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6758
-- slug: 2026-03-28-missouri-judge-rules-trump-backed-house-districts-take-effect
-  headline: Missouri judge rules Trump-backed House districts take effect
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6722
 ---
-
 ## Aycock denies bid to redraw DeSoto County judicial districts before election
 
 **Subtype:** fact
