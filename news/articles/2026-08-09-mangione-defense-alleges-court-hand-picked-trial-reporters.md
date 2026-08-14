@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-05-19'
   relation: related
   strength: 0.6862
+analyses:
+- '2026-08-09-mangione-defense-frames-press-pool-cap-as-alleged-prosecutorial-role-in-choosing'
 ---
 ## Mangione defense alleges court hand-picked trial reporters
 
@@ -241,3 +243,8 @@ The case has unfolded against a media landscape in which news consumers expect m
 **Publication date:** 2026-08-09
 **Title:** Press access spat adds to fears of circus around Luigi Mangione murder trial
 **URL:** https://www.theguardian.com/us-news/2026/aug/09/luigi-mangione-trial-press-access
+
+---
+
+<!-- analysis-link:2026-08-09-mangione-defense-frames-press-pool-cap-as-alleged-prosecutorial-role-in-choosing -->
+**Going deeper:** [Read MSI's analysis of Mangione trial press access dispute →](/analyses/2026-08-09-mangione-defense-frames-press-pool-cap-as-alleged-prosecutorial-role-in-choosing)
