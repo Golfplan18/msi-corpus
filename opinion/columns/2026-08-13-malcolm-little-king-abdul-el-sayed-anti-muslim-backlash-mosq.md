@@ -1,7 +1,8 @@
 ---
 headline: Nancy Mace called every Muslim officeholder a Trojan horse. She meant it.
 publish_date: '2026-08-13'
-lede: Representative Nancy Mace, a Republican from South Carolina, designated every Muslim American officeholder a Trojan horse and a threat to the republic.
+lede: Representative Nancy Mace, a Republican from South Carolina, designated every
+  Muslim American officeholder a Trojan horse and a threat to the republic.
 pen_name: malcolm-little-king
 primary_entities:
 - Abdul El-Sayed
@@ -35,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +58,28 @@ cross_article_links:
   strength: 0.1833
   confidence: high
 draft: false
+image:
+  url: /cartoons/nancy-mace-called-every-muslim-officeholder-a-trojan-horse.png
+  alt: 'Editorial cartoon by Hector Rentier: Nancy Mace called every Muslim officeholder
+    a Trojan horse. She meant it.'
+  caption: The label rotates. The slot does not.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-13T22:47:22-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1 aspect ratio. Heavy cross-hatch wood-engraving in
+    the Nast tradition. Center: Representative Nancy Mace, fully individuated and
+    recognizable, seated at a House-office desk in compose'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-13-hector-paired-with-2026-08-13-malcolm-little-king-abdul-el-sayed-anti-muslim-backlash-mosq
 ---
+
+![Editorial cartoon by Hector Rentier: Nancy Mace called every Muslim officeholder a Trojan horse. She meant it.](/cartoons/nancy-mace-called-every-muslim-officeholder-a-trojan-horse.png)
+*The label rotates. The slot does not.*
 
 Representative Nancy Mace, a Republican from South Carolina, designated every Muslim American officeholder a Trojan horse and a threat to the republic. She posted the sentence on X within days of Abdul El-Sayed's victory in Michigan's Democratic Senate primary this month — the win that, by the Associated Press's count, made him the first Muslim nominated by a major party to run for the United States Senate. President Donald Trump and other Republicans had already begun referring to the nominee by his full name, Abdulrahman Mohamed El-Sayed, while depicting him as a danger to America. The Associated Press, in its coverage of the milestone, described it against "persisting and widespread anti-Muslim sentiment across much of the nation."
 

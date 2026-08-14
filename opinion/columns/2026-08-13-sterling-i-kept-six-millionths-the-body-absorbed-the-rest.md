@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +31,29 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/i-kept-six-millionths-the-body-absorbed-the-rest.png
+  alt: 'Editorial cartoon by Hector Rentier: I Kept Six-Millionths. The Body Absorbed
+    the Rest.'
+  caption: He called the arithmetic devotion. The man below the line called it the
+    August shift.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-13T22:50:25-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single central allegorical figure, 1:1, in heavy cross-hatch wood-engraving
+    in the Nast tradition. A composed data-center operator in a dark suit kneels in
+    apparent prayer at an altar. The altar is a '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-13-hector-paired-with-2026-08-13-sterling-i-kept-six-millionths-the-body-absorbed-the-rest
 ---
+
+![Editorial cartoon by Hector Rentier: I Kept Six-Millionths. The Body Absorbed the Rest.](/cartoons/i-kept-six-millionths-the-body-absorbed-the-rest.png)
+*He called the arithmetic devotion. The man below the line called it the August shift.*
 
 Dear Senator Wyden,
 

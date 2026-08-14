@@ -1,7 +1,8 @@
 ---
 headline: The Shelf Stays Full Because Earl Holds the Shortage
 publish_date: '2026-08-13'
-lede: Scarcity is the one law of economics that is genuinely a law, and the senator has stood it in a doorway.
+lede: Scarcity is the one law of economics that is genuinely a law, and the senator
+  has stood it in a doorway.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-shelf-stays-full-because-earl-holds-the-shortage.png
+  alt: 'Editorial cartoon by Hector Rentier: The Shelf Stays Full Because Earl Holds
+    the Shortage'
+  caption: The shelf is full. The man is in the smoke.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-13T22:57:36-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single panel, 1:1, heavy cross-hatch wood-engraving throughout. In the
+    foreground, US Senator Tom Cotton (AR) sits at a polished mahogany desk in a Capitol
+    Hill office, posture composed, necktie strai
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-13-hector-paired-with-2026-08-13-sterling-the-shelf-stays-full-because-earl-holds-the-shortage
 ---
+
+![Editorial cartoon by Hector Rentier: The Shelf Stays Full Because Earl Holds the Shortage](/cartoons/the-shelf-stays-full-because-earl-holds-the-shortage.png)
+*The shelf is full. The man is in the smoke.*
 
 Scarcity is the one law of economics that is genuinely a law, and the senator has stood it in a doorway. Tom Cotton writes in [Fox News](https://www.foxnews.com/opinion/sen-tom-cotton-democrats-say-socialism-help-history-says-hurt) that socialism empties the shelf, a woe he has catalogued from Caracas to the Urals. Fine. The shelf is where a system goes to be photographed. It is not the system. The system is the shadow the shelf throws across the man who is not in the photograph — the one you could draw a chalk line around to get the most flattering line between a wage and a silence. The senator finished his history lesson with the shelf full and the moral secured, and he never heard, through the grocery-store door, the man who grows your sugar.
 
