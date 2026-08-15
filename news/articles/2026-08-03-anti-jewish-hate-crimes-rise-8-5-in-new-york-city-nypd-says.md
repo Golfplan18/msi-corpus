@@ -35,6 +35,7 @@ topic_tags:
 - religious institution
 storyline_nexus:
 - new-york-hate-crimes-surge-amid-anti-semitism
+- bronx-man-charged-with-hate-crimes-in-synagogue-attack
 storyline_continuity:
   decision: topical
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.6569
 ---
+
 ## Anti-Jewish hate crimes rise 8.5% in New York City, NYPD says
 
 **Subtype:** fact

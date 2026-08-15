@@ -23,6 +23,7 @@ topic_tags:
 - crime
 storyline_nexus:
 - new-york-hate-crimes-surge-amid-anti-semitism
+- bronx-man-charged-with-hate-crimes-in-synagogue-attack
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
