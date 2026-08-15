@@ -36,6 +36,7 @@ topic_tags:
 - health
 storyline_nexus:
 - apple-testing-cxmt-memory-chips-for-chinese-devices
+- apple-testing-cxmt-memory-chips-for-chinese-devices-2
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -216,8 +217,9 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 analyses:
-- '2026-08-09-apple-s-cxmt-option-is-a-supply-buffer-with-a-regulatory-fault-line'
+- 2026-08-09-apple-s-cxmt-option-is-a-supply-buffer-with-a-regulatory-fault-line
 ---
+
 ## Apple tests CXMT memory chips, eyes White House approval
 
 **Subtype:** fact
