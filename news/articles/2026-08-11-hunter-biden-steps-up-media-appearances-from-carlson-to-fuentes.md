@@ -29,7 +29,8 @@ primary_themes:
 - presidential politics
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- hunter-biden-media-tour-with-grievances
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.653
 ---
+
 ## Hunter Biden steps up media appearances from Carlson to Fuentes
 
 **Subtype:** fact

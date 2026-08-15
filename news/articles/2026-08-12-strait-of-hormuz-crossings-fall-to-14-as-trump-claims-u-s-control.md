@@ -29,7 +29,8 @@ topic_tags:
 - energy and resource
 - transport
 - transportation accident and incident
-storyline_nexus: []
+storyline_nexus:
+- iran-attacks-uae-ships-highlights-imperviousness-to-sanctions
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.8427
 ---
+
 ## Strait of Hormuz crossings fall to 14 as Trump claims U.S. control
 
 - Iran has largely halted vessel traffic through the Strait of Hormuz using only a handful of drone and missile attacks on ships.

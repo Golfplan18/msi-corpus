@@ -32,7 +32,8 @@ topic_tags:
 - international relations
 - international military intervention
 - economy, business and finance
-storyline_nexus: []
+storyline_nexus:
+- iran-attacks-uae-ships-highlights-imperviousness-to-sanctions
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -208,6 +209,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Iran sets condition for next talks as U.S. blockade grows to 55 ships
 
 **Subtype:** fact
