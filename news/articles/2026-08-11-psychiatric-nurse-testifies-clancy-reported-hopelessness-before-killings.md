@@ -33,6 +33,7 @@ topic_tags:
 - mental health
 storyline_nexus:
 - clancy-medication-changes-and-hopelessness-before-murders
+- clancy-medication-changes-and-hopelessness-before-murders-2
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.7608
 ---
+
 ## Psychiatric nurse testifies Clancy reported hopelessness before killings
 
 **Subtype:** fact

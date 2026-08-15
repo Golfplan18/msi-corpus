@@ -25,7 +25,8 @@ topic_tags:
 - health treatment and procedure
 - crime, law and justice
 - trial
-storyline_nexus: []
+storyline_nexus:
+- clancy-medication-changes-and-hopelessness-before-murders-2
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -186,6 +187,7 @@ related_stories:
   relation: related
   strength: 0.6918
 ---
+
 ## Clancy's lawyer challenges psychiatrist's care in cross-examination
 
 **Subtype:** fact

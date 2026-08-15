@@ -39,6 +39,7 @@ topic_tags:
 - law enforcement
 storyline_nexus:
 - clancy-medication-changes-and-hopelessness-before-murders
+- clancy-medication-changes-and-hopelessness-before-murders-2
 storyline_continuity:
   decision: none
   selected_prior_ids: []
