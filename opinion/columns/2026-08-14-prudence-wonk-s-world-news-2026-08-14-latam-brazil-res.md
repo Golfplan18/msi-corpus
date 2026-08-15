@@ -1,7 +1,8 @@
 ---
 headline: The Brazil Tariff Is Extortion Laundered as Trade Remedy
 publish_date: '2026-08-14'
-lede: Trump is weaponizing tariff authority to extort Brazil's courts and voters on Bolsonaro's behalf.
+lede: Trump is weaponizing tariff authority to extort Brazil's courts and voters on
+  Bolsonaro's behalf.
 pen_name: prudence-wonk
 primary_entities:
 - Brazil
@@ -37,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,9 +55,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-14-brazil-opens-60-day-consultation-window-on-u-s-tariffs.png
-  alt: 'Illustration accompanying article: Brazil opens 60-day consultation window on U.S. tariffs'
+  url: /cartoons/the-brazil-tariff-is-extortion-laundered-as-trade-remedy.png
+  alt: 'Editorial cartoon by Hector Rentier: The Brazil Tariff Is Extortion Laundered
+    as Trade Remedy'
+  caption: He called it a remedy. The exemption list was the receipt.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-14T22:12:35-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel 1:1, heavy cross-hatch wood-engraving in the Nast/Daumier
+    tradition, pure black masses balanced against carved-out whites. Central figure:
+    Trump at the executive desk of tariff authority,'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-14-brazil-opens-60-day-consultation-window-on-u-s-tariffs
   relation: extends
@@ -63,7 +76,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-14-hector-paired-with-2026-08-14-prudence-wonk-s-world-news-2026-08-14-latam-brazil-res
 ---
+
+![Editorial cartoon by Hector Rentier: The Brazil Tariff Is Extortion Laundered as Trade Remedy](/cartoons/the-brazil-tariff-is-extortion-laundered-as-trade-remedy.png)
+*He called it a remedy. The exemption list was the receipt.*
 
 Trump is weaponizing tariff authority to extort Brazil's courts and voters on Bolsonaro's behalf.
 

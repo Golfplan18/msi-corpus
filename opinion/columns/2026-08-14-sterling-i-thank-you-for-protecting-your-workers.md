@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +31,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/i-thank-you-for-protecting-your-workers.png
+  alt: 'Editorial cartoon by Hector Rentier: I Thank You for Protecting Your Workers'
+  caption: He blessed the entrance and the exit. He kept the candle.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-14T22:15:20-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single-panel Register 4 keystone composition, 1:1 square format. A financier
+    in a banker suit and patterned tie kneels in apparent prayer at an altar-desk,
+    hands folded, one finger resting on the open
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-14-hector-paired-with-2026-08-14-sterling-i-thank-you-for-protecting-your-workers
 ---
+
+![Editorial cartoon by Hector Rentier: I Thank You for Protecting Your Workers](/cartoons/i-thank-you-for-protecting-your-workers.png)
+*He blessed the entrance and the exit. He kept the candle.*
 
 Dear Commissioner,
 

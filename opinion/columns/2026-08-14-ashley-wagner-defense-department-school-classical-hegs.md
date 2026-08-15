@@ -1,7 +1,8 @@
 ---
 headline: Hegseth's 70,000 Military Kids Are His Captive Test Market
 publish_date: '2026-08-14'
-lede: Hegseth is using 70,000 military kids as a captive test market for the Hillsdale canon.
+lede: Hegseth is using 70,000 military kids as a captive test market for the Hillsdale
+  canon.
 pen_name: ashley-wagner
 primary_entities:
 - Department of Defense Education Activity
@@ -33,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +56,28 @@ cross_article_links:
   strength: 0.5703
   confidence: high
 draft: false
+image:
+  url: /cartoons/hegseths-70000-military-kids-are-his-captive-test-market.png
+  alt: 'Editorial cartoon by Hector Rentier: Hegseth''s 70,000 Military Kids Are His
+    Captive Test Market'
+  caption: He volunteered to serve. He didn't volunteer to be the test.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-14T22:05:45-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1 format, heavy wood-engraving cross-hatch
+    in the Nast tradition. Pete Hegseth kneels in apparent prayer at a lectern, palms
+    pressed together, head bowed in serene
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-14-hector-paired-with-2026-08-14-ashley-wagner-defense-department-school-classical-hegs
 ---
+
+![Editorial cartoon by Hector Rentier: Hegseth's 70,000 Military Kids Are His Captive Test Market](/cartoons/hegseths-70000-military-kids-are-his-captive-test-market.png)
+*He volunteered to serve. He didn't volunteer to be the test.*
 
 Hegseth is using 70,000 military kids as a captive test market for the Hillsdale canon.
 
