@@ -21,7 +21,8 @@ primary_themes:
 - homicide
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- tupac-shakur-murder-trial-begins-2
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -60,6 +61,7 @@ cross_article_links: []
 draft: false
 related_stories: []
 ---
+
 ## Judge rules police interview admissible in Tupac Shakur murder trial
 
 **Subtype:** fact

@@ -24,7 +24,8 @@ primary_themes:
 topic_tags:
 - crime
 - music
-storyline_nexus: []
+storyline_nexus:
+- tupac-shakur-murder-trial-begins-2
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -150,6 +151,7 @@ related_stories:
   relation: related
   strength: 0.8146
 ---
+
 ## Duane Davis goes on trial in Tupac Shakur killing
 
 **Subtype:** fact
