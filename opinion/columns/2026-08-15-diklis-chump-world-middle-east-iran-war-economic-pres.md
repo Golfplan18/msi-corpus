@@ -38,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,16 +55,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-15-us-doubles-iran-economic-pressure-as-tehran-strikes-uae-ships-in-hormuz.png
-  alt: 'Illustration accompanying article: US doubles Iran economic pressure as Tehran strikes UAE ships in Hormuz'
+  url: /cartoons/lower-oil-prices-winning-the-war-the-strait-will-be.png
+  alt: 'Editorial cartoon by Hector Rentier: Lower oil prices, winning the war, the
+    Strait will be American, tremendous.'
+  caption: He thanked the market for the plan. The plan was his.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-15T22:08:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1 format, altarpiece composition. Central figure: a
+    recognizable Trump caricature kneels at an altar in apparent prayer, hands together,
+    face fully rendered and individuated, expressio'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-15-us-doubles-iran-economic-pressure-as-tehran-strikes-uae-ships-in-hormuz
   relation: extends
   strength: 0.3331
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-15-hector-paired-with-2026-08-15-diklis-chump-world-middle-east-iran-war-economic-pres
 ---
+
+![Editorial cartoon by Hector Rentier: Lower oil prices, winning the war, the Strait will be American, tremendous.](/cartoons/lower-oil-prices-winning-the-war-the-strait-will-be.png)
+*He thanked the market for the plan. The plan was his.*
 
 So here's what happened. BEAUTIFUL day — and the Strait of Hormuz, the most important waterway in the world, the BEST waterway, is going to be American. I said it on Friday. After we finish defeating Iran, very soon, the Strait will be under the American flag. The White House said I was kidding. I wasn't kidding. I was also kidding. Both. The Strait is going to be tremendous.
 
