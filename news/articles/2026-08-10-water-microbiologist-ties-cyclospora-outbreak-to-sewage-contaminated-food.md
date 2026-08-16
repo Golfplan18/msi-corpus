@@ -170,6 +170,8 @@ related_stories:
   publish_date: '2026-07-24'
   relation: related
   strength: 0.7412
+analyses:
+- '2026-08-10-sewage-reuse-creates-a-possible-path-through-the-cyclospora-outbreak'
 ---
 ## Water microbiologist ties cyclospora outbreak to sewage-contaminated food
 
@@ -207,3 +209,8 @@ Rose wrote that as floods and droughts occur routinely across the United States 
 **Publication date:** 2026-08-10
 **Title:** Cyclospora spreads through human waste -- so how did it get on food?
 **URL:** https://www.upi.com/Voices/2026/08/10/cyclospora-outbreak-human-waste-food/2611786367856/
+
+---
+
+<!-- analysis-link:2026-08-10-sewage-reuse-creates-a-possible-path-through-the-cyclospora-outbreak -->
+**Going deeper:** [Read MSI's analysis of the sewage pathway →](/analyses/2026-08-10-sewage-reuse-creates-a-possible-path-through-the-cyclospora-outbreak)
