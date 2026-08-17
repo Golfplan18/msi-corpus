@@ -23,7 +23,8 @@ primary_themes:
 - emergency preparedness
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- firesat-satellites-launched
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -150,14 +151,19 @@ draft: false
 related_stories: []
 image:
   url: /articles/2026-08-02-old-trails-fire-jumps-spokane-river-prompts-thousands-to-evacuate.png
-  alt: "Illustration accompanying article: Old Trails Fire jumps Spokane River, prompts thousands to evacuate"
+  alt: 'Illustration accompanying article: Old Trails Fire jumps Spokane River, prompts
+    thousands to evacuate'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Old Trails Fire jumps Spokane River, prompts thousands to evacuate
 
 **Subtype:** fact

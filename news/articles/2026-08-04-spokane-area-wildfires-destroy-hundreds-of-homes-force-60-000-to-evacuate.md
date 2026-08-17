@@ -28,6 +28,7 @@ topic_tags:
 - law enforcement
 storyline_nexus:
 - spokane-wildfires-destroy-homes-and-force-evacuations
+- firesat-satellites-launched
 storyline_continuity:
   decision: none
   selected_prior_ids: []
