@@ -40,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,7 +62,27 @@ cross_article_links:
   strength: 0.1954
   confidence: high
 draft: false
+image:
+  url: /cartoons/a-word-is-not-a-name.png
+  alt: 'Editorial cartoon by Hector Rentier: A Word Is Not a Name'
+  caption: He announced the arrests. The names were never filed.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-16T22:04:55-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Grouped allegorical scene, 1:1. Center-frame: Ambassador Ronald Johnson
+    at a podium labeled by prop ''BILATERAL SECURITY COOPERATION,'' his left hand
+    resting on a stack of three dossier cards, his right'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-16-hector-paired-with-2026-08-16-hayzeus-l-salvador--16-latam-mexico-ambassador-jalisco-cart
 ---
+
+![Editorial cartoon by Hector Rentier: A Word Is Not a Name](/cartoons/a-word-is-not-a-name.png)
+*He announced the arrests. The names were never filed.*
 
 Three fugitives were arrested, and the ambassador called it a message. In a single day, Ambassador Ronald Johnson posted to X — the way a man posts a weather report, the way a man posts a football score — that federal immigration agents working under his authority had taken into custody a suspected member of the Jalisco New Generation Cartel on a firearms charge from Guanajuato, a fugitive wanted for murder in Zacatecas, and a third wanted for fraud. He called it "bilateral security cooperation" between President Trump and President Claudia Sheinbaum. He called it "a clear message" to criminals: "you will be caught and held accountable."
 
