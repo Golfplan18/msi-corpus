@@ -25,7 +25,8 @@ topic_tags:
 - law enforcement
 - prosecution
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- doj-s-new-fraud-division-faces-internal-strife-stalled-investigations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -121,6 +122,7 @@ related_stories:
   relation: related
   strength: 0.7154
 ---
+
 ## DOJ's new fraud division faces internal strife, stalled investigations
 
 **Subtype:** fact
