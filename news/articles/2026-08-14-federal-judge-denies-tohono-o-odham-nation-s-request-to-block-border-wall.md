@@ -27,7 +27,8 @@ topic_tags:
 - human migration
 - judiciary
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- trump-administration-pauses-big-bend-border-construction
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.6547
 ---
+
 ## Federal judge denies Tohono O'odham Nation's request to block border wall
 
 **Subtype:** fact

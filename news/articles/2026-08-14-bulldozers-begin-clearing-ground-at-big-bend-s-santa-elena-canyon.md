@@ -31,7 +31,8 @@ topic_tags:
 - public health
 - law enforcement
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-administration-pauses-big-bend-border-construction
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.6556
 ---
+
 ## Bulldozers begin clearing ground at Big Bend's Santa Elena Canyon
 **Subtype:** fact
 - Heavy earth-moving equipment is plowing ground at the mouth of Big Bend National Park's Santa Elena Canyon in footage released Thursday by photographer Natalie Newman.
