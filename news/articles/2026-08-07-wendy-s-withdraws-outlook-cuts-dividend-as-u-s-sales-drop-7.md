@@ -22,7 +22,8 @@ primary_themes:
 - restaurant industry
 topic_tags:
 - economy, business and finance
-storyline_nexus: []
+storyline_nexus:
+- burger-king-whopper-revamp-boosts-sales
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -173,6 +174,7 @@ related_stories:
   relation: related
   strength: 0.7852
 ---
+
 ## Wendy's withdraws outlook, cuts dividend as U.S. sales drop 7%
 
 **Subtype:** fact

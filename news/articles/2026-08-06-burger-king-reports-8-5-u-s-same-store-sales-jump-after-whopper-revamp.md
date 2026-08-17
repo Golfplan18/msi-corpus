@@ -24,7 +24,8 @@ topic_tags:
 - economy, business and finance
 - health
 - consumer goods
-storyline_nexus: []
+storyline_nexus:
+- burger-king-whopper-revamp-boosts-sales
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -114,6 +115,7 @@ related_stories:
   relation: related
   strength: 0.6522
 ---
+
 ## Burger King reports 8.5% U.S. same-store sales jump after Whopper revamp
 
 **Subtype:** fact
