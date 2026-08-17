@@ -32,6 +32,7 @@ topic_tags:
 - trial
 storyline_nexus:
 - abortion-rights-battles
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -135,6 +136,7 @@ related_stories:
   relation: related
   strength: 0.6559
 ---
+
 ## Jury selection begins in trial of mother accused in 3 children's deaths
 
 **Subtype:** fact

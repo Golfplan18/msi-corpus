@@ -28,6 +28,7 @@ topic_tags:
 - trial
 storyline_nexus:
 - clancy-medication-changes-and-hopelessness-before-murders-2
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.7313
 ---
+
 ## Clancy prosecutors revive faked-suicide theory based on her internet searches
 
 **Subtype:** fact

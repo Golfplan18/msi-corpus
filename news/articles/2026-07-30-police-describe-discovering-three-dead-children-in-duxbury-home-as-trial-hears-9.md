@@ -28,7 +28,8 @@ primary_themes:
 - Postpartum mental health
 - Mental illness defense
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -140,6 +141,7 @@ related_stories:
   relation: related
   strength: 0.8047
 ---
+
 ## Police describe discovering three dead children in Duxbury home as trial hears 911 call
 
 **Subtype:** fact

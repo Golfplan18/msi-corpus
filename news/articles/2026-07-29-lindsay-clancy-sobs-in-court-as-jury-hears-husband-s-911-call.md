@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
 - crime
 - health
-storyline_nexus: []
+storyline_nexus:
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -109,6 +110,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Lindsay Clancy sobs in court as jury hears husband's 911 call
 
 **Subtype:** fact

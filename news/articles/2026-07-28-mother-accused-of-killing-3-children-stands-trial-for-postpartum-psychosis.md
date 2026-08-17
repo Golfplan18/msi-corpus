@@ -24,7 +24,8 @@ topic_tags:
 - mental health
 - trial
 - health treatment and procedure
-storyline_nexus: []
+storyline_nexus:
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -150,6 +151,7 @@ related_stories:
   relation: related
   strength: 0.8543
 ---
+
 ## Mother accused of killing 3 children stands trial for postpartum psychosis
 
 **Subtype:** fact

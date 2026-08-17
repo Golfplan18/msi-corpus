@@ -34,6 +34,7 @@ topic_tags:
 storyline_nexus:
 - clancy-medication-changes-and-hopelessness-before-murders
 - clancy-medication-changes-and-hopelessness-before-murders-2
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 storyline_continuity:
   decision: direct
   selected_prior_ids:
