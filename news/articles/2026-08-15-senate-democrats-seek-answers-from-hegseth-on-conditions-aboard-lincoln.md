@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - armed conflict
 - mental health
-storyline_nexus: []
+storyline_nexus:
+- uss-abraham-lincoln-extended-deployment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -172,6 +173,7 @@ related_stories:
   relation: related
   strength: 0.6512
 ---
+
 ## Senate Democrats seek answers from Hegseth on conditions aboard Lincoln
 
 **Subtype:** fact

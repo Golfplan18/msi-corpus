@@ -28,7 +28,8 @@ primary_themes:
 - service member welfare
 topic_tags:
 - mental health
-storyline_nexus: []
+storyline_nexus:
+- uss-abraham-lincoln-extended-deployment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -161,6 +162,7 @@ related_stories:
   relation: related
   strength: 0.6947
 ---
+
 ## Navy Times, Stars and Stripes report multiple jump-overboard attempts on USS Abraham Lincoln
 
 **Subtype:** fact

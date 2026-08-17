@@ -32,7 +32,8 @@ topic_tags:
 - mental health
 - peace process
 - transport
-storyline_nexus: []
+storyline_nexus:
+- uss-abraham-lincoln-extended-deployment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -178,14 +179,19 @@ related_stories:
   strength: 0.6722
 image:
   url: /articles/2026-08-14-uss-george-washington-transits-malacca-as-lincoln-passes-260-days.png
-  alt: "Illustration accompanying article: USS George Washington transits Malacca as Lincoln passes 260 days"
+  alt: 'Illustration accompanying article: USS George Washington transits Malacca
+    as Lincoln passes 260 days'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## USS George Washington transits Malacca as Lincoln passes 260 days
 
 **Subtype:** fact
