@@ -29,6 +29,7 @@ topic_tags:
 - science and technology
 storyline_nexus:
 - spacex-rocket-stage-lunar-impact
+- spacex-falcon-9-upper-stage-impact-on-moon-confirmed
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -111,6 +112,7 @@ related_stories:
   relation: related
   strength: 0.7986
 ---
+
 ## Stray SpaceX Falcon 9 stage believed to have struck the moon
 
 **Subtype:** fact
