@@ -1,9 +1,16 @@
 ---
 headline: Comedians settle October 2022 lawsuit against Clayton County police
-secondary_headline: Lawyers say Clayton County confirmed ending the airport police program
+secondary_headline: Lawyers say Clayton County confirmed ending the airport police
+  program
 publish_date: '2026-08-18'
-lede: Comedians Eric André and Clayton English have settled a 2022 lawsuit against Clayton County, Georgia, that accused county police of racially profiling Black passengers at Hartsfield-Jackson Atlanta International Airport through coercive drug searches. The comedians' lawyers announced the agreement Tuesday.
-nut_graf: The settlement ends a lawsuit in which the comedians alleged Clayton County police racially profiled Black passengers at Hartsfield-Jackson Atlanta International Airport, with the comedians' lawyers saying the county had publicly confirmed ending the program at issue.
+lede: Comedians Eric André and Clayton English have settled a 2022 lawsuit against
+  Clayton County, Georgia, that accused county police of racially profiling Black
+  passengers at Hartsfield-Jackson Atlanta International Airport through coercive
+  drug searches. The comedians' lawyers announced the agreement Tuesday.
+nut_graf: The settlement ends a lawsuit in which the comedians alleged Clayton County
+  police racially profiled Black passengers at Hartsfield-Jackson Atlanta International
+  Airport, with the comedians' lawyers saying the county had publicly confirmed ending
+  the program at issue.
 primary_entities:
 - Eric André
 - Clayton English
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +146,8 @@ cross_article_links:
   strength: 0.5604
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-06-southwest-blocks-ice-attempt-to-board-dallas-flight-without-judicial-warrant
-  headline: Southwest blocks ICE attempt to board Dallas flight without judicial warrant
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5671
-- slug: 2026-08-06-airline-workers-decline-to-help-ice-agents-as-airport-arrests-rise
-  headline: Airline workers decline to help ICE agents as airport arrests rise
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5623
-- slug: 2026-08-05-connecticut-children-s-agrees-to-end-gender-affirming-care-for-minors
-  headline: Connecticut Children's agrees to end gender-affirming care for minors
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.558
-- slug: 2026-07-24-transportation-department-eliminates-civil-rights-rule-on-unintentional-discrimi
-  headline: Transportation Department eliminates civil rights rule on unintentional discrimination
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5638
-- slug: 2026-07-23-prosecution-of-cop-city-protester-tests-federal-anti-destruction-statute
-  headline: Prosecution of Cop City protester tests federal anti-destruction statute
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5602
-- slug: 2026-07-17-video-shows-ice-agents-abandoning-arrest-at-las-vegas-airport
-  headline: Video shows ICE agents abandoning arrest at Las Vegas airport
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5693
-- slug: 2026-06-21-delta-plane-aborts-landing-after-300ft-near-miss-with-american-jet-at-boston-log
-  headline: Delta plane aborts landing after 300ft near miss with American jet at Boston Logan
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.5635
-- slug: 2026-06-19-dhs-plan-to-give-local-police-ice-facial-recognition-app-revealed
-  headline: DHS plan to give local police ICE facial recognition app revealed
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5661
-- slug: 2026-06-04-court-orders-new-trials-for-paramedics-in-elijah-mcclain-death
-  headline: Court orders new trials for paramedics in Elijah McClain death
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5673
-- slug: 2026-05-23-prosecutors-drop-charges-against-activists-in-chicago-immigration-crackdown
-  headline: Prosecutors drop charges against activists in Chicago immigration crackdown
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.579
-- slug: 2026-05-19-justice-department-sues-connecticut-over-law-banning-masks-requiring-id-for-ice-
-  headline: Justice Department sues Connecticut over law banning masks, requiring ID for ICE agents
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5803
-- slug: 2026-05-20-justice-department-sues-connecticut-over-law-restricting-masks-and-ids-for-ice
-  headline: Justice Department sues Connecticut over law restricting masks and IDs for ICE
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5628
-- slug: 2026-05-19-connecticut-sued-over-law-banning-masks-requiring-id-for-ice-agents
-  headline: Connecticut sued over law banning masks, requiring ID for ICE agents
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.563
-- slug: 2026-05-14-dalton-eatherly-charged-with-attempted-murder-after-racist-livestream-confrontat
-  headline: Dalton Eatherly charged with attempted murder after racist livestream confrontation at courthouse
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5569
-- slug: 2026-04-02-new-york-lawyer-s-airport-ad-fight-ends-with-bigger-billboard
-  headline: New York lawyer’s airport ad fight ends with bigger billboard
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.591
-- slug: 2026-04-30-san-francisco-and-oakland-settle-airport-name-dispute-over-wording
-  headline: San Francisco and Oakland settle airport name dispute over wording
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5604
-- slug: 2026-04-24-vermont-prosecutor-drops-charges-against-six-protesters-in-ice-raid
-  headline: Vermont prosecutor drops charges against six protesters in ICE raid
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5664
-- slug: 2026-03-24-ice-officers-appear-at-tsa-checkpoints-during-partial-dhs-shutdown
-  headline: ICE officers appear at TSA checkpoints during partial DHS shutdown
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.585
-- slug: 2026-02-11-us-citizens-detained-in-idaho-immigration-raid-claim-unconstitutional-tactics
-  headline: US citizens detained in Idaho immigration raid claim unconstitutional tactics
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.5776
-- slug: 2026-03-20-tsa-wait-times-a-wild-card-during-dhs-shutdown-as-staffing-varies
-  headline: TSA wait times a wild card during DHS shutdown as staffing varies
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5597
+related_stories: []
 ---
-
 ## Comedians settle October 2022 lawsuit against Clayton County police
 
 **Subtype:** fact
