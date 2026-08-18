@@ -1,7 +1,8 @@
 ---
 headline: The Arc Flash Is the Price of Your Uptime
 publish_date: '2026-08-17'
-lede: Kade is a hand on the 480-volt bus in the data center I run in Ellis County, Texas.
+lede: Kade is a hand on the 480-volt bus in the data center I run in Ellis County,
+  Texas.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-arc-flash-is-the-price-of-your-uptime.png
+  alt: 'Editorial cartoon by Hector Rentier: The Arc Flash Is the Price of Your Uptime'
+  caption: The cheaper line item wins.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-17T22:03:36-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'A single 1:1 panel in heavy cross-hatch wood-engraving. Center: a composed,
+    well-dressed academic-operator seated at a polished mahogany desk that doubles
+    as a control-room console, a brass nameplate '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-17-hector-paired-with-2026-08-17-sterling-the-arc-flash-is-the-price-of-your-uptime
 ---
+
+![Editorial cartoon by Hector Rentier: The Arc Flash Is the Price of Your Uptime](/cartoons/the-arc-flash-is-the-price-of-your-uptime.png)
+*The cheaper line item wins.*
 
 Kade is a hand on the 480-volt bus in the data center I run in Ellis County, Texas. He's 51. He crosses that bus live, because when the feeder trips I lose $29,000 a minute and the suit I bought to keep him safe costs $2,340 and I have not given it to him. It has been in a drawer in the electrical closet for 14 months. The bus is the spine of the building your "summarize this by Monday" was answered from, and the purple paragraph that came back traveled it both ways. You paid for the answer. He paid for the bus.
 
