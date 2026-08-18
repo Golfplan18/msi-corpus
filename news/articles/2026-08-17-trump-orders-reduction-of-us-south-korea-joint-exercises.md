@@ -55,13 +55,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 5
+  count: 6
   outlets:
   - United Press International
   - The Guardian
   - The Wall Street Journal
   - Associated Press
   - BBC News
+  - NPR
   outlet_classes:
   - wire
   - national_daily
