@@ -30,7 +30,8 @@ primary_themes:
 - Special election succession
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-endorses-darline-graham-ahead-of-sc-senate-runoff
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -186,6 +187,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Third-place finisher Fry endorses Graham ahead of South Carolina's Aug. 25 Senate runoff
 
 **Subtype:** fact
