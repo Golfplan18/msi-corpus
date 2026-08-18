@@ -28,6 +28,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - karoline-leavitt-s-departure-and-white-house-press-secretary-vacancy
+- white-house-attacks-cnn-reporter-over-ossoff-remarks
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -177,6 +178,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Leavitt's departure comes weeks before midterms with no replacement named
 
 **Subtype:** fact

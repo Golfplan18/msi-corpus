@@ -24,6 +24,7 @@ topic_tags:
 - government
 storyline_nexus:
 - karoline-leavitt-s-departure-and-white-house-press-secretary-vacancy
+- white-house-attacks-cnn-reporter-over-ossoff-remarks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
