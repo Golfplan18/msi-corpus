@@ -30,7 +30,8 @@ topic_tags:
 - political process
 - labour
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- florida-republican-primary-19th-district-crowded-cast
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -162,6 +163,7 @@ related_stories:
   relation: related
   strength: 0.7562
 ---
+
 ## PCCC endorses Elijah Manley over Wasserman Schultz in Florida primary
 
 **Subtype:** fact

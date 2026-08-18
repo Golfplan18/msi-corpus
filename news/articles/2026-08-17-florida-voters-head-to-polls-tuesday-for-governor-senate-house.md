@@ -33,7 +33,9 @@ topic_tags:
 - government policy
 - political process
 - political dissent
-storyline_nexus: []
+storyline_nexus:
+- florida-republican-primary-19th-district-crowded-cast
+- florida-senate-and-governor-primaries
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -150,6 +152,7 @@ related_stories:
   relation: related
   strength: 0.7535
 ---
+
 ## Florida voters head to polls Tuesday for governor, Senate, House
 
 **Subtype:** fact

@@ -26,7 +26,8 @@ primary_themes:
 - Florida electoral politics
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- florida-senate-and-governor-primaries
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -147,6 +148,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Democratic socialist Oliver Larkin challenges Jared Moskowitz in Florida
 
 **Subtype:** fact
