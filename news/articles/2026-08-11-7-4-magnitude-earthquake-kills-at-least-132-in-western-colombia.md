@@ -33,6 +33,7 @@ topic_tags:
 storyline_nexus:
 - colombia-earthquake-relief-efforts-intensify
 - colombia-earthquake-rescue-timeline
+- shakira-rebuilds-schools-in-quake-hit-colombia
 storyline_continuity:
   decision: none
   selected_prior_ids: []
