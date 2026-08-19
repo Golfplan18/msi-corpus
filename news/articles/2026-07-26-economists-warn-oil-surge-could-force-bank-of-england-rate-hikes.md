@@ -27,7 +27,8 @@ primary_themes:
 - central-banks
 topic_tags:
 - monetary policy
-storyline_nexus: []
+storyline_nexus:
+- oil-price-increase-due-to-us-iran-ceasefire-end
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,8 +190,9 @@ related_stories:
   relation: related
   strength: 0.8174
 analyses:
-- '2026-07-26-bank-of-england-remit-gap-fuels-procyclical-tightening-in-oil-shock'
+- 2026-07-26-bank-of-england-remit-gap-fuels-procyclical-tightening-in-oil-shock
 ---
+
 ## Economists warn oil surge could force Bank of England rate hikes
 
 **Subtype:** fact

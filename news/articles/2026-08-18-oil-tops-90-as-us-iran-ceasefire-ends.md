@@ -28,7 +28,8 @@ topic_tags:
 - labour market
 - unemployment
 - conflict, war and peace
-storyline_nexus: []
+storyline_nexus:
+- oil-price-increase-due-to-us-iran-ceasefire-end
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Oil tops $90 as US-Iran ceasefire ends
 
 **Subtype:** fact
