@@ -2,8 +2,15 @@
 headline: NIPSCO reports 85,000 customers still without power a week after storms
 secondary_headline: Spurrier drives to Illinois for ice to keep insulin usable
 publish_date: '2026-08-19'
-lede: More than 85,000 customers in northwest Indiana remained without power on Wednesday, more than a week after storms downed trees and power lines across the region, Northern Indiana Public Service Co. said. The utility, which serves the area exclusively, has restored service to 285,000 customers since August 11, with more than 22,000 outages still concentrated in Gary.
-nut_graf: Portage resident Jeremy Spurrier, a 51-year-old diabetic safety manager at a wastewater plant, said the outage has forced him to drive to Illinois to buy ice to keep his insulin at a usable temperature. All the food in his refrigerator has spoiled, he said, forcing his family to rely on nonperishables like soup.
+lede: More than 85,000 customers in northwest Indiana remained without power on Wednesday,
+  more than a week after storms downed trees and power lines across the region, Northern
+  Indiana Public Service Co. said. The utility, which serves the area exclusively,
+  has restored service to 285,000 customers since August 11, with more than 22,000
+  outages still concentrated in Gary.
+nut_graf: Portage resident Jeremy Spurrier, a 51-year-old diabetic safety manager
+  at a wastewater plant, said the outage has forced him to drive to Illinois to buy
+  ice to keep his insulin at a usable temperature. All the food in his refrigerator
+  has spoiled, he said, forcing his family to rely on nonperishables like soup.
 primary_entities:
 - Northern Indiana Public Service Co.
 - Gary, Indiana
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -125,7 +133,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-08-12-midwest-storms-kill-2-injure-16-leave-hundreds-of-thousands-without-power
-  headline: Midwest storms kill 2, injure 16, leave hundreds of thousands without power
+  headline: Midwest storms kill 2, injure 16, leave hundreds of thousands without
+    power
   publish_date: '2026-08-12'
   relation: related
   strength: 0.6951
@@ -134,21 +143,6 @@ related_stories:
   publish_date: '2026-08-11'
   relation: related
   strength: 0.6967
-- slug: 2026-08-17-seven-dead-in-indiana-as-storms-extend-to-mid-atlantic
-  headline: Seven dead in Indiana as storms extend to mid-Atlantic
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6211
-- slug: 2026-08-16-indiana-flooding-kills-at-least-6-as-white-river-crests-above-1913-record
-  headline: Indiana flooding kills at least 6 as White River crests above 1913 record
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6208
-- slug: 2026-07-14-extreme-weather-drives-demand-for-home-backup-power-options
-  headline: Extreme weather drives demand for home backup power options
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.613
 - slug: 2026-06-12-1-dead-as-tornadoes-hit-midwest-power-out-for-nearly-500-000
   headline: 1 dead as tornadoes hit Midwest; power out for nearly 500,000
   publish_date: '2026-06-12'
@@ -179,53 +173,7 @@ related_stories:
   publish_date: '2026-02-03'
   relation: related
   strength: 0.6658
-- slug: 2026-01-26-winter-storm-kills-at-least-30-leaves-560-000-without-power
-  headline: Winter storm kills at least 30, leaves 560,000 without power
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6537
-- slug: 2026-03-14-powerful-storm-chain-brings-blizzard-conditions-to-upper-midwest
-  headline: Powerful storm chain brings blizzard conditions to Upper Midwest
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6327
-- slug: 2026-02-02-150-million-people-in-us-under-cold-weather-advisories-and-extreme-cold-warnings
-  headline: 150 million people in US under cold weather advisories and extreme cold warnings
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6419
-- slug: 2026-01-26-ice-storm-recovery-stretches-to-a-week-as-mississippi-shivers-without-power
-  headline: Ice storm recovery stretches to a week as Mississippi shivers without power
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6426
-- slug: 2026-02-03-school-closures-stretch-into-second-week-across-southeast-after-storms
-  headline: School closures stretch into second week across Southeast after storms
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6406
-- slug: 2026-03-12-large-tornado-causes-significant-damage-near-chicago-and-indiana
-  headline: Large tornado causes significant damage near Chicago and Indiana
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6176
-- slug: 2026-02-01-dangerous-cold-wave-heightens-hypothermia-risk-in-mississippi-and-tennessee
-  headline: Dangerous cold wave heightens hypothermia risk in Mississippi and Tennessee
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6316
-- slug: 2026-01-29-mississippi-dispatches-135-snowplows-as-icy-highways-trap-residents-officials-sa
-  headline: Mississippi dispatches 135 snowplows as icy highways trap residents, officials say
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6268
-- slug: 2026-01-23-winter-storm-threatens-millions-with-power-outages-and-no-heat
-  headline: Winter storm threatens millions with power outages and no heat
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6265
 ---
-
 ## NIPSCO reports 85,000 customers still without power a week after storms
 
 **Subtype:** fact

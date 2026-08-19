@@ -26,6 +26,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - minnesota-gop-gains-momentum-in-2026-senate-primary
+- minnesota-republican-party-gubernatorial-and-u-s-senate-primaries
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -206,6 +207,7 @@ related_stories:
   relation: related
   strength: 0.659
 ---
+
 ## Tafoya and Demuth win Minnesota Republican primaries
 
 **Subtype:** fact

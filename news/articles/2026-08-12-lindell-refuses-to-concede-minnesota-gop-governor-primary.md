@@ -29,6 +29,7 @@ topic_tags:
 - politics
 storyline_nexus:
 - mike-lindell-refuses-to-concede-in-minnesota-governor-primary
+- minnesota-republican-party-gubernatorial-and-u-s-senate-primaries
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -185,6 +186,7 @@ related_stories:
   relation: related
   strength: 0.6543
 ---
+
 ## Lindell refuses to concede Minnesota GOP governor primary
 
 **Subtype:** fact
