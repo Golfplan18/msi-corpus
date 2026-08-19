@@ -31,7 +31,8 @@ primary_themes:
 - orbital safety
 topic_tags:
 - science and technology
-storyline_nexus: []
+storyline_nexus:
+- robotic-rescue-of-nasa-swift-telescope-fails
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
@@ -78,6 +79,7 @@ related_stories:
   relation: related
   strength: 0.7141
 ---
+
 ## Robotic rescue of NASA telescope highlights challenge of capturing space junk
 
 **Subtype:** fact

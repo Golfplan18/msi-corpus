@@ -24,6 +24,7 @@ topic_tags:
 - science and technology
 storyline_nexus:
 - nasa-artemis-moon-mission
+- robotic-rescue-of-nasa-swift-telescope-fails
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -132,6 +133,7 @@ related_stories:
   relation: related
   strength: 0.66
 ---
+
 ## SpaceX launches Northrop robotic mission to repair aging satellites
 
 **Subtype:** fact
