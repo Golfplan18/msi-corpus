@@ -23,7 +23,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- el-sayed-wins-michigan-democratic-senate-primary
+- abdul-el-sayed-wins-michigan-democratic-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

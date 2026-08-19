@@ -27,7 +27,8 @@ primary_themes:
 - Emergency response
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- midwest-severe-weather-outbreak-2026
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -168,6 +169,7 @@ related_stories:
   relation: related
   strength: 0.6998
 ---
+
 ## Midwest storms kill 2, injure 16, leave hundreds of thousands without power
 
 **Subtype:** fact

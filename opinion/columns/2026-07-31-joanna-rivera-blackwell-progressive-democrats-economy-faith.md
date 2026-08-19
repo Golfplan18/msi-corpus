@@ -19,7 +19,7 @@ topic_tags:
 - economy
 - social condition
 storyline_nexus:
-- el-sayed-endorses-ocasio-cortez-in-michigan-senate-primary
+- abdul-el-sayed-wins-michigan-democratic-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

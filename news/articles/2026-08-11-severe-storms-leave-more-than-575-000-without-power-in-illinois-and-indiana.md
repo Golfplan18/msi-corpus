@@ -24,7 +24,8 @@ primary_themes:
 - public safety
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- midwest-severe-weather-outbreak-2026
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -166,6 +167,7 @@ related_stories:
   relation: related
   strength: 0.6693
 ---
+
 ## Severe storms leave more than 575,000 without power in Illinois and Indiana
 
 - Severe storms moved through the Chicago area and northwestern Indiana on Tuesday, cutting electricity for more than 575,000 customers, according to poweroutage.us.

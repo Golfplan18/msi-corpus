@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - weather
 - weather forecast
-storyline_nexus: []
+storyline_nexus:
+- midwest-severe-weather-outbreak-2026
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -188,6 +189,7 @@ related_stories:
   relation: related
   strength: 0.6517
 ---
+
 ## Seven dead in Indiana as storms extend to mid-Atlantic
 
 **Subtype:** fact

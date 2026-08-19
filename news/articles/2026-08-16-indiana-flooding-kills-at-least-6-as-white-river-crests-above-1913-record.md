@@ -35,7 +35,8 @@ topic_tags:
 - natural disaster
 - weather warning
 - weather
-storyline_nexus: []
+storyline_nexus:
+- midwest-severe-weather-outbreak-2026
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -209,6 +210,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Indiana flooding kills at least 6 as White River crests above 1913 record
 
 **Subtype:** fact
