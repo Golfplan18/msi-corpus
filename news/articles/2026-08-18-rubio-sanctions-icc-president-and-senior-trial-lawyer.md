@@ -138,6 +138,15 @@ related_stories:
   publish_date: '2026-06-24'
   relation: related
   strength: 0.6653
+image:
+  url: /articles/2026-08-18-rubio-sanctions-icc-president-and-senior-trial-lawyer.png
+  alt: "Illustration accompanying article: Rubio sanctions ICC president and senior trial lawyer"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:google/gemini-3.1-flash-image"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Rubio sanctions ICC president and senior trial lawyer
 

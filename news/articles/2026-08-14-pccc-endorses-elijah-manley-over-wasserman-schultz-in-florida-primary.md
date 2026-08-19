@@ -31,7 +31,7 @@ topic_tags:
 - labour
 - government policy
 storyline_nexus:
-- florida-republican-primary-19th-district-crowded-cast
+- florida-senate-and-governor-primaries
 storyline_continuity:
   decision: none
   selected_prior_ids: []

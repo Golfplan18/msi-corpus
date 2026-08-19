@@ -31,7 +31,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- florida-republican-primary-19th-district-crowded-cast
+- florida-senate-and-governor-primaries
 storyline_continuity:
   decision: direct
   selected_prior_ids:

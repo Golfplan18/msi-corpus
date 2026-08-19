@@ -28,9 +28,7 @@ topic_tags:
 - government policy
 - health
 storyline_nexus:
-- darline-graham-senate-campaign-south-carolina-primary
 - darline-graham-2026-sc-senate-primary
-- trump-endorses-darline-graham-ahead-of-sc-senate-runoff
 storyline_continuity:
   decision: direct
   selected_prior_ids:

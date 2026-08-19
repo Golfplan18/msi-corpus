@@ -27,7 +27,6 @@ topic_tags:
 - international relations
 storyline_nexus:
 - hamas-disarmament-deal-finalized
-- hamas-disarmament-deal-finalized-2
 storyline_continuity:
   decision: direct
   selected_prior_ids:

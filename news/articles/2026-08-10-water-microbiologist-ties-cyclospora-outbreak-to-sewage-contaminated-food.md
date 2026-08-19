@@ -26,7 +26,7 @@ topic_tags:
 - health
 - environment
 storyline_nexus:
-- cyclospora-outbreak-linked-to-taylor-farms-lettuce
+- cyclospora-outbreak-investigation-in-washtenaw-county
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

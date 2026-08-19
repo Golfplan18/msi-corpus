@@ -30,8 +30,7 @@ topic_tags:
 - international relations
 - government
 storyline_nexus:
-- hamas-disarmament-deal-finalized-2
-- netanyahu-rejects-u-s-backed-15-point-gaza-disarmament-plan
+- hamas-disarmament-deal-finalized
 storyline_continuity:
   decision: none
   selected_prior_ids: []

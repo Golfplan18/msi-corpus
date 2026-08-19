@@ -25,7 +25,7 @@ topic_tags:
 - political process
 - people
 storyline_nexus:
-- darline-graham-senate-campaign-south-carolina-primary
+- darline-graham-2026-sc-senate-primary
 storyline_continuity:
   decision: none
   selected_prior_ids: []

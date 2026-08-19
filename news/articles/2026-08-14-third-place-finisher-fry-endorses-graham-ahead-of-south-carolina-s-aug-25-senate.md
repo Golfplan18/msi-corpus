@@ -31,7 +31,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- trump-endorses-darline-graham-ahead-of-sc-senate-runoff
+- darline-graham-2026-sc-senate-primary
 storyline_continuity:
   decision: none
   selected_prior_ids: []

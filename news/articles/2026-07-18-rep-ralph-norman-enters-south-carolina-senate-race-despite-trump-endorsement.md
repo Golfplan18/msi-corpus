@@ -26,8 +26,7 @@ topic_tags:
 - government policy
 - political process
 storyline_nexus:
-- 2026-midterm-elections
-- darline-graham-senate-campaign-south-carolina-primary
+- darline-graham-2026-sc-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

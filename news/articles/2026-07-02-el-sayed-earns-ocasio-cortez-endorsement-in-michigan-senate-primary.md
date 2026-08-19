@@ -30,8 +30,7 @@ topic_tags:
 - politics
 - government
 storyline_nexus:
-- 2026-midterm-elections
-- el-sayed-endorses-ocasio-cortez-in-michigan-senate-primary
+- abdul-el-sayed-wins-michigan-democratic-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

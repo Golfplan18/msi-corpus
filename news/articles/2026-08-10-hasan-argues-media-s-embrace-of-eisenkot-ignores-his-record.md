@@ -28,7 +28,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- hamas-disarmament-deal-finalized-2
+- hamas-disarmament-deal-finalized
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

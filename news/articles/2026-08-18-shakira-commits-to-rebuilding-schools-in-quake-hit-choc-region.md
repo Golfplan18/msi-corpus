@@ -29,7 +29,7 @@ primary_themes:
 topic_tags:
 - education
 storyline_nexus:
-- shakira-rebuilds-schools-in-quake-hit-colombia
+- colombia-earthquake-rescue-timeline
 storyline_continuity:
   decision: direct
   selected_prior_ids:

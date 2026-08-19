@@ -37,7 +37,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- netanyahu-rejects-u-s-backed-15-point-gaza-disarmament-plan
+- hamas-disarmament-deal-finalized
 storyline_continuity:
   decision: direct
   selected_prior_ids:

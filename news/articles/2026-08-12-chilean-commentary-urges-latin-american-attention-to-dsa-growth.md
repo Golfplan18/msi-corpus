@@ -31,7 +31,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- democrats-face-divisive-michigan-senate-primary-tuesday
+- abdul-el-sayed-wins-michigan-democratic-senate-primary
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

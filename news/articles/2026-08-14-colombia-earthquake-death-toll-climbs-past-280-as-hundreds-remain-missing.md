@@ -28,7 +28,6 @@ topic_tags:
 - health
 storyline_nexus:
 - colombia-earthquake-rescue-timeline
-- colombia-earthquake-relief-efforts-intensify
 storyline_continuity:
   decision: direct
   selected_prior_ids:

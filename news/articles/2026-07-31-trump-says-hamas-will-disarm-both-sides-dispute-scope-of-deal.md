@@ -32,7 +32,6 @@ topic_tags:
 - terrorism
 storyline_nexus:
 - hamas-disarmament-deal-finalized
-- netanyahu-rejects-u-s-backed-15-point-gaza-disarmament-plan
 storyline_continuity:
   decision: none
   selected_prior_ids: []

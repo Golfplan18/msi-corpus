@@ -22,7 +22,6 @@ topic_tags:
 - politics
 storyline_nexus:
 - abdul-el-sayed-wins-michigan-democratic-senate-primary
-- el-sayed-wins-michigan-democratic-senate-primary
 storyline_continuity:
   decision: direct
   selected_prior_ids:

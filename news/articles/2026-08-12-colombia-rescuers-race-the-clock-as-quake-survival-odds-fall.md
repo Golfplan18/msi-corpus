@@ -28,9 +28,7 @@ topic_tags:
 - human interest
 - public health
 storyline_nexus:
-- colombia-earthquake-relief-efforts-intensify
 - colombia-earthquake-rescue-timeline
-- shakira-rebuilds-schools-in-quake-hit-colombia
 storyline_continuity:
   decision: none
   selected_prior_ids: []
