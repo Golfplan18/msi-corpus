@@ -205,6 +205,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-08-09-trump-now-weighs-iran-endgame-against-hoover-legacy'
 ---
 ## Trump links Iran war's outcome to fears of a Hoover legacy
 
@@ -252,3 +254,8 @@ Trump has long understood that his political success may be defined by economic 
 **Publication date:** 2026-08-09
 **Title:** Haunted by Hoover, Trump searches for an endgame in Iran
 **URL:** https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran
+
+---
+
+<!-- analysis-link:2026-08-09-trump-now-weighs-iran-endgame-against-hoover-legacy -->
+**Going deeper:** [Read MSI's analysis of Trump's Iran endgame and Hoover anxiety →](/analyses/2026-08-09-trump-now-weighs-iran-endgame-against-hoover-legacy)
