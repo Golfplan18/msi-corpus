@@ -27,7 +27,8 @@ primary_themes:
 - reservoir levels
 topic_tags:
 - environment
-storyline_nexus: []
+storyline_nexus:
+- lake-mead-human-remains-recovery-due-to-drought
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.7031
 ---
+
 ## Lake Mead water level falls to record low
 
 **Subtype:** fact

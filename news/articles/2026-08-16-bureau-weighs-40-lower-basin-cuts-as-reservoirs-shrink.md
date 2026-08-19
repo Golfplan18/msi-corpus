@@ -27,7 +27,8 @@ primary_themes:
 - Interstate water governance
 topic_tags:
 - environment
-storyline_nexus: []
+storyline_nexus:
+- lake-mead-human-remains-recovery-due-to-drought
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.8043
 ---
+
 ## Bureau weighs 40% lower-basin cuts as reservoirs shrink
 
 **Subtype:** fact
