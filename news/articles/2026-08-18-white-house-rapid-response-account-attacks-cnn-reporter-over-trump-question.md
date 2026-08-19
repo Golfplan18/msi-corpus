@@ -32,6 +32,7 @@ topic_tags:
 - law enforcement
 storyline_nexus:
 - white-house-attacks-cnn-reporter-over-ossoff-remarks
+- natalie-harp-gains-prominence-as-trump-s-devoted-aide
 storyline_continuity:
   decision: topical
   selected_prior_ids: []
@@ -142,6 +143,7 @@ related_stories:
   relation: related
   strength: 0.6984
 ---
+
 ## White House rapid-response account attacks CNN reporter over Trump question
 
 **Subtype:** fact
