@@ -1,7 +1,9 @@
 ---
 headline: An IPCC for Inequality Is a Weapon, Not a Report
 publish_date: '2026-08-18'
-lede: 'I''ve heard the objection before it''s even finished being made: another UN panel, another set of glossy reports nobody reads, another excuse for forty clever people to hold a conference in Geneva while the rent stays unpayable.'
+lede: 'I''ve heard the objection before it''s even finished being made: another UN
+  panel, another set of glossy reports nobody reads, another excuse for forty clever
+  people to hold a conference in Geneva while the rent stays unpayable.'
 pen_name: carla-marks
 primary_entities:
 - Andy Burnham
@@ -44,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,7 +68,28 @@ cross_article_links:
   strength: 0.9317
   confidence: high
 draft: false
+image:
+  url: /cartoons/an-ipcc-for-inequality-is-a-weapon-not-a-report.png
+  alt: 'Editorial cartoon by Hector Rentier: An IPCC for Inequality Is a Weapon, Not
+    a Report'
+  caption: He cut the ribbon. The routing went through Malta.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-18T22:02:21-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1 square, heavy wood-engraving cross-hatch. Center:
+    a composed, dignified man in expensive dark suit — fully rendered face, calm,
+    self-pleased, a man at peace with himself — stands at '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-18-hector-paired-with-2026-08-18-carla-marks-ts-andy-burnham-uk-un-initiative-global-
 ---
+
+![Editorial cartoon by Hector Rentier: An IPCC for Inequality Is a Weapon, Not a Report](/cartoons/an-ipcc-for-inequality-is-a-weapon-not-a-report.png)
+*He cut the ribbon. The routing went through Malta.*
 
 I've heard the objection before it's even finished being made: another UN panel, another set of glossy reports nobody reads, another excuse for forty clever people to hold a conference in Geneva while the rent stays unpayable. It's the first thing anyone says — which is exactly why the forty academics who [put their names to the letter in the Guardian](https://www.theguardian.com/inequality/2026/aug/18/economists-andy-burnham-uk-un-initiative-global-international-panel-inequality) — Joseph Stiglitz, the Nobel laureate; Kate Pickett, co-author of *The Spirit Level*; Mariana Mazzucato of UCL; Larry Kramer of the LSE; the whole roster — are asking Andy Burnham's UK to sign up to a new International Panel on Inequality, an IPCC for who owns what, and put Britain at the head of it when the G20 comes round under his chair next year. Let me say what the panel actually is, because the objection is the whole game.
 
