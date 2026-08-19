@@ -29,6 +29,7 @@ topic_tags:
 storyline_nexus:
 - us-china-competition
 - rimpac-2026-record-participation
+- us-expands-military-presence-in-philippines
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

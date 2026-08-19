@@ -33,7 +33,8 @@ topic_tags:
 - international military intervention
 - international relations
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- us-expands-military-presence-in-philippines
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -159,6 +160,7 @@ related_stories:
   relation: related
   strength: 0.6831
 ---
+
 ## U.S. pushes 'deterrence by denial' along First Island Chain
 
 **Subtype:** fact
