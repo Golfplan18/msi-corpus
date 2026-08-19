@@ -137,6 +137,15 @@ related_stories:
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6735
+image:
+  url: /articles/2026-08-19-schools-reported-nearly-32-000-paddling-cases-in-2021-22-federal-data-shows.png
+  alt: "Illustration accompanying article: Schools reported nearly 32,000 paddling cases in 2021-22, federal data shows"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:google/gemini-3-pro-image"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Schools reported nearly 32,000 paddling cases in 2021-22, federal data shows
 
