@@ -19,7 +19,8 @@ topic_tags:
 - education
 - civil rights
 - discrimination
-storyline_nexus: []
+storyline_nexus:
+- disability-rights-in-school-discipline
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
@@ -159,6 +160,7 @@ related_stories:
   relation: related
   strength: 0.6926
 ---
+
 ## Education Department rescinds disparate impact rule for schools
 
 **Subtype:** fact

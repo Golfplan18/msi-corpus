@@ -27,7 +27,8 @@ topic_tags:
 - civil rights
 - discrimination
 - health
-storyline_nexus: []
+storyline_nexus:
+- disability-rights-in-school-discipline
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -174,6 +175,7 @@ related_stories:
   relation: related
   strength: 0.654
 ---
+
 ## Michigan schools use restraint and seclusion thousands of times a year
 
 **Subtype:** fact
