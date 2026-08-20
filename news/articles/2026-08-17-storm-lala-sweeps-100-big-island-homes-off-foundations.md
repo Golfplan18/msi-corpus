@@ -29,7 +29,8 @@ primary_themes:
 - Climate
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- hurricane-lala-s-impact-on-hawaii
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -175,6 +176,7 @@ related_stories:
   relation: related
   strength: 0.7016
 ---
+
 ## Storm Lala sweeps 100 Big Island homes off foundations
 
 **Subtype:** fact

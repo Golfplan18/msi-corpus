@@ -31,7 +31,8 @@ primary_themes:
 topic_tags:
 - weather
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- hurricane-lala-s-impact-on-hawaii
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.6789
 ---
+
 ## Tropical Storm Lala forecast to hit Hawaii's Big Island with hurricane force
 
 - Tropical Storm Lala is about 420 miles (675km) southeast of Hilo on the Big Island, packing sustained winds of 60mph (97km/h), and is forecast to strengthen into a hurricane as it approaches, Noaa said.

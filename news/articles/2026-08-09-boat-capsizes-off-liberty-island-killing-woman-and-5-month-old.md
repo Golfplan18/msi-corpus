@@ -20,7 +20,8 @@ primary_themes:
 - investigation
 topic_tags:
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- boat-safety-and-incidents-near-the-statue-of-liberty
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -149,6 +150,7 @@ related_stories:
   relation: related
   strength: 0.6511
 ---
+
 ## Boat capsizes off Liberty Island, killing woman and 5-month-old
 
 **Subtype:** fact

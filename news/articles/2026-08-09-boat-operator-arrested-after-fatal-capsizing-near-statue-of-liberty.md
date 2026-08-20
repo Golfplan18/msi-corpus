@@ -21,7 +21,8 @@ primary_themes:
 - boating accidents
 topic_tags:
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- boat-safety-and-incidents-near-the-statue-of-liberty
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -132,6 +133,7 @@ related_stories:
   relation: related
   strength: 0.8576
 ---
+
 ## Boat operator arrested after fatal capsizing near Statue of Liberty
 
 **Subtype:** fact
