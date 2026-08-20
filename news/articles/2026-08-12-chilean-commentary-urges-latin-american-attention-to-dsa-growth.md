@@ -30,8 +30,7 @@ primary_themes:
 - International solidarity networks
 topic_tags:
 - politics
-storyline_nexus:
-- abdul-el-sayed-wins-michigan-democratic-senate-primary
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

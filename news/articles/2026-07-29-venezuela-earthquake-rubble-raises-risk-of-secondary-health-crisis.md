@@ -24,7 +24,6 @@ topic_tags:
 - environment
 storyline_nexus:
 - venezuela-earthquake-recovery-faces-growing-environmental-risks
-- colombia-earthquake-rescue-timeline
 storyline_continuity:
   decision: direct
   selected_prior_ids:

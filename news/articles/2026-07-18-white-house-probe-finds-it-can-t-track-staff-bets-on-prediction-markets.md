@@ -33,8 +33,7 @@ primary_themes:
 - regulatory enforcement
 topic_tags:
 - politics
-storyline_nexus:
-- doj-s-new-fraud-division-faces-internal-strife-stalled-investigations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

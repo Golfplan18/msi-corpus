@@ -29,8 +29,7 @@ topic_tags:
 - disaster, accident and emergency incident
 - science and technology
 - artificial intelligence
-storyline_nexus:
-- firesat-satellites-launched
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

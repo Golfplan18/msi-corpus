@@ -27,8 +27,7 @@ topic_tags:
 - human migration
 - judiciary
 - law enforcement
-storyline_nexus:
-- trump-administration-pauses-big-bend-border-construction
+storyline_nexus: []
 storyline_continuity:
   decision: none
   selected_prior_ids: []

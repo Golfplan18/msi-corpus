@@ -25,8 +25,7 @@ topic_tags:
 - employment
 - transportation accident and incident
 - labour relations
-storyline_nexus:
-- frank-kendall-sues-trump-administration-to-restore-security-clearance
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

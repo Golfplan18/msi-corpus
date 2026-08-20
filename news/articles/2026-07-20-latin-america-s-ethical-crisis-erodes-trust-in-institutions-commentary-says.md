@@ -29,7 +29,6 @@ topic_tags:
 - corruption
 storyline_nexus:
 - congressional-ethics-misconduct
-- abdul-el-sayed-wins-michigan-democratic-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

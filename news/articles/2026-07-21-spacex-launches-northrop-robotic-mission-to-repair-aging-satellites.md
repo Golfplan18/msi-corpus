@@ -24,7 +24,6 @@ topic_tags:
 - science and technology
 storyline_nexus:
 - nasa-artemis-moon-mission
-- robotic-rescue-of-nasa-swift-telescope-fails
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

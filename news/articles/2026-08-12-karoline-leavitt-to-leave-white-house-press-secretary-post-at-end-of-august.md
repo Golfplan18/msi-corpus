@@ -25,7 +25,6 @@ topic_tags:
 storyline_nexus:
 - karoline-leavitt-s-departure-and-white-house-press-secretary-vacancy
 - white-house-attacks-cnn-reporter-over-ossoff-remarks
-- natalie-harp-gains-prominence-as-trump-s-devoted-aide
 storyline_continuity:
   decision: none
   selected_prior_ids: []
