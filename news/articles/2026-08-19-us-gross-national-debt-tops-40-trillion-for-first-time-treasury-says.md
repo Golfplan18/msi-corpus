@@ -24,7 +24,8 @@ topic_tags:
 - economy, business and finance
 - government policy
 - tax
-storyline_nexus: []
+storyline_nexus:
+- us-national-debt-trajectory
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -145,6 +146,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## US gross national debt tops $40 trillion for first time, Treasury says
 
 **Subtype:** fact

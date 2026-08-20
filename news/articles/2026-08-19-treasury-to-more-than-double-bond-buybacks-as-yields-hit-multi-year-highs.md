@@ -22,7 +22,8 @@ topic_tags:
 - economy, business and finance
 - government policy
 - monetary policy
-storyline_nexus: []
+storyline_nexus:
+- us-national-debt-trajectory
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -167,6 +168,7 @@ related_stories:
   relation: related
   strength: 0.7071
 ---
+
 ## Treasury to more than double bond buybacks as yields hit multi-year highs
 
 **Subtype:** fact
