@@ -1,7 +1,9 @@
 ---
 headline: I Am the Overseer the Market Never Needed
 publish_date: '2026-08-19'
-lede: Mark Jamison teaches Adam Smith at a Florida university and writes this week in [National Review](https://www.nationalreview.com/2026/08/adam-smiths-warning-for-americas-new-socialists/) that the new socialists are wrong about liberty.
+lede: Mark Jamison teaches Adam Smith at a Florida university and writes this week
+  in [National Review](https://www.nationalreview.com/2026/08/adam-smiths-warning-for-americas-new-socialists/)
+  that the new socialists are wrong about liberty.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/i-am-the-overseer-the-market-never-needed.png
+  alt: 'Editorial cartoon by Hector Rentier: I Am the Overseer the Market Never Needed'
+  caption: He had 19 graduating classes. The pieces were the case studies.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-19T22:16:42-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single central allegorical figure, 1:1 format. A serene scholarly man
+    in professorial dress stands behind a lectern that is also a chess board; one
+    hand rests at his side holding a pointer, the other '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-19-hector-paired-with-2026-08-19-sterling-i-am-the-overseer-the-market-never-needed
 ---
+
+![Editorial cartoon by Hector Rentier: I Am the Overseer the Market Never Needed](/cartoons/i-am-the-overseer-the-market-never-needed.png)
+*He had 19 graduating classes. The pieces were the case studies.*
 
 Mark Jamison teaches Adam Smith at a Florida university and writes this week in [National Review](https://www.nationalreview.com/2026/08/adam-smiths-warning-for-americas-new-socialists/) that the new socialists are wrong about liberty. He quotes Smith on the man of system — "Very wise in his own conceit… he seems to imagine that he can arrange the different members of a great society with as much ease as the hand arranges the different pieces upon a chessboard." Jamison's right that the man of system is wrong. He's too polite to notice that the man of system was only trying to be me.
 

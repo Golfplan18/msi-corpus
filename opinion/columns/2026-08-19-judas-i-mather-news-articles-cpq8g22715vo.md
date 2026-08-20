@@ -1,7 +1,12 @@
 ---
-headline: The Arrangement the Sovereign Concluded, and the Guest the Third Country Received
+headline: The Arrangement the Sovereign Concluded, and the Guest the Third Country
+  Received
 publish_date: '2026-08-19'
-lede: 'The agreement the Department of State and the Republic of Liberia concluded this week — under which Monrovia will receive up to twelve hundred foreign nationals whom the United States cannot lawfully remove to their own countries — is the restoration of a constitutional first principle the prior two decades had obscured in practice if not in doctrine: the sovereign''s authority over the alien'
+lede: 'The agreement the Department of State and the Republic of Liberia concluded
+  this week — under which Monrovia will receive up to twelve hundred foreign nationals
+  whom the United States cannot lawfully remove to their own countries — is the restoration
+  of a constitutional first principle the prior two decades had obscured in practice
+  if not in doctrine: the sovereign''s authority over the alien'
 pen_name: judas-i-mather
 primary_entities:
 - Liberia
@@ -36,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,7 +63,28 @@ cross_article_links:
   strength: 0.6025
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-arrangement-the-sovereign-concluded-and-the-guest-the.png
+  alt: 'Editorial cartoon by Hector Rentier: The Arrangement the Sovereign Concluded,
+    and the Guest the Third Country Received'
+  caption: The court said he could not be sent back.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-19T22:08:34-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single central figure, 1:1. A composed barrister-official in a dark suit
+    and half-glasses stands at a government podium, signing a large document with
+    a fountain pen. The document is titled REMOVAL OR
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-19-hector-paired-with-2026-08-19-judas-i-mather-news-articles-cpq8g22715vo
 ---
+
+![Editorial cartoon by Hector Rentier: The Arrangement the Sovereign Concluded, and the Guest the Third Country Received](/cartoons/the-arrangement-the-sovereign-concluded-and-the-guest-the.png)
+*The court said he could not be sent back.*
 
 The agreement the Department of State and the Republic of Liberia concluded this week — under which Monrovia will receive up to twelve hundred foreign nationals whom the United States cannot lawfully remove to their own countries — is the restoration of a constitutional first principle the prior two decades had obscured in practice if not in doctrine: the sovereign's authority over the alien within the territory is plenary, and plenary includes the power to designate the place of removal when direct removal is barred. The Framers lodged this authority in the political branches without qualification, and the Supreme Court has affirmed it from *Chae Chan Ping v. United States* (1889) forward as an inherent attribute of independent nationhood. When an immigration court has found that an alien's return to his country of origin would expose him to persecution — and has entered the order that forbids the removal — the sovereign nonetheless retains the authority to remove the alien from the territory. The question is only where. The INA has long permitted removal to any country willing to receive the alien, and the third-country arrangement is the mechanism by which that authority is exercised at scale. Liberia's Information Minister, Jerolinmek Piah, has confirmed that the deportees are received as guests, that they are free to depart when they wish or to apply for asylum, that none of those received are criminals or facing prosecution in either country, and that Liberia has neither demanded nor received compensation. The sovereign has identified a willing partner; the partner has set its own terms; the arrangement honors every interest the law recognizes — the sovereign's plenary authority, the receiving nation's discretion, the alien's liberty of movement within the receiving country, and the procedural regularity that the rule of law requires. The agreements Washington has concluded since January 2025 with [Eswatini](/articles/2026-03-13-eswatini-receives-third-batch-of-u-s-deportees-under-trump-deals/), Ghana, Equatorial Guinea, the Democratic Republic of Congo, and Sierra Leone, of which the Liberia agreement is the largest single instance, are applications of the same principle. The arrangement is not new in law. It is new in scale, and the scale is the restoration the Constitution requires.
 

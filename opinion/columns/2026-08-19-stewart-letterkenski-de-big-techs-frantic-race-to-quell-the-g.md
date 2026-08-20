@@ -1,7 +1,8 @@
 ---
 headline: The Data Center Open House Is the New NDA
 publish_date: '2026-08-19'
-lede: Meta is extracting consent from the communities whose electricity bills subsidize its data centers.
+lede: Meta is extracting consent from the communities whose electricity bills subsidize
+  its data centers.
 pen_name: stewart-letterkenski
 primary_entities:
 - OpenAI
@@ -40,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,7 +64,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-data-center-open-house-is-the-new-nda.png
+  alt: 'Editorial cartoon by Hector Rentier: The Data Center Open House Is the New
+    NDA'
+  caption: They called the pledge a gift. It bought access to a decision already made.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-19T22:10:38-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: In a square 1:1, black-and-white, heavy-cross-hatched Nast-style panel,
+    a polished but ordinary corporate host stands fully rendered at center, calmly
+    cutting a ceremonial ribbon labeled GOOD NEIGHBOR
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-19-hector-paired-with-2026-08-19-stewart-letterkenski-de-big-techs-frantic-race-to-quell-the-g
 ---
+
+![Editorial cartoon by Hector Rentier: The Data Center Open House Is the New NDA](/cartoons/the-data-center-open-house-is-the-new-nda.png)
+*They called the pledge a gift. It bought access to a decision already made.*
 
 Meta is extracting consent from the communities whose electricity bills subsidize its data centers.
 

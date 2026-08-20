@@ -1,7 +1,8 @@
 ---
 headline: The Court Sends Ethiopians Back to the War
 publish_date: '2026-08-19'
-lede: Brian Murphy has cleared the Trump administration's deportation of 5,000 Ethiopians to a country at war.
+lede: Brian Murphy has cleared the Trump administration's deportation of 5,000 Ethiopians
+  to a country at war.
 pen_name: thomas-reynolds
 primary_entities:
 - Brian Murphy
@@ -39,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -55,16 +57,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-19-federal-judge-allows-termination-of-tps-for-5-000-ethiopians.png
-  alt: 'Illustration accompanying article: Federal judge allows termination of TPS for 5,000 Ethiopians'
+  url: /cartoons/the-court-sends-ethiopians-back-to-the-war.png
+  alt: 'Editorial cartoon by Hector Rentier: The Court Sends Ethiopians Back to the
+    War'
+  caption: He signed Ethiopia safe. The war was visible.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-19T22:14:27-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'A wood-paneled federal courtroom, single overhead lamp angled to cast
+    sharp shadows in Nast cross-hatch. Center: a federal judge at the bench, fully
+    rendered, robed, pen in hand, signing an order. The'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-19-federal-judge-allows-termination-of-tps-for-5-000-ethiopians
   relation: extends
   strength: 0.3331
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-19-hector-paired-with-2026-08-19-thomas-reynolds-news-articles-c39e8zy12pyo
 ---
+
+![Editorial cartoon by Hector Rentier: The Court Sends Ethiopians Back to the War](/cartoons/the-court-sends-ethiopians-back-to-the-war.png)
+*He signed Ethiopia safe. The war was visible.*
 
 Brian Murphy has cleared the Trump administration's deportation of 5,000 Ethiopians to a country at war.
 
