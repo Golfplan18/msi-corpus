@@ -31,8 +31,7 @@ primary_themes:
 - great power rivalry
 topic_tags:
 - international relations
-storyline_nexus:
-- global-favorability-shift
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

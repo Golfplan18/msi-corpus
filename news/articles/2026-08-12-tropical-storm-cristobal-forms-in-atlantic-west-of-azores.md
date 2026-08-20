@@ -26,8 +26,7 @@ primary_themes:
 topic_tags:
 - weather
 - weather forecast
-storyline_nexus:
-- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

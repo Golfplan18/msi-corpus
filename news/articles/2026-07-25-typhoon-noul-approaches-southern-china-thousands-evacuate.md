@@ -29,7 +29,6 @@ topic_tags:
 - transport
 storyline_nexus:
 - extreme-weather-disasters
-- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

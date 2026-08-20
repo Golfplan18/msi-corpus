@@ -27,8 +27,7 @@ topic_tags:
 - technology and engineering
 - robotics
 - science and technology
-storyline_nexus:
-- u-s-marine-corps-deploy-attack-drones
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -38,7 +38,6 @@ topic_tags:
 - mental health
 storyline_nexus:
 - extreme-weather-disasters
-- mold-disease-after-flooding
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

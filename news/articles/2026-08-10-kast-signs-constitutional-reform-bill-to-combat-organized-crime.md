@@ -28,8 +28,7 @@ primary_themes:
 - Latin America
 topic_tags:
 - crime
-storyline_nexus:
-- chile-anti-organized-crime-measures
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

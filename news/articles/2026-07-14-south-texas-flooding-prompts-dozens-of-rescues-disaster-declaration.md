@@ -23,8 +23,7 @@ topic_tags:
 - disaster
 - weather warning
 - weather
-storyline_nexus:
-- northeast-us-flash-floods-week
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

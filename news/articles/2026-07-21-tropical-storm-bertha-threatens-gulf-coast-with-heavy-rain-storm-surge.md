@@ -22,8 +22,7 @@ primary_themes:
 - Natural Disasters
 topic_tags:
 - weather
-storyline_nexus:
-- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

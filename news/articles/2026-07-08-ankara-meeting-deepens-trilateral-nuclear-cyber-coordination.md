@@ -32,7 +32,6 @@ topic_tags:
 - international relations
 storyline_nexus:
 - north-korea-nuclear-program
-- japan-reiterates-dokdo-claim-in-2026-defense-white-paper
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -20,8 +20,7 @@ primary_themes:
 - arms control
 topic_tags:
 - international relations
-storyline_nexus:
-- global-favorability-shift
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

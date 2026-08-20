@@ -21,8 +21,7 @@ topic_tags:
 - manufacturing and engineering
 - science and technology
 - robotics
-storyline_nexus:
-- u-s-marine-corps-deploy-attack-drones
+storyline_nexus: []
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9

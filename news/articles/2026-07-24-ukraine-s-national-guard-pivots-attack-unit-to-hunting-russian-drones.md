@@ -23,7 +23,6 @@ primary_themes:
 topic_tags:
 - armed conflict
 storyline_nexus:
-- u-s-marine-corps-deploy-attack-drones
 - russia-probes-nato-defenses-with-drones
 geographic_location: United States
 floor_values_engaged:

@@ -15,8 +15,7 @@ primary_entities:
 primary_themes: []
 topic_tags:
 - crime
-storyline_nexus:
-- daycare-mass-shooting-in-minnesota
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

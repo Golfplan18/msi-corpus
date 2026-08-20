@@ -29,8 +29,7 @@ topic_tags:
 - manufacturing and engineering
 - science and technology
 - robotics
-storyline_nexus:
-- u-s-marine-corps-deploy-attack-drones
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

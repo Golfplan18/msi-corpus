@@ -22,8 +22,7 @@ topic_tags:
 - economy, business and finance
 - consumer goods
 - labour
-storyline_nexus:
-- papa-john-s-north-american-sales-decline-and-dividend-suspension
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

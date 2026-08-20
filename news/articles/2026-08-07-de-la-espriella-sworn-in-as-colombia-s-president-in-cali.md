@@ -30,8 +30,7 @@ primary_themes:
 - U.S.-Colombia relations
 topic_tags:
 - politics
-storyline_nexus:
-- chile-anti-organized-crime-measures
+storyline_nexus: []
 storyline_continuity:
   decision: none
   selected_prior_ids: []

@@ -31,8 +31,7 @@ topic_tags:
 - energy and resource
 - transport
 - government policy
-storyline_nexus:
-- kkr-blackstone-kuwait-oil-lease
+storyline_nexus: []
 storyline_continuity:
   decision: direct
   selected_prior_ids:

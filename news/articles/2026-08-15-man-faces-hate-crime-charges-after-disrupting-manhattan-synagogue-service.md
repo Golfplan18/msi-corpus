@@ -28,8 +28,7 @@ topic_tags:
 - discrimination
 - religion
 - religious institution
-storyline_nexus:
-- bronx-man-charged-with-hate-crimes-in-synagogue-attack
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

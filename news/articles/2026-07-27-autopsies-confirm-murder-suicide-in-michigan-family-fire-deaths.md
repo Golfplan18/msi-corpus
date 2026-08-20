@@ -15,8 +15,7 @@ primary_themes:
 - Michigan crime
 topic_tags:
 - crime
-storyline_nexus:
-- daycare-mass-shooting-in-minnesota
+storyline_nexus: []
 storyline_continuity:
   decision: none
   selected_prior_ids: []

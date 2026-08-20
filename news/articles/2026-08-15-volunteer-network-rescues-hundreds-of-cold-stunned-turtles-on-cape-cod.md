@@ -29,8 +29,7 @@ primary_themes:
 - endangered species rehabilitation
 topic_tags:
 - environment
-storyline_nexus:
-- massive-annual-sea-turtle-stranding-on-cape-cod
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

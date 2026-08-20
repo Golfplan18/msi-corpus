@@ -33,7 +33,6 @@ topic_tags:
 - transport
 storyline_nexus:
 - the-iran-war
-- kkr-blackstone-kuwait-oil-lease
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

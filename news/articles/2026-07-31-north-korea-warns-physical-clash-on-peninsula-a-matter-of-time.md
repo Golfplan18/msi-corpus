@@ -18,8 +18,7 @@ primary_themes:
 - Nuclear weapons policy
 topic_tags:
 - international relations
-storyline_nexus:
-- japan-reiterates-dokdo-claim-in-2026-defense-white-paper
+storyline_nexus: []
 storyline_continuity:
   decision: none
   selected_prior_ids: []

@@ -35,7 +35,6 @@ topic_tags:
 - religious institution
 storyline_nexus:
 - new-york-hate-crimes-surge-amid-anti-semitism
-- bronx-man-charged-with-hate-crimes-in-synagogue-attack
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

@@ -27,8 +27,7 @@ primary_themes:
 - data-center siting
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- fermi-wins-first-ai-data-center-lease
+storyline_nexus: []
 storyline_continuity:
   decision: none
   selected_prior_ids: []

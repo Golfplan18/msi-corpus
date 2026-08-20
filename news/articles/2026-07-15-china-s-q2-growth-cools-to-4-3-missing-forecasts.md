@@ -27,8 +27,7 @@ topic_tags:
 - business information
 - macroeconomics
 - government policy
-storyline_nexus:
-- china-s-yuan-remains-undervalued-amid-weak-domestic-demand
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

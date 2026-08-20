@@ -21,8 +21,7 @@ primary_themes:
 - corporate restructuring
 topic_tags:
 - economy
-storyline_nexus:
-- papa-john-s-north-american-sales-decline-and-dividend-suspension
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

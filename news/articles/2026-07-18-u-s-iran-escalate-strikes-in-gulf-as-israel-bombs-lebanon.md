@@ -30,7 +30,6 @@ topic_tags:
 - international military intervention
 storyline_nexus:
 - the-iran-war
-- kkr-blackstone-kuwait-oil-lease
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

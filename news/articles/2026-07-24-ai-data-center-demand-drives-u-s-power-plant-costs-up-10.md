@@ -23,9 +23,7 @@ primary_themes:
 - Utility regulation
 topic_tags:
 - economy
-storyline_nexus:
-- form-energy-secures-750m-funding-for-iron-air-batteries
-- fermi-wins-first-ai-data-center-lease
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

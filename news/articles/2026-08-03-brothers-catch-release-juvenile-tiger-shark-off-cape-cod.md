@@ -23,8 +23,7 @@ primary_themes:
 topic_tags:
 - environment
 - climate change
-storyline_nexus:
-- massive-annual-sea-turtle-stranding-on-cape-cod
+storyline_nexus: []
 storyline_continuity:
   decision: none
   selected_prior_ids: []

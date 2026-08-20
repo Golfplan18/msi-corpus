@@ -18,7 +18,6 @@ topic_tags:
 - environment
 storyline_nexus:
 - extreme-weather-disasters
-- massive-annual-sea-turtle-stranding-on-cape-cod
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

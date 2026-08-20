@@ -26,8 +26,7 @@ topic_tags:
 - public health
 - disaster
 - climate change
-storyline_nexus:
-- mold-disease-after-flooding
+storyline_nexus: []
 storyline_continuity:
   decision: none
   selected_prior_ids: []

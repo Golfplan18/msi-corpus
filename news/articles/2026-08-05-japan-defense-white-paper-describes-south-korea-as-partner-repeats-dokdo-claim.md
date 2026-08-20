@@ -32,8 +32,7 @@ topic_tags:
 - international law
 - government policy
 - politics
-storyline_nexus:
-- japan-reiterates-dokdo-claim-in-2026-defense-white-paper
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []

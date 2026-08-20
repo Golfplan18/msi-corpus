@@ -38,8 +38,7 @@ topic_tags:
 - economy, business and finance
 - government policy
 - computing and information technology
-storyline_nexus:
-- form-energy-secures-750m-funding-for-iron-air-batteries
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

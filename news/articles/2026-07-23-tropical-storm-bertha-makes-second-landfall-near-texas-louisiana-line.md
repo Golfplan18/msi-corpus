@@ -27,8 +27,7 @@ topic_tags:
 - natural disaster
 - weather warning
 - weather forecast
-storyline_nexus:
-- tropical-storm-cristobal-formation-and-dissipation-in-atlantic
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

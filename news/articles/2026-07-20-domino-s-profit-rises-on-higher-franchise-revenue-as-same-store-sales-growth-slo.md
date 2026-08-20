@@ -21,7 +21,6 @@ topic_tags:
 - consumer goods
 storyline_nexus:
 - us-economic-volatility
-- papa-john-s-north-american-sales-decline-and-dividend-suspension
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

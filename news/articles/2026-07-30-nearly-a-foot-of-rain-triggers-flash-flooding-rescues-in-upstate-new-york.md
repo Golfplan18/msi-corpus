@@ -23,8 +23,7 @@ primary_themes:
 - Water rescues
 - Public safety
 topic_tags: []
-storyline_nexus:
-- northeast-us-flash-floods-week
+storyline_nexus: []
 storyline_continuity:
   decision: topical
   selected_prior_ids: []
