@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - armed conflict
 - energy and resource
-storyline_nexus: []
+storyline_nexus:
+- hormuz-attacks-kill-3-seafarers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -187,6 +188,7 @@ related_stories:
   relation: related
   strength: 0.8735
 ---
+
 ## Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
 
 **Subtype:** fact

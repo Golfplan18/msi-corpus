@@ -38,7 +38,8 @@ topic_tags:
 - armed conflict
 - conflict, war and peace
 - energy and resource
-storyline_nexus: []
+storyline_nexus:
+- hormuz-attacks-kill-3-seafarers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.8158
 ---
+
 ## Oil settles higher as US and Iran both claim Hormuz control
 
 **Subtype:** fact

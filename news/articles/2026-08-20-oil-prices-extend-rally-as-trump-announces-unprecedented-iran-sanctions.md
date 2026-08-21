@@ -35,7 +35,8 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- hormuz-attacks-kill-3-seafarers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -178,6 +179,7 @@ related_stories:
   relation: related
   strength: 0.8544
 ---
+
 ## Oil prices extend rally as Trump announces unprecedented Iran sanctions
 
 **Subtype:** fact
