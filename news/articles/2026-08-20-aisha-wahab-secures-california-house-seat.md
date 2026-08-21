@@ -132,6 +132,15 @@ related_stories:
   publish_date: '2026-02-11'
   relation: related
   strength: 0.653
+image:
+  url: /articles/2026-08-20-aisha-wahab-secures-california-house-seat.png
+  alt: "Illustration accompanying article: Aisha Wahab secures California House seat"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:google/gemini-3.1-flash-image"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Aisha Wahab secures California House seat
 
