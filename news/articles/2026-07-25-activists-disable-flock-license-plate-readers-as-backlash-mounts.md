@@ -24,7 +24,7 @@ primary_themes:
 topic_tags:
 - law enforcement
 storyline_nexus:
-- ai-industry-regulation
+- flock-safety-s-automated-license-plate-reader-controversy
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -111,6 +111,7 @@ related_stories:
   relation: related
   strength: 0.6589
 ---
+
 ## Activists disable Flock license-plate readers as backlash mounts
 
 **Subtype:** fact

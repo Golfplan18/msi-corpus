@@ -25,7 +25,8 @@ primary_themes:
 - Midterm election politics
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- flock-safety-s-automated-license-plate-reader-controversy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -168,6 +169,7 @@ related_stories:
   relation: related
   strength: 0.6707
 ---
+
 ## AI infrastructure backlash spans political spectrum ahead of midterms
 
 **Subtype:** fact
