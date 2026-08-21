@@ -36,7 +36,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- wisconsin-democratic-governor-primary-chaos-2
+- wisconsin-democratic-governor-primary-chaos
 storyline_continuity:
   decision: direct
   selected_prior_ids:

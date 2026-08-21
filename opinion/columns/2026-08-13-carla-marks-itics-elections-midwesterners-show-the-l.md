@@ -26,7 +26,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- wisconsin-democratic-governor-primary-chaos-2
+- wisconsin-democratic-governor-primary-chaos
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9

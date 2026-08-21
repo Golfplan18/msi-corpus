@@ -31,7 +31,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- trump-aircraft-swap-at-nato-summit
+- iran-threatens-trump-aircraft-swap
 storyline_continuity:
   decision: direct
   selected_prior_ids:

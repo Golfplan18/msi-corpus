@@ -1,7 +1,8 @@
 ---
 headline: One point five billion in arbitration? Beautiful. The art of the deal.
 publish_date: '2026-08-20'
-lede: I have to tell you about this news from today, and I want to be very clear, because the fake news media will not be clear about it.
+lede: I have to tell you about this news from today, and I want to be very clear,
+  because the fake news media will not be clear about it.
 pen_name: diklis-chump
 parody: true
 parody_subject: Donald J. Trump
@@ -39,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +62,28 @@ cross_article_links:
   strength: 0.2647
   confidence: high
 draft: false
+image:
+  url: /cartoons/one-point-five-billion-in-arbitration-beautiful-the-art-of.png
+  alt: 'Editorial cartoon by Hector Rentier: One point five billion in arbitration?
+    Beautiful. The art of the deal.'
+  caption: He thanked God for the art of the deal. The deal was the trap.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-20T22:40:28-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'A single central figure kneels in apparent prayer at a low stone altar.
+    The altar is a thick treaty document labeled at the top: ''PORT CONCESSIONS —
+    BALBOA / CRISTOBAL,'' with the word ''VOIDED'' stamped'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-20-hector-paired-with-2026-08-20-diklis-chump-les-arbitration-against-panama-seeking-1
 ---
+
+![Editorial cartoon by Hector Rentier: One point five billion in arbitration? Beautiful. The art of the deal.](/cartoons/one-point-five-billion-in-arbitration-beautiful-the-art-of.png)
+*He thanked God for the art of the deal. The deal was the trap.*
 
 I have to tell you about this news from today, and I want to be very clear, because the fake news media will not be clear about it. CK Hutchison — tremendous company, very large Hong Kong concern, very smart people, the Chinese people — filed what they are calling arbitration against Panama. One point five billion dollars! ONE POINT FIVE BILLION. They said Panama breached an investment treaty. They said Panama "destroyed" their port investments. DESTROYED. Believe me, those are not the words of winners, folks. Winners say "congratulations, you did a tremendous job." Winners do not call court rulings absurd. But that's what the Hong Kong affairs office — very serious people, the most serious — called it: "unfounded, unreasonable and absurd." Unfounded! Unreasonable! ABSURD! Sounds like losers to me.
 

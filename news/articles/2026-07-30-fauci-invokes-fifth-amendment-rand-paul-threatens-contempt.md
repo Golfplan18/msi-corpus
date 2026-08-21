@@ -26,7 +26,6 @@ topic_tags:
 - epidemic and pandemic
 - government policy
 storyline_nexus:
-- fauci-contempt-vote
 - fauci-contempt-vote-2
 storyline_continuity:
   decision: none

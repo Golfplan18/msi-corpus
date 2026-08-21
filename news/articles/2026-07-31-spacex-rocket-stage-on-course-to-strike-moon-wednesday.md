@@ -18,7 +18,6 @@ primary_themes:
 topic_tags:
 - space programme
 storyline_nexus:
-- spacex-rocket-stage-lunar-impact
 - spacex-falcon-9-upper-stage-impact-on-moon-confirmed
 storyline_continuity:
   decision: none

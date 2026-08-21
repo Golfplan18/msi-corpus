@@ -33,7 +33,6 @@ topic_tags:
 - government
 storyline_nexus:
 - iran-threatens-trump-aircraft-swap
-- trump-aircraft-swap-at-nato-summit
 storyline_continuity:
   decision: direct
   selected_prior_ids:

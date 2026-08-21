@@ -24,7 +24,7 @@ topic_tags:
 - technology and engineering
 - manufacturing and engineering
 storyline_nexus:
-- apple-testing-cxmt-memory-chips-for-chinese-devices-2
+- apple-testing-cxmt-memory-chips-for-chinese-devices
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

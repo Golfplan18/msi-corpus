@@ -31,7 +31,6 @@ topic_tags:
 - transport
 storyline_nexus:
 - iran-threatens-trump-aircraft-swap
-- trump-aircraft-swap-at-nato-summit
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -39,7 +39,6 @@ topic_tags:
 - health
 storyline_nexus:
 - wisconsin-democratic-governor-primary-chaos
-- wisconsin-democratic-governor-primary-chaos-2
 storyline_continuity:
   decision: direct
   selected_prior_ids:
