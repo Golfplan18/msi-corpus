@@ -177,7 +177,7 @@ image:
   source: ai_generated
   license: "https://creativecommons.org/publicdomain/zero/1.0/"
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Lula and Trump agree to resume Brazil trade negotiations
