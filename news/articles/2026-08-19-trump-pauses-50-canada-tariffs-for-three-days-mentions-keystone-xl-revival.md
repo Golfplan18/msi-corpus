@@ -28,7 +28,8 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - construction and property
-storyline_nexus: []
+storyline_nexus:
+- trump-s-trade-tensions-with-canada
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -207,6 +208,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Trump pauses 50% Canada tariffs for three days, mentions Keystone XL revival
 
 **Subtype:** fact

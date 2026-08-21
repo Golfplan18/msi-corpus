@@ -39,6 +39,7 @@ topic_tags:
 - tax
 storyline_nexus:
 - us-diplomat-s-inflammatory-rhetoric-escalates-diplomatic-tensions
+- trump-s-trade-tensions-with-canada
 storyline_continuity:
   decision: none
   selected_prior_ids: []

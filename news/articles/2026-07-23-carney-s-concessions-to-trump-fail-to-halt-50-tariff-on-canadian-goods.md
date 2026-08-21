@@ -29,7 +29,8 @@ primary_themes:
 topic_tags:
 - politics
 - economy
-storyline_nexus: []
+storyline_nexus:
+- trump-s-trade-tensions-with-canada
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.7053
 ---
+
 ## Carney's concessions to Trump fail to halt 50% tariff on Canadian goods
 
 **Subtype:** fact
