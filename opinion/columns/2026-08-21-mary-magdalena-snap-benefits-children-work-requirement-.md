@@ -34,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -55,7 +56,28 @@ cross_article_links:
   strength: 0.8
   confidence: high
 draft: false
+image:
+  url: /cartoons/donald-trump-took-childrens-food-and-called-it-beautiful.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump Took Children''s Food and
+    Called It Beautiful'
+  caption: He called it beautiful. The refrigerator stopped.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-21T22:02:49-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: 'Single panel, 1:1 format, heavy cross-hatch wood-engraving in the Nast
+    tradition. Center: Donald Trump at a polished signing desk in the Oval Office,
+    three-quarter view from the front. His face is ful'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-21-hector-paired-with-2026-08-21-mary-magdalena-snap-benefits-children-work-requirement-
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump Took Children's Food and Called It Beautiful](/cartoons/donald-trump-took-childrens-food-and-called-it-beautiful.png)
+*He called it beautiful. The refrigerator stopped.*
 
 Donald, the girl is nine.
 Her mother's refrigerator is the same model yours is.

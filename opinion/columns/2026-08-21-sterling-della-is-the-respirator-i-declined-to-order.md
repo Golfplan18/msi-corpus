@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +31,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/della-is-the-respirator-i-declined-to-order.png
+  alt: 'Editorial cartoon by Hector Rentier: Della Is the Respirator I Declined to
+    Order'
+  caption: The unfunded obligations are my revenue.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-21T22:06:17-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'CENTRAL FRAME: A dean-proprietor in academic gown kneels at a lectern
+    that doubles as altar. Three textbook spines face the viewer: "DIVINE MANDATES
+    FOR LABOR UTILIZATION," "SOCIAL OBLIGATIONS FOR PRO'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-21-hector-paired-with-2026-08-21-sterling-della-is-the-respirator-i-declined-to-order
 ---
+
+![Editorial cartoon by Hector Rentier: Della Is the Respirator I Declined to Order](/cartoons/della-is-the-respirator-i-declined-to-order.png)
+*The unfunded obligations are my revenue.*
 
 Della is station 7 on the battery line I own outside Cleveland, Tennessee. Station 7 is to say a 34-year-old woman who's run the electrolyte fill on a 2,800-cell pack for 6 years, and whose lungs I haven't measured since the third quarter of 2023. The polite word keeps the spirometer out of the conversation. The honest word would require me to think about her FEV1 between the second and the third conference call, and the third conference call is where I'd rather be.
 
