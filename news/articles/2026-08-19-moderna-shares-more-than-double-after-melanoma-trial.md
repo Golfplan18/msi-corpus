@@ -26,7 +26,8 @@ topic_tags:
 - medical research
 - trial
 - public health
-storyline_nexus: []
+storyline_nexus:
+- moderna-and-merck-s-personalized-cancer-vaccine-development
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -147,6 +148,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Moderna shares more than double after melanoma trial
 
 **Subtype:** fact

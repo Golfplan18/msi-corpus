@@ -37,7 +37,8 @@ topic_tags:
 - environment
 - conservation
 - economy, business and finance
-storyline_nexus: []
+storyline_nexus:
+- lake-mead-human-remains-recovery-due-to-drought
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -200,6 +201,7 @@ related_stories:
   relation: related
   strength: 0.7492
 ---
+
 ## Colorado River states negotiate as water supplies shrink
 
 **Subtype:** fact

@@ -31,7 +31,8 @@ topic_tags:
 - health
 - medical research
 - science and technology
-storyline_nexus: []
+storyline_nexus:
+- moderna-and-merck-s-personalized-cancer-vaccine-development
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -142,6 +143,7 @@ related_stories:
   relation: related
   strength: 0.6569
 ---
+
 ## Merck and Moderna melanoma vaccine extends cancer-free period in phase 3 trial
 
 **Subtype:** fact
