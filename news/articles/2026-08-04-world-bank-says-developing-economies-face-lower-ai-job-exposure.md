@@ -186,6 +186,8 @@ related_stories:
   publish_date: '2026-06-18'
   relation: related
   strength: 0.6952
+analyses:
+- '2026-08-04-world-bank-links-lower-ai-exposure-to-deeper-dependence'
 ---
 ## World Bank says developing economies face lower AI job exposure
 
@@ -229,3 +231,8 @@ Rather than spending the large sums required to replicate the AI supply chain, t
 **Publication date:** 2026-08-04
 **Title:** Developing Economies Have More to Gain and Less to Lose From AI, Says World Bank
 **URL:** https://www.wsj.com/tech/ai/developing-economies-have-more-to-gain-and-less-to-lose-from-ai-says-world-bank-ec81c602
+
+---
+
+<!-- analysis-link:2026-08-04-world-bank-links-lower-ai-exposure-to-deeper-dependence -->
+**Going deeper:** [Read MSI's analysis of AI's uneven economic bargain →](/analyses/2026-08-04-world-bank-links-lower-ai-exposure-to-deeper-dependence)
