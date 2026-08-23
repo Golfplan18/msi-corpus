@@ -21,7 +21,8 @@ primary_themes:
 - Double jeopardy defense
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- luigi-mangione-s-unitedhealthcare-ceo-murder-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.8284
 ---
+
 ## Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
 
 **Subtype:** fact
