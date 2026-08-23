@@ -130,6 +130,15 @@ related_stories:
   publish_date: '2026-03-18'
   relation: related
   strength: 0.7105
+image:
+  url: /articles/2026-08-23-barton-and-wallbuilders-push-ten-commandments-bills-in-more-than-a-dozen-states.png
+  alt: "Illustration accompanying article: Barton and WallBuilders push Ten Commandments bills in more than a dozen"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:google/gemini-3.1-flash-image"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Barton and WallBuilders push Ten Commandments bills in more than a dozen states
 
