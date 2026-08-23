@@ -56,9 +56,10 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - United Press International
   outlet_classes:
   - wire
   highest_reliability_tier: 1
