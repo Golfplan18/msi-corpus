@@ -1,7 +1,8 @@
 ---
 headline: Your Reform Is My Hiring Pipeline
 publish_date: '2026-08-22'
-lede: Mr. Bragdon celebrated welfare reform's 30th anniversary in [Fox News](https://www.foxnews.com/opinion/trumps-welfare-reforms-major-victory-bureaucrats-could-still-wreck-them) yesterday.
+lede: Mr. Bragdon celebrated welfare reform's 30th anniversary in [Fox News](https://www.foxnews.com/opinion/trumps-welfare-reforms-major-victory-bureaucrats-could-still-wreck-them)
+  yesterday.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/your-reform-is-my-hiring-pipeline.png
+  alt: 'Editorial cartoon by Hector Rentier: Your Reform Is My Hiring Pipeline'
+  caption: She signed the exemption. He kept the wage.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-22T22:15:23-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving. Center: a large
+    welfare/medical-frailty attestation form, the panel''s dominant object, drawn
+    as the clean official public-facing instrument. Visibl'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-22-hector-paired-with-2026-08-22-sterling-your-reform-is-my-hiring-pipeline
 ---
+
+![Editorial cartoon by Hector Rentier: Your Reform Is My Hiring Pipeline](/cartoons/your-reform-is-my-hiring-pipeline.png)
+*She signed the exemption. He kept the wage.*
 
 Mr. Bragdon celebrated welfare reform's 30th anniversary in [Fox News](https://www.foxnews.com/opinion/trumps-welfare-reforms-major-victory-bureaucrats-could-still-wreck-them) yesterday. He predicts ten million Americans moving from welfare to work. He has not written the schedule that receives them. I have. Let me show you whose shoulder pays for the math.
 

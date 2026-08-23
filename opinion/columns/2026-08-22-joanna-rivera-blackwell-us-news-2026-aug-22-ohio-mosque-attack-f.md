@@ -1,7 +1,10 @@
 ---
-headline: Trump's "Jihadists" Remark and the Sharia-Free Caucus Made the Wire Cutters Possible
+headline: Trump's "Jihadists" Remark and the Sharia-Free Caucus Made the Wire Cutters
+  Possible
 publish_date: '2026-08-22'
-lede: Donald Trump and the 65-member "Sharia-Free America" caucus are bearing false witness against their Muslim neighbors, and the Westwood Islamic Community Center is paying the price.
+lede: Donald Trump and the 65-member "Sharia-Free America" caucus are bearing false
+  witness against their Muslim neighbors, and the Westwood Islamic Community Center
+  is paying the price.
 pen_name: joanna-rivera-blackwell
 primary_entities: []
 primary_themes: []
@@ -15,7 +18,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +38,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trumps-jihadists-remark-and-the-sharia-free-caucus-made-the.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump''s "Jihadists" Remark and the Sharia-Free
+    Caucus Made the Wire Cutters Possible'
+  caption: He named them jihadists. The wire cutters knew they could.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-22T22:06:25-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single panel, 1:1 aspect ratio, heavy cross-hatch wood-engraving in the
+    Nast polemic tradition. The scene reads as the Oval Office in mid-cross-section,
+    opened through its back wall to its consequence
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-22-hector-paired-with-2026-08-22-joanna-rivera-blackwell-us-news-2026-aug-22-ohio-mosque-attack-f
 ---
+
+![Editorial cartoon by Hector Rentier: Trump's "Jihadists" Remark and the Sharia-Free Caucus Made the Wire Cutters Possible](/cartoons/trumps-jihadists-remark-and-the-sharia-free-caucus-made-the.png)
+*He named them jihadists. The wire cutters knew they could.*
 
 Donald Trump and the 65-member "Sharia-Free America" caucus are bearing false witness against their Muslim neighbors, and the Westwood Islamic Community Center is paying the price.
 

@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: wendell-burke-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/you-are-counting-the-wrong-revival.png
+  alt: 'Editorial cartoon by Hector Rentier: You Are Counting the Wrong Revival'
+  caption: She counted the additions. She never counted the parish.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-22T22:13:34-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast tradition.
+    Central figure: a bespectacled woman — Mary Eberstadt, drawn with individuated
+    likeness, hair pinned, glasses, op-ed composur'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-22-hector-paired-with-2026-08-22-wendell-you-are-counting-the-wrong-revival
 ---
+
+![Editorial cartoon by Hector Rentier: You Are Counting the Wrong Revival](/cartoons/you-are-counting-the-wrong-revival.png)
+*She counted the additions. She never counted the parish.*
 
 You are counting the wrong revival. That is not how it happened last time, and the people cheering the comeback are the ones who didn't notice it left. Mary Eberstadt, in ["Campus Keepers of the Faith"](https://www.nationalreview.com/magazine/2026/10/campus-keepers-of-the-faith/) for *National Review*, argues that something seminal is stirring among young American Christians — the proliferation of classical academies, the Catholic-Evangelical bridges, the conversions of prominent intellectuals, the demographic arithmetic of faith — and that the tempo of history has at last migrated from the secularists to the believers. The count measures tempo. Tempo is not fidelity.
 
