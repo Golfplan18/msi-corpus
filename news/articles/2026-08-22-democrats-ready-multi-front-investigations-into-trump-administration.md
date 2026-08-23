@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- democrats-affordability-agenda
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -168,6 +169,7 @@ related_stories:
   relation: related
   strength: 0.7315
 ---
+
 ## Democrats ready multi-front investigations into Trump administration
 
 **Subtype:** fact

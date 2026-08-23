@@ -28,7 +28,8 @@ topic_tags:
 - health
 - government policy
 - election
-storyline_nexus: []
+storyline_nexus:
+- democrats-affordability-agenda
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,14 +193,19 @@ related_stories:
   strength: 0.6753
 image:
   url: /articles/2026-07-26-jeffries-launches-democrats-affordability-agenda-at-100-day-midterm-mark.png
-  alt: "Illustration accompanying article: Jeffries launches Democrats' affordability agenda at 100-day midterm mark"
+  alt: 'Illustration accompanying article: Jeffries launches Democrats'' affordability
+    agenda at 100-day midterm mark'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Jeffries launches Democrats' affordability agenda at 100-day midterm mark
 
 **Subtype:** fact

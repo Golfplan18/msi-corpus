@@ -26,7 +26,8 @@ primary_themes:
 - campaign promises
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- democrats-affordability-agenda
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -133,6 +134,7 @@ related_stories:
   relation: related
   strength: 0.6852
 ---
+
 ## Jeffries faults Republican record on affordability and war as midterm pitch
 
 **Subtype:** fact
