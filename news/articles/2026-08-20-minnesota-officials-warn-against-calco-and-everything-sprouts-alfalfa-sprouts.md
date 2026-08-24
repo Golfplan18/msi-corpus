@@ -22,7 +22,8 @@ primary_themes:
 - food safety
 topic_tags:
 - public health
-storyline_nexus: []
+storyline_nexus:
+- alfalfa-sprout-outbreak
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -105,6 +106,7 @@ related_stories:
   relation: related
   strength: 0.6677
 ---
+
 ## Minnesota officials warn against Calco and Everything Sprouts alfalfa sprouts
 
 **Subtype:** fact

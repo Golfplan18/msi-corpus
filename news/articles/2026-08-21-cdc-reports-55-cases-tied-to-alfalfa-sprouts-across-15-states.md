@@ -26,7 +26,8 @@ topic_tags:
 - epidemic and pandemic
 - health
 - public health
-storyline_nexus: []
+storyline_nexus:
+- alfalfa-sprout-outbreak
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -188,6 +189,7 @@ related_stories:
   relation: related
   strength: 0.7324
 ---
+
 ## CDC reports 55 cases tied to alfalfa sprouts across 15 states
 
 **Subtype:** fact
