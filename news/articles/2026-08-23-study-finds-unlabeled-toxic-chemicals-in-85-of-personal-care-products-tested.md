@@ -176,6 +176,8 @@ related_stories:
   publish_date: '2026-02-05'
   relation: related
   strength: 0.6566
+analyses:
+- '2026-08-23-study-identifies-unlabeled-chemicals-in-personal-care-items'
 ---
 ## Study finds unlabeled toxic chemicals in 85% of personal care products tested
 
@@ -218,3 +220,8 @@ The study offers no foolproof way to avoid undisclosed ingredients. Researchers 
 **Publication date:** 2026-08-23
 **Title:** Personal care products are awash in unlabeled toxic chemicals, study finds
 **URL:** https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals
+
+---
+
+<!-- analysis-link:2026-08-23-study-identifies-unlabeled-chemicals-in-personal-care-items -->
+**Going deeper:** [Read MSI's analysis of unlabeled chemical content in products →](/analyses/2026-08-23-study-identifies-unlabeled-chemicals-in-personal-care-items)
