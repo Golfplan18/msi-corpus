@@ -25,7 +25,8 @@ primary_themes:
 - business regulation
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- new-york-city-s-government-owned-grocery-initiative-and-delivery-sector-
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -103,6 +104,7 @@ related_stories:
   relation: related
   strength: 0.6552
 ---
+
 ## Mamdani backs NYC bill forcing Amazon, FedEx to hire couriers
 
 **Subtype:** fact

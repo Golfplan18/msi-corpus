@@ -21,7 +21,8 @@ topic_tags:
 - consumer goods
 - economy
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- new-york-city-s-government-owned-grocery-initiative-and-delivery-sector-
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -170,6 +171,7 @@ related_stories:
   relation: related
   strength: 0.6503
 ---
+
 ## Mamdani details 30% price cut at planned city-owned grocery stores
 
 **Subtype:** fact
