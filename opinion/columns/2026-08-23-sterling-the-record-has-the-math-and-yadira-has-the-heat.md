@@ -1,7 +1,9 @@
 ---
 headline: The Record Has the Math, and Yadira Has the Heat
 publish_date: '2026-08-23'
-lede: '**MEMORANDUM** **TO: The File** **FROM: S. A. Varice, Dean of Instruction** **RE: Orinoco capture campus; Grundy compressor station; chain of custody; refusal register**'
+lede: '**MEMORANDUM** **TO: The File** **FROM: S. A. Varice, Dean of Instruction**
+  **RE: Orinoco capture campus; Grundy compressor station; chain of custody; refusal
+  register**'
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +33,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-record-has-the-math-and-yadira-has-the-heat.png
+  alt: 'Editorial cartoon by Hector Rentier: The Record Has the Math, and Yadira Has
+    the Heat'
+  caption: He blessed the kept pennies. The pennies were somebody's cooling suit.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-23T22:10:25-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single central allegorical figure, 1:1 format. A man in a well-cut dark
+    suit, narrow tie, glasses, hair neatly parted, kneels at a heavy black altar-lectern
+    in the posture of devout prayer — hands fol
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-23-hector-paired-with-2026-08-23-sterling-the-record-has-the-math-and-yadira-has-the-heat
 ---
+
+![Editorial cartoon by Hector Rentier: The Record Has the Math, and Yadira Has the Heat](/cartoons/the-record-has-the-math-and-yadira-has-the-heat.png)
+*He blessed the kept pennies. The pennies were somebody's cooling suit.*
 
 **MEMORANDUM**
 **TO: The File**

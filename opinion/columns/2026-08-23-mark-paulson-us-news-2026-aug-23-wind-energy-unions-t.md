@@ -48,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -69,7 +70,28 @@ cross_article_links:
   strength: 0.8124
   confidence: high
 draft: false
+image:
+  url: /cartoons/trump-is-killing-union-offshore-wind-jobs-to-own-windmills.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Killing Union Offshore Wind
+    Jobs to Own Windmills'
+  caption: The preapproval was real. The energy dominance was not.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-23T22:08:06-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single central figure stands at a wooden podium bearing a placard: ''ENERGY
+    DOMINANCE.'' Behind him hangs a large banner reading ''AMERICAN WORKERS FIRST.''
+    The figure''s head is turned sharply to his left'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-23-hector-paired-with-2026-08-23-mark-paulson-us-news-2026-aug-23-wind-energy-unions-t
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Killing Union Offshore Wind Jobs to Own Windmills](/cartoons/trump-is-killing-union-offshore-wind-jobs-to-own-windmills.png)
+*The preapproval was real. The energy dominance was not.*
 
 Donald Trump is killing union offshore wind jobs to perform his war on windmills.
 
