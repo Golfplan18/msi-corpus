@@ -39,7 +39,8 @@ topic_tags:
 - labour dispute
 - government policy
 - public health
-storyline_nexus: []
+storyline_nexus:
+- california-wildfire-crisis
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,6 +198,7 @@ related_stories:
   relation: related
   strength: 0.6838
 ---
+
 ## Federal firefighters challenge USFS chief's 'fully staffed' assurances
 
 - Nine US Forest Service firefighters told the Guardian the agency faces a critical staffing shortage, contradicting public assurances from USFS chief Tom Schultz that the workforce is at full capacity.
