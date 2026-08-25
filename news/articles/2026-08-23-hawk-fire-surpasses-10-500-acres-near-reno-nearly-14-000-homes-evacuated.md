@@ -27,7 +27,8 @@ primary_themes:
 topic_tags:
 - fire
 - disaster
-storyline_nexus: []
+storyline_nexus:
+- california-wildfires-of-2026
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -154,6 +155,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Hawk Fire surpasses 10,500 acres near Reno, nearly 14,000 homes evacuated
 
 **Subtype:** fact

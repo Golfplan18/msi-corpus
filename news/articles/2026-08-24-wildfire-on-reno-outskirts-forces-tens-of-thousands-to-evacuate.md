@@ -24,7 +24,8 @@ topic_tags:
 - natural disaster
 - weather warning
 - weather
-storyline_nexus: []
+storyline_nexus:
+- california-wildfires-of-2026
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -186,6 +187,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Wildfire on Reno outskirts forces tens of thousands to evacuate
 
 **Subtype:** fact

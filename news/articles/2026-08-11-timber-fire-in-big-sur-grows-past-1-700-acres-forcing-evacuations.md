@@ -34,7 +34,8 @@ primary_themes:
 - Fire containment
 topic_tags:
 - disaster
-storyline_nexus: []
+storyline_nexus:
+- california-wildfires-of-2026
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -125,14 +126,19 @@ related_stories:
   strength: 0.6736
 image:
   url: /articles/2026-08-11-timber-fire-in-big-sur-grows-past-1-700-acres-forcing-evacuations.png
-  alt: "Illustration accompanying article: Timber fire in Big Sur grows past 1,700 acres, forcing evacuations"
+  alt: 'Illustration accompanying article: Timber fire in Big Sur grows past 1,700
+    acres, forcing evacuations'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Timber fire in Big Sur grows past 1,700 acres, forcing evacuations
 
 **Subtype:** fact
