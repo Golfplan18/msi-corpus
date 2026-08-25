@@ -32,7 +32,8 @@ topic_tags:
 - economy
 - economy, business and finance
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- u-s-iran-economic-pressure-strategy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -198,6 +199,7 @@ related_stories:
   relation: related
   strength: 0.7254
 ---
+
 ## Bessent vows to sever all economic ties with Iran as war 'enters its endgame'
 
 - US Treasury Secretary Scott Bessent said in a Financial Times opinion piece that Washington would impose "the single greatest financial offensive ever" on Iran, severing every economic tie and isolating any nation that continues doing business with Tehran.

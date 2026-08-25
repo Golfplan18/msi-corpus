@@ -30,7 +30,8 @@ topic_tags:
 - conflict, war and peace
 - international relations
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- u-s-iran-economic-pressure-strategy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,6 +190,7 @@ related_stories:
   relation: related
   strength: 0.7615
 ---
+
 ## Ship struck in Strait of Hormuz; UKMTO reports at least one crew casualty
 
 - The UK Maritime Trade Operations center reported that an unidentified ship was struck by an unknown projectile while transiting outbound through the Strait of Hormuz on Tuesday, causing engine-room damage and at least one crew casualty.
