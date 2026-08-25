@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +35,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-and-hegseth-are-killing-people-on-boats.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump and Hegseth Are Killing People
+    on Boats'
+  caption: Total systemic friction. Two hundred and ten times.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-24T22:22:03-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single panel, 1:1, heavy cross-hatch in the Nast tradition. Top of the
+    frame, in the mechanical block type of a Pentagon press release, the phrase TOTAL
+    SYSTEMIC FRICTION ON NARCOTERRORISTS sits as pa
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-24-hector-paired-with-2026-08-24-james-big-jim-zebedee-trump-bombing-drug-cartels
 ---
+
+![Editorial cartoon by Hector Rentier: Trump and Hegseth Are Killing People on Boats](/cartoons/trump-and-hegseth-are-killing-people-on-boats.png)
+*Total systemic friction. Two hundred and ten times.*
 
 Trump and Hegseth are killing people on boats and calling it drug interdiction. The latest strike was early Monday in the eastern Pacific. Two more dead. The count is past 210 now, across more than 60 strikes since this campaign started. General Francis Donovan, who runs Southern Command, put out a statement with the announcement. He said the military is "committed to imposing total systemic friction on narco-terrorists." That is the language they have settled on. The thing it describes is men on small boats being blown apart by missiles.
 
