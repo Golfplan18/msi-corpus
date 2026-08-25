@@ -25,7 +25,8 @@ primary_themes:
 - progressive politics
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- abdul-el-sayed-wins-michigan-democratic-senate-primary
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -186,6 +187,7 @@ related_stories:
   relation: related
   strength: 0.6934
 ---
+
 ## Michigan Senate candidate El-Sayed distances himself from streamer Piker
 
 **Subtype:** fact
