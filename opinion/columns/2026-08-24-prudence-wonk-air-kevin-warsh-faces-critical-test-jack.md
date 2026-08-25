@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,9 +32,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-24-warsh-s-jackson-hole-address-as-fed-chair-confronts-bond-market-selloff.png
-  alt: 'Illustration accompanying article: Warsh''s Jackson Hole address as Fed chair confronts bond market selloff'
+  url: /cartoons/forty-trillion-in-debt-and-trump-wants-cheaper-interest.png
+  alt: 'Editorial cartoon by Hector Rentier: Forty trillion in debt, and Trump wants
+    cheaper interest.'
+  caption: Independence on the lectern. The lever behind it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-24T22:16:04-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single 1:1 panel in heavy cross-hatch wood engraving. A banner across
+    the top carries the quotation in sepia-lettered block text. At center, a Federal
+    Reserve lectern bears the Fed seal and a small pl
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-24-warsh-s-jackson-hole-address-as-fed-chair-confronts-bond-market-selloff
   relation: extends
@@ -41,7 +53,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-24-hector-paired-with-2026-08-24-prudence-wonk-air-kevin-warsh-faces-critical-test-jack
 ---
+
+![Editorial cartoon by Hector Rentier: Forty trillion in debt, and Trump wants cheaper interest.](/cartoons/forty-trillion-in-debt-and-trump-wants-cheaper-interest.png)
+*Independence on the lectern. The lever behind it.*
 
 Trump is leaning on Warsh to cut rates and launder a forty-trillion-dollar debt. The annual Jackson Hole symposium convenes Friday in Grand Teton National Park with long-term Treasury yields near their highest since 2007, the national debt past $40 trillion for the first time, and Treasury Secretary Scott Bessent having committed to at least double Washington's purchases of U.S. Treasury bonds to contain selling pressure in the $30 trillion government debt market (Guardian, Aug. 24, 2026).
 

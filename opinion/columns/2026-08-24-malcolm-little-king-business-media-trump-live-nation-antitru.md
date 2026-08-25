@@ -1,7 +1,8 @@
 ---
 headline: Trump Directed DOJ to Settle the Live Nation Case. The Company Kept Ticketmaster.
 publish_date: '2026-08-24'
-lede: Donald Trump directed the Justice Department to settle its antitrust case against Live Nation.
+lede: Donald Trump directed the Justice Department to settle its antitrust case against
+  Live Nation.
 pen_name: malcolm-little-king
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-directed-doj-to-settle-the-live-nation-case-the.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Directed DOJ to Settle the Live
+    Nation Case. The Company Kept Ticketmaster.'
+  caption: He asked why it wasn't settled. By that afternoon, it was.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-24T22:10:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy Nast-tradition cross-hatch wood engraving. Center
+    frame: a paneled executive office dominated by a polished mahogany desk. Two men
+    sit close together on the same side of the de'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-24-hector-paired-with-2026-08-24-malcolm-little-king-business-media-trump-live-nation-antitru
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Directed DOJ to Settle the Live Nation Case. The Company Kept Ticketmaster.](/cartoons/trump-directed-doj-to-settle-the-live-nation-case-the.png)
+*He asked why it wasn't settled. By that afternoon, it was.*
 
 Donald Trump directed the Justice Department to settle its antitrust case against Live Nation. The settlement let the company keep Ticketmaster — the subsidiary the Justice Department had publicly vowed to force it to sell less than two years earlier — and retain control of most of the country's best amphitheaters.
 
