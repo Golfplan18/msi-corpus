@@ -2,8 +2,13 @@
 headline: Secret Service investigating Iranian video threatening Barron Trump
 secondary_headline: Iran media threats against Trump family began after Khamenei assassination
 publish_date: '2026-08-25'
-lede: The U.S. Secret Service said it is aware of an Iranian state media video that appears to threaten the life of Barron Trump, President Donald Trump's youngest son, and that the agency investigates any threat perceived against the people it protects.
-nut_graf: The video follows a pattern of Iranian threats against Trump and his family since the U.S. assassination of Ayatollah Ali Khamenei at the start of the war in Iran that Trump launched alongside Israel.
+lede: The U.S. Secret Service said it is aware of an Iranian state media video that
+  appears to threaten the life of Barron Trump, President Donald Trump's youngest
+  son, and that the agency investigates any threat perceived against the people it
+  protects.
+nut_graf: The video follows a pattern of Iranian threats against Trump and his family
+  since the U.S. assassination of Ayatollah Ali Khamenei at the start of the war in
+  Iran that Trump launched alongside Israel.
 primary_entities:
 - Barron Trump
 - U.S. Secret Service
@@ -46,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,7 +151,8 @@ related_stories:
   relation: related
   strength: 0.6892
 - slug: 2026-07-09-trump-says-he-has-been-a-little-bit-lucky-as-israel-warns-of-new-iranian-plot
-  headline: Trump says he has been 'a little bit lucky' as Israel warns of new Iranian plot
+  headline: Trump says he has been 'a little bit lucky' as Israel warns of new Iranian
+    plot
   publish_date: '2026-07-09'
   relation: related
   strength: 0.672
@@ -164,68 +171,7 @@ related_stories:
   publish_date: '2026-06-10'
   relation: related
   strength: 0.6814
-- slug: 2026-05-03-trump-reviewing-new-iranian-proposal-to-end-war-skeptical-it-will-work
-  headline: Trump reviewing new Iranian proposal to end war, skeptical it will work
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.681
-- slug: 2026-04-10-iranian-americans-worry-after-trump-threats-to-iran-as-shaky-truce-holds
-  headline: Iranian Americans worry after Trump threats to Iran as shaky truce holds
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6917
-- slug: 2026-04-04-trump-s-go-it-alone-certainty-collides-with-iran-war-uncertainties
-  headline: Trump’s go-it-alone certainty collides with Iran war uncertainties
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6734
-- slug: 2026-04-06-trump-s-go-it-alone-certainty-confronts-wartime-uncertainty-and-limits
-  headline: Trump’s go-it-alone certainty confronts wartime uncertainty and limits
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6694
-- slug: 2026-03-01-trump-says-u-s-has-begun-major-combat-operations-in-iran
-  headline: Trump says U.S. has begun “major combat operations” in Iran
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6768
-- slug: 2026-03-10-trump-says-iran-war-could-end-soon-then-warns-of-tougher-strikes
-  headline: Trump says Iran war could end soon, then warns of tougher strikes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6715
-- slug: 2026-03-06-russia-gave-iran-information-that-could-help-strikes-on-us-military-officials-sa
-  headline: Russia gave Iran information that could help strikes on US military, officials say
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6696
-- slug: 2026-03-10-trump-says-iran-war-could-be-over-soon-warns-on-strait-of-hormuz-oil
-  headline: Trump says Iran war could be over soon, warns on Strait of Hormuz oil
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6636
-- slug: 2026-03-08-iran-names-mojtaba-khamenei-as-supreme-leader-amid-widening-mideast-war
-  headline: Iran names Mojtaba Khamenei as supreme leader amid widening Mideast war
-  publish_date: '2026-03-08'
-  relation: related
-  strength: 0.6644
-- slug: 2026-03-02-us-intel-did-not-indicate-iran-planned-a-preemptive-strike-ap-says
-  headline: US intel did not indicate Iran planned a preemptive strike, AP says
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6654
-- slug: 2026-03-06-trump-seeks-role-in-choosing-iran-s-next-supreme-leader-as-war-enters-sixth-day
-  headline: Trump seeks role in choosing Iran's next supreme leader as war enters sixth day
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6608
-- slug: 2026-02-27-poll-finds-americans-fear-iran-s-nuclear-threat-but-doubt-trump-s-war-judgment
-  headline: Poll finds Americans fear Iran’s nuclear threat but doubt Trump’s war judgment
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6611
 ---
-
 ## Secret Service investigating Iranian video threatening Barron Trump
 
 **Subtype:** fact
