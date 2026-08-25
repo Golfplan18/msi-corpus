@@ -35,7 +35,8 @@ topic_tags:
 - weather
 - weather forecast
 - weather warning
-storyline_nexus: []
+storyline_nexus:
+- hurricane-lala-s-impact-on-hawaii
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -205,6 +206,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Tropical Storm Moke advances on Hawaii's Big Island still recovering from Lala
 
 **Subtype:** fact
