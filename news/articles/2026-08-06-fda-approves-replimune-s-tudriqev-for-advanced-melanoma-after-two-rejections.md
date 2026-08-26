@@ -37,7 +37,8 @@ topic_tags:
 - health
 - medical research
 - public health
-storyline_nexus: []
+storyline_nexus:
+- fda-drug-approval-trends
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -168,6 +169,7 @@ related_stories:
   relation: related
   strength: 0.676
 ---
+
 ## FDA approves Replimune's Tudriqev for advanced melanoma after two rejections
 
 **Subtype:** fact

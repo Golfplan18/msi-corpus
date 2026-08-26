@@ -21,7 +21,8 @@ primary_themes:
 - neurology
 topic_tags:
 - health
-storyline_nexus: []
+storyline_nexus:
+- fda-drug-approval-trends
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -144,6 +145,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## FDA approves Orzeyful to treat full range of narcolepsy type 1 symptoms
 
 **Subtype:** fact
