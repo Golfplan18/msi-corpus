@@ -28,7 +28,8 @@ topic_tags:
 - law enforcement
 - civil rights
 - crime, law and justice
-storyline_nexus: []
+storyline_nexus:
+- us-visa-revocation-program
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -141,6 +142,7 @@ related_stories:
   relation: related
   strength: 0.6568
 ---
+
 ## US preparing largest mass visa revocation, targeting 200,000 asylum seekers
 
 **Subtype:** fact

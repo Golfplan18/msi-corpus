@@ -41,7 +41,8 @@ topic_tags:
 - human migration
 - political dissent
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- us-visa-revocation-program
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -203,6 +204,7 @@ related_stories:
   relation: related
   strength: 0.7109
 ---
+
 ## Visa revocations top 175,000 under Trump administration
 
 **Subtype:** fact
