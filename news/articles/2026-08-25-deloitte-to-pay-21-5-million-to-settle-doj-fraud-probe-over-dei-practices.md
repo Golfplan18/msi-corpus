@@ -163,6 +163,8 @@ related_stories:
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6658
+analyses:
+- '2026-08-25-doj-s-false-claims-act-theory-on-dei-draws-second-contractor-settlement-at-deloi'
 ---
 ## Deloitte to pay $21.5 million to settle DOJ fraud probe over DEI practices
 
@@ -206,3 +208,8 @@ In a related but distinct enforcement action, PayPal agreed in May to forgo $30 
 **Publication date:** 2026-08-25
 **Title:** Deloitte to Pay $21.5 Million to End DOJ Fraud Investigation Over DEI Policies
 **URL:** https://www.wsj.com/us-news/law/deloitte-to-pay-21-5-million-to-end-doj-fraud-investigation-over-dei-policies-a88b0266
+
+---
+
+<!-- analysis-link:2026-08-25-doj-s-false-claims-act-theory-on-dei-draws-second-contractor-settlement-at-deloi -->
+**Going deeper:** [Read MSI's analysis of Deloitte's $21.5M DEI settlement →](/analyses/2026-08-25-doj-s-false-claims-act-theory-on-dei-draws-second-contractor-settlement-at-deloi)
