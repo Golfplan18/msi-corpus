@@ -186,6 +186,8 @@ related_stories:
   publish_date: '2026-04-15'
   relation: related
   strength: 0.6786
+analyses:
+- '2026-08-25-city-mailed-17-000-pied-terre-notices-before-integrating-state-tax-data'
 ---
 ## New York City defends pied-à-terre tax rollout in court filing
 
@@ -222,3 +224,8 @@ Mamdani drew criticism earlier this year when he announced the pied-à-terre tax
 **Publication date:** 2026-08-25
 **Title:** Mamdani Lawyers Defend Pied-à-Terre Tax Rollout in Court
 **URL:** https://www.wsj.com/us-news/mamdani-lawyers-defend-pied-a-terre-tax-rollout-in-court-659e4a03
+
+---
+
+<!-- analysis-link:2026-08-25-city-mailed-17-000-pied-terre-notices-before-integrating-state-tax-data -->
+**Going deeper:** [Read MSI's analysis of Read MSI's analysis of NYC's pied-à-terre rollout →](/analyses/2026-08-25-city-mailed-17-000-pied-terre-notices-before-integrating-state-tax-data)
