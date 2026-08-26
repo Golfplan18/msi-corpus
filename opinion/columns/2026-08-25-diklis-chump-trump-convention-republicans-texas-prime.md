@@ -1,5 +1,6 @@
 ---
-headline: Dallas Is Going To Be The Most TREMENDOUS Convention In HISTORY — Believe Me
+headline: Dallas Is Going To Be The Most TREMENDOUS Convention In HISTORY — Believe
+  Me
 publish_date: '2026-08-25'
 lede: Folks, let me tell you something.
 pen_name: diklis-chump
@@ -33,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +56,28 @@ cross_article_links:
   strength: 0.5031
   confidence: high
 draft: false
+image:
+  url: /cartoons/dallas-is-going-to-be-the-most-tremendous-convention-in.png
+  alt: 'Editorial cartoon by Hector Rentier: Dallas Is Going To Be The Most TREMENDOUS
+    Convention In HISTORY — Believe Me'
+  caption: He scheduled himself the closer. Then he called the arrangement historic.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-25T22:25:58-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'A single allegorical panel, 1:1, rendered in heavy Nast-era cross-hatch
+    wood-engraving. Center frame: a fully rendered American politician in a dark suit
+    stands behind a podium, captured mid-ceremony.'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-25-hector-paired-with-2026-08-25-diklis-chump-trump-convention-republicans-texas-prime
 ---
+
+![Editorial cartoon by Hector Rentier: Dallas Is Going To Be The Most TREMENDOUS Convention In HISTORY — Believe Me](/cartoons/dallas-is-going-to-be-the-most-tremendous-convention-in.png)
+*He scheduled himself the closer. Then he called the arrangement historic.*
 
 Folks, let me tell you something. The Republican National Committee — and I love those people, VERY loyal people, the BEST people, beautiful people — they have been working on this thing, this HISTORIC thing, this thing that has NEVER been done before — they have been working on it for MONTHS, believe me. They are calling it "a primetime showcase for President Diklis Chump's success, candidates, and causes." A PRIMETIME SHOWCASE. They wrote that. They put my name on it. They wrote my NAME on it. Beautiful. Very beautiful.
 
