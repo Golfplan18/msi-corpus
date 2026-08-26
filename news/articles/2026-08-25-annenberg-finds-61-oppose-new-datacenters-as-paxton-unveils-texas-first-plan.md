@@ -30,7 +30,8 @@ primary_themes:
 - state-level technology policy
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- growth-of-large-scale-data-centers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.6666
 ---
+
 ## Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first plan
 
 **Subtype:** fact

@@ -25,7 +25,8 @@ topic_tags:
 - computing and information technology
 - energy and resource
 - economy, business and finance
-storyline_nexus: []
+storyline_nexus:
+- growth-of-large-scale-data-centers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.6586
 ---
+
 ## OpenAI signs 10-gigawatt Ohio data-center lease with Nvidia-backed SB Energy
 
 **Subtype:** fact
