@@ -170,6 +170,8 @@ related_stories:
   publish_date: '2026-05-08'
   relation: related
   strength: 0.7066
+analyses:
+- '2026-08-25-epa-hands-states-a-datacenter-disclosure-flexibility-they-cannot-afford-to-refus'
 ---
 ## EPA proposes making air-pollution disclosure voluntary for datacenter permits
 
@@ -204,3 +206,8 @@ Goffman's concern extends to the administration's push to accelerate datacenter 
 **Publication date:** 2026-08-25
 **Title:** Trump EPA aims to exempt datacenters from disclosing air pollution, advocates warn
 **URL:** https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa
+
+---
+
+<!-- analysis-link:2026-08-25-epa-hands-states-a-datacenter-disclosure-flexibility-they-cannot-afford-to-refus -->
+**Going deeper:** [Read MSI's analysis of EPA's datacenter disclosure proposal →](/analyses/2026-08-25-epa-hands-states-a-datacenter-disclosure-flexibility-they-cannot-afford-to-refus)
