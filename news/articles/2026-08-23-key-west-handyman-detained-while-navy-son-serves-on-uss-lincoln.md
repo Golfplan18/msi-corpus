@@ -26,7 +26,8 @@ topic_tags:
 - crime, law and justice
 - politics
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- luis-manuel-aviles-immigration-detention-saga
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -145,6 +146,7 @@ related_stories:
   relation: related
   strength: 0.6635
 ---
+
 ## Key West handyman detained while Navy son serves on USS Lincoln
 
 **Subtype:** fact

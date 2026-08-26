@@ -24,7 +24,8 @@ primary_themes:
 topic_tags:
 - human migration
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- luis-manuel-aviles-immigration-detention-saga
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -132,6 +133,7 @@ related_stories:
   relation: related
   strength: 0.9262
 ---
+
 ## Luis Manuel Aviles released from immigration detention, family says
 
 **Subtype:** fact
