@@ -27,7 +27,8 @@ topic_tags:
 - labour dispute
 - politics
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -205,6 +206,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Trump accuses Canada of wanting US state benefits without statehood
 
 - Donald Trump posted on social media accusing Canada of wanting "the benefits of being a State, without being one" as U.S.-Canada trade tensions escalated.

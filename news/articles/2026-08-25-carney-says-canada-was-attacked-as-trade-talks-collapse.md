@@ -28,7 +28,8 @@ primary_themes:
 - US foreign policy
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,14 +172,19 @@ related_stories:
   strength: 0.7693
 image:
   url: /articles/2026-08-25-carney-says-canada-was-attacked-as-trade-talks-collapse.png
-  alt: "Illustration accompanying article: Carney says Canada was 'attacked' as trade talks collapse"
+  alt: 'Illustration accompanying article: Carney says Canada was ''attacked'' as
+    trade talks collapse'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Carney says Canada was 'attacked' as trade talks collapse
 
 **Subtype:** fact

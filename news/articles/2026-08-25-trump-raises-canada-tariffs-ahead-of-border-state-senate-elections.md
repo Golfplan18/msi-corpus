@@ -29,7 +29,8 @@ topic_tags:
 - economy, business and finance
 - political process
 - election
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -114,6 +115,7 @@ related_stories:
   relation: related
   strength: 0.7295
 ---
+
 ## Trump raises Canada tariffs ahead of border-state Senate elections
 
 **Subtype:** fact

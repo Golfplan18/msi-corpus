@@ -33,7 +33,8 @@ topic_tags:
 - labour dispute
 - manufacturing and engineering
 - consumer goods
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -120,14 +121,19 @@ related_stories:
   strength: 0.6907
 image:
   url: /articles/2026-08-22-carney-orders-dollar-for-dollar-counter-tariffs-as-us-canada-talks-collapse.png
-  alt: "Illustration accompanying article: Carney orders dollar-for-dollar counter-tariffs as US-Canada talks collapse"
+  alt: 'Illustration accompanying article: Carney orders dollar-for-dollar counter-tariffs
+    as US-Canada talks collapse'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Carney orders dollar-for-dollar counter-tariffs as US-Canada talks collapse
 
 **Subtype:** fact

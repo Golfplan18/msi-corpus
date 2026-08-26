@@ -27,7 +27,8 @@ topic_tags:
 - economy
 - environment
 - energy and resource
-storyline_nexus: []
+storyline_nexus:
+- growth-of-large-scale-data-centers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.7122
 ---
+
 ## Trump promotes data centers as Senate GOP arm warns of voter anger
 
 **Subtype:** fact
