@@ -1,7 +1,8 @@
 ---
 headline: The Marquette Poll Indicts the Roberts Court
 publish_date: '2026-08-25'
-lede: The Wall Street Journal editorial board is laundering the Roberts Court's partisan capture.
+lede: The Wall Street Journal editorial board is laundering the Roberts Court's partisan
+  capture.
 pen_name: thomas-reynolds
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: thomas-reynolds-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -29,7 +31,28 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-marquette-poll-indicts-the-roberts-court.png
+  alt: 'Editorial cartoon by Hector Rentier: The Marquette Poll Indicts the Roberts
+    Court'
+  caption: He read the three losses aloud. The cover bought Callais.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-25T22:18:50-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single central allegorical figure, 1:1, heavy cross-hatch wood-engraving
+    in the Nast tradition. Chief Justice John Roberts, in black judicial robe, fully
+    rendered individuated face — serene, eyes slig
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-25-hector-paired-with-2026-08-25-thomas-the-marquette-poll-indicts-the-roberts-court
 ---
+
+![Editorial cartoon by Hector Rentier: The Marquette Poll Indicts the Roberts Court](/cartoons/the-marquette-poll-indicts-the-roberts-court.png)
+*He read the three losses aloud. The cover bought Callais.*
 
 The Wall Street Journal editorial board is laundering the Roberts Court's partisan capture.
 
