@@ -1,7 +1,9 @@
 ---
 headline: Marshall Took an Oath to His Patients. He Has Used It to Bind Them.
 publish_date: '2026-08-26'
-lede: Senator Roger Marshall, an OB/GYN by training, has used his medical credentials to lend legitimacy to a Republican Party apparatus that harms the Kansas women he once swore to serve.
+lede: Senator Roger Marshall, an OB/GYN by training, has used his medical credentials
+  to lend legitimacy to a Republican Party apparatus that harms the Kansas women he
+  once swore to serve.
 pen_name: joanna-rivera-blackwell
 primary_entities: []
 primary_themes: []
@@ -15,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +31,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-08-25-democrat-adam-hamilton-targets-roger-marshall-in-kansas-senate-race.png
-  alt: 'Illustration accompanying article: Democrat Adam Hamilton targets Roger Marshall in Kansas Senate race'
+  url: /cartoons/marshall-took-an-oath-to-his-patients-he-has-used-it-to.png
+  alt: 'Editorial cartoon by Hector Rentier: Marshall Took an Oath to His Patients.
+    He Has Used It to Bind Them.'
+  caption: He kept his white coat. He voted for fewer OB-GYNs.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-08-26T22:23:10-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single central figure, 1:1, wood-engraving cross-hatch. Senator Roger
+    Marshall stands composed and dignified at center, fully rendered face showing
+    the calm of a man at peace with himself — clean-shav
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-08-25-democrat-adam-hamilton-targets-roger-marshall-in-kansas-senate-race
   relation: extends
@@ -38,7 +52,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-26-hector-paired-with-2026-08-26-joanna-rivera-blackwell-us-news-2026-aug-25-democrat-adam-hamilt
 ---
+
+![Editorial cartoon by Hector Rentier: Marshall Took an Oath to His Patients. He Has Used It to Bind Them.](/cartoons/marshall-took-an-oath-to-his-patients-he-has-used-it-to.png)
+*He kept his white coat. He voted for fewer OB-GYNs.*
 
 Senator Roger Marshall, an OB/GYN by training, has used his medical credentials to lend legitimacy to a Republican Party apparatus that harms the Kansas women he once swore to serve. That is the sentence I have to write first, and it is the one I have to mean. Let me show you what I mean by it.
 
