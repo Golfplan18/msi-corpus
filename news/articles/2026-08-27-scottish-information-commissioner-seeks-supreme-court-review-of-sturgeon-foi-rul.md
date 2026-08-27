@@ -1,12 +1,27 @@
 ---
-headline: Scottish information commissioner seeks Supreme Court review of Sturgeon FOI ruling
-secondary_headline: Government invoked legal professional privilege over Sturgeon inquiry records
+headline: Scottish information commissioner seeks Supreme Court review of Sturgeon
+  FOI ruling
+secondary_headline: Government invoked legal professional privilege over Sturgeon
+  inquiry records
 publish_date: '2026-08-27'
-lede: 'Scotland''s Information Commissioner David Hamilton is seeking permission to bring a case to the UK Supreme Court over the Scottish government''s refusal to release documents linked to an inquiry that cleared former First Minister Nicola Sturgeon of breaching the ministerial code. Hamilton, who was appointed to the role in 2023, said the Court of Session''s ruling against disclosure runs contrary to the Scottish Parliament''s intention behind the freedom of information law.
+lede: 'Scotland''s Information Commissioner David Hamilton is seeking permission to
+  bring a case to the UK Supreme Court over the Scottish government''s refusal to
+  release documents linked to an inquiry that cleared former First Minister Nicola
+  Sturgeon of breaching the ministerial code. Hamilton, who was appointed to the role
+  in 2023, said the Court of Session''s ruling against disclosure runs contrary to
+  the Scottish Parliament''s intention behind the freedom of information law.
 
 
-  The dispute stems from a freedom of information request filed by Benjamin Harrop, a member of the public who has said he joined the SNP in 2014. Harrop sought internal emails, messages and other communications about whether ministers had a legal right to withhold material gathered by James Hamilton KC, the independent adviser on the ministerial code whose 2021 investigation concluded that Sturgeon had not breached the code.'
-nut_graf: If the UK Supreme Court agrees to hear the case, the ruling could clarify how Scotland's freedom of information law balances legal professional privilege against the public interest in disclosure — a question Hamilton said carries significant implications for citizens' right to access information from government.
+  The dispute stems from a freedom of information request filed by Benjamin Harrop,
+  a member of the public who has said he joined the SNP in 2014. Harrop sought internal
+  emails, messages and other communications about whether ministers had a legal right
+  to withhold material gathered by James Hamilton KC, the independent adviser on the
+  ministerial code whose 2021 investigation concluded that Sturgeon had not breached
+  the code.'
+nut_graf: If the UK Supreme Court agrees to hear the case, the ruling could clarify
+  how Scotland's freedom of information law balances legal professional privilege
+  against the public interest in disclosure — a question Hamilton said carries significant
+  implications for citizens' right to access information from government.
 primary_entities:
 - David Hamilton
 - Nicola Sturgeon
@@ -51,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,118 +164,21 @@ cross_article_links:
   strength: 0.5776
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-06-03-scottish-secretary-failed-to-declare-meeting-with-mandelson-s-lobbying-firm
-  headline: Scottish secretary failed to declare meeting with Mandelson's lobbying firm
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6369
-- slug: 2026-06-01-mps-press-uk-regulator-to-prove-palantir-deal-won-t-expose-data-to-us
-  headline: MPs press UK regulator to prove Palantir deal won't expose data to US
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6225
-- slug: 2026-05-31-nicola-sturgeon-emotional-in-interview-over-husband-s-snp-embezzlement
-  headline: Nicola Sturgeon emotional in interview over husband's SNP embezzlement
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6104
-- slug: 2026-05-31-sturgeon-refuses-to-apologize-as-estranged-husband-faces-sentencing-for-snp-embe
-  headline: Sturgeon refuses to apologize as estranged husband faces sentencing for SNP embezzlement
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6012
-- slug: 2026-05-31-uk-government-to-release-second-tranche-of-mandelson-appointment-files
-  headline: UK government to release second tranche of Mandelson appointment files
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5891
-- slug: 2026-06-01-published-mandelson-messages-reveal-private-criticism-of-starmer-s-no-10
-  headline: Published Mandelson Messages Reveal Private Criticism of Starmer’s No 10
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5841
-- slug: 2026-06-02-starmer-uses-disappearing-whatsapp-messages-no-10-confirms
-  headline: Starmer uses disappearing WhatsApp messages, No 10 confirms
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5811
-- slug: 2026-05-27-biden-sues-justice-department-to-block-release-of-audio-interviews-from-classifi
-  headline: Biden sues Justice Department to block release of audio interviews from classified documents probe
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5861
-- slug: 2026-05-26-biden-sues-justice-department-to-block-release-of-hur-interview-audio
-  headline: Biden sues Justice Department to block release of Hur interview audio
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5795
-- slug: 2026-05-22-dhs-says-ice-has-no-relationship-with-paragon-solutions-spyware-maker
-  headline: DHS says ICE has no relationship with Paragon Solutions spyware maker
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5752
-- slug: 2026-05-18-post-seeks-court-order-for-seized-reporter-s-devices
-  headline: Post seeks court order for seized reporter's devices
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5738
-- slug: 2026-05-18-lawyers-ask-to-seal-evidence-in-charlie-kirk-murder-case
-  headline: Lawyers ask to seal evidence in Charlie Kirk murder case
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5716
-- slug: 2026-02-23-judge-bars-release-of-jack-smith-s-classified-documents-report
-  headline: Judge bars release of Jack Smith's classified documents report
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6179
-- slug: 2026-02-05-britain-to-release-documents-on-mandelson-s-us-ambassador-appointment
-  headline: Britain to release documents on Mandelson’s US ambassador appointment
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6108
-- slug: 2026-02-02-latest-epstein-files-spur-slovak-resignation-spur-prince-andrew-calls
-  headline: Latest Epstein files spur Slovak resignation, spur Prince Andrew calls
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6057
-- slug: 2026-04-01-swalwell-s-lawyers-demand-fbi-halt-plan-to-release-old-patel-file
-  headline: Swalwell’s lawyers demand FBI halt plan to release old Patel file
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5746
-- slug: 2026-03-05-top-fda-official-seeks-to-hire-friend-pushing-new-antidepressants-warning
-  headline: Top FDA official seeks to hire friend pushing new antidepressants warning
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5856
-- slug: 2026-03-13-utah-judge-keeps-limited-media-access-in-charlie-kirk-case
-  headline: Utah judge keeps limited media access in Charlie Kirk case
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.5784
-- slug: 2026-02-20-judge-signals-order-to-return-devices-seized-from-post-reporter
-  headline: Judge signals order to return devices seized from Post reporter
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5848
-- slug: 2026-02-05-how-keir-starmer-could-be-replaced-amid-mandelson-epstein-fallout
-  headline: How Keir Starmer could be replaced amid Mandelson-Epstein fallout
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5889
+related_stories: []
 image:
   url: /articles/2026-08-27-scottish-information-commissioner-seeks-supreme-court-review-of-sturgeon-foi-rul.png
-  alt: "Illustration accompanying article: Scottish information commissioner seeks Supreme Court review of Sturgeon FOI ruling"
+  alt: 'Illustration accompanying article: Scottish information commissioner seeks
+    Supreme Court review of Sturgeon FOI ruling'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Scottish information commissioner seeks Supreme Court review of Sturgeon FOI ruling
 
 **Subtype:** fact

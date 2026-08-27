@@ -2,8 +2,16 @@
 headline: Senators led by Cortez Masto ask ICE to cancel $20 million shock glove plan
 secondary_headline: Letter cites 'blatant and tragic misuse of force' in five locations
 publish_date: '2026-08-27'
-lede: A group of U.S. senators led by Democrat Catherine Cortez Masto of Nevada asked Immigration and Customs Enforcement on Thursday to cancel its plan to outfit officers with gloves that can deliver painful electric shocks. In a letter to ICE's acting director, Cortez Masto was joined by other Democratic senators and Independent Sen. Angus King of Maine in questioning both the $20 million cost of the devices and the agency's ability to use them appropriately.
-nut_graf: The appeal is the latest formal opposition to a procurement plan that became public this month when ICE published a notice outlining its intent to purchase thousands of what the agency called 'conductive distraction and de-escalation devices' for officers and investigators.
+lede: A group of U.S. senators led by Democrat Catherine Cortez Masto of Nevada asked
+  Immigration and Customs Enforcement on Thursday to cancel its plan to outfit officers
+  with gloves that can deliver painful electric shocks. In a letter to ICE's acting
+  director, Cortez Masto was joined by other Democratic senators and Independent Sen.
+  Angus King of Maine in questioning both the $20 million cost of the devices and
+  the agency's ability to use them appropriately.
+nut_graf: The appeal is the latest formal opposition to a procurement plan that became
+  public this month when ICE published a notice outlining its intent to purchase thousands
+  of what the agency called 'conductive distraction and de-escalation devices' for
+  officers and investigators.
 primary_entities:
 - Catherine Cortez Masto
 - Angus King
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,93 +161,17 @@ related_stories:
   publish_date: '2026-08-20'
   relation: related
   strength: 0.6611
-- slug: 2026-08-06-geo-group-reports-nearly-54-000-immigrants-on-ice-ankle-monitors
-  headline: Geo Group reports nearly 54,000 immigrants on ICE ankle monitors
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6221
 - slug: 2026-07-20-king-and-38-senators-press-ice-for-vetting-details-body-cameras
   headline: King and 38 senators press ICE for vetting details, body cameras
   publish_date: '2026-07-20'
   relation: related
   strength: 0.6938
-- slug: 2026-08-03-acting-ice-director-divests-geo-stock-and-recuses-from-its-detention-contracts
-  headline: Acting ICE director divests GEO stock and recuses from its detention contracts
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6214
-- slug: 2026-07-22-house-democrats-say-1-ice-officer-referred-for-discipline-since-trump-took-offic
-  headline: House Democrats say 1 ICE officer referred for discipline since Trump took office
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6198
-- slug: 2026-07-19-guardian-columnist-calls-for-ice-prosecutions-after-fatal-shootings
-  headline: Guardian columnist calls for ICE prosecutions after fatal shootings
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6191
-- slug: 2026-07-16-half-of-ice-field-offices-still-lack-body-cameras-after-recent-fatal-shootings
-  headline: Half of ICE field offices still lack body cameras after recent fatal shootings
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6227
-- slug: 2026-06-11-venezuelan-asylum-seeker-says-ice-broke-her-knee-contradicts-agency-account
-  headline: Venezuelan asylum seeker says ICE broke her knee, contradicts agency account
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6225
-- slug: 2026-05-18-judge-refuses-to-block-dhs-policy-on-congressional-ice-visits
-  headline: Judge refuses to block DHS policy on Congressional ICE visits
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6219
 - slug: 2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good
   headline: Congress weighs response to ICE killing of Minnesota woman Renee Good
   publish_date: '2026-01-10'
   relation: related
   strength: 0.6535
-- slug: 2026-02-05-democrats-threaten-to-block-dhs-funding-unless-ice-changes
-  headline: Democrats threaten to block DHS funding unless ICE changes
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6407
-- slug: 2026-01-12-congress-members-blocked-from-minneapolis-ice-facility-after-dhs-reinstates-acce
-  headline: Congress members blocked from Minneapolis ICE facility after DHS reinstates access ban
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6382
-- slug: 2026-03-07-portland-judge-bars-tear-gas-from-reaching-apartment-complex-near-ice-facility
-  headline: Portland judge bars tear gas from reaching apartment complex near ICE facility
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6218
-- slug: 2026-01-13-wisconsin-gov-evers-questions-lieutenant-governor-s-ice-enforcement-proposal
-  headline: Wisconsin Gov. Evers questions lieutenant governor's ICE enforcement proposal
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6345
-- slug: 2026-01-25-rosen-calls-for-noem-impeachment-over-fatal-ice-shooting
-  headline: Rosen calls for Noem impeachment over fatal ICE shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6317
-- slug: 2026-01-29-partial-shutdown-seems-increasingly-likely-as-democrats-demand-ice-changes
-  headline: Partial shutdown seems increasingly likely as Democrats demand ICE changes
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6298
-- slug: 2026-02-02-portland-mayor-demands-ice-leave-city-after-tear-gas-used-at-protest
-  headline: Portland mayor demands ICE leave city after tear gas used at protest
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6288
-- slug: 2026-02-10-masks-in-ice-operations-become-flashpoint-as-dhs-shutdown-deadline-nears
-  headline: Masks in ICE operations become flashpoint as DHS shutdown deadline nears
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6267
 ---
-
 ## Senators led by Cortez Masto ask ICE to cancel $20 million shock glove plan
 
 **Subtype:** fact

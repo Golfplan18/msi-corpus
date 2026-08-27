@@ -2,8 +2,12 @@
 headline: 30-year mortgage rate holds at 6.65%, near 2026 high
 secondary_headline: 15-year fixed rate rises to 5.98% from 5.95% the prior week
 publish_date: '2026-08-27'
-lede: The benchmark 30-year fixed mortgage rate stood at 6.65% this week, according to Freddie Mac data released Thursday, sitting just shy of 6.69%, the high for the year. Higher borrowing costs can add hundreds of dollars a month for homebuyers, limiting purchasing power and contributing to sluggish U.S. home sales this year.
-nut_graf: The 30-year rate of 6.65% is back near its level from four weeks ago, with long-term borrowing costs continuing to weigh on affordability for U.S. homebuyers.
+lede: The benchmark 30-year fixed mortgage rate stood at 6.65% this week, according
+  to Freddie Mac data released Thursday, sitting just shy of 6.69%, the high for the
+  year. Higher borrowing costs can add hundreds of dollars a month for homebuyers,
+  limiting purchasing power and contributing to sluggish U.S. home sales this year.
+nut_graf: The 30-year rate of 6.65% is back near its level from four weeks ago, with
+  long-term borrowing costs continuing to weigh on affordability for U.S. homebuyers.
 primary_entities:
 - Freddie Mac
 primary_themes:
@@ -36,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -52,7 +57,9 @@ figures:
   series_id: MORTGAGE30US
   transformation: raw
   as_of: 2026-08-27
-  caption: Freddie Mac's benchmark 30-year fixed mortgage rate stood at 6.65% for the week ending August 27, 2026, sitting just shy of the year's high of 6.69% reached earlier in August.
+  caption: Freddie Mac's benchmark 30-year fixed mortgage rate stood at 6.65% for
+    the week ending August 27, 2026, sitting just shy of the year's high of 6.69%
+    reached earlier in August.
 figures_aggregate:
   count: 1
   series_ids:
@@ -128,12 +135,14 @@ related_stories:
   relation: related
   strength: 0.8994
 - slug: 2026-08-13-freddie-mac-reports-30-year-mortgage-rate-at-6-67-first-weekly-decline-in-six-we
-  headline: Freddie Mac reports 30-year mortgage rate at 6.67%, first weekly decline in six weeks
+  headline: Freddie Mac reports 30-year mortgage rate at 6.67%, first weekly decline
+    in six weeks
   publish_date: '2026-08-13'
   relation: related
   strength: 0.8976
 - slug: 2026-07-23-freddie-mac-reports-30-year-mortgage-rate-at-6-58-highest-since-july-2025
-  headline: Freddie Mac reports 30-year mortgage rate at 6.58%, highest since July 2025
+  headline: Freddie Mac reports 30-year mortgage rate at 6.58%, highest since July
+    2025
   publish_date: '2026-07-23'
   relation: related
   strength: 0.8938
@@ -158,72 +167,12 @@ related_stories:
   relation: related
   strength: 0.6937
 - slug: 2026-06-05-30-year-mortgage-rate-holds-at-6-48-as-fed-s-limited-influence-frustrates-homebu
-  headline: 30-year mortgage rate holds at 6.48% as Fed's limited influence frustrates homebuyers
+  headline: 30-year mortgage rate holds at 6.48% as Fed's limited influence frustrates
+    homebuyers
   publish_date: '2026-06-05'
   relation: related
   strength: 0.842
-- slug: 2026-04-29-average-30-year-mortgage-rate-edges-up-to-6-3-as-housing-outlook-softens
-  headline: Average 30-year mortgage rate edges up to 6.3% as housing outlook softens
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.8837
-- slug: 2026-05-08-spring-homebuying-season-meets-a-stubborn-6-37-mortgage-rate
-  headline: Spring homebuying season meets a stubborn 6.37% mortgage rate
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.864
-- slug: 2026-03-26-mortgage-rates-jump-to-6-38-highest-in-more-than-6-months-squeezing-buyers
-  headline: Mortgage rates jump to 6.38%, highest in more than 6 months, squeezing buyers
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.8894
-- slug: 2026-02-20-average-us-30-year-mortgage-rate-slips-to-6-01-still-near-6-range
-  headline: Average US 30-year mortgage rate slips to 6.01%, still near 6% range
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.8663
-- slug: 2026-04-24-mortgage-rates-slip-for-third-week-easing-pressure-on-spring-homebuyers
-  headline: Mortgage rates slip for third week, easing pressure on spring homebuyers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.8218
-- slug: 2026-01-30-us-mortgage-rates-rise-for-second-week-near-3-year-low
-  headline: US mortgage rates rise for second week, near 3-year low
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.8582
-- slug: 2026-02-19-average-us-long-term-mortgage-rate-dips-to-6-01-lowest-in-more-than-3-years
-  headline: Average US long-term mortgage rate dips to 6.01%, lowest in more than 3 years
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.847
-- slug: 2026-03-11-average-us-mortgage-rate-rises-to-6-11-amid-war-linked-bond-jitters
-  headline: Average US mortgage rate rises to 6.11% amid war-linked bond jitters
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.8228
-- slug: 2026-01-14-2025-home-sales-stuck-at-30-year-low-as-prices-rise-and-mortgages-stay-high
-  headline: 2025 home sales stuck at 30-year low as prices rise and mortgages stay high
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7493
-- slug: 2026-04-04-iran-war-drives-mortgage-rates-higher-while-home-shoppers-get-leverage
-  headline: Iran war drives mortgage rates higher while home shoppers get leverage
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7012
-- slug: 2026-04-14-existing-home-sales-sink-to-9-month-low-as-spring-buyers-stay-sidelined
-  headline: Existing home sales sink to 9-month low as spring buyers stay sidelined
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6922
-- slug: 2026-01-13-2025-u-s-existing-home-sales-stay-near-30-year-low-as-prices-rise
-  headline: 2025 U.S. existing-home sales stay near 30-year low as prices rise
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7238
 ---
-
 ## 30-year mortgage rate holds at 6.65%, near 2026 high
 
 **Subtype:** fact
