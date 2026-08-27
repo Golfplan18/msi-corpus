@@ -27,7 +27,8 @@ primary_themes:
 - KRAS-targeted therapy
 topic_tags:
 - biotechnology
-storyline_nexus: []
+storyline_nexus:
+- kras-targeted-therapies-for-pancreatic-cancer
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -167,6 +168,7 @@ related_stories:
   relation: related
   strength: 0.7789
 ---
+
 ## FDA approves first KRAS-targeted pill for pancreatic cancer
 
 **Subtype:** fact

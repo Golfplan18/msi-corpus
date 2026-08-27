@@ -32,7 +32,7 @@ topic_tags:
 - science and technology
 - public health
 storyline_nexus:
-- fda-drug-approval-trends
+- kras-targeted-therapies-for-pancreatic-cancer
 storyline_continuity:
   decision: topical
   selected_prior_ids: []
@@ -154,6 +154,7 @@ related_stories:
   relation: related
   strength: 0.7493
 ---
+
 ## FDA approves Rasonque, first-of-a-kind pill for pancreatic cancer
 
 **Subtype:** fact
