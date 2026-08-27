@@ -20,7 +20,8 @@ primary_themes:
 - Tariffs
 topic_tags:
 - international trade
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -181,6 +182,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## 50% US tariff on Canadian goods prompts bilateral trade talks
 
 **Subtype:** fact

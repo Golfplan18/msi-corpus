@@ -29,7 +29,7 @@ topic_tags:
 - manufacturing and engineering
 - labour dispute
 storyline_nexus:
-- trump-s-trade-tensions-with-canada
+- us-canada-trade-dispute
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -191,6 +191,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Carney announces $20bn retaliation as US tariffs on Canada take effect
 
 **Subtype:** fact
