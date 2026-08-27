@@ -1,9 +1,17 @@
 ---
-headline: Texas congressional candidate Carlos De La Cruz removes Trump label from campaign website
+headline: Texas congressional candidate Carlos De La Cruz removes Trump label from
+  campaign website
 secondary_headline: Republican candidates reassess Trump branding before midterms
 publish_date: '2026-08-27'
-lede: Texas Republican congressional candidate Carlos De La Cruz has changed his campaign website headline from "TRUMP CONSERVATIVE" to "PROVEN CONSERVATIVE," according to an Associated Press report by Steve Peoples. The shift is part of a broader pattern documented in the report of Republican candidates reassessing how prominently to associate their campaigns with President Donald Trump ahead of the 2026 midterm elections.
-nut_graf: De La Cruz is an Air Force veteran and small businessman running for Congress in Texas. The website change replaced an explicit Trump reference with a general conservative branding while preserving the candidate's biographical details.
+lede: Texas Republican congressional candidate Carlos De La Cruz has changed his campaign
+  website headline from "TRUMP CONSERVATIVE" to "PROVEN CONSERVATIVE," according to
+  an Associated Press report by Steve Peoples. The shift is part of a broader pattern
+  documented in the report of Republican candidates reassessing how prominently to
+  associate their campaigns with President Donald Trump ahead of the 2026 midterm
+  elections.
+nut_graf: De La Cruz is an Air Force veteran and small businessman running for Congress
+  in Texas. The website change replaced an explicit Trump reference with a general
+  conservative branding while preserving the candidate's biographical details.
 primary_entities:
 - Carlos De La Cruz
 - Donald Trump
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,109 +145,8 @@ cross_article_links:
   strength: 0.5988
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-05-dccc-adds-12-republican-held-house-seats-to-midterm-target-list
-  headline: DCCC adds 12 Republican-held House seats to midterm target list
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5992
-- slug: 2026-06-30-trump-announces-first-ever-gop-midterm-convention-in-dallas
-  headline: Trump announces first-ever GOP midterm convention in Dallas
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6076
-- slug: 2026-06-19-texas-senate-race-turns-into-a-battle-over-who-is-more-of-a-man
-  headline: Texas Senate Race Turns Into a Battle Over Who Is More of a Man
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6156
-- slug: 2026-05-20-trump-endorses-ken-paxton-over-john-cornyn-in-texas-senate-runoff
-  headline: Trump endorses Ken Paxton over John Cornyn in Texas Senate runoff
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6278
-- slug: 2026-05-22-paxton-spotlights-trump-s-endorsement-in-texas-senate-runoff-vs-cornyn
-  headline: Paxton spotlights Trump’s endorsement in Texas Senate runoff vs. Cornyn
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.624
-- slug: 2026-05-25-cornyn-paxton-face-off-in-texas-gop-senate-runoff-as-trump-endorses-challenger
-  headline: Cornyn, Paxton face off in Texas GOP Senate runoff as Trump endorses challenger
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6073
-- slug: 2026-05-27-rep-christian-menefee-defeats-al-green-in-texas-democratic-primary-runoff
-  headline: Rep. Christian Menefee defeats Al Green in Texas Democratic primary runoff
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6036
-- slug: 2026-05-25-cornyn-and-paxton-flood-texas-airwaves-before-gop-senate-runoff
-  headline: Cornyn and Paxton flood Texas airwaves before GOP Senate runoff
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5995
-- slug: 2026-05-19-trump-endorses-ken-paxton-over-john-cornyn-in-texas-senate-primary
-  headline: Trump endorses Ken Paxton over John Cornyn in Texas Senate primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6046
-- slug: 2026-03-18-cornyn-and-paxton-remain-in-texas-gop-senate-runoff-trump-noncommittal
-  headline: Cornyn and Paxton remain in Texas GOP Senate runoff, Trump noncommittal
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6336
-- slug: 2026-03-12-texas-republicans-question-whether-trump-should-back-cornyn-in-runoff
-  headline: Texas Republicans question whether Trump should back Cornyn in runoff
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6307
-- slug: 2026-04-21-human-rights-campaign-targets-battleground-districts-in-2026-midterms
-  headline: Human Rights Campaign targets battleground districts in 2026 midterms
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6043
-- slug: 2026-03-06-republicans-mine-talarico-s-social-media-history-after-texas-senate-primary-win
-  headline: Republicans mine Talarico's social media history after Texas Senate primary win
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6293
-- slug: 2026-04-18-trump-backs-primary-challengers-to-indiana-senators-who-rejected-redistricting
-  headline: Trump backs primary challengers to Indiana senators who rejected redistricting
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.5985
-- slug: 2026-04-14-paul-dans-ends-gop-primary-challenge-to-lindsey-graham-in-south-carolina
-  headline: Paul Dans ends GOP primary challenge to Lindsey Graham in South Carolina
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5995
-- slug: 2026-03-04-trump-promises-texas-senate-runoff-endorsement-as-cornyn-paxton-contest-intensif
-  headline: Trump promises Texas Senate runoff endorsement as Cornyn-Paxton contest intensifies
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6132
-- slug: 2026-03-07-herrera-secures-uncontested-gop-nod-in-tx-23-after-gonzales-withdraws-amid-scand
-  headline: Herrera secures uncontested GOP nod in TX-23 after Gonzales withdraws amid scandal
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6117
-- slug: 2026-03-04-texas-and-north-carolina-primaries-offer-early-clues-for-2026-senate-race
-  headline: Texas and North Carolina primaries offer early clues for 2026 Senate race
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6036
-- slug: 2026-02-24-trump-backs-newcomer-over-former-congresswoman-in-texas-primary
-  headline: Trump backs newcomer over former congresswoman in Texas primary
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6045
-- slug: 2026-03-04-talarico-wins-texas-senate-democratic-nomination-cornyn-paxton-face-off
-  headline: Talarico wins Texas Senate Democratic nomination; Cornyn, Paxton face off
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5993
+related_stories: []
 ---
-
 ## Texas congressional candidate Carlos De La Cruz removes Trump label from campaign website
 
 **Subtype:** fact
