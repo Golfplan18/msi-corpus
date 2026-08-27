@@ -1,7 +1,8 @@
 ---
 headline: Warsh takes Jackson Hole with 3.7% on the board
 publish_date: '2026-08-26'
-lede: The Federal Reserve is letting 3.7% inflation compound inside American household budgets while it argues about whether to act.
+lede: The Federal Reserve is letting 3.7% inflation compound inside American household
+  budgets while it argues about whether to act.
 pen_name: ashley-wagner
 primary_entities:
 - Commerce Department
@@ -36,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,7 +59,28 @@ cross_article_links:
   strength: 0.6094
   confidence: high
 draft: false
+image:
+  url: /cartoons/warsh-takes-jackson-hole-with-37-on-the-board.png
+  alt: 'Editorial cartoon by Hector Rentier: Warsh takes Jackson Hole with 3.7% on
+    the board'
+  caption: He kept his patience. The household kept its receipts.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-26T22:21:01-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single central allegorical scene, 1:1 format. A composed figure (Warsh)
+    stands at a podium labeled 'JACKSON HOLE 2026 / RATE PATH.' His head is turned
+    decisively away from a tall window behind him; on
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-26-hector-paired-with-2026-08-26-ashley-wagner-consumer-spending-inflation-tariffs-wage
 ---
+
+![Editorial cartoon by Hector Rentier: Warsh takes Jackson Hole with 3.7% on the board](/cartoons/warsh-takes-jackson-hole-with-37-on-the-board.png)
+*He kept his patience. The household kept its receipts.*
 
 The Federal Reserve is letting 3.7% inflation compound inside American household budgets while it argues about whether to act.
 
