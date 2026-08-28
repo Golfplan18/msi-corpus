@@ -29,7 +29,8 @@ primary_themes:
 - Cross-border disaster
 topic_tags:
 - religion
-storyline_nexus: []
+storyline_nexus:
+- glacier-related-disasters-in-nepal
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -146,6 +147,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Over 100 Mount Kailash pilgrims among missing in Nepal-China border floods
 
 **Subtype:** fact
