@@ -28,7 +28,8 @@ topic_tags:
 - law enforcement
 - civil rights
 - law
-storyline_nexus: []
+storyline_nexus:
+- justice-department-s-election-monitoring-initiative
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.6898
 ---
+
 ## Justice Department plans about 1,000 poll monitors for fall elections
 
 **Subtype:** fact
