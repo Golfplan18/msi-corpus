@@ -23,7 +23,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- world-war-ii-memorial-vandalism-scandal
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -187,6 +188,7 @@ related_stories:
   relation: related
   strength: 0.7307
 ---
+
 ## Trump blames 'vandals' for damaged grass near WWII Memorial
 
 **Subtype:** fact

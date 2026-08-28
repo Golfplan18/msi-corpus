@@ -26,7 +26,8 @@ primary_themes:
 - Executive-branch tensions
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- world-war-ii-memorial-vandalism-scandal
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.7082
 ---
+
 ## Justice Department will file two felony charges in World War II Memorial case
 
 **Subtype:** fact

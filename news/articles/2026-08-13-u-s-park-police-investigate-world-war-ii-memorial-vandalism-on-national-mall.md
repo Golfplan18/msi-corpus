@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - crime
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- world-war-ii-memorial-vandalism-scandal
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -177,6 +178,7 @@ related_stories:
   relation: related
   strength: 0.6538
 ---
+
 ## U.S. Park Police investigate World War II Memorial vandalism on National Mall
 
 **Subtype:** fact
