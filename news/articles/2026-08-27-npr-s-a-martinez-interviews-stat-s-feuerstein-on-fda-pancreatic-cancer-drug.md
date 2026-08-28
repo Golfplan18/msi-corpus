@@ -183,6 +183,8 @@ related_stories:
   publish_date: '2026-06-01'
   relation: related
   strength: 0.7524
+analyses:
+- '2026-08-27-daraxonrasib-approval-positions-molecular-glue-platform-for-broader-kras-reach-b'
 ---
 ## NPR's A Martinez interviews STAT's Feuerstein on FDA pancreatic cancer drug
 
@@ -226,3 +228,8 @@ MSI previously reported on Wednesday's FDA approval of daraxonrasib, with covera
 **Publication date:** 2026-08-27
 **Title:** FDA approves breakthrough pancreatic cancer drug
 **URL:** https://www.npr.org/2026/08/27/nx-s1-5945286/fda-approves-breakthrough-pancreatic-cancer-drug
+
+---
+
+<!-- analysis-link:2026-08-27-daraxonrasib-approval-positions-molecular-glue-platform-for-broader-kras-reach-b -->
+**Going deeper:** [Read MSI's analysis of daraxonrasib approval and KRAS platform →](/analyses/2026-08-27-daraxonrasib-approval-positions-molecular-glue-platform-for-broader-kras-reach-b)
