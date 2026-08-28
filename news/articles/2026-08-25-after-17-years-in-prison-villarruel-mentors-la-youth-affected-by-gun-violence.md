@@ -147,6 +147,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-08-25-california-gang-violence-response-leans-on-unpaid-mentors-as-hispanic-toll-holds'
 ---
 ## After 17 years in prison, Villarruel mentors LA youth affected by gun violence
 
@@ -195,3 +197,8 @@ For years, Villarruel has worked with organizations in Los Angeles that help peo
 **Publication date:** 2026-08-25
 **Title:** The ex-gang member breaking the cycle of violence among LA youths
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/aug/25/los-angeles-gangs-youth-gun-violence
+
+---
+
+<!-- analysis-link:2026-08-25-california-gang-violence-response-leans-on-unpaid-mentors-as-hispanic-toll-holds -->
+**Going deeper:** [Read MSI's analysis of California gang violence prevention gaps →](/analyses/2026-08-25-california-gang-violence-response-leans-on-unpaid-mentors-as-hispanic-toll-holds)
