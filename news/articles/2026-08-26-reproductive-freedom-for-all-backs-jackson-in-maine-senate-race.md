@@ -189,6 +189,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3.1-flash-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-08-26-maine-senate-race-locked-in-as-abortion-rights-coalition-s-critical-path-to-fede'
 ---
 ## Reproductive Freedom for All backs Jackson in Maine Senate race
 
@@ -238,3 +240,8 @@ As MSI reported in July, former Vice President Kamala Harris endorsed Jackson tw
 **Publication date:** 2026-08-26
 **Title:** Abortion rights group endorses Democrat Troy Jackson in critical Maine Senate race
 **URL:** https://www.theguardian.com/us-news/2026/aug/26/abortion-rights-group-endorses-democrat-troy-jackson-in-critical-maine-senate-race
+
+---
+
+<!-- analysis-link:2026-08-26-maine-senate-race-locked-in-as-abortion-rights-coalition-s-critical-path-to-fede -->
+**Going deeper:** [Read MSI's analysis of abortion rights' Maine Senate strategy →](/analyses/2026-08-26-maine-senate-race-locked-in-as-abortion-rights-coalition-s-critical-path-to-fede)

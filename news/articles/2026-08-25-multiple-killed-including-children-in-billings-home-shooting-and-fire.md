@@ -176,6 +176,8 @@ related_stories:
   publish_date: '2026-04-19'
   relation: related
   strength: 0.6858
+analyses:
+- '2026-08-25-billings-fire-response-delay-converted-survivable-exposure-into-unsurvivable-exp'
 ---
 ## Multiple killed, including children, in Billings home shooting and fire
 
@@ -223,3 +225,8 @@ A substantial number of mass murders in the US fit the definition of a crime kno
 **Publication date:** 2026-08-25
 **Title:** Multiple people killed in shooting at Montana home also set on fire, officials say
 **URL:** https://www.theguardian.com/us-news/2026/aug/25/billings-montana-shooting-home-fire
+
+---
+
+<!-- analysis-link:2026-08-25-billings-fire-response-delay-converted-survivable-exposure-into-unsurvivable-exp -->
+**Going deeper:** [Read MSI's analysis of the Billings response-policy gap →](/analyses/2026-08-25-billings-fire-response-delay-converted-survivable-exposure-into-unsurvivable-exp)
