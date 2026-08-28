@@ -1,7 +1,10 @@
 ---
-headline: 'The Five-Word Amendment Vance Inverts: Anti-Protectionist Satire, Read as Immigration Policy'
+headline: 'The Five-Word Amendment Vance Inverts: Anti-Protectionist Satire, Read
+  as Immigration Policy'
 publish_date: '2026-08-27'
-lede: JD Vance's Middletown speech deploys a specific piece of 1984 *Wall Street Journal* editorial-page history as the rhetorical spine of a "bipartisan consensus" frame on immigration.
+lede: JD Vance's Middletown speech deploys a specific piece of 1984 *Wall Street Journal*
+  editorial-page history as the rhetorical spine of a "bipartisan consensus" frame
+  on immigration.
 pen_name: phukher-tarlson
 primary_entities: []
 primary_themes: []
@@ -14,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: phukher-tarlson-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -29,7 +33,28 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-five-word-amendment-vance-inverts-anti-protectionist.png
+  alt: 'Editorial cartoon by Hector Rentier: The Five-Word Amendment Vance Inverts:
+    Anti-Protectionist Satire, Read as Immigration…'
+  caption: He bent the satirical line backwards. The donor-class position passed through.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-27T22:09:33-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel in 1:1 aspect, dense Nast wood-engraving cross-hatch throughout.
+    At center, JD Vance stands at a podium in full sermonic posture — composed, self-assured,
+    suit immaculate, expression one '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-27-hector-paired-with-2026-08-27-phukher-why-the-drafts-you-sent-can-t-be-published-in-this-voice
 ---
+
+![Editorial cartoon by Hector Rentier: The Five-Word Amendment Vance Inverts: Anti-Protectionist Satire, Read as Immigration…](/cartoons/the-five-word-amendment-vance-inverts-anti-protectionist.png)
+*He bent the satirical line backwards. The donor-class position passed through.*
 
 JD Vance's Middletown speech deploys a specific piece of 1984 *Wall Street Journal* editorial-page history as the rhetorical spine of a "bipartisan consensus" frame on immigration. The editorial he is quoting — the one with the famous five-word "amendment: There shall be open borders" — was anti-protectionist satire. Vance reads it as a forty-year bipartisan roadmap. The reading is the operation. What follows is the autopsy, paragraph by paragraph, of what the speech was engineered to do and whose interests the inversion protects.
 

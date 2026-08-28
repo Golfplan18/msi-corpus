@@ -1,7 +1,9 @@
 ---
 headline: Six Hundred and Fourteen to One Is Not a Market. It Is a Charter.
 publish_date: '2026-08-27'
-lede: The latest executive excess report from the Institute for Policy Studies counts the average CEO of America's 100 largest, lowest-paying corporations at 614 times the average worker's pay in 2025.
+lede: The latest executive excess report from the Institute for Policy Studies counts
+  the average CEO of America's 100 largest, lowest-paying corporations at 614 times
+  the average worker's pay in 2025.
 pen_name: ruth-justice
 primary_entities: []
 primary_themes: []
@@ -15,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +37,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/six-hundred-and-fourteen-to-one-is-not-a-market-it-is-a.png
+  alt: 'Editorial cartoon by Hector Rentier: Six Hundred and Fourteen to One Is Not
+    a Market. It Is a Charter.'
+  caption: The bonus was hers. The shareholders got it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-27T22:02:05-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving. The frame splits
+    horizontally: upper half a corporate boardroom, lower half a warehouse floor —
+    the same building, two worlds. In the upper boardro'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-27-hector-paired-with-2026-08-27-ruth-justice-us-news-2026-aug-27-ceo-worker-pay-ratio
 ---
+
+![Editorial cartoon by Hector Rentier: Six Hundred and Fourteen to One Is Not a Market. It Is a Charter.](/cartoons/six-hundred-and-fourteen-to-one-is-not-a-market-it-is-a.png)
+*The bonus was hers. The shareholders got it.*
 
 The latest executive excess report from the Institute for Policy Studies counts the average CEO of America's 100 largest, lowest-paying corporations at 614 times the average worker's pay in 2025. That is not a labor-market result. That is the spread a class produces when it writes the rules and carves itself out of them. Between 2019 and 2025, CEO compensation at these firms rose 41.4%, twice the median worker's 20.7%, and inflation ran 25.9%, eating both. The executive raise outran the inflation the worker's didn't. The ratio at these firms climbed 8.4% across the same window. The market got less generous. The charter got enforced.
 

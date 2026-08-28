@@ -1,5 +1,6 @@
 ---
-headline: 'The Firm They Gutted: How America''s Worst-Paying Corporations Hollowed the Institution They Were'
+headline: 'The Firm They Gutted: How America''s Worst-Paying Corporations Hollowed
+  the Institution They Were'
 publish_date: '2026-08-27'
 lede: I traded paper claims on these very crops before they were planted.
 pen_name: wendell-burke
@@ -33,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +56,28 @@ cross_article_links:
   strength: 0.3431
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-firm-they-gutted-how-americas-worst-paying-corporations.png
+  alt: 'Editorial cartoon by Hector Rentier: The Firm They Gutted: How America''s
+    Worst-Paying Corporations Hollowed the Institution…'
+  caption: The shareholders got the check. The workers got the speech.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-27T22:17:39-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single allegorical scene, 1:1, heavy cross-hatch wood-engraving in the
+    Nast tradition. A composed executive figure — Doug McMillon, fully individuated
+    in his public role as Walmart CEO (silver hair, r
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-27-hector-paired-with-2026-08-27-wendell-burke-us-news-2026-aug-27-ceo-worker-pay-ratio
 ---
+
+![Editorial cartoon by Hector Rentier: The Firm They Gutted: How America's Worst-Paying Corporations Hollowed the Institution…](/cartoons/the-firm-they-gutted-how-americas-worst-paying-corporations.png)
+*The shareholders got the check. The workers got the speech.*
 
 I traded paper claims on these very crops before they were planted. I sat on a Chicago desk and watched the futures curve draw itself across the screen while the actual beans went into the actual ground forty miles south of my hometown. I know what a futures market looks like from the inside. I know what a buyback looks like from the inside — a column on a balance sheet, a treasury decision, a quiet vote in a quiet room. I left the pits and came home to run a farm cooperative in Adams County, Wisconsin, and what I learned in the years since is that the column on the balance sheet and the quiet vote in the quiet room are how the institution of the firm — the company as a place, the employer as a community member — is being hollowed out and shipped to the same place the crop went: into the hands of people who will never see the field.
 
