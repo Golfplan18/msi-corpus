@@ -27,7 +27,8 @@ primary_themes:
 topic_tags:
 - economy
 - politics
-storyline_nexus: []
+storyline_nexus:
+- u-s-iran-economic-pressure-strategy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -130,6 +131,7 @@ related_stories:
   relation: related
   strength: 0.7063
 ---
+
 ## Treasury launches 'Operation Economic Outcast' on Iran, holds off on China
 
 **Subtype:** fact

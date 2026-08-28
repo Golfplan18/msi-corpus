@@ -24,7 +24,8 @@ topic_tags:
 - natural disaster
 - transportation accident and incident
 - weather warning
-storyline_nexus: []
+storyline_nexus:
+- glacier-related-disasters-in-nepal
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -144,6 +145,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Avalanche-triggered flash floods in Nepal kill at least eight
 
 **Subtype:** fact

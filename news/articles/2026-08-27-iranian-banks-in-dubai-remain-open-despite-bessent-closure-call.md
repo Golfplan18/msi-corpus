@@ -38,7 +38,8 @@ topic_tags:
 - international trade
 - political process
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- u-s-iran-economic-pressure-strategy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -184,6 +185,7 @@ related_stories:
   relation: related
   strength: 0.6882
 ---
+
 ## Iranian banks in Dubai remain open despite Bessent closure call
 
 - Treasury Secretary Scott Bessent called for all Bank Melli branches to close during his "Economic D-Day" announcement, but the bank's Dubai locations remained open and serving Farsi-speaking customers this week.
