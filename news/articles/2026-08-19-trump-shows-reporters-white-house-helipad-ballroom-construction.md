@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- white-house-helipad-renovation
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -156,6 +157,7 @@ related_stories:
   relation: related
   strength: 0.654
 ---
+
 - President Donald Trump showed reporters the White House helipad under construction on the South Lawn on Wednesday, autographing a piece of the granite.
 - Trump said the granite could withstand 35,000 pounds per square inch of pressure and would leave visiting foreign leaders "very impressed," including Chinese President Xi Jinping.
 - Trump disclosed for the first time that he has replaced the White House's diplomatic entrance walkway and a portion of the South Lawn driveway with white granite.

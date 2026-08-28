@@ -23,7 +23,8 @@ topic_tags:
 - transportation accident and incident
 - health treatment and procedure
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- white-house-helipad-renovation
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -151,6 +152,7 @@ related_stories:
   relation: related
   strength: 0.7288
 ---
+
 ## Construction crews remove granite seal from White House helipad
 
 **Subtype:** fact
