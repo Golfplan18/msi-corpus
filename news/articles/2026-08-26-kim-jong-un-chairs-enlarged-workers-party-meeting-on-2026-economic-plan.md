@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-06-13'
   relation: related
   strength: 0.6696
+analyses:
+- '2026-08-26-north-korea-s-economic-recovery-narrows-the-diplomatic-space-for-trump-s-drill-c'
 ---
 ## Kim Jong Un chairs enlarged Workers' Party meeting on 2026 economic plan
 
@@ -225,3 +227,8 @@ Trump on Tuesday reposted his directive to cut back the U.S.-South Korea joint d
 **Publication date:** 2026-08-26
 **Title:** Kim Jong Un focuses on economy, silent on Trump overtures
 **URL:** https://www.upi.com/Top_News/World-News/2026/08/26/Kim-Jong-Un-Trump-economy-party-meeting-military-drills/6651787729103/
+
+---
+
+<!-- analysis-link:2026-08-26-north-korea-s-economic-recovery-narrows-the-diplomatic-space-for-trump-s-drill-c -->
+**Going deeper:** [Read MSI's analysis of North Korea's economic and diplomatic posture →](/analyses/2026-08-26-north-korea-s-economic-recovery-narrows-the-diplomatic-space-for-trump-s-drill-c)
