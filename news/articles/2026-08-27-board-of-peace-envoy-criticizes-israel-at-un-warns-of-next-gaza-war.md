@@ -176,6 +176,8 @@ related_stories:
   publish_date: '2026-07-30'
   relation: related
   strength: 0.7341
+analyses:
+- '2026-08-27-disputed-disarmament-language-opens-fault-line-in-trump-gaza-plan'
 ---
 ## Board of Peace envoy criticizes Israel at UN, warns of next Gaza war
 
@@ -216,3 +218,8 @@ As for the Palestinians, Mladenov said, the Trump plan includes a "credible path
 **Publication date:** 2026-08-27
 **Title:** Official leading Trump's Gaza ceasefire effort criticizes Israel for its attacks
 **URL:** https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire
+
+---
+
+<!-- analysis-link:2026-08-27-disputed-disarmament-language-opens-fault-line-in-trump-gaza-plan -->
+**Going deeper:** [Read MSI's analysis of Gaza ceasefire's contested terms →](/analyses/2026-08-27-disputed-disarmament-language-opens-fault-line-in-trump-gaza-plan)
