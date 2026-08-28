@@ -2,8 +2,15 @@
 headline: Rescue efforts resume as Nepal-Tibet flood death toll reaches 469
 secondary_headline: Over 500 foreign citizens among 826 missing in Nepal
 publish_date: '2026-08-28'
-lede: Rescue operations resumed in Nepal and Tibet on Friday after a pause when a lake at the border began to overflow, with the death toll from catastrophic flash floods reaching 469 and more than 1,300 people still missing. The floods struck Wednesday after a wall of mud and debris hit the border hub of Gyirong in Tibet, and satellite imagery suggests a glacier collapse high in the Himalayas was the primary cause.
-nut_graf: Satellite imagery suggests a glacier collapse high in the Himalayas was the primary cause of the flooding, raising concerns that the climate crisis is destabilizing the geology of mountain and polar regions, according to The Guardian.
+lede: Rescue operations resumed in Nepal and Tibet on Friday after a pause when a
+  lake at the border began to overflow, with the death toll from catastrophic flash
+  floods reaching 469 and more than 1,300 people still missing. The floods struck
+  Wednesday after a wall of mud and debris hit the border hub of Gyirong in Tibet,
+  and satellite imagery suggests a glacier collapse high in the Himalayas was the
+  primary cause.
+nut_graf: Satellite imagery suggests a glacier collapse high in the Himalayas was
+  the primary cause of the flooding, raising concerns that the climate crisis is destabilizing
+  the geology of mountain and polar regions, according to The Guardian.
 primary_entities:
 - Nepal
 - Tibet
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,97 +165,20 @@ related_stories:
   publish_date: '2026-08-27'
   relation: related
   strength: 0.7101
-- slug: 2026-08-19-assam-floods-kill-more-than-100-in-state-s-worst-flooding-in-decades
-  headline: Assam floods kill more than 100 in state's worst flooding in decades
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5776
-- slug: 2026-08-16-indiana-flooding-kills-at-least-6-as-white-river-crests-above-1913-record
-  headline: Indiana flooding kills at least 6 as White River crests above 1913 record
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.5858
-- slug: 2026-07-16-500-rohingya-feared-dead-after-two-ships-sink-off-myanmar
-  headline: 500 Rohingya feared dead after two ships sink off Myanmar
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5753
-- slug: 2026-04-07-extreme-weather-kills-at-least-110-in-afghanistan-in-12-days
-  headline: Extreme weather kills at least 110 in Afghanistan in 12 days
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.634
-- slug: 2026-05-04-death-toll-in-kenya-reaches-18-over-a-week-as-heavy-rains-flood-areas
-  headline: Death toll in Kenya reaches 18 over a week as heavy rains flood areas
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.602
-- slug: 2026-05-08-climbers-undeterred-by-unstable-serac-on-everest-trail
-  headline: Climbers undeterred by unstable serac on Everest trail
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5954
-- slug: 2026-03-14-ethiopia-declares-3-days-of-mourning-after-southern-landslides-kill-80
-  headline: Ethiopia declares 3 days of mourning after southern landslides kill 80
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6245
-- slug: 2026-05-13-south-africa-declares-national-disaster-after-deadly-floods-kill-10-damage-thous
-  headline: South Africa declares national disaster after deadly floods kill 10, damage thousands of homes
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5779
-- slug: 2026-05-13-south-africa-declares-national-disaster-as-deadly-floods-hit-six-provinces
-  headline: South Africa declares national disaster as deadly floods hit six provinces
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5774
-- slug: 2026-03-13-landslides-in-southern-ethiopia-kill-at-least-50-125-missing
-  headline: Landslides in southern Ethiopia kill at least 50, 125 missing
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6224
-- slug: 2026-03-30-floods-landslide-and-thunderstorms-in-afghanistan-leave-17-dead
-  headline: Floods, landslide and thunderstorms in Afghanistan leave 17 dead
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.6076
-- slug: 2026-04-26-ice-block-near-everest-base-camp-delays-climbers-and-guides
-  headline: Ice block near Everest base camp delays climbers and guides
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5871
-- slug: 2026-03-14-bus-accident-in-nepal-kills-seven-indian-pilgrims-injures-nine
-  headline: Bus accident in Nepal kills seven Indian pilgrims, injures nine
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6018
-- slug: 2026-04-15-12-killed-in-northwestern-haiti-as-heavy-rains-flood-homes
-  headline: 12 killed in northwestern Haiti as heavy rains flood homes
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5827
-- slug: 2026-04-04-5-8-magnitude-quake-rattles-afghanistan-and-pakistan-8-dead-in-afghanistan
-  headline: 5.8 magnitude quake rattles Afghanistan and Pakistan; 8 dead in Afghanistan
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5863
-- slug: 2026-02-20-crews-use-water-to-reduce-avalanche-risk-while-recovering-california-victims
-  headline: Crews use water to reduce avalanche risk while recovering California victims
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5941
 image:
   url: /articles/2026-08-28-rescue-efforts-resume-as-nepal-tibet-flood-death-toll-reaches-469.png
-  alt: "Illustration accompanying article: Rescue efforts resume as Nepal-Tibet flood death toll reaches 469"
+  alt: 'Illustration accompanying article: Rescue efforts resume as Nepal-Tibet flood
+    death toll reaches 469'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Rescue efforts resume as Nepal-Tibet flood death toll reaches 469
 
 **Subtype:** fact
