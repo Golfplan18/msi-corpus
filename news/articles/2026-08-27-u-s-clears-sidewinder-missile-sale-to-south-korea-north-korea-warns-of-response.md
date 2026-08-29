@@ -170,6 +170,8 @@ related_stories:
   publish_date: '2026-06-13'
   relation: related
   strength: 0.6515
+analyses:
+- '2026-08-27-pyongyang-fuses-separate-u-s-actions-into-one-hostile-pattern'
 ---
 ## U.S. clears Sidewinder missile sale to South Korea; North Korea warns of response
 
@@ -212,3 +214,8 @@ Kim Jong Un led a key ruling party meeting this week but made no mention of Trum
 **Publication date:** 2026-08-27
 **Title:** North Korea threatens ‘powerful response’ over U.S. arms sales to Seoul
 **URL:** https://www.upi.com/Top_News/World-News/2026/08/27/North-Korea-threatens-response-US-arms-sales-South-Korea-Sidewinder/5211787819945/
+
+---
+
+<!-- analysis-link:2026-08-27-pyongyang-fuses-separate-u-s-actions-into-one-hostile-pattern -->
+**Going deeper:** [Read MSI's analysis of the U.S.-DPRK signaling standoff →](/analyses/2026-08-27-pyongyang-fuses-separate-u-s-actions-into-one-hostile-pattern)

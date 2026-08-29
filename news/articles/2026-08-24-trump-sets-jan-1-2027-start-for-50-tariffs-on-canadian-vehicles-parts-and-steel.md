@@ -31,7 +31,8 @@ topic_tags:
 - manufacturing and engineering
 - transport
 - labour dispute
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -160,14 +161,19 @@ related_stories:
   strength: 0.7504
 image:
   url: /articles/2026-08-24-trump-sets-jan-1-2027-start-for-50-tariffs-on-canadian-vehicles-parts-and-steel.png
-  alt: "Illustration accompanying article: Trump sets Jan. 1, 2027 start for 50% tariffs on Canadian vehicles, parts and steel"
+  alt: 'Illustration accompanying article: Trump sets Jan. 1, 2027 start for 50% tariffs
+    on Canadian vehicles, parts and steel'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Trump sets Jan. 1, 2027 start for 50% tariffs on Canadian vehicles, parts and steel
 
 **Subtype:** fact
