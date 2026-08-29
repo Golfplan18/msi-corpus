@@ -188,6 +188,8 @@ related_stories:
   publish_date: '2026-06-26'
   relation: related
   strength: 0.6785
+analyses:
+- '2026-08-27-trump-s-ai-images-place-him-with-washington-and-wwii-generals-as-approval-hits-s'
 ---
 - Donald Trump has posted AI-generated images of himself with George Washington and World War II generals to Truth Social in recent weeks.
 - The Washington images depict the pair in what appears to be Trump's planned White House ballroom; another shows Trump in military uniform flanked by Generals Patton and MacArthur.
@@ -222,3 +224,8 @@ The Guardian asked the White House whether Trump thought he had actually met wit
 **Publication date:** 2026-08-27
 **Title:** AI slopper in chief: Trump turns to social media amid tough questions
 **URL:** https://www.theguardian.com/us-news/2026/aug/27/trump-truth-social-ai-george-washington
+
+---
+
+<!-- analysis-link:2026-08-27-trump-s-ai-images-place-him-with-washington-and-wwii-generals-as-approval-hits-s -->
+**Going deeper:** [Read MSI's analysis of Trump's AI founder imagery on Truth Social →](/analyses/2026-08-27-trump-s-ai-images-place-him-with-washington-and-wwii-generals-as-approval-hits-s)
