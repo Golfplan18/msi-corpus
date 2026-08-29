@@ -175,6 +175,8 @@ related_stories:
   publish_date: '2026-01-06'
   relation: related
   strength: 0.6575
+analyses:
+- '2026-08-27-wsj-s-affectionate-framing-sets-edwards-case-up-as-still-in-dispute'
 ---
 ## Edwards defends interactions with female staff as affectionate, not harassment
 
@@ -210,3 +212,8 @@ The ethics committee is also investigating allegations that Rep. Jimmy Gomez (D.
 **Publication date:** 2026-08-27
 **Title:** Lawmaker Defends Poetry and Gifts After Sexual-Harassment Allegations
 **URL:** https://www.wsj.com/politics/policy/chuck-edwards-ethics-committee-db648dd0
+
+---
+
+<!-- analysis-link:2026-08-27-wsj-s-affectionate-framing-sets-edwards-case-up-as-still-in-dispute -->
+**Going deeper:** [Read MSI's analysis of Edwards ethics coverage's framing →](/analyses/2026-08-27-wsj-s-affectionate-framing-sets-edwards-case-up-as-still-in-dispute)
