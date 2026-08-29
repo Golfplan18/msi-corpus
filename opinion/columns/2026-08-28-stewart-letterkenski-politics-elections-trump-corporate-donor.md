@@ -35,7 +35,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +57,28 @@ cross_article_links:
   strength: 0.3406
   confidence: high
 draft: false
+image:
+  url: /cartoons/meta-palantir-and-kalshi-capture-power-through-private.png
+  alt: 'Editorial cartoon by Hector Rentier: Meta, Palantir and Kalshi Capture Power
+    Through Private Systems'
+  caption: 'Filed: the donation. Unfiled: the model that spent it.'
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-28T22:08:27-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A single panel, 1:1, heavy cross-hatch wood-engraving. The frame's center
+    is dominated by a tall doorway half-shut. In the foreground, a composed, fully-rendered
+    executive in a dark suit stands at a p
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-28-hector-paired-with-2026-08-28-stewart-letterkenski-politics-elections-trump-corporate-donor
 ---
+
+![Editorial cartoon by Hector Rentier: Meta, Palantir and Kalshi Capture Power Through Private Systems](/cartoons/meta-palantir-and-kalshi-capture-power-through-private.png)
+*Filed: the donation. Unfiled: the model that spent it.*
 
 Meta, Palantir and Kalshi use private systems to capture public power.
 

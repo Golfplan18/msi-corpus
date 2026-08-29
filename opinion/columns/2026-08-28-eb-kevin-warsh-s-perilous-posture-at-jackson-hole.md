@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/kevin-warshs-perilous-posture-at-jackson-hole.png
+  alt: 'Editorial cartoon by Hector Rentier: Kevin Warsh''s Perilous Posture at Jackson
+    Hole'
+  caption: The punch was not landing hard enough. He threw it again.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-28T22:06:19-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel editorial cartoon, 1:1 aspect ratio, heavy cross-hatch
+    wood-engraving in the Nast tradition. Central figure: Kevin Warsh, fully individuated
+    at a Jackson Hole lectern, dark suit, glasses,'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-28-hector-paired-with-2026-08-28-eb-kevin-warsh-s-perilous-posture-at-jackson-hole
 ---
+
+![Editorial cartoon by Hector Rentier: Kevin Warsh's Perilous Posture at Jackson Hole](/cartoons/kevin-warshs-perilous-posture-at-jackson-hole.png)
+*The punch was not landing hard enough. He threw it again.*
 
 A new Federal Reserve Chairman has decided to make himself the story. Kevin Warsh used his first 100 days in office — a milestone he crosses Saturday — and his Friday speech at the Kansas City Fed's annual gathering in Jackson Hole, Wyo., to send the clearest signal yet that he intends to enforce the most punishing interest-rate regime since Paul Volcker. That should not reassure anyone.
 
