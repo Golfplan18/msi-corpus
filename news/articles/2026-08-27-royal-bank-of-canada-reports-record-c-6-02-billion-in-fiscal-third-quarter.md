@@ -130,6 +130,8 @@ related_stories:
   publish_date: '2026-07-16'
   relation: related
   strength: 0.6549
+analyses:
+- '2026-08-27-big-six-earnings-beat-expectations-anchored-only-by-td-s-dated-branch-commitment'
 ---
 ## Royal Bank of Canada reports record C$6.02 billion in fiscal third quarter
 
@@ -169,3 +171,8 @@ Canada's six largest banks are looking to maintain the momentum through the rema
 **Publication date:** 2026-08-27
 **Title:** Royal Bank Notches Record Earnings as Quarterly Results From Canada’s Biggest Banks Beat Expectations
 **URL:** https://www.wsj.com/finance/banking/royal-bank-of-canada-notches-record-income-fc748b0c
+
+---
+
+<!-- analysis-link:2026-08-27-big-six-earnings-beat-expectations-anchored-only-by-td-s-dated-branch-commitment -->
+**Going deeper:** [Read MSI's analysis of Canada's Big Six earnings round →](/analyses/2026-08-27-big-six-earnings-beat-expectations-anchored-only-by-td-s-dated-branch-commitment)

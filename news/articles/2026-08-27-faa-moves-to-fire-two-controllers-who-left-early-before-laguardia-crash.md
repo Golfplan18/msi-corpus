@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-04-09'
   relation: related
   strength: 0.7677
+analyses:
+- '2026-08-27-faa-s-laguardia-controller-firings-recast-long-tolerated-early-shove-as-terminat'
 ---
 ## FAA moves to fire two controllers who left early before LaGuardia crash
 
@@ -236,3 +238,8 @@ An NTSB spokesman said the agency is still investigating the March accident and 
 **Publication date:** 2026-08-27
 **Title:** FAA Found LaGuardia Air-Traffic Controllers Left Work Early Before Deadly Collision
 **URL:** https://www.wsj.com/business/airlines/faa-found-laguardia-air-traffic-controllers-left-work-early-before-deadly-collision-84668fa4
+
+---
+
+<!-- analysis-link:2026-08-27-faa-s-laguardia-controller-firings-recast-long-tolerated-early-shove-as-terminat -->
+**Going deeper:** [Read MSI's analysis of FAA controller firing precedent →](/analyses/2026-08-27-faa-s-laguardia-controller-firings-recast-long-tolerated-early-shove-as-terminat)
