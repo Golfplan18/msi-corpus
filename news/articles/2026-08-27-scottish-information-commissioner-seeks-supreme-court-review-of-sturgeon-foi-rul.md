@@ -178,6 +178,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-08-27-david-hamilton-takes-scottish-foi-privilege-fight-to-uk-supreme-court'
 ---
 ## Scottish information commissioner seeks Supreme Court review of Sturgeon FOI ruling
 
@@ -221,3 +223,8 @@ If the Supreme Court grants permission to appeal, the case would put the balance
 **Publication date:** 2026-08-27
 **Title:** Supreme Court asked to settle dispute over Sturgeon inquiry documents
 **URL:** https://www.bbc.co.uk/news/articles/cvgy7lmlvldo
+
+---
+
+<!-- analysis-link:2026-08-27-david-hamilton-takes-scottish-foi-privilege-fight-to-uk-supreme-court -->
+**Going deeper:** [Read MSI's analysis of Scotland's FOI privilege threshold →](/analyses/2026-08-27-david-hamilton-takes-scottish-foi-privilege-fight-to-uk-supreme-court)

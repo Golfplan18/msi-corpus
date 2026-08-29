@@ -151,6 +151,8 @@ related_stories:
   publish_date: '2026-03-21'
   relation: related
   strength: 0.6666
+analyses:
+- '2026-08-26-epa-approved-semiconductor-chemicals-after-flagging-sudden-death-risk-it-could-n'
 ---
 ## Earthjustice sues EPA over approval of chemicals it found pose 'unreasonable risk'
 
@@ -189,3 +191,8 @@ Kalmuss-Katz framed the approval as part of a broader pattern in the administrat
 **Publication date:** 2026-08-26
 **Title:** Groups sue Trump’s EPA over fast-track approval of toxic datacenter chemicals
 **URL:** https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals
+
+---
+
+<!-- analysis-link:2026-08-26-epa-approved-semiconductor-chemicals-after-flagging-sudden-death-risk-it-could-n -->
+**Going deeper:** [Read MSI's analysis of EPA semiconductor chemical approvals →](/analyses/2026-08-26-epa-approved-semiconductor-chemicals-after-flagging-sudden-death-risk-it-could-n)
