@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-06-14'
   relation: related
   strength: 0.664
+analyses:
+- '2026-08-27-eclac-data-point-to-informal-economy-as-brake-on-latin-american-growth'
 ---
 ## Latin America stuck in low-growth trap, ECLAC projects 2.2% for 2026
 
@@ -230,3 +232,8 @@ If Latin American countries can raise productivity along these lines, sustained 
 **Publication date:** 2026-08-27
 **Title:** From the low-growth trap to the opportunities of the 21st century
 **URL:** https://www.upi.com/Voices/2026/08/27/latam-perspectives-low-growth-capacity-trap-ECLAC/8511787678238/
+
+---
+
+<!-- analysis-link:2026-08-27-eclac-data-point-to-informal-economy-as-brake-on-latin-american-growth -->
+**Going deeper:** [Read MSI's analysis of Latin America's low-growth trap →](/analyses/2026-08-27-eclac-data-point-to-informal-economy-as-brake-on-latin-american-growth)
