@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-06-26'
   relation: related
   strength: 0.7069
+analyses:
+- '2026-08-27-pre-set-navy-budget-and-missing-war-authorization-force-iran-war-funding-gap'
 ---
 ## Iran war costs force US Navy to tap payroll accounts for combat funding
 
@@ -252,3 +254,8 @@ A former military officer now working for a Navy contracting company, who has be
 **Publication date:** 2026-08-27
 **Title:** Trump’s war on Iran is rapidly draining US navy budget, documents and interviews reveal
 **URL:** https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget
+
+---
+
+<!-- analysis-link:2026-08-27-pre-set-navy-budget-and-missing-war-authorization-force-iran-war-funding-gap -->
+**Going deeper:** [Read MSI's analysis of Navy's Iran war funding shortfall →](/analyses/2026-08-27-pre-set-navy-budget-and-missing-war-authorization-force-iran-war-funding-gap)

@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-06-22'
   relation: related
   strength: 0.7722
+analyses:
+- '2026-08-27-competing-readings-of-june-deal-now-drive-us-iran-hormuz-standoff'
 ---
 ## Trump rules out return to June Iran deal as mediators report stalemate
 
@@ -238,3 +240,8 @@ Arab officials, whose tourism and investment income have been hurt by the confli
 **Publication date:** 2026-08-27
 **Title:** Iran Talks Sputter as Trump Spurns a Return to His June Deal
 **URL:** https://www.wsj.com/world/middle-east/iran-talks-sputter-as-trump-spurns-a-return-to-his-june-deal-f4c2eab7
+
+---
+
+<!-- analysis-link:2026-08-27-competing-readings-of-june-deal-now-drive-us-iran-hormuz-standoff -->
+**Going deeper:** [Read MSI's analysis of Hormuz standoff and the June deal →](/analyses/2026-08-27-competing-readings-of-june-deal-now-drive-us-iran-hormuz-standoff)
