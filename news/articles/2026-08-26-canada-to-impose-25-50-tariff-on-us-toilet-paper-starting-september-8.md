@@ -205,6 +205,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-08-26-carney-s-paper-tariff-exposes-the-canadian-lumber-behind-america-s-domestic-tiss'
 ---
 ## Canada to impose 25-50% tariff on US toilet paper starting September 8
 
@@ -245,3 +247,8 @@ It is unclear if or when the tariffs will be lifted.
 **Publication date:** 2026-08-26
 **Title:** Wiped out: US faces surging toilet paper prices amid trade war with Canada
 **URL:** https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada
+
+---
+
+<!-- analysis-link:2026-08-26-carney-s-paper-tariff-exposes-the-canadian-lumber-behind-america-s-domestic-tiss -->
+**Going deeper:** [Read MSI's analysis of tissue tariffs and US supply chains →](/analyses/2026-08-26-carney-s-paper-tariff-exposes-the-canadian-lumber-behind-america-s-domestic-tiss)

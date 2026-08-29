@@ -139,6 +139,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3-pro-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-08-27-kennedy-s-2019-samoa-letter-uses-vaccine-eight-times-contradicting-his-senate-te'
 ---
 ## Obtained letter contradicts Kennedy's Senate testimony on Samoa trip
 
@@ -188,3 +190,8 @@ Kennedy, who has a law license, has indicated he is open to pursuing criminal ch
 **Publication date:** 2026-08-27
 **Title:** Documents refute RFK Jr.'s Senate testimony about Samoa trip
 **URL:** https://apnews.com/article/rfk-jr-kennedy-samoa-vaccines-mmr-ba6ad3ffadca48599b1c178a392fb37b
+
+---
+
+<!-- analysis-link:2026-08-27-kennedy-s-2019-samoa-letter-uses-vaccine-eight-times-contradicting-his-senate-te -->
+**Going deeper:** [Read MSI's analysis of Kennedy's Samoa trip Senate testimony →](/analyses/2026-08-27-kennedy-s-2019-samoa-letter-uses-vaccine-eight-times-contradicting-his-senate-te)
