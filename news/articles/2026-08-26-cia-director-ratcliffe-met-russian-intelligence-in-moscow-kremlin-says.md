@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-02-05'
   relation: related
   strength: 0.672
+analyses:
+- '2026-08-26-moscow-channel-s-only-binding-commitment-is-ukraine-s-strike-pause'
 ---
 ## CIA director Ratcliffe met Russian intelligence in Moscow, Kremlin says
 
@@ -231,3 +233,8 @@ BBC News has contacted the CIA, the White House, and the Pentagon for comment. N
 **Publication date:** 2026-08-26
 **Title:** CIA chief met Russian intelligence services but not Putin, Kremlin says
 **URL:** https://www.bbc.co.uk/news/articles/c0klj7ykp81o
+
+---
+
+<!-- analysis-link:2026-08-26-moscow-channel-s-only-binding-commitment-is-ukraine-s-strike-pause -->
+**Going deeper:** [Read MSI's analysis of Ratcliffe's Moscow trip →](/analyses/2026-08-26-moscow-channel-s-only-binding-commitment-is-ukraine-s-strike-pause)
