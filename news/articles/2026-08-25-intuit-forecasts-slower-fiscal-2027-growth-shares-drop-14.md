@@ -146,6 +146,8 @@ related_stories:
   publish_date: '2026-02-19'
   relation: related
   strength: 0.6706
+analyses:
+- '2026-08-25-intuit-resets-fy27-around-free-turbotax-and-ai-first-reorganization'
 ---
 ## Intuit forecasts slower fiscal 2027 growth, shares drop 14%
 
@@ -184,3 +186,8 @@ The forecast lands against the backdrop of a workforce restructuring Intuit disc
 **Publication date:** 2026-08-25
 **Title:** Intuit Forecasts Slower Growth, Takes Steps to Win More TurboTax Users
 **URL:** https://www.wsj.com/business/earnings/intuit-forecasts-slower-growth-takes-steps-to-win-more-turbotax-users-6633b7dc
+
+---
+
+<!-- analysis-link:2026-08-25-intuit-resets-fy27-around-free-turbotax-and-ai-first-reorganization -->
+**Going deeper:** [Read MSI's analysis of Intuit's fiscal 2027 reset strategy →](/analyses/2026-08-25-intuit-resets-fy27-around-free-turbotax-and-ai-first-reorganization)
