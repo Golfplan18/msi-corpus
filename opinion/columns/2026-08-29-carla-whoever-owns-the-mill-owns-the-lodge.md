@@ -1,7 +1,8 @@
 ---
 headline: Whoever Owns the Mill Owns the Lodge
 publish_date: '2026-08-29'
-lede: Two halves of American centralization destroyed civic life, and the fight between them is over which half.
+lede: Two halves of American centralization destroyed civic life, and the fight between
+  them is over which half.
 pen_name: carla-marks
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: carla-marks-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/whoever-owns-the-mill-owns-the-lodge.png
+  alt: 'Editorial cartoon by Hector Rentier: Whoever Owns the Mill Owns the Lodge'
+  caption: Two diagnoses of the dying town. One wagon. Neither debater turned around.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-29T22:02:05-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A 1:1 single-panel scene in heavy cross-hatch, wood-engraving tradition.
+    The viewer faces the backs of two debaters on a raised wooden stage set on an
+    emptied main street. Left debater stands at a pod
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-29-hector-paired-with-2026-08-29-carla-whoever-owns-the-mill-owns-the-lodge
 ---
+
+![Editorial cartoon by Hector Rentier: Whoever Owns the Mill Owns the Lodge](/cartoons/whoever-owns-the-mill-owns-the-lodge.png)
+*Two diagnoses of the dying town. One wagon. Neither debater turned around.*
 
 Two halves of American centralization destroyed civic life, and the fight between them is over which half. Andrew Langer, president of the Institute for Liberty, argues in [What JD Vance Gets Wrong About Hamilton](https://www.wsj.com/opinion/what-jd-vance-gets-wrong-about-hamilton-b4eed1f1?mod=rss_opinion) for the Wall Street Journal that Vice President JD Vance's pivot to Alexander Hamilton conflates a Christian moral order with the liberty markets actually require, and that America's institutional decline flowed from government expansion crowding out civil society — not from laissez-faire. Vance, by Langer's telling, has the diagnosis wrong. Both of them have it wrong, and the variable neither piece names is the one that did the work: ownership.
 

@@ -1,7 +1,8 @@
 ---
 headline: Trump Seized Venezuela's Oil by Force for a Hundred Years
 publish_date: '2026-08-29'
-lede: Trump seized Venezuela's oil by force and gave a private joint venture a hundred-year lease.
+lede: Trump seized Venezuela's oil by force and gave a private joint venture a hundred-year
+  lease.
 pen_name: mark-paulson
 primary_entities:
 - Donald Trump
@@ -34,7 +35,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +58,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-seized-venezuelas-oil-by-force-for-a-hundred-years.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Seized Venezuela''s Oil by Force
+    for a Hundred Years'
+  caption: He won't live under it. They won't vote for it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-29T22:07:49-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving. In the upper frame,
+    Donald Trump stands at a podium draped in patriotic iconography: a flag-backdrop,
+    a banner overhead reading ''HISTORIC TRANSACTI'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-29-hector-paired-with-2026-08-29-mark-paulson-news-articles-cx2zlwe7qj1o
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Seized Venezuela's Oil by Force for a Hundred Years](/cartoons/trump-seized-venezuelas-oil-by-force-for-a-hundred-years.png)
+*He won't live under it. They won't vote for it.*
 
 Trump seized Venezuela's oil by force and gave a private joint venture a hundred-year lease.
 

@@ -37,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +60,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-is-selling-out-south-korea-to-a-nuclear-dictator.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Selling Out South Korea to a
+    Nuclear Dictator'
+  caption: Achievable for the diners. Not for the kid from Dalton.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-29T22:10:15-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single panel, 1:1, heavy cross-hatch in the Nast tradition. A long banquet
+    table extends diagonally into the frame, three diners seated in composed self-satisfaction,
+    faces fully rendered and individu
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-29-hector-paired-with-2026-08-29-james-big-jim-zebedee-voices-2026-08-29-perspective-deal-not-s
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Selling Out South Korea to a Nuclear Dictator](/cartoons/trump-is-selling-out-south-korea-to-a-nuclear-dictator.png)
+*Achievable for the diners. Not for the kid from Dalton.*
 
 Trump is selling out South Korea to a nuclear-armed dictator for a photo op. That is the deal the administration is putting together for the APEC summit this fall, and the people writing the briefing slides are not going to walk you through it.
 
