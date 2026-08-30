@@ -146,6 +146,8 @@ related_stories:
   publish_date: '2026-05-20'
   relation: related
   strength: 0.6536
+analyses:
+- '2026-08-25-louisiana-shapes-spacex-starbase-terms-in-law-before-residents-learn-of-plan'
 ---
 ## SpaceX to build $100 billion Starbase complex in Louisiana
 
@@ -205,3 +207,8 @@ Some locals are hoping for an economic lift. Vermilion Parish has slightly lower
 **Publication date:** 2026-08-25
 **Title:** SpaceX Rockets Are Coming to Coastal Louisiana, and Locals Are Divided
 **URL:** https://www.wsj.com/us-news/spacex-rockets-are-coming-to-coastal-louisiana-and-locals-are-divided-e7adc14c
+
+---
+
+<!-- analysis-link:2026-08-25-louisiana-shapes-spacex-starbase-terms-in-law-before-residents-learn-of-plan -->
+**Going deeper:** [Read MSI's analysis of the SpaceX Starbase Louisiana deal →](/analyses/2026-08-25-louisiana-shapes-spacex-starbase-terms-in-law-before-residents-learn-of-plan)

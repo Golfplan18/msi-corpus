@@ -95,6 +95,8 @@ related_stories:
   publish_date: '2025-12-30'
   relation: related
   strength: 0.652
+analyses:
+- '2026-08-27-florida-grand-jury-finds-10m-medicaid-transfer-misappropriated-recommends-state'
 ---
 ## Florida grand jury recommends deposit law after $10M 'misappropriation' finding
 
@@ -143,3 +145,8 @@ The findings have already entered Florida's gubernatorial race. On Thursday, the
 **Publication date:** 2026-08-27
 **Title:** Florida grand jury finds DeSantis administration ‘misappropriated’ funds from Medicaid settlement
 **URL:** https://www.theguardian.com/us-news/2026/aug/27/florida-grand-jury-desantis-administration-misappropriated-funds-medicaid
+
+---
+
+<!-- analysis-link:2026-08-27-florida-grand-jury-finds-10m-medicaid-transfer-misappropriated-recommends-state -->
+**Going deeper:** [Read MSI's analysis of Florida $10M Medicaid fund transfer →](/analyses/2026-08-27-florida-grand-jury-finds-10m-medicaid-transfer-misappropriated-recommends-state)

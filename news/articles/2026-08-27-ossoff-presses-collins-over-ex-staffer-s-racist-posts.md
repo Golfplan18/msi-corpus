@@ -167,6 +167,8 @@ related_stories:
   publish_date: '2026-05-19'
   relation: related
   strength: 0.6637
+analyses:
+- '2026-08-27-the-no-affiliation-denial-and-the-7-700-fec-record-three-paragraphs-apart'
 ---
 ## Ossoff presses Collins over ex-staffer's racist posts
 
@@ -204,3 +206,8 @@ Several Georgia Republicans told The Washington Post they were increasingly worr
 **Publication date:** 2026-08-27
 **Title:** Georgia senator Jon Ossoff slams racist posts allegedly from Republican opponent’s ex-staffer
 **URL:** https://www.theguardian.com/us-news/2026/aug/27/ossoff-racist-posts-mike-collins-staffer
+
+---
+
+<!-- analysis-link:2026-08-27-the-no-affiliation-denial-and-the-7-700-fec-record-three-paragraphs-apart -->
+**Going deeper:** [Read MSI's analysis of the Collins 'affiliation' defense →](/analyses/2026-08-27-the-no-affiliation-denial-and-the-7-700-fec-record-three-paragraphs-apart)
