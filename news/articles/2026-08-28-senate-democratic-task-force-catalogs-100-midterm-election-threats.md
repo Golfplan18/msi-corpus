@@ -211,6 +211,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-08-28-senate-task-force-catalogs-100-threats-as-voter-data-suits-fall-23-0-in-district'
 ---
 ## Senate Democratic task force catalogs 100 midterm election threats
 
@@ -264,3 +266,8 @@ Vanita Gupta, formerly Biden's associate attorney general and now director of th
 **Publication date:** 2026-08-28
 **Title:** Inside the Democratic task force preparing for if Trump interferes in the midterms
 **URL:** https://www.npr.org/2026/08/28/nx-s1-5940881/democrats-congress-midterm-elections-trump
+
+---
+
+<!-- analysis-link:2026-08-28-senate-task-force-catalogs-100-threats-as-voter-data-suits-fall-23-0-in-district -->
+**Going deeper:** [Read MSI's analysis of midterm election threat landscape →](/analyses/2026-08-28-senate-task-force-catalogs-100-threats-as-voter-data-suits-fall-23-0-in-district)
