@@ -163,6 +163,8 @@ related_stories:
   publish_date: '2026-01-21'
   relation: related
   strength: 0.7192
+analyses:
+- '2026-08-26-hittner-s-second-sb-12-ruling-splits-one-case-into-three-appellate-questions'
 ---
 ## Federal judge strikes down Texas drag show ban for second time
 
@@ -201,3 +203,8 @@ Brigitte Bandit, a plaintiff in the case who impersonates Parton, celebrated the
 **Publication date:** 2026-08-26
 **Title:** Texas law banning drag shows where children may be present struck down again
 **URL:** https://www.theguardian.com/us-news/2026/aug/26/texas-drag-performance-ban-fails
+
+---
+
+<!-- analysis-link:2026-08-26-hittner-s-second-sb-12-ruling-splits-one-case-into-three-appellate-questions -->
+**Going deeper:** [Read MSI's analysis of Texas drag ban's three constitutional grounds →](/analyses/2026-08-26-hittner-s-second-sb-12-ruling-splits-one-case-into-three-appellate-questions)
