@@ -175,6 +175,8 @@ related_stories:
   publish_date: '2026-07-01'
   relation: related
   strength: 0.7955
+analyses:
+- '2026-08-26-federal-mail-voting-rule-shifts-compliance-onto-voters-and-local-officials-witho'
 ---
 ## 24 attorneys general, Pennsylvania governor sue USPS over mail voting rule
 
@@ -216,3 +218,8 @@ USPS processed nearly 100 million ballots during the 2024 general election, and 
 **Publication date:** 2026-08-26
 **Title:** 25 states file suit to stop mail-in voting rule before midterms
 **URL:** https://www.upi.com/Top_News/US/2026/08/26/25-states-mail-voting-lawsuit/9631787768496/
+
+---
+
+<!-- analysis-link:2026-08-26-federal-mail-voting-rule-shifts-compliance-onto-voters-and-local-officials-witho -->
+**Going deeper:** [Read MSI's analysis of the USPS mail-voting rule's federalism test →](/analyses/2026-08-26-federal-mail-voting-rule-shifts-compliance-onto-voters-and-local-officials-witho)

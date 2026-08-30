@@ -171,6 +171,8 @@ related_stories:
   publish_date: '2026-06-20'
   relation: related
   strength: 0.8241
+analyses:
+- '2026-08-28-cooper-said-cleared-the-transit-count-says-closed'
 ---
 ## U.S. says Strait of Hormuz mines cleared; Iran rejects claim
 
@@ -204,3 +206,8 @@ Gharibabadi's comments centered on a proposed framework for the strait between I
 **Publication date:** 2026-08-28
 **Title:** CENTCOM says Strait of Hormuz cleared of Iranian sea mines
 **URL:** https://www.upi.com/Top_News/World-News/2026/08/28/Iran-CENTCOM-Hormuz-sea-mines/4511787898915/
+
+---
+
+<!-- analysis-link:2026-08-28-cooper-said-cleared-the-transit-count-says-closed -->
+**Going deeper:** [Read MSI's analysis of Strait of Hormuz mine-clearance dispute →](/analyses/2026-08-28-cooper-said-cleared-the-transit-count-says-closed)
