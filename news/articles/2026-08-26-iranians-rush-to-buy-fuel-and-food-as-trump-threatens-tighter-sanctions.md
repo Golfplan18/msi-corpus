@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-06-21'
   relation: related
   strength: 0.7424
+analyses:
+- '2026-08-26-maximum-us-pressure-fractures-iran-s-economy-while-tehran-raises-its-bar'
 ---
 ## Iranians rush to buy fuel and food as Trump threatens tighter sanctions
 
@@ -234,3 +236,8 @@ Iranian officials worry a deepening economic crisis could revive unrest. In 2019
 **Publication date:** 2026-08-26
 **Title:** Labor Protests and Panic Buying Signal Growing Pressure in Iran
 **URL:** https://www.wsj.com/world/middle-east/labor-protests-and-panic-buying-signal-growing-pressure-in-iran-3f039fab
+
+---
+
+<!-- analysis-link:2026-08-26-maximum-us-pressure-fractures-iran-s-economy-while-tehran-raises-its-bar -->
+**Going deeper:** [Read MSI's analysis of Iran's economy under sanctions pressure →](/analyses/2026-08-26-maximum-us-pressure-fractures-iran-s-economy-while-tehran-raises-its-bar)

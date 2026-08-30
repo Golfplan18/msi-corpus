@@ -24,7 +24,8 @@ topic_tags:
 - crime, law and justice
 - human migration
 - political dissent
-storyline_nexus: []
+storyline_nexus:
+- milo-yiannopoulos-immigration-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -140,6 +141,7 @@ related_stories:
   relation: related
   strength: 0.6902
 ---
+
 ## U.S. immigration officials arrest Milo Yiannopoulos in New Orleans
 
 **Subtype:** fact

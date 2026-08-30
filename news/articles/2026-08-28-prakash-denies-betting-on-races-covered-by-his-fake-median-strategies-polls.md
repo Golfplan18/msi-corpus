@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-06-22'
   relation: related
   strength: 0.6903
+analyses:
+- '2026-08-28-kalshi-and-polymarket-s-unnamed-employees-carry-npr-s-no-bet-finding-in-the-prak'
 ---
 ## Prakash denies betting on races covered by his fake Median Strategies polls
 
@@ -245,3 +247,8 @@ For his part, Vale said the immediate assumption that the fake poll was a pump-a
 **Publication date:** 2026-08-28
 **Title:** What a fake poll reveals about worries around prediction markets and the midterms
 **URL:** https://www.npr.org/2026/08/28/nx-s1-5945290/fake-poll-meridian-stratgies-kalshi-polymarket
+
+---
+
+<!-- analysis-link:2026-08-28-kalshi-and-polymarket-s-unnamed-employees-carry-npr-s-no-bet-finding-in-the-prak -->
+**Going deeper:** [Read MSI's analysis of the Prakash fake poll episode →](/analyses/2026-08-28-kalshi-and-polymarket-s-unnamed-employees-carry-npr-s-no-bet-finding-in-the-prak)

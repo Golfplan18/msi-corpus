@@ -24,7 +24,8 @@ primary_themes:
 - Media figures
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- milo-yiannopoulos-immigration-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -150,6 +151,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Milo Yiannopoulos apparently detained by ICE in Louisiana
 
 **Subtype:** fact
