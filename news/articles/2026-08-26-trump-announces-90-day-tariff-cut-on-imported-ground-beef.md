@@ -123,6 +123,8 @@ related_stories:
   publish_date: '2026-07-23'
   relation: related
   strength: 0.6836
+analyses:
+- '2026-08-26-trump-s-90-day-ground-beef-plan-delivers-about-one-month-of-new-supply'
 ---
 ## Trump announces 90-day tariff cut on imported ground beef
 
@@ -170,3 +172,8 @@ U.S. cattle producers have faced rising operating costs, a parasitic screwworm a
 **Publication date:** 2026-08-26
 **Title:** Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say
 **URL:** https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs
+
+---
+
+<!-- analysis-link:2026-08-26-trump-s-90-day-ground-beef-plan-delivers-about-one-month-of-new-supply -->
+**Going deeper:** [Read MSI's analysis of Trump's 90-day ground beef tariff →](/analyses/2026-08-26-trump-s-90-day-ground-beef-plan-delivers-about-one-month-of-new-supply)

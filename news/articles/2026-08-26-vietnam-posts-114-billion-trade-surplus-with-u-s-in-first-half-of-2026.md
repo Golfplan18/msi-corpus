@@ -170,6 +170,8 @@ related_stories:
   publish_date: '2026-03-10'
   relation: related
   strength: 0.6946
+analyses:
+- '2026-08-26-u-s-tariff-schedule-routes-production-to-vietnam-rather-than-american-factories'
 ---
 ## Vietnam posts $114 billion trade surplus with U.S. in first half of 2026
 
@@ -207,3 +209,8 @@ About 60% of Vietnamese exports to the U.S. are labeled as machinery, electronic
 **Publication date:** 2026-08-26
 **Title:** The Country That Has the Biggest Trade Surplus With the U.S. Is Now… Vietnam
 **URL:** https://www.wsj.com/world/the-country-that-has-the-biggest-trade-surplus-with-the-u-s-is-now-vietnam-0169b5cd
+
+---
+
+<!-- analysis-link:2026-08-26-u-s-tariff-schedule-routes-production-to-vietnam-rather-than-american-factories -->
+**Going deeper:** [Read MSI's analysis of Vietnam's surplus and U.S. tariff design →](/analyses/2026-08-26-u-s-tariff-schedule-routes-production-to-vietnam-rather-than-american-factories)
