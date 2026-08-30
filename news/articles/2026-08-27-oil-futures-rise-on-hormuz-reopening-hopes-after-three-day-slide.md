@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-06-29'
   relation: related
   strength: 0.8311
+analyses:
+- '2026-08-27-analyst-split-maps-hormuz-reopening-onto-four-value-chain-bets'
 ---
 ## Oil futures rise on Hormuz reopening hopes after three-day slide
 **Subtype:** fact
@@ -231,3 +233,8 @@ Barclays's Lydia Rainforth wrote that Harbour Energy's appointment of Simon Henr
 **Publication date:** 2026-08-27
 **Title:** Energy & Utilities Roundup: Market Talk
 **URL:** https://www.wsj.com/business/energy-utilities-roundup-market-talk-7e48ef50
+
+---
+
+<!-- analysis-link:2026-08-27-analyst-split-maps-hormuz-reopening-onto-four-value-chain-bets -->
+**Going deeper:** [Read MSI's analysis of Hormuz reopening and oil analyst calls →](/analyses/2026-08-27-analyst-split-maps-hormuz-reopening-onto-four-value-chain-bets)
