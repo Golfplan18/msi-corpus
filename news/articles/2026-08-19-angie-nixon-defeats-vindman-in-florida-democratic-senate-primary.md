@@ -29,7 +29,8 @@ primary_themes:
 topic_tags:
 - election
 - politics
-storyline_nexus: []
+storyline_nexus:
+- florida-senate-and-governor-primaries
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -176,6 +177,7 @@ related_stories:
   relation: related
   strength: 0.7301
 ---
+
 ## Angie Nixon defeats Vindman in Florida Democratic Senate primary
 - State Rep. Angie Nixon, a Democratic socialist, defeated retired Lt. Col. Alex Vindman in Florida's special Senate Democratic primary on Tuesday, campaigning on Medicare for All and a $25-an-hour federal minimum wage despite being significantly outraised.
 - Republican Rep. Cory Mills lost his House primary to former news anchor Ryan Elijah after facing allegations of domestic abuse, revenge porn, improper business dealings and stolen military valor, which Mills has denied.

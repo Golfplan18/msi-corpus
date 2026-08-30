@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-07-03'
   relation: related
   strength: 0.7187
+analyses:
+- '2026-08-28-trump-aligned-firms-hedge-political-exposure-with-democratic-donations-before-mi'
 ---
 ## Trump corporate donors brace for investigations if House flips to Democrats
 
@@ -238,3 +240,8 @@ The Democratic side has begun reciprocating the corporate outreach. Executives f
 **Publication date:** 2026-08-28
 **Title:** Corporate America Cut Big Checks to Trump. Now CEOs Fear Subpoenas Are Coming.
 **URL:** https://www.wsj.com/politics/elections/trump-corporate-donors-election-2026-572c1b28
+
+---
+
+<!-- analysis-link:2026-08-28-trump-aligned-firms-hedge-political-exposure-with-democratic-donations-before-mi -->
+**Going deeper:** [Read MSI's analysis of corporate midterm political hedging →](/analyses/2026-08-28-trump-aligned-firms-hedge-political-exposure-with-democratic-donations-before-mi)
