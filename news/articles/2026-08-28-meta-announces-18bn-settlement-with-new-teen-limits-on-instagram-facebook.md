@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-07-10'
   relation: related
   strength: 0.7071
+analyses:
+- '2026-08-28-meta-s-teen-settlement-makes-youtube-and-tiktok-the-binding-constraint'
 ---
 ## Meta announces $18bn settlement with new teen limits on Instagram, Facebook
 
@@ -233,3 +235,8 @@ Mark SooHoo, a father of three who lives in the suburbs of Chicago, said social 
 **Publication date:** 2026-08-28
 **Title:** 'Not far enough' - US parents and teens on Meta's new limits for young users
 **URL:** https://www.bbc.co.uk/news/articles/cx2zn9zj361o
+
+---
+
+<!-- analysis-link:2026-08-28-meta-s-teen-settlement-makes-youtube-and-tiktok-the-binding-constraint -->
+**Going deeper:** [Read MSI's analysis of Meta's teen-safety settlement →](/analyses/2026-08-28-meta-s-teen-settlement-makes-youtube-and-tiktok-the-binding-constraint)

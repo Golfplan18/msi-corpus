@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-06-23'
   relation: related
   strength: 0.6572
+analyses:
+- '2026-08-28-canadian-bank-ceos-call-tariffs-manageable-as-smaller-firms-concede-uncertain-gr'
 ---
 ## Canadian CEOs offer empathy to nervous workers as trade talks collapse
 
@@ -241,3 +243,8 @@ Town halls are usually a big part of company culture, he noted, but he had not h
 **Publication date:** 2026-08-28
 **Title:** The View From Canadian Businesses—Empathy for Workers, No Panic
 **URL:** https://www.wsj.com/business/the-view-from-canadian-businessesempathy-for-workers-no-panic-2e737764
+
+---
+
+<!-- analysis-link:2026-08-28-canadian-bank-ceos-call-tariffs-manageable-as-smaller-firms-concede-uncertain-gr -->
+**Going deeper:** [Read MSI's analysis of Canadian CEO responses to tariff collapse →](/analyses/2026-08-28-canadian-bank-ceos-call-tariffs-manageable-as-smaller-firms-concede-uncertain-gr)
