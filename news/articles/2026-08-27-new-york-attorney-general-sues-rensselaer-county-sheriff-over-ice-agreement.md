@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-02-06'
   relation: related
   strength: 0.677
+analyses:
+- '2026-08-27-rensselaer-sheriff-s-ice-holdout-tests-new-york-s-authority-over-local-federal-p'
 ---
 ## New York attorney general sues Rensselaer County sheriff over ICE agreement
 
@@ -227,3 +229,8 @@ Hochul has said any municipality or agency that fails to comply with the law wou
 **Publication date:** 2026-08-27
 **Title:** New York Sues Sheriff Who Refuses to End ICE Agreement
 **URL:** https://www.wsj.com/politics/policy/new-york-sues-sheriff-who-refuses-to-end-ice-agreement-2c35c93d
+
+---
+
+<!-- analysis-link:2026-08-27-rensselaer-sheriff-s-ice-holdout-tests-new-york-s-authority-over-local-federal-p -->
+**Going deeper:** [Read MSI's analysis of Rensselaer sheriff's ICE holdout →](/analyses/2026-08-27-rensselaer-sheriff-s-ice-holdout-tests-new-york-s-authority-over-local-federal-p)

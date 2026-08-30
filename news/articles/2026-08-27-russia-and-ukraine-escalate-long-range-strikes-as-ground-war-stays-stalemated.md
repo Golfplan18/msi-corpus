@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
 - armed conflict
 - conflict, war and peace
-storyline_nexus: []
+storyline_nexus:
+- russia-probes-nato-defenses-with-drones
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -165,6 +166,7 @@ related_stories:
   relation: related
   strength: 0.7247
 ---
+
 ## Russia and Ukraine escalate long-range strikes as ground war stays stalemated
 
 **Subtype:** fact

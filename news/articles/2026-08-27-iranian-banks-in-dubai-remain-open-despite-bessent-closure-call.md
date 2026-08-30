@@ -184,6 +184,8 @@ related_stories:
   publish_date: '2026-07-02'
   relation: related
   strength: 0.6882
+analyses:
+- '2026-08-27-dubai-s-iranian-banking-network-persists-despite-bessent-closure-call'
 ---
 
 ## Iranian banks in Dubai remain open despite Bessent closure call
@@ -231,3 +233,8 @@ Dubai, which lacks the oil wealth of the country's leaders in Abu Dhabi, depends
 **Publication date:** 2026-08-27
 **Title:** A Walk Around Dubai Shows No Signs of Trump’s ‘D-Day’ for Iran
 **URL:** https://www.wsj.com/world/middle-east/a-walk-around-dubai-shows-no-signs-of-trumps-d-day-for-iran-a51d28e7
+
+---
+
+<!-- analysis-link:2026-08-27-dubai-s-iranian-banking-network-persists-despite-bessent-closure-call -->
+**Going deeper:** [Read MSI's analysis of Dubai's Iranian banking persistence →](/analyses/2026-08-27-dubai-s-iranian-banking-network-persists-despite-bessent-closure-call)
