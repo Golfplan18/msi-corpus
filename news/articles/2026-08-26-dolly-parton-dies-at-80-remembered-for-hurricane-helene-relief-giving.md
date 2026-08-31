@@ -24,7 +24,8 @@ topic_tags:
 - human interest
 - non-governmental organisation
 - health
-storyline_nexus: []
+storyline_nexus:
+- dolly-parton-s-legacy-in-tennessee
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -110,6 +111,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Dolly Parton dies at 80, remembered for Hurricane Helene relief giving
 
 **Subtype:** fact

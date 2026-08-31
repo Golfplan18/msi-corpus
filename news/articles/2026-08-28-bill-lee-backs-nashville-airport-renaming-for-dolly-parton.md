@@ -23,7 +23,8 @@ primary_themes:
 topic_tags:
 - politics
 - transport
-storyline_nexus: []
+storyline_nexus:
+- dolly-parton-s-legacy-in-tennessee
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -156,6 +157,7 @@ related_stories:
   relation: related
   strength: 0.6933
 ---
+
 ## Bill Lee backs Nashville airport renaming for Dolly Parton
 
 **Subtype:** fact
