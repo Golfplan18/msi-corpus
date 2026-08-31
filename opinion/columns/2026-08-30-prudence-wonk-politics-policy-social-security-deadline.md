@@ -1,7 +1,8 @@
 ---
 headline: Six Years From the Cut, Congress Won't Touch the Fix
 publish_date: '2026-08-30'
-lede: Six years out, Social Security benefits get cut by 22% — automatically, by law, because Congress refused to act.
+lede: Six years out, Social Security benefits get cut by 22% — automatically, by law,
+  because Congress refused to act.
 pen_name: prudence-wonk
 primary_entities:
 - Social Security
@@ -48,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -70,7 +72,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/six-years-from-the-cut-congress-wont-touch-the-fix.png
+  alt: 'Editorial cartoon by Hector Rentier: Six Years From the Cut, Congress Won''t
+    Touch the Fix'
+  caption: The 2032 deadline is on the wall. The hand reaches for the commission.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-30T22:06:01-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single central allegorical figure — a Congressman archetype, fully individuated
+    and recognizable as human, wearing a dark suit with a small American-flag lapel
+    pin, seated at a polished wooden desk in
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-30-hector-paired-with-2026-08-30-prudence-wonk-politics-policy-social-security-deadline
 ---
+
+![Editorial cartoon by Hector Rentier: Six Years From the Cut, Congress Won't Touch the Fix](/cartoons/six-years-from-the-cut-congress-wont-touch-the-fix.png)
+*The 2032 deadline is on the wall. The hand reaches for the commission.*
 
 Six years out, Social Security benefits get cut by 22% — automatically, by law, because Congress refused to act. Every member knows the date. They can name the dollar number for the 2033 shortfall, which exceeds $450 billion. They can name the $184,500 cap on the 12.4% payroll tax that lets the highest earners pay a smaller share of their income into the program than the people who depend on it for survival. They know exactly what is coming. They just refuse to lift a finger on a timeline that matters.
 

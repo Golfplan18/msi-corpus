@@ -37,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,7 +59,28 @@ cross_article_links:
   strength: 0.6534
   confidence: high
 draft: false
+image:
+  url: /cartoons/this-administration-is-sending-afghan-war-allies-to-central.png
+  alt: 'Editorial cartoon by Hector Rentier: This Administration Is Sending Afghan
+    War Allies to Central Africa'
+  caption: His brother died flying American helicopters. They sent him to Bangui.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-30T22:02:50-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'A single panel, 1:1. At the top of the panel, a banner scroll reads:
+    ''The law cannot protect anyone unless it binds everyone; and it cannot bind anyone
+    unless it protects everyone.'' — Frank Wilhoit. B'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-30-hector-paired-with-2026-08-30-hayzeus-l-salvador-nx-s1-5949230-trump-administration-deports-afghan-
 ---
+
+![Editorial cartoon by Hector Rentier: This Administration Is Sending Afghan War Allies to Central Africa](/cartoons/this-administration-is-sending-afghan-war-allies-to-central.png)
+*His brother died flying American helicopters. They sent him to Bangui.*
 
 This administration is sending Afghan war allies to the Central African Republic.
 

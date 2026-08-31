@@ -1,7 +1,10 @@
 ---
 headline: I just did what nobody else had the guts to do — and the fake ICC is finished
 publish_date: '2026-08-30'
-lede: I just sanctioned Tomoko Akane and Abdoulaye Seye — the two biggest people at the WORST international court in the history of international courts, the so-called ICC, the rogue tribunal, the people who think they get to come after MY friends with their made-up warrants.
+lede: I just sanctioned Tomoko Akane and Abdoulaye Seye — the two biggest people at
+  the WORST international court in the history of international courts, the so-called
+  ICC, the rogue tribunal, the people who think they get to come after MY friends
+  with their made-up warrants.
 pen_name: diklis-chump
 parody: true
 parody_subject: Donald J. Trump
@@ -41,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -63,7 +67,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/i-just-did-what-nobody-else-had-the-guts-to-do-and-the-fake.png
+  alt: 'Editorial cartoon by Hector Rentier: I just did what nobody else had the guts
+    to do — and the fake ICC is finished'
+  caption: He called the sanction holy. The altar was paper.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-30T22:08:35-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'A 1:1 single panel rendered in heavy cross-hatch wood-engraving in the
+    Nast/Daumier tradition. Central figure: a well-dressed executive figure kneels
+    at a stone altar in apparent prayer. The altar is '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-30-hector-paired-with-2026-08-30-diklis-chump-o-take-on-the-worlds-big-powers-now-its-
 ---
+
+![Editorial cartoon by Hector Rentier: I just did what nobody else had the guts to do — and the fake ICC is finished](/cartoons/i-just-did-what-nobody-else-had-the-guts-to-do-and-the-fake.png)
+*He called the sanction holy. The altar was paper.*
 
 I just sanctioned Tomoko Akane and Abdoulaye Seye — the two biggest people at the WORST international court in the history of international courts, the so-called ICC, the rogue tribunal, the people who think they get to come after MY friends with their made-up warrants. They have NEVER consented to our jurisdiction. NEVER. Marco Rubio has been doing a TREMENDOUS job, a TREMENDOUS job, believe me. Many people, very smart people, are saying it might be the most consequential thing any Secretary of State has ever done to a so-called court. We are dismantling this fake court, piece by piece, sanction by sanction, and nobody — NOBODY — is going to stop us.
 
