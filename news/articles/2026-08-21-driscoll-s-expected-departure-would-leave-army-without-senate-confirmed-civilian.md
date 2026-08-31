@@ -31,7 +31,8 @@ topic_tags:
 - politics
 - conflict, war and peace
 - peace process
-storyline_nexus: []
+storyline_nexus:
+- army-leadership-vacuum
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -167,6 +168,7 @@ related_stories:
   relation: related
   strength: 0.6777
 ---
+
 ## Driscoll's expected departure would leave Army without Senate-confirmed civilian leader
 
 **Subtype:** fact

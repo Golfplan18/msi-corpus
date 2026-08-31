@@ -25,7 +25,8 @@ topic_tags:
 - government policy
 - civil rights
 - discrimination
-storyline_nexus: []
+storyline_nexus:
+- army-leadership-vacuum
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -188,6 +189,7 @@ related_stories:
   relation: related
   strength: 0.6568
 ---
+
 ## Hegseth may reconvene top military leaders at Quantico this year
 
 **Subtype:** fact
