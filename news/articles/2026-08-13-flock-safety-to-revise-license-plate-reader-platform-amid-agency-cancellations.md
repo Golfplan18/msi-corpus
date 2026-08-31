@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
 - law enforcement
 - civil rights
-storyline_nexus: []
+storyline_nexus:
+- flock-safety-s-automated-license-plate-reader-controversy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.6731
 ---
+
 ## Flock Safety to revise license-plate reader platform amid agency cancellations
 
 **Subtype:** fact
