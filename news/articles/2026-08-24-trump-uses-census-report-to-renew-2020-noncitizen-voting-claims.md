@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- trump-s-allegations-of-noncitizen-voting-in-the-2020-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -173,6 +174,7 @@ related_stories:
   relation: related
   strength: 0.6525
 ---
+
 ## Trump uses Census report to renew 2020 noncitizen voting claims
 
 **Subtype:** fact

@@ -31,7 +31,8 @@ primary_themes:
 topic_tags:
 - politics
 - demographics
-storyline_nexus: []
+storyline_nexus:
+- trump-s-allegations-of-noncitizen-voting-in-the-2020-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -196,6 +197,7 @@ related_stories:
   relation: related
   strength: 0.7055
 ---
+
 ## Census noncitizen voting report tied to Trump-aligned think tank
 
 **Subtype:** fact
