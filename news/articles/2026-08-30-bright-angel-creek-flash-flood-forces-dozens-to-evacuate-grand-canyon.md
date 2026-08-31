@@ -55,12 +55,16 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 4
   outlets:
   - Associated Press
   - United Press International
+  - BBC News
+  - The Guardian
   outlet_classes:
   - wire
+  - public_broadcaster
+  - national_daily
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false

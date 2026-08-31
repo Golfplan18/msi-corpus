@@ -178,6 +178,8 @@ related_stories:
   publish_date: '2026-07-31'
   relation: related
   strength: 0.7549
+analyses:
+- '2026-08-28-el-sayed-s-michigan-senate-bid-leans-on-identity-defense-while-policy-stack-stay'
 ---
 ## El-Sayed stakes Michigan Senate bid on family-themed ads
 
@@ -227,3 +229,8 @@ The Journal's reporting extends MSI's earlier coverage of El-Sayed's general-ele
 **Publication date:** 2026-08-28
 **Title:** El-Sayed Tries to Sell Himself as Mainstream to Michigan Voters
 **URL:** https://www.wsj.com/politics/elections/michigan-senate-campaign-el-sayed-6ac213d1
+
+---
+
+<!-- analysis-link:2026-08-28-el-sayed-s-michigan-senate-bid-leans-on-identity-defense-while-policy-stack-stay -->
+**Going deeper:** [Read MSI's analysis of El-Sayed's Michigan Senate bid strategy →](/analyses/2026-08-28-el-sayed-s-michigan-senate-bid-leans-on-identity-defense-while-policy-stack-stay)

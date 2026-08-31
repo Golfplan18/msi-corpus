@@ -102,6 +102,8 @@ related_stories:
   publish_date: '2026-07-01'
   relation: related
   strength: 0.6753
+analyses:
+- '2026-08-26-dsa-frames-ocasio-cortez-s-renewed-membership-inside-the-2028-draft-push'
 ---
 ## DSA confirms Ocasio-Cortez rejoined national organization in August
 
@@ -148,3 +150,8 @@ The organization's ranks grew exponentially across the country after a string of
 **Publication date:** 2026-08-26
 **Title:** Alexandria Ocasio-Cortez rejoins DSA after membership lapse of seven years
 **URL:** https://www.theguardian.com/us-news/2026/aug/26/alexandria-ocasio-cortez-rejoins-dsa
+
+---
+
+<!-- analysis-link:2026-08-26-dsa-frames-ocasio-cortez-s-renewed-membership-inside-the-2028-draft-push -->
+**Going deeper:** [Read MSI's analysis of the framing of AOC's DSA renewal →](/analyses/2026-08-26-dsa-frames-ocasio-cortez-s-renewed-membership-inside-the-2028-draft-push)
