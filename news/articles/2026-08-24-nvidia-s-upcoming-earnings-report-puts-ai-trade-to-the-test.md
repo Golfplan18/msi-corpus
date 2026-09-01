@@ -32,7 +32,8 @@ topic_tags:
 - artificial intelligence
 - economy, business and finance
 - computing and information technology
-storyline_nexus: []
+storyline_nexus:
+- global-artificial-intelligence-infrastructure-expansion
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.6588
 ---
+
 ## Nvidia's upcoming earnings report puts AI trade to the test
 
 **Subtype:** fact

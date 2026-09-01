@@ -33,7 +33,8 @@ topic_tags:
 - artificial intelligence
 - computing and information technology
 - technology and engineering
-storyline_nexus: []
+storyline_nexus:
+- global-artificial-intelligence-infrastructure-expansion
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -174,6 +175,7 @@ related_stories:
   relation: related
   strength: 0.6679
 ---
+
 ## Citi analysts say Taiwan tech earnings confirm early-stage AI expansion, with benefits broadening
 
 **Subtype:** fact
