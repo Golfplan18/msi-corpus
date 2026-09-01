@@ -24,7 +24,8 @@ primary_themes:
 topic_tags:
 - education
 - demographics
-storyline_nexus: []
+storyline_nexus:
+- future-us-and-chinese-higher-education-enrollment-trends
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -160,6 +161,7 @@ related_stories:
   relation: related
   strength: 0.6768
 ---
+
 ## WICHE projects 13% decline in U.S. college enrollments by 2041
 
 **Subtype:** fact

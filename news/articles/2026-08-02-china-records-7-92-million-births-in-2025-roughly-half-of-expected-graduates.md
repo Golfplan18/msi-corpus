@@ -26,7 +26,8 @@ topic_tags:
 - economy
 - education
 - employment
-storyline_nexus: []
+storyline_nexus:
+- future-us-and-chinese-higher-education-enrollment-trends
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,6 +190,7 @@ related_stories:
   relation: related
   strength: 0.6668
 ---
+
 ## China records 7.92 million births in 2025, roughly half of expected graduates
 
 **Subtype:** fact
