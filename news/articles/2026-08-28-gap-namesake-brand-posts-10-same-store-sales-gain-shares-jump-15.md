@@ -29,7 +29,8 @@ primary_themes:
 topic_tags:
 - economy, business and finance
 - consumer goods
-storyline_nexus: []
+storyline_nexus:
+- gap-inc-s-strategic-turnaround
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -150,6 +151,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Gap namesake brand posts 10% same-store sales gain, shares jump 15%
 
 - Gap brand same-store sales rose 10% in the most recent quarter, the 11th consecutive quarterly gain at the banner under CEO Richard Dickson.

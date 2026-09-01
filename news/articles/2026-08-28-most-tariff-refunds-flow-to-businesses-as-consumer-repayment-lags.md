@@ -37,7 +37,8 @@ topic_tags:
 - tax
 - international trade
 - transport
-storyline_nexus: []
+storyline_nexus:
+- gap-inc-s-strategic-turnaround
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Most tariff refunds flow to businesses as consumer repayment lags
 
 **Subtype:** fact
