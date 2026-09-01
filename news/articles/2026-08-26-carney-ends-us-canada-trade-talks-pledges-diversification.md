@@ -28,7 +28,8 @@ topic_tags:
 - government policy
 - international relations
 - peace process
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -182,6 +183,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Carney ends US-Canada trade talks, pledges diversification
 
 **Subtype:** fact
