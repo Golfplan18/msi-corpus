@@ -28,7 +28,8 @@ primary_themes:
 - federal debt
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- rising-global-treasury-yields
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -201,6 +202,7 @@ related_stories:
   relation: related
   strength: 0.7815
 ---
+
 ## U.S. stocks drop across major indices as Treasury yields and oil prices climb
 
 **Subtype:** fact

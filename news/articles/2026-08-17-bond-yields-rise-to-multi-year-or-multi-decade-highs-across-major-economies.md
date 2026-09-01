@@ -25,7 +25,8 @@ primary_themes:
 - Middle East conflict
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- rising-global-treasury-yields
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -187,6 +188,7 @@ related_stories:
   relation: related
   strength: 0.7499
 ---
+
 ## Bond yields rise to multi-year or multi-decade highs across major economies
 
 **Subtype:** fact
