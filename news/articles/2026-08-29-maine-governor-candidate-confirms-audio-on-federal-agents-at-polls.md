@@ -28,7 +28,8 @@ topic_tags:
 - civil rights
 - demographics
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- justice-department-s-election-monitoring-initiative
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,6 +205,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Maine governor candidate confirms audio on federal agents at polls
 
 **Subtype:** fact
