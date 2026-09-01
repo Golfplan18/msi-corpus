@@ -35,7 +35,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,7 +58,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/el-sayed-turned-usha-vances-family-into-ammunition.png
+  alt: 'Editorial cartoon by Hector Rentier: El-Sayed Turned Usha Vance''s Family
+    Into Ammunition'
+  caption: The label carried the argument. The person disappeared.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-31T22:05:58-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A speaker's hands at a podium, rendered in heavy Nast cross-hatch, load
+    three small human figures into the breach of a campaign rifle labeled POLITICAL
+    POINT. The three figures, each shaped into a car
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-31-hector-paired-with-2026-08-31-joanna-rivera-blackwell-nce-to-el-sayed-keep-my-wifes-name-the-h
 ---
+
+![Editorial cartoon by Hector Rentier: El-Sayed Turned Usha Vance's Family Into Ammunition](/cartoons/el-sayed-turned-usha-vances-family-into-ammunition.png)
+*The label carried the argument. The person disappeared.*
 
 Abdul El-Sayed turned Usha Vance’s family into political ammunition.
 

@@ -1,7 +1,9 @@
 ---
 headline: The Data Center Reckoning and American Common Sense
 publish_date: '2026-08-31'
-lede: Can the U.S. political system meet the challenges of our rapidly changing age? For the first time in years, the answer looks encouraging—and the latest evidence is the election-year awakening over data centers.
+lede: Can the U.S. political system meet the challenges of our rapidly changing age?
+  For the first time in years, the answer looks encouraging—and the latest evidence
+  is the election-year awakening over data centers.
 pen_name: editorial-board
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +34,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-data-center-reckoning-and-american-common-sense.png
+  alt: 'Editorial cartoon by Hector Rentier: The Data Center Reckoning and American
+    Common Sense'
+  caption: He called it prosperity. The county got the bill.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-31T22:13:19-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single central panel, 1:1 aspect ratio, heavy cross-hatch wood-engraving
+    throughout in the Nast tradition. The composition deploys Register 4 — the Sanctified
+    Appetite keystone — with Donald Trump as '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-31-hector-paired-with-2026-08-31-eb-the-data-center-reckoning-and-american-common-sense
 ---
+
+![Editorial cartoon by Hector Rentier: The Data Center Reckoning and American Common Sense](/cartoons/the-data-center-reckoning-and-american-common-sense.png)
+*He called it prosperity. The county got the bill.*
 
 Can the U.S. political system meet the challenges of our rapidly changing age? For the first time in years, the answer looks encouraging—and the latest evidence is the election-year awakening over data centers.
 

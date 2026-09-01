@@ -1,7 +1,8 @@
 ---
 headline: Lisa Cook Ought to Pack Her Desk
 publish_date: '2026-08-31'
-lede: Legal commentators calling Cook's firing a crisis are protecting a governor who falsified two mortgages.
+lede: Legal commentators calling Cook's firing a crisis are protecting a governor
+  who falsified two mortgages.
 pen_name: thomas-reynolds
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: thomas-reynolds-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -32,7 +34,27 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/lisa-cook-ought-to-pack-her-desk.png
+  alt: 'Editorial cartoon by Hector Rentier: Lisa Cook Ought to Pack Her Desk'
+  caption: Two homes. Both 'primary residence.' Same signature.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-08-31T22:02:17-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: 'A composed Federal Reserve Governor — Lisa Cook — stands at a lectern
+    bearing the Federal Reserve seal. She is cutting a ribbon labeled ''INTEGRITY''
+    with oversized scissors, in the composed ceremonial '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-08-31-hector-paired-with-2026-08-31-thomas-lisa-cook-ought-to-pack-her-desk
 ---
+
+![Editorial cartoon by Hector Rentier: Lisa Cook Ought to Pack Her Desk](/cartoons/lisa-cook-ought-to-pack-her-desk.png)
+*Two homes. Both 'primary residence.' Same signature.*
 
 Legal commentators calling Cook's firing a crisis are protecting a governor who falsified two mortgages. This is the ordinary work of accountability, and the Justices who blocked the removal last June ought to be embarrassed by the precedent they set.
 
