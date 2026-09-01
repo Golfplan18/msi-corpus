@@ -30,7 +30,8 @@ topic_tags:
 - energy and resource
 - conflict, war and peace
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- hormuz-attacks-kill-3-seafarers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.7496
 ---
+
 ## Asian shares mostly gain as oil rises on Iran supply doubts
 
 **Subtype:** fact

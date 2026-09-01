@@ -28,7 +28,8 @@ topic_tags:
 - international military intervention
 - monetary policy
 - energy and resource
-storyline_nexus: []
+storyline_nexus:
+- hormuz-attacks-kill-3-seafarers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.7983
 ---
+
 ## Stocks decline, oil jumps after US strikes near Strait of Hormuz
 
 **Subtype:** fact

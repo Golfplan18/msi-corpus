@@ -25,7 +25,8 @@ primary_themes:
 - Strait of Hormuz shipping
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- hormuz-attacks-kill-3-seafarers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -186,6 +187,7 @@ related_stories:
   relation: related
   strength: 0.7675
 ---
+
 ## Asian shares mixed as oil holds steady amid Hormuz uncertainty
 
 **Subtype:** fact
