@@ -1,7 +1,10 @@
 ---
 headline: The Stewardship the Secretary Reclaimed, and the Driver the Privilege Returned
 publish_date: '2026-09-01'
-lede: The authority by which the Department of Homeland Security and the Department of Transportation have moved against the commercial driving schools and the licensing records of immigrant truck drivers rests on the sovereign's settled power over the alien within the territory.
+lede: The authority by which the Department of Homeland Security and the Department
+  of Transportation have moved against the commercial driving schools and the licensing
+  records of immigrant truck drivers rests on the sovereign's settled power over the
+  alien within the territory.
 pen_name: judas-i-mather
 primary_entities: []
 primary_themes: []
@@ -15,7 +18,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +32,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-09-01-trump-administration-escalates-immigration-enforcement-against-truck-drivers.png
-  alt: 'Illustration accompanying article: Trump administration escalates immigration enforcement against truck drivers'
+  url: /cartoons/the-stewardship-the-secretary-reclaimed-and-the-driver-the.png
+  alt: 'Editorial cartoon by Hector Rentier: The Stewardship the Secretary Reclaimed,
+    and the Driver the Privilege Returned'
+  caption: He read Romans 13 to the camera. The bag held her picture.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-09-01T22:19:17-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A single central figure in cabinet-officer posture, head bowed in apparent
+    reverence, hands clasped, at a podium that fuses a Department of Transportation
+    seal with an altar's mensa. His expression is
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-09-01-trump-administration-escalates-immigration-enforcement-against-truck-drivers
   relation: extends
@@ -38,7 +53,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-01-hector-paired-with-2026-09-01-judas-i-mather-dministration-steps-up-immigration-crack
 ---
+
+![Editorial cartoon by Hector Rentier: The Stewardship the Secretary Reclaimed, and the Driver the Privilege Returned](/cartoons/the-stewardship-the-secretary-reclaimed-and-the-driver-the.png)
+*He read Romans 13 to the camera. The bag held her picture.*
 
 The authority by which the Department of Homeland Security and the Department of Transportation have moved against the commercial driving schools and the licensing records of immigrant truck drivers rests on the sovereign's settled power over the alien within the territory. The Supreme Court of the United States has confirmed that power in every generation — in *Chae Chan Ping v. United States*, 130 U.S. 581 (1889), in *Fong Yue Ting v. United States*, 149 U.S. 698 (1893), in *Knauff v. Shaughnessy*, 338 U.S. 537 (1950), and in *Trump v. Hawaii*, 585 U.S. 667 (2018). The doctrine extends, by the structure of the case, to every lesser measure by which the political branches execute their stewardship of the public road and of the alien's permission to operate upon it. The licensing of a commercial driver is a public trust. The schools that confer the privilege are stewards of the public's confidence that the man or woman behind the wheel of an eighty-thousand-pound vehicle has been trained to the standard the road requires. The Secretary of Transportation, Sean Duffy, announced in Detroit this week the emergency shutdown of nearly three hundred such schools. One hundred and ten of them had produced a disproportionate share of applicants who could not pass the English-language proficiency element of the licensing test; one hundred and sixty were operating out of facilities too small or unequipped to train applicants in the operation of a large vehicle. "There's a new sheriff in town," the Secretary said. The phrase names the doctrine. The federal authority over the licensing system, and over the alien's standing upon the public road, is being reclaimed from a decade in which the steward allowed it to lapse.
 

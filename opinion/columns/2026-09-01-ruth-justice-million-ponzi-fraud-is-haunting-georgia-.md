@@ -1,7 +1,10 @@
 ---
 headline: The Frosts Stole $140 Million. The Georgia Party Kept the Money.
 publish_date: '2026-09-01'
-lede: A Georgia family stole roughly $140 million from about three hundred of their own neighbors, church friends, and small-business owners, used better than half a million of the loot to buy access to the state Republican Party, and the politicians they bankrolled have not given any of it back.
+lede: A Georgia family stole roughly $140 million from about three hundred of their
+  own neighbors, church friends, and small-business owners, used better than half
+  a million of the loot to buy access to the state Republican Party, and the politicians
+  they bankrolled have not given any of it back.
 pen_name: ruth-justice
 primary_entities:
 - First Liberty Building & Loan
@@ -41,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -63,7 +67,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-frosts-stole-140-million-the-georgia-party-kept-the.png
+  alt: 'Editorial cartoon by Hector Rentier: The Frosts Stole $140 Million. The Georgia
+    Party Kept the Money.'
+  caption: Three hundred lost their savings. The party kept the loot.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-01T22:21:02-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1. Central scene: a fully rendered archetypal politician
+    figure stands behind a podium at center-frame, composed and well-dressed, face
+    drawn in heavy cross-hatch and fully individuate'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-01-hector-paired-with-2026-09-01-ruth-justice-million-ponzi-fraud-is-haunting-georgia-
 ---
+
+![Editorial cartoon by Hector Rentier: The Frosts Stole $140 Million. The Georgia Party Kept the Money.](/cartoons/the-frosts-stole-140-million-the-georgia-party-kept-the.png)
+*Three hundred lost their savings. The party kept the loot.*
 
 A Georgia family stole roughly $140 million from about three hundred of their own neighbors, church friends, and small-business owners, used better than half a million of the loot to buy access to the state Republican Party, and the politicians they bankrolled have not given any of it back. That is the whole story. It is also the oldest story in American politics.
 
