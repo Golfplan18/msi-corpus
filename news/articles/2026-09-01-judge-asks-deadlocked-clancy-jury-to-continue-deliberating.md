@@ -27,7 +27,8 @@ topic_tags:
 - judiciary
 - prosecution
 - mental health
-storyline_nexus: []
+storyline_nexus:
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.7211
 ---
+
 - A Massachusetts jury told Judge William Sullivan on Tuesday that it was deadlocked after three days of deliberations in the first-degree murder trial of Lindsay Clancy.
 - Clancy, 36, is charged with three counts of first-degree murder for the January 2023 deaths of her three children — Cora, 5; Dawson, 3; and Callan, 8 months — who were strangled with fitness bands at the family's Massachusetts home.
 - Her lawyer does not dispute that she killed the children but argues she was experiencing postpartum psychosis; the prosecution says she made a calculated, intentional decision.

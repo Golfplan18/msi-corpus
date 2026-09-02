@@ -29,7 +29,8 @@ topic_tags:
 - crime, law and justice
 - mental health
 - family
-storyline_nexus: []
+storyline_nexus:
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.7849
 ---
+
 ## Lindsay Clancy jury to begin deliberations after five-week murder trial
 
 **Subtype:** fact

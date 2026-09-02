@@ -19,7 +19,8 @@ primary_themes:
 - postpartum-psychosis
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- clancy-s-internet-searches-indicate-premeditated-suicide-plot
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.7295
 ---
+
 ## Lindsay Clancy jury begins deliberations after five-week trial
 
 **Subtype:** fact
