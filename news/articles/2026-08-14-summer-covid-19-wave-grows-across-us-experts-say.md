@@ -29,7 +29,8 @@ primary_themes:
 - Vulnerable populations
 topic_tags:
 - health
-storyline_nexus: []
+storyline_nexus:
+- trump-s-vaccine-policy-reform
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.6571
 ---
+
 ## Summer COVID-19 wave grows across US, experts say
 
 **Subtype:** fact

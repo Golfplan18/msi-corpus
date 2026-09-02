@@ -34,7 +34,8 @@ topic_tags:
 - medical research
 - epidemic and pandemic
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- trump-s-vaccine-policy-reform
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -176,6 +177,7 @@ related_stories:
   relation: related
   strength: 0.6809
 ---
+
 ## Trump signs vaccine order; CDC guidance remains, pediatricians report confusion
 
 **Subtype:** fact
