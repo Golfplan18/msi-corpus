@@ -2,8 +2,18 @@
 headline: Luke Harding publishes 'Betrayal' on Trump-Putin ties
 secondary_headline: Harding presents three theories about Trump's Russia policy
 publish_date: '2026-09-02'
-lede: 'Luke Harding, the Guardian''s former Moscow bureau chief, has published ''Betrayal: Trump, Putin and the New Age of Conquest.'' Guardian Faber publishes the UK edition this week, and Politikens Forlag releases a Danish edition this week, with Italian, Finnish, and Ukrainian editions to follow. In the book, Harding argues that US President Donald Trump''s actions toward Russia ''align closely with the Kremlin''s interests'' and characterizes his posture toward Russian President Vladimir Putin in his second term as ''weird and perplexing,'' including the 2025 Alaska summit as a representative example.'
-nut_graf: In the Guardian column accompanying the book, Harding writes that since 2025 Trump has stopped direct US military aid to Kyiv. Harding links the Patriot interceptor shortfall to civilian deaths as Russia bombards Ukrainian cities with drones and ballistic missiles.
+lede: 'Luke Harding, the Guardian''s former Moscow bureau chief, has published ''Betrayal:
+  Trump, Putin and the New Age of Conquest.'' Guardian Faber publishes the UK edition
+  this week, and Politikens Forlag releases a Danish edition this week, with Italian,
+  Finnish, and Ukrainian editions to follow. In the book, Harding argues that US President
+  Donald Trump''s actions toward Russia ''align closely with the Kremlin''s interests''
+  and characterizes his posture toward Russian President Vladimir Putin in his second
+  term as ''weird and perplexing,'' including the 2025 Alaska summit as a representative
+  example.'
+nut_graf: In the Guardian column accompanying the book, Harding writes that since
+  2025 Trump has stopped direct US military aid to Kyiv. Harding links the Patriot
+  interceptor shortfall to civilian deaths as Russia bombards Ukrainian cities with
+  drones and ballistic missiles.
 primary_entities:
 - Luke Harding
 - Donald Trump
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +151,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-30-russia-escalates-gray-zone-attacks-across-europe-officials-say
-  headline: Russia escalates 'gray-zone' attacks across Europe, officials say
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5871
-- slug: 2026-08-26-guardian-columnist-behr-says-iran-war-has-entered-a-cold-phase
-  headline: Guardian columnist Behr says Iran war has entered a cold phase
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5931
-- slug: 2026-08-25-kremlin-adviser-says-uk-drone-plants-could-face-semi-military-response
-  headline: Kremlin adviser says UK drone plants could face 'semi-military' response
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5967
-- slug: 2026-08-16-rubio-not-fulfilling-diplomatic-role-guardian-analysis-argues
-  headline: Rubio not fulfilling diplomatic role, Guardian analysis argues
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6186
-- slug: 2026-08-14-guardian-video-examines-trump-s-reported-absence-from-air-force-one-in-turkey
-  headline: Guardian video examines Trump's reported absence from Air Force One in Turkey
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6007
-- slug: 2026-08-12-us-grants-to-uk-conservative-groups-draw-foreign-meddling-accusations
-  headline: US grants to UK conservative groups draw foreign meddling accusations
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5949
-- slug: 2026-08-07-trump-administration-targets-us-science-and-universities-with-political-controls
-  headline: Trump administration targets US science and universities with political controls
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5868
-- slug: 2026-08-01-trump-and-zelenskyy-relations-thaw-as-ukraine-offers-help-in-iran-war
-  headline: Trump and Zelenskyy relations thaw as Ukraine offers help in Iran war
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6085
-- slug: 2026-07-15-trump-relished-dictator-comparisons-new-book-says
-  headline: Trump relished dictator comparisons, new book says
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6299
-- slug: 2026-07-24-trump-s-frustration-grows-as-iran-war-enters-fifth-month-diplomacy-stalls
-  headline: Trump's frustration grows as Iran war enters fifth month, diplomacy stalls
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5891
-- slug: 2026-07-19-china-now-favored-over-us-in-global-opinion-pew-survey-shows
-  headline: China now favored over US in global opinion, Pew survey shows
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5858
-- slug: 2026-07-12-trump-s-nato-summit-swing-from-anger-to-praise-leaves-allies-uneasy
-  headline: Trump's NATO summit swing from anger to praise leaves allies uneasy
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6079
-- slug: 2026-07-18-guardian-s-tisdall-calls-trump-a-one-man-weapon-of-mass-destruction-over-iran-wa
-  headline: Guardian's Tisdall calls Trump a 'one-man weapon of mass destruction' over Iran war
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5865
 - slug: 2026-06-10-putin-trump-trapped-in-losing-battles-against-reality-columnist-argues
   headline: Putin, Trump trapped in losing battles against reality, columnist argues
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6568
-- slug: 2026-06-19-trump-says-comparison-to-hitler-mao-stalin-sounds-good-to-me
-  headline: Trump says comparison to Hitler, Mao, Stalin 'sounds good to me'
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6034
-- slug: 2026-06-09-zelenskyy-says-he-told-trump-that-putin-is-playing-games-with-washington
-  headline: Zelenskyy says he told Trump that Putin is 'playing games' with Washington
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-23-reporters-detail-trump-white-house-secrets-in-new-book-regime-change
-  headline: Reporters detail Trump White House secrets in new book 'Regime Change'
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5924
-- slug: 2026-06-19-trump-told-musk-carlson-he-wouldn-t-go-to-war-new-book-says
-  headline: Trump told Musk, Carlson he wouldn't go to war, new book says
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5901
-- slug: 2026-06-07-trump-s-diplomatic-record-under-scrutiny-as-ceasefires-falter-across-multiple-fr
-  headline: Trump's diplomatic record under scrutiny as ceasefires falter across multiple fronts
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6017
-- slug: 2026-05-21-as-america-hits-250-many-brits-say-one-man-defines-it-trump
-  headline: 'As America hits 250, many Brits say one man defines it: Trump'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5856
+  strength: 0.6566
 ---
-
 ## Luke Harding publishes 'Betrayal' on Trump-Putin ties
 
 **Subtype:** fact

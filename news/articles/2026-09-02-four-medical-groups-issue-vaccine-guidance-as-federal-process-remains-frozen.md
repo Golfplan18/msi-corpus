@@ -1,9 +1,16 @@
 ---
 headline: Four medical groups issue vaccine guidance as federal process remains frozen
-secondary_headline: New vaccine analyses support shots for groups excluded from federal guidance
+secondary_headline: New vaccine analyses support shots for groups excluded from federal
+  guidance
 publish_date: '2026-09-02'
-lede: Four major U.S. medical groups simultaneously issued independent vaccination guidelines for COVID-19, influenza and RSV on Wednesday, recommending Americans continue to get immunized as the newest versions of the vaccines become available and the fall and winter respiratory season approaches.
-nut_graf: The CDC's recommendations typically influence insurance coverage, pharmacist authorization and federal vaccine supply programs. Their absence creates confusion even though access is largely preserved for now, and public health officials worry that falling vaccination rates will worsen without clear, unified guidance.
+lede: Four major U.S. medical groups simultaneously issued independent vaccination
+  guidelines for COVID-19, influenza and RSV on Wednesday, recommending Americans
+  continue to get immunized as the newest versions of the vaccines become available
+  and the fall and winter respiratory season approaches.
+nut_graf: The CDC's recommendations typically influence insurance coverage, pharmacist
+  authorization and federal vaccine supply programs. Their absence creates confusion
+  even though access is largely preserved for now, and public health officials worry
+  that falling vaccination rates will worsen without clear, unified guidance.
 primary_entities:
 - American Academy of Pediatrics
 - American College of Obstetricians and Gynecologists
@@ -48,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -152,104 +160,46 @@ related_stories:
   headline: Summer COVID-19 wave grows across US, experts say
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7127
+  strength: 0.7122
 - slug: 2026-08-13-trump-signs-vaccine-order-cdc-guidance-remains-pediatricians-report-confusion
-  headline: Trump signs vaccine order; CDC guidance remains, pediatricians report confusion
+  headline: Trump signs vaccine order; CDC guidance remains, pediatricians report
+    confusion
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6715
-- slug: 2026-08-17-kindergarten-vaccination-rates-inch-down-as-exemption-rate-hits-record-4-2
-  headline: Kindergarten vaccination rates inch down as exemption rate hits record 4.2%
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6389
+  strength: 0.6696
 - slug: 2026-06-16-acog-issues-first-maternal-vaccination-schedule-diverging-from-cdc
   headline: ACOG issues first maternal vaccination schedule, diverging from CDC
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.7788
+  strength: 0.7772
 - slug: 2026-06-10-leading-ob-gyn-group-breaks-with-cdc-over-maternal-vaccines
   headline: Leading OB-GYN group breaks with CDC over maternal vaccines
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.7661
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6353
-- slug: 2026-07-14-rfk-jr-panel-restructuring-stalls-update-on-youth-tobacco-cessation
-  headline: RFK Jr. panel restructuring stalls update on youth tobacco cessation
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6221
+  strength: 0.765
 - slug: 2026-06-07-insurers-extend-vaccine-coverage-through-2027-amid-trump-pressure-on-childhood-s
-  headline: Insurers extend vaccine coverage through 2027 amid Trump pressure on childhood shots
+  headline: Insurers extend vaccine coverage through 2027 amid Trump pressure on childhood
+    shots
   publish_date: '2026-06-07'
   relation: related
-  strength: 0.6654
-- slug: 2026-06-18-fda-panel-weighs-first-mrna-flu-vaccine-for-adults-50-and-older
-  headline: FDA panel weighs first mRNA flu vaccine for adults 50 and older
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6217
-- slug: 2026-05-30-trump-orders-agencies-to-adopt-hhs-study-recommending-narrower-childhood-vaccine
-  headline: Trump orders agencies to adopt HHS study recommending narrower childhood vaccine schedule
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6458
+  strength: 0.6634
 - slug: 2026-01-10-pediatricians-warn-federal-vaccine-guidance-changes-sow-confusion-could-harm-kid
-  headline: Pediatricians warn federal vaccine guidance changes sow confusion, could harm kids
+  headline: Pediatricians warn federal vaccine guidance changes sow confusion, could
+    harm kids
   publish_date: '2026-01-10'
   relation: related
-  strength: 0.701
+  strength: 0.6987
 - slug: 2026-01-05-cdc-narrows-childhood-vaccine-schedule-pediatricians-warn-of-health-risks
   headline: CDC narrows childhood vaccine schedule; pediatricians warn of health risks
   publish_date: '2026-01-05'
   relation: related
-  strength: 0.6964
-- slug: 2026-05-02-trump-administration-appeals-order-blocking-vaccine-recommendation-rollback
-  headline: Trump administration appeals order blocking vaccine recommendation rollback
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6416
+  strength: 0.6935
 - slug: 2026-02-24-states-sue-trump-administration-over-vaccine-rollback
   headline: States sue Trump administration over vaccine rollback
   publish_date: '2026-02-24'
   relation: related
-  strength: 0.6781
-- slug: 2026-01-08-vermont-reaffirms-childhood-vaccine-schedule-after-cdc-narrows-federal-list
-  headline: Vermont reaffirms childhood vaccine schedule after CDC narrows federal list
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6828
-- slug: 2026-01-05-hhs-narrows-childhood-vaccine-schedule-to-11-diseases-medical-groups-warn-of-pre
-  headline: HHS narrows childhood vaccine schedule to 11 diseases; medical groups warn of preventable deaths
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6831
-- slug: 2026-04-25-cdc-halted-covid-vaccine-study-s-publication-after-methodology-dispute
-  headline: CDC halted COVID vaccine study’s publication after methodology dispute
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.628
-- slug: 2026-03-15-judge-blocks-us-changes-to-vaccine-recommendations-for-children
-  headline: Judge blocks US changes to vaccine recommendations for children
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6523
-- slug: 2026-02-16-trust-in-u-s-health-agencies-appears-to-be-eroding-under-rfk-jr
-  headline: Trust in U.S. health agencies appears to be eroding under RFK Jr.
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6564
-- slug: 2026-03-15-flu-vaccine-effectiveness-drops-as-cdc-points-to-subclade-k-mismatch
-  headline: Flu vaccine effectiveness drops as CDC points to subclade K mismatch
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6411
+  strength: 0.6762
 ---
-
 ## Four medical groups issue vaccine guidance as federal process remains frozen
 
 **Subtype:** fact
