@@ -23,7 +23,8 @@ primary_themes:
 topic_tags:
 - armed conflict
 - transport
-storyline_nexus: []
+storyline_nexus:
+- uss-abraham-lincoln-extended-deployment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -188,6 +189,7 @@ related_stories:
   relation: related
   strength: 0.7642
 ---
+
 ## Democrats press Pentagon on USS Lincoln conditions as carrier heads to Thailand
 
 **Subtype:** fact
