@@ -33,7 +33,8 @@ topic_tags:
 - armed conflict
 - manufacturing and engineering
 - international military intervention
-storyline_nexus: []
+storyline_nexus:
+- u-s-military-s-drone-warfare-integration-with-ukraine-and-private-indust
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -211,6 +212,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Army gives private weapons firms access to test ranges
 
 **Subtype:** fact

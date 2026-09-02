@@ -32,7 +32,8 @@ topic_tags:
 - international military intervention
 - peace process
 - war crime
-storyline_nexus: []
+storyline_nexus:
+- u-s-military-s-drone-warfare-integration-with-ukraine-and-private-indust
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -187,6 +188,7 @@ related_stories:
   relation: related
   strength: 0.6933
 ---
+
 ## Ukrainian drone operators defeat U.S. armored brigade in German exercise
 
 **Subtype:** fact
