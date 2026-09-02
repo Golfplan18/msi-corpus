@@ -29,7 +29,8 @@ primary_themes:
 - Oil markets
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- global-financial-market-volatility
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.7377
 ---
+
 ## Wall Street hits records on cooler US inflation data; Asian shares fall
 
 **Subtype:** fact

@@ -33,7 +33,8 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 - economy, business and finance
-storyline_nexus: []
+storyline_nexus:
+- global-financial-market-volatility
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.773
 ---
+
 ## Kospi leads Asian shares lower as AI stocks extend decline
 
 **Subtype:** fact
