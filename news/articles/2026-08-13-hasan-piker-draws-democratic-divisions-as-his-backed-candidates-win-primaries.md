@@ -41,7 +41,8 @@ topic_tags:
 - political dissent
 - social media
 - discrimination
-storyline_nexus: []
+storyline_nexus:
+- democratic-party-realignment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -177,6 +178,7 @@ related_stories:
   relation: related
   strength: 0.8036
 ---
+
 ## Hasan Piker draws Democratic divisions as his-backed candidates win primaries
 
 **Subtype:** fact

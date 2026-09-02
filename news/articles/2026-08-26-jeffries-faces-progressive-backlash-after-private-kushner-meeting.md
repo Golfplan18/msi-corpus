@@ -26,7 +26,8 @@ topic_tags:
 - government policy
 - corruption
 - civil rights
-storyline_nexus: []
+storyline_nexus:
+- democratic-party-realignment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -168,6 +169,7 @@ related_stories:
   relation: related
   strength: 0.7169
 ---
+
 ## Jeffries faces progressive backlash after private Kushner meeting
 
 **Subtype:** fact
