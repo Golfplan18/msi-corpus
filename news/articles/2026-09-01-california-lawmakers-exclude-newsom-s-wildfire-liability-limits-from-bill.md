@@ -208,6 +208,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-01-california-s-wildfire-bill-redrew-the-boundary-of-who-counts-as-affected-and-rat'
 ---
 ## California lawmakers exclude Newsom's wildfire liability limits from bill
 
@@ -243,3 +245,8 @@ California's strict-liability framework makes utilities responsible for damage f
 **Publication date:** 2026-09-01
 **Title:** Who Pays for Wildfire Damage? California Can’t Agree
 **URL:** https://www.wsj.com/us-news/who-pays-for-wildfire-damage-california-cant-agree-45ad8ea6
+
+---
+
+<!-- analysis-link:2026-09-01-california-s-wildfire-bill-redrew-the-boundary-of-who-counts-as-affected-and-rat -->
+**Going deeper:** [Read MSI's analysis of California wildfire liability bill — boundary critique of parties at the table →](/analyses/2026-09-01-california-s-wildfire-bill-redrew-the-boundary-of-who-counts-as-affected-and-rat)
