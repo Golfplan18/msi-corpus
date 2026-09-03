@@ -198,6 +198,8 @@ related_stories:
   publish_date: '2026-01-07'
   relation: related
   strength: 0.6564
+analyses:
+- '2026-08-31-five-pressures-converge-through-post-2019-bidding-war-us-universities-joint-fore'
 ---
 ## US universities face layered financial pressures beyond the demographic cliff
 
@@ -232,3 +234,8 @@ The new pressures arrive against the demographic backdrop [MSI previously report
 **Publication date:** 2026-08-31
 **Title:** Five Things to Know About Financial Pressures Hitting Schools Like Syracuse University
 **URL:** https://www.wsj.com/us-news/education/five-things-to-know-about-financial-pressures-hitting-schools-like-syracuse-university-422ea366
+
+---
+
+<!-- analysis-link:2026-08-31-five-pressures-converge-through-post-2019-bidding-war-us-universities-joint-fore -->
+**Going deeper:** [Read MSI's analysis of Higher Education Finance →](/analyses/2026-08-31-five-pressures-converge-through-post-2019-bidding-war-us-universities-joint-fore)
