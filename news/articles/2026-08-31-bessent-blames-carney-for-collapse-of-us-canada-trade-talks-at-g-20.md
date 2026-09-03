@@ -111,6 +111,8 @@ related_stories:
   publish_date: '2026-08-24'
   relation: related
   strength: 0.6985
+analyses:
+- '2026-08-31-charette-identifies-product-carve-outs-and-trade-authority-as-u-s-talks-break-do'
 ---
 ## Bessent blames Carney for collapse of US-Canada trade talks at G-20
 
@@ -151,3 +153,8 @@ Past G-20 finance ministers' meetings have reached consensus on issues such as c
 **Publication date:** 2026-08-31
 **Title:** Bessent Criticizes Canada as Global Summit Shows Divisions
 **URL:** https://www.wsj.com/world/americas/bessent-criticizes-canada-as-global-summit-shows-divisions-483a0b70
+
+---
+
+<!-- analysis-link:2026-08-31-charette-identifies-product-carve-outs-and-trade-authority-as-u-s-talks-break-do -->
+**Going deeper:** [Read MSI's analysis of U.S.–Canada trade negotiations at the G-20 →](/analyses/2026-08-31-charette-identifies-product-carve-outs-and-trade-authority-as-u-s-talks-break-do)
