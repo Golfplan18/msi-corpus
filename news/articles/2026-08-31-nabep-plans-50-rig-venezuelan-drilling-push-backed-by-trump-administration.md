@@ -29,7 +29,8 @@ topic_tags:
 - government policy
 - international relations
 - political process
-storyline_nexus: []
+storyline_nexus:
+- us-venezuela-oil-agreements
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -162,6 +163,7 @@ related_stories:
   relation: related
   strength: 0.6906
 ---
+
 ## NABEP plans 50-rig Venezuelan drilling push backed by Trump administration
 
 **Subtype:** fact

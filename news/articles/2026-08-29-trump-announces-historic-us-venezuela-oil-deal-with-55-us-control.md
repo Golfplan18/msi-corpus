@@ -31,7 +31,8 @@ primary_themes:
 - foreign investment
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- us-venezuela-oil-agreements
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -200,6 +201,7 @@ related_stories:
   relation: related
   strength: 0.7487
 ---
+
 ## Trump announces 'historic' US-Venezuela oil deal with 55% US control
 
 **Subtype:** fact
