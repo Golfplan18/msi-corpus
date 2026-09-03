@@ -38,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +61,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/i-just-took-17-biggest-oil-fields-for-a-hundred-years.png
+  alt: 'Editorial cartoon by Hector Rentier: I just took 17 BIGGEST oil fields for
+    a HUNDRED YEARS, believe me'
+  caption: A hundred years of their oil. One signature. No vote.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-02T22:04:37-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'A 1:1 single-panel wood-engraving in the heavy cross-hatch Nast tradition.
+    Across the top of the frame runs a banner strip with a quotation rendered in quotation
+    marks: "Voice becomes indispensable ex'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-02-hector-paired-with-2026-09-02-diklis-chump-us-news-2026-sep-01-trump-venezuela-oil-
 ---
+
+![Editorial cartoon by Hector Rentier: I just took 17 BIGGEST oil fields for a HUNDRED YEARS, believe me](/cartoons/i-just-took-17-biggest-oil-fields-for-a-hundred-years.png)
+*A hundred years of their oil. One signature. No vote.*
 
 The Venezuelan national assembly just gave ME 17 of their BIGGEST oil fields. One-fifth of the whole country. For a HUNDRED YEARS. Believe me.
 
