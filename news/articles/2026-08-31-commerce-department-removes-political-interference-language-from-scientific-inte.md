@@ -177,6 +177,8 @@ related_stories:
   publish_date: '2026-06-12'
   relation: related
   strength: 0.6981
+analyses:
+- '2026-08-31-commerce-revision-drops-federally-required-categories-1-day-gap-fits-accounts-pu'
 ---
 ## Commerce Department removes political interference language from scientific integrity policy
 
@@ -227,3 +229,8 @@ The Aug. 19 revision date falls one day after the Census Bureau released the una
 **Publication date:** 2026-08-31
 **Title:** Trump officials cut political interference ban after unusual Census Bureau report
 **URL:** https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity
+
+---
+
+<!-- analysis-link:2026-08-31-commerce-revision-drops-federally-required-categories-1-day-gap-fits-accounts-pu -->
+**Going deeper:** [Read MSI's analysis of Scientific integrity policy revision →](/analyses/2026-08-31-commerce-revision-drops-federally-required-categories-1-day-gap-fits-accounts-pu)
