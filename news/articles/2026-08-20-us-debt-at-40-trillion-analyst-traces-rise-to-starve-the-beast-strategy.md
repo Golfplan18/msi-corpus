@@ -26,7 +26,8 @@ primary_themes:
 - Partisan fiscal strategy
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- us-national-debt-trajectory
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -120,6 +121,7 @@ related_stories:
   relation: related
   strength: 0.6737
 ---
+
 ## US debt at $40 trillion; analyst traces rise to 'starve the beast' strategy
 
 **Subtype:** fact
