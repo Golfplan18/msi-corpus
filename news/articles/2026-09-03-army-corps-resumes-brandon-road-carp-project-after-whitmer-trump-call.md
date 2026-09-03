@@ -1,9 +1,18 @@
 ---
 headline: Army Corps resumes Brandon Road carp project after Whitmer-Trump call
-secondary_headline: Environmental officials warned carp were found alarmingly close to Lake Michigan
+secondary_headline: Environmental officials warned carp were found alarmingly close
+  to Lake Michigan
 publish_date: '2026-09-03'
-lede: Hours after Michigan Gov. Gretchen Whitmer telephoned President Donald Trump on Wednesday, the Army Corps of Engineers lifted an unexplained stop-work order that had paused the Brandon Road Interbasin Project near Joliet, Illinois, since July, according to the Associated Press. The state-federal project is designed to prevent invasive carp from reaching the Great Lakes. The pause had left officials in Illinois and Michigan seeking answers even as environmental officials warned invasive carp were being found alarmingly close to Lake Michigan.
-nut_graf: The reversal ends a months-long standoff between the Army Corps and state officials in Illinois and Michigan over a project both states depend on to prevent invasive carp from reaching the Great Lakes.
+lede: Hours after Michigan Gov. Gretchen Whitmer telephoned President Donald Trump
+  on Wednesday, the Army Corps of Engineers lifted an unexplained stop-work order
+  that had paused the Brandon Road Interbasin Project near Joliet, Illinois, since
+  July, according to the Associated Press. The state-federal project is designed to
+  prevent invasive carp from reaching the Great Lakes. The pause had left officials
+  in Illinois and Michigan seeking answers even as environmental officials warned
+  invasive carp were being found alarmingly close to Lake Michigan.
+nut_graf: The reversal ends a months-long standoff between the Army Corps and state
+  officials in Illinois and Michigan over a project both states depend on to prevent
+  invasive carp from reaching the Great Lakes.
 primary_entities:
 - Army Corps of Engineers
 - Brandon Road Interbasin Project
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +147,8 @@ cross_article_links:
   strength: 0.5568
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-28-big-bend-border-construction-pause-runs-through-mid-september
-  headline: Big Bend border construction pause runs through mid-September
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6226
-- slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
-  headline: Trump administration formally proposes rescinding 2001 Roadless Rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5966
-- slug: 2026-08-17-cbp-pauses-border-construction-in-big-bend-national-park-for-evaluation
-  headline: CBP pauses border construction in Big Bend National Park for evaluation
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6193
-- slug: 2026-08-18-walz-suspends-minnesota-work-on-boundary-waters-mining-projects
-  headline: Walz suspends Minnesota work on Boundary Waters mining projects
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.591
-- slug: 2026-07-12-us-launches-new-strikes-on-iran-after-irgc-attacks-ship-in-strait-of-hormuz
-  headline: US launches new strikes on Iran after IRGC attacks ship in Strait of Hormuz
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5803
-- slug: 2026-06-15-trump-rescinds-nixon-era-limits-on-off-road-vehicles-on-public-lands
-  headline: Trump rescinds Nixon-era limits on off-road vehicles on public lands
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5909
-- slug: 2026-06-11-gordie-howe-international-bridge-opening-delayed-again-as-us-canada-tensions-sim
-  headline: Gordie Howe International Bridge opening delayed again as US-Canada tensions simmer
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5867
-- slug: 2026-06-10-trump-administration-bypasses-environmental-laws-for-big-bend-border-project
-  headline: Trump administration bypasses environmental laws for Big Bend border project
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5854
-- slug: 2026-05-22-federal-officials-approve-dakota-access-crossing-segment-near-standing-rock
-  headline: Federal officials approve Dakota Access crossing segment near Standing Rock
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6063
-- slug: 2026-06-01-trump-administration-appeals-federal-order-allowing-all-importers-to-seek-tariff
-  headline: Trump administration appeals federal order allowing all importers to seek tariff refunds
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5775
-- slug: 2026-04-30-trump-lifts-mining-ban-near-boundary-waters-enabling-permits-for-twin-metals
-  headline: Trump lifts mining ban near Boundary Waters, enabling permits for Twin Metals
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.606
-- slug: 2026-05-21-federal-officials-approve-dakota-access-oil-pipeline-easement-in-north-dakota
-  headline: Federal officials approve Dakota Access oil pipeline easement in North Dakota
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5821
-- slug: 2026-05-21-federal-officials-grant-final-easement-for-dakota-access-pipeline-crossing
-  headline: Federal officials grant final easement for Dakota Access pipeline crossing
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5808
-- slug: 2026-05-23-trump-pauses-planned-strike-on-iran-after-gulf-allies-ask
-  headline: Trump pauses planned strike on Iran after Gulf allies ask
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5764
-- slug: 2026-05-10-trump-administration-orders-sweeping-rollback-of-hunting-restrictions-on-public-
-  headline: Trump administration orders sweeping rollback of hunting restrictions on public lands
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5896
-- slug: 2026-05-08-trump-s-shifting-iran-war-messaging-leaves-officials-and-markets-confused
-  headline: Trump’s shifting Iran-war messaging leaves officials and markets confused
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5899
-- slug: 2026-05-04-trump-to-launch-project-freedom-to-guide-ships-through-strait-of-hormuz
-  headline: Trump to launch “Project Freedom” to guide ships through Strait of Hormuz
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.5899
-- slug: 2026-04-24-trump-orders-u-s-navy-to-shoot-and-kill-iranian-small-boats-in-hormuz
-  headline: Trump orders U.S. Navy to “shoot and kill” Iranian small boats in Hormuz
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5772
-- slug: 2026-04-03-trump-administration-appeals-ruling-blocking-pentagon-action-vs-anthropic
-  headline: Trump administration appeals ruling blocking Pentagon action vs Anthropic
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.5836
-- slug: 2026-04-13-us-military-says-it-will-blockade-iranian-ports-after-ceasefire-talks-end
-  headline: US military says it will blockade Iranian ports after ceasefire talks end
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.5769
+related_stories: []
 ---
-
 ## Army Corps resumes Brandon Road carp project after Whitmer-Trump call
 
 **Subtype:** fact
