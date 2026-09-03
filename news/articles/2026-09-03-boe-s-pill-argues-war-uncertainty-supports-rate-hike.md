@@ -1,9 +1,16 @@
 ---
 headline: BOE's Pill argues war uncertainty supports rate hike
-secondary_headline: Three of nine MPC members backed July rate rise; six voted to hold
+secondary_headline: Three of nine MPC members backed July rate rise; six voted to
+  hold
 publish_date: '2026-09-03'
-lede: Bank of England Chief Economist Huw Pill said Thursday that the central bank should raise its key interest rate to limit the risk of inflation staying above target for a prolonged period. Pill, speaking in Edinburgh, argued that uncertainty about the course of the U.S.–Iran war makes waiting for clarity on the energy-price path harder to justify.
-nut_graf: Pill's renewed call for tighter policy comes as the Bank of England's Monetary Policy Committee remains divided, with three of nine members having backed a rate rise at the July meeting.
+lede: Bank of England Chief Economist Huw Pill said Thursday that the central bank
+  should raise its key interest rate to limit the risk of inflation staying above
+  target for a prolonged period. Pill, speaking in Edinburgh, argued that uncertainty
+  about the course of the U.S.–Iran war makes waiting for clarity on the energy-price
+  path harder to justify.
+nut_graf: Pill's renewed call for tighter policy comes as the Bank of England's Monetary
+  Policy Committee remains divided, with three of nine members having backed a rate
+  rise at the July meeting.
 primary_entities:
 - Huw Pill
 - Bank of England
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,11 +145,6 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-03-fed-s-waller-ties-rate-hike-support-to-next-week-s-inflation-report
-  headline: Fed's Waller ties rate-hike support to next week's inflation report
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6755
 - slug: 2026-08-16-central-banks-face-inflation-risks-as-energy-prices-threaten-weak-growth
   headline: Central banks face inflation risks as energy prices threaten weak growth
   publish_date: '2026-08-16'
@@ -173,7 +176,8 @@ related_stories:
   relation: related
   strength: 0.799
 - slug: 2026-07-28-fed-chair-warsh-faces-pressure-to-hike-rates-as-inflation-holds-above-target
-  headline: Fed Chair Warsh faces pressure to hike rates as inflation holds above target
+  headline: Fed Chair Warsh faces pressure to hike rates as inflation holds above
+    target
   publish_date: '2026-07-28'
   relation: related
   strength: 0.677
@@ -182,72 +186,20 @@ related_stories:
   publish_date: '2026-07-23'
   relation: related
   strength: 0.6916
-- slug: 2026-07-21-uk-unemployment-holds-at-4-9-as-wage-growth-steadies
-  headline: UK unemployment holds at 4.9% as wage growth steadies
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6802
-- slug: 2026-06-18-bank-of-england-leaves-rates-unchanged-signals-caution-on-hormuz-opening
-  headline: Bank of England Leaves Rates Unchanged, Signals Caution on Hormuz Opening
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7622
-- slug: 2026-06-15-ecb-s-nagel-says-iran-war-energy-impact-to-persist-despite-deal
-  headline: ECB's Nagel says Iran war energy impact to persist despite deal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.72
-- slug: 2026-06-11-ecb-raises-benchmark-rate-to-2-25-as-iran-war-lifts-oil-prices
-  headline: ECB raises benchmark rate to 2.25% as Iran war lifts oil prices
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7094
-- slug: 2026-06-17-uk-inflation-holds-at-2-8-in-may-defying-forecast-rise-to-3
-  headline: UK inflation holds at 2.8% in May, defying forecast rise to 3%
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6817
-- slug: 2026-04-29-bank-of-england-other-central-banks-pause-rates-as-iran-war-reshapes-outlook
-  headline: Bank of England, other central banks pause rates as Iran war reshapes outlook
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7437
-- slug: 2026-04-30-bank-of-england-keeps-rates-on-hold-as-iran-war-scrambles-projections
-  headline: Bank of England keeps rates on hold as Iran war scrambles projections
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7399
-- slug: 2026-02-05-bank-of-england-holds-rates-at-3-75-as-inflation-nears-2-target
-  headline: Bank of England holds rates at 3.75% as inflation nears 2% target
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7291
-- slug: 2026-04-22-uk-inflation-hits-3-3-in-march-as-pump-prices-surge-after-iran-war
-  headline: UK inflation hits 3.3% in March as pump prices surge after Iran war
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6916
-- slug: 2026-04-21-uk-inflation-rises-to-3-3-in-march-as-fuel-prices-jump-after-iran-war
-  headline: UK inflation rises to 3.3% in March as fuel prices jump after Iran war
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6918
-- slug: 2026-03-24-gas-prices-soar-as-iran-war-reshapes-fed-rate-cut-expectations
-  headline: Gas prices soar as Iran war reshapes Fed rate-cut expectations
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6972
 image:
   url: /articles/2026-09-03-boe-s-pill-argues-war-uncertainty-supports-rate-hike.png
-  alt: "Illustration accompanying article: BOE's Pill argues war uncertainty supports rate hike"
+  alt: 'Illustration accompanying article: BOE''s Pill argues war uncertainty supports
+    rate hike'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## BOE's Pill argues war uncertainty supports rate hike
 
 **Subtype:** fact
