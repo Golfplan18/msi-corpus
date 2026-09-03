@@ -162,6 +162,8 @@ related_stories:
   publish_date: '2026-01-04'
   relation: related
   strength: 0.6906
+analyses:
+- '2026-08-31-the-rig-schedule-as-benefit-pathway-tracing-nabep-s-venezuelan-deployment'
 ---
 
 ## NABEP plans 50-rig Venezuelan drilling push backed by Trump administration
@@ -196,3 +198,8 @@ The company is funding the drilling campaign itself, using cash flow from its ex
 **Publication date:** 2026-08-31
 **Title:** Trump’s Venezuelan Oil Company Plans Massive Drilling Push
 **URL:** https://www.wsj.com/business/energy-oil/trumps-venezuelan-oil-company-plans-massive-drilling-push-db439e19
+
+---
+
+<!-- analysis-link:2026-08-31-the-rig-schedule-as-benefit-pathway-tracing-nabep-s-venezuelan-deployment -->
+**Going deeper:** [Read MSI's analysis of NABEP / Trump-administration Venezuelan drilling push — benefit-flow mapping and party-specific alte →](/analyses/2026-08-31-the-rig-schedule-as-benefit-pathway-tracing-nabep-s-venezuelan-deployment)
