@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-01-10'
   relation: related
   strength: 0.6799
+analyses:
+- '2026-08-31-three-explanations-for-the-cdc-s-exclusion-of-two-pennsylvania-measles-deaths-an'
 ---
 ## CDC excludes two Pennsylvania measles deaths from national count
 
@@ -227,3 +229,8 @@ The Guardian reported that Kennedy did not appear to comment on two deaths from 
 **Publication date:** 2026-08-31
 **Title:** US health officials exclude measles-related deaths in Pennsylvania from counts
 **URL:** https://www.theguardian.com/us-news/2026/aug/31/measles-deaths-pennsylvania-excluded
+
+---
+
+<!-- analysis-link:2026-08-31-three-explanations-for-the-cdc-s-exclusion-of-two-pennsylvania-measles-deaths-an -->
+**Going deeper:** [Read MSI's analysis of CDC measles death reporting; Pennsylvania; HHS Secretary Robert F. Kennedy Jr. →](/analyses/2026-08-31-three-explanations-for-the-cdc-s-exclusion-of-two-pennsylvania-measles-deaths-an)
