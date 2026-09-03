@@ -1,9 +1,16 @@
 ---
-headline: New York City schools ban student-facing AI through eighth grade for one year
-secondary_headline: City will study AI's classroom impact and release recommendations next year
+headline: New York City schools ban student-facing AI through eighth grade for one
+  year
+secondary_headline: City will study AI's classroom impact and release recommendations
+  next year
 publish_date: '2026-09-02'
-lede: New York City will prohibit student-facing artificial intelligence in public school classrooms from preschool through eighth grade for one year, Mayor Zohran Mamdani announced Wednesday. The policy affects roughly 600,000 students in the nation's largest public school system.
-nut_graf: The moratorium follows sustained parent demand for tighter tech guardrails on classroom technology and screen time, and gives city officials a year to study AI's classroom effects before deciding whether to expand or modify the policy.
+lede: New York City will prohibit student-facing artificial intelligence in public
+  school classrooms from preschool through eighth grade for one year, Mayor Zohran
+  Mamdani announced Wednesday. The policy affects roughly 600,000 students in the
+  nation's largest public school system.
+nut_graf: The moratorium follows sustained parent demand for tighter tech guardrails
+  on classroom technology and screen time, and gives city officials a year to study
+  AI's classroom effects before deciding whether to expand or modify the policy.
 primary_entities:
 - New York City Public Schools
 - Zohran Mamdani
@@ -35,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,8 +140,46 @@ cross_article_links:
   strength: 0.6783
   confidence: medium
 draft: false
+related_stories:
+- slug: 2026-09-02-nyc-public-schools-ban-student-facing-ai-through-middle-school
+  headline: NYC public schools ban student-facing AI through middle school
+  publish_date: '2026-09-02'
+  relation: related
+  strength: 0.9321
+- slug: 2026-07-21-data-center-bans-strikes-and-lawsuits-signal-ai-backlash-s-new-phase
+  headline: Data center bans, strikes, and lawsuits signal AI backlash's new phase
+  publish_date: '2026-07-21'
+  relation: related
+  strength: 0.6502
+- slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
+  headline: School screen bans risk isolating millions of students with disabilities
+  publish_date: '2026-06-04'
+  relation: related
+  strength: 0.69
+- slug: 2026-05-26-nationwide-backlash-against-school-issued-devices-grows-as-los-angeles-leads-cra
+  headline: Nationwide backlash against school-issued devices grows as Los Angeles
+    leads crackdown
+  publish_date: '2026-05-26'
+  relation: related
+  strength: 0.6517
+- slug: 2026-05-15-pennsylvania-district-rejects-parent-push-to-let-students-opt-out-of-classroom-l
+  headline: Pennsylvania district rejects parent push to let students opt out of classroom
+    laptops
+  publish_date: '2026-05-15'
+  relation: related
+  strength: 0.6549
+- slug: 2026-01-23-meta-pauses-teens-access-to-ai-characters
+  headline: Meta pauses teens' access to AI characters
+  publish_date: '2026-01-23'
+  relation: related
+  strength: 0.6743
+- slug: 2025-11-20-educators-outline-do-s-and-don-ts-as-students-turn-to-ai-chatbots-for-schoolwork
+  headline: Educators outline do's and don'ts as students turn to AI chatbots for
+    schoolwork
+  publish_date: '2025-11-20'
+  relation: related
+  strength: 0.6803
 ---
-
 ## New York City schools ban student-facing AI through eighth grade for one year
 
 **Subtype:** fact

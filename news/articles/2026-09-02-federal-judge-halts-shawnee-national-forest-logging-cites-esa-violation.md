@@ -1,9 +1,15 @@
 ---
 headline: Federal judge halts Shawnee National Forest logging, cites ESA violation
-secondary_headline: Forest Service approved project six weeks before required biological opinion
+secondary_headline: Forest Service approved project six weeks before required biological
+  opinion
 publish_date: '2026-09-02'
-lede: A federal judge in East St. Louis has ordered the U.S. Forest Service to suspend a commercial logging project in southern Illinois' Shawnee National Forest, ruling that the agency's October 2024 approval violated the Endangered Species Act.
-nut_graf: The case turns on the Forest Service's October 2024 approval of the project, which Rosenstengel ruled was improper because the Fish and Wildlife Service's biological opinion on the project's impact on the Indiana bat was not completed until six weeks later.
+lede: A federal judge in East St. Louis has ordered the U.S. Forest Service to suspend
+  a commercial logging project in southern Illinois' Shawnee National Forest, ruling
+  that the agency's October 2024 approval violated the Endangered Species Act.
+nut_graf: The case turns on the Forest Service's October 2024 approval of the project,
+  which Rosenstengel ruled was improper because the Fish and Wildlife Service's biological
+  opinion on the project's impact on the Indiana bat was not completed until six weeks
+  later.
 primary_entities:
 - U.S. Forest Service
 - U.S. Fish and Wildlife Service
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -119,36 +126,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-28-big-bend-border-construction-pause-runs-through-mid-september
-  headline: Big Bend border construction pause runs through mid-September
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5946
-- slug: 2026-08-18-earthjustice-sues-us-agencies-to-block-american-samoa-seabed-mining-plan
-  headline: Earthjustice sues US agencies to block American Samoa seabed mining plan
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.609
 - slug: 2026-07-14-environmental-groups-sue-to-block-trump-s-narrowing-of-esa-harm-definition
   headline: Environmental groups sue to block Trump's narrowing of ESA 'harm' definition
   publish_date: '2026-07-14'
   relation: related
   strength: 0.6588
-- slug: 2026-07-17-interior-department-cancels-automatic-protections-for-threatened-species
-  headline: Interior Department cancels automatic protections for threatened species
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6137
-- slug: 2026-07-10-interior-department-narrows-esa-harm-definition-to-direct-injury-or-killing
-  headline: Interior Department narrows ESA 'harm' definition to direct injury or killing
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6256
-- slug: 2026-07-11-trump-administration-narrows-habitat-protection-for-endangered-species
-  headline: Trump administration narrows habitat protection for endangered species
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6048
 - slug: 2026-02-28-u-s-forest-service-proposes-long-term-logging-in-michigan
   headline: U.S. Forest Service proposes long-term logging in Michigan
   publish_date: '2026-02-28'
@@ -159,68 +141,7 @@ related_stories:
   publish_date: '2026-04-01'
   relation: related
   strength: 0.6669
-- slug: 2026-04-16-forest-service-proposes-sustained-yield-timber-unit-to-shore-up-montana-logging-
-  headline: Forest Service proposes sustained-yield timber unit to shore up Montana logging industry
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.634
-- slug: 2026-05-14-alligator-alcatraz-detention-center-s-future-uncertain-as-courts-revisit-case
-  headline: “Alligator Alcatraz” detention center’s future uncertain as courts revisit case
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5936
-- slug: 2026-03-31-judge-clears-way-for-interior-meeting-on-endangered-species-act-gulf-exemption
-  headline: Judge clears way for Interior meeting on Endangered Species Act Gulf exemption
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6256
-- slug: 2026-04-29-montana-considers-ban-on-boat-fishing-in-east-gallatin-river
-  headline: Montana considers ban on boat fishing in East Gallatin river
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6043
-- slug: 2026-01-20-interior-revokes-american-prairie-s-bison-grazing-permits-in-montana
-  headline: Interior revokes American Prairie's bison grazing permits in Montana
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6443
-- slug: 2026-05-05-tribes-sue-to-halt-exploratory-graphite-drilling-near-black-hills-sacred-site
-  headline: Tribes sue to halt exploratory graphite drilling near Black Hills sacred site
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5926
-- slug: 2026-04-16-senate-passes-resolution-to-lift-mining-ban-near-boundary-waters
-  headline: Senate passes resolution to lift mining ban near Boundary Waters
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5934
-- slug: 2026-03-27-trump-seeks-gulf-drilling-exemption-from-endangered-species-act
-  headline: Trump seeks Gulf drilling exemption from Endangered Species Act
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6049
-- slug: 2026-04-16-federal-judge-blocks-above-ground-white-house-ballroom-construction-allows-bunke
-  headline: Federal judge blocks above-ground White House ballroom construction, allows bunker work
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5917
-- slug: 2026-04-08-endangered-chinook-restoration-faces-halt-as-state-funding-ends
-  headline: Endangered Chinook restoration faces halt as state funding ends
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5959
-- slug: 2026-01-29-federal-judge-allows-winter-oil-and-gas-exploration-in-alaska-preserve
-  headline: Federal judge allows winter oil and gas exploration in Alaska preserve
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6201
-- slug: 2026-04-07-court-asked-to-lift-halt-on-closing-everglades-immigration-detention-center
-  headline: Court asked to lift halt on closing Everglades immigration detention center
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5925
 ---
-
 ## Federal judge halts Shawnee National Forest logging, cites ESA violation
 
 - Judge Nancy Rosenstengel ordered the U.S. Forest Service to suspend a commercial logging project in southern Illinois' Shawnee National Forest, ruling the October 2024 approval violated the Endangered Species Act.

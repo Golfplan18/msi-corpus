@@ -1,9 +1,16 @@
 ---
-headline: Federal judge orders Google to retool ad-tech system, denies DOJ breakup request
-secondary_headline: Virginia court issues Google's second DOJ breakup reprieve in a year
+headline: Federal judge orders Google to retool ad-tech system, denies DOJ breakup
+  request
+secondary_headline: Virginia court issues Google's second DOJ breakup reprieve in
+  a year
 publish_date: '2026-09-02'
-lede: U.S. District Judge Leonie Brinkema declined Wednesday to break up Google's digital advertising business, instead ordering the company to modify the system the government had argued should be dismantled. The Justice Department had sought the breakup.
-nut_graf: Wednesday's ruling marks the second time in a year that Google has received a reprieve from a Justice Department proposal to dismantle part of its business. Alphabet Inc., Google's corporate parent, holds a market value of $4.11 trillion.
+lede: U.S. District Judge Leonie Brinkema declined Wednesday to break up Google's
+  digital advertising business, instead ordering the company to modify the system
+  the government had argued should be dismantled. The Justice Department had sought
+  the breakup.
+nut_graf: Wednesday's ruling marks the second time in a year that Google has received
+  a reprieve from a Justice Department proposal to dismantle part of its business.
+  Alphabet Inc., Google's corporate parent, holds a market value of $4.11 trillion.
 primary_entities:
 - Google
 - Alphabet Inc.
@@ -37,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -114,8 +122,18 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
+related_stories:
+- slug: 2026-09-02-federal-judge-rejects-doj-request-to-break-up-google-s-ad-tech-business
+  headline: Federal judge rejects DOJ request to break up Google's ad-tech business
+  publish_date: '2026-09-02'
+  relation: related
+  strength: 0.8861
+- slug: 2026-06-17-uk-orders-google-to-make-search-rankings-fairer-provide-advance-notice
+  headline: UK Orders Google to Make Search Rankings Fairer, Provide Advance Notice
+  publish_date: '2026-06-17'
+  relation: related
+  strength: 0.6508
 ---
-
 ## Federal judge orders Google to retool ad-tech system, denies DOJ breakup request
 
 **Subtype:** fact
