@@ -1,9 +1,17 @@
 ---
 headline: Vermont corrections settles immigration-detainee discrimination complaint
-secondary_headline: Settlement requires interpretation services, lawyer access; no monetary sum
+secondary_headline: Settlement requires interpretation services, lawyer access; no
+  monetary sum
 publish_date: '2026-09-02'
-lede: The Vermont Department of Corrections has agreed to provide federal immigration detainees in its prisons with better access to language interpretation, legal counsel and court hearings, settling a discrimination complaint that the Vermont Human Rights Commission filed in January. The commission announced the settlement Tuesday.
-nut_graf: The agreement commits the Corrections Department to specific operational changes — language interpretation and structured attorney access — that immigration lawyers had said were missing. The settlement includes no monetary payment but resolves the complaint before it is brought to civil court, according to Lauri Fisher, the department's general counsel.
+lede: The Vermont Department of Corrections has agreed to provide federal immigration
+  detainees in its prisons with better access to language interpretation, legal counsel
+  and court hearings, settling a discrimination complaint that the Vermont Human Rights
+  Commission filed in January. The commission announced the settlement Tuesday.
+nut_graf: The agreement commits the Corrections Department to specific operational
+  changes — language interpretation and structured attorney access — that immigration
+  lawyers had said were missing. The settlement includes no monetary payment but resolves
+  the complaint before it is brought to civil court, according to Lauri Fisher, the
+  department's general counsel.
 primary_entities:
 - Vermont Department of Corrections
 - Vermont Human Rights Commission
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,21 +146,6 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-05-justice-department-announces-3-2m-openai-settlement-over-hiring-claims
-  headline: Justice Department announces $3.2m OpenAI settlement over hiring claims
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5907
-- slug: 2026-07-30-ninth-circuit-rules-immigrants-can-t-be-denied-bond-hearings
-  headline: Ninth Circuit rules immigrants can’t be denied bond hearings
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5882
-- slug: 2026-07-27-ice-extends-camp-east-montana-no-bid-contract-through-2027-at-776m-cost
-  headline: ICE extends Camp East Montana no-bid contract through 2027 at $776M cost
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5818
 - slug: 2026-03-13-immigration-lawyers-accuse-vermont-prisons-of-impeding-legal-access
   headline: Immigration lawyers accuse Vermont prisons of impeding legal access
   publish_date: '2026-03-13'
@@ -162,83 +156,7 @@ related_stories:
   publish_date: '2026-05-16'
   relation: related
   strength: 0.6624
-- slug: 2026-05-16-vermonters-vote-this-fall-on-equal-protection-amendment-to-state-constitution
-  headline: Vermonters vote this fall on equal protection amendment to state constitution
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6011
-- slug: 2026-04-24-vermont-prosecutor-drops-charges-against-six-protesters-in-ice-raid
-  headline: Vermont prosecutor drops charges against six protesters in ICE raid
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6176
-- slug: 2026-04-04-nevada-judge-blocks-ice-from-detaining-nearly-all-deportation-cases
-  headline: Nevada judge blocks ICE from detaining nearly all deportation cases
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.606
-- slug: 2026-03-14-ice-replaces-prime-contractor-at-largest-detention-facility
-  headline: ICE replaces prime contractor at largest detention facility
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6116
-- slug: 2026-02-13-legal-hurdles-persist-for-detainee-access-at-florida-alligator-alcatraz
-  headline: Legal hurdles persist for detainee access at Florida “Alligator Alcatraz”
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6161
-- slug: 2026-04-03-vermont-labor-board-orders-state-to-end-return-to-office-requirement
-  headline: Vermont labor board orders state to end return-to-office requirement
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.5965
-- slug: 2026-03-29-judge-orders-better-attorney-access-at-florida-s-alligator-alcatraz
-  headline: Judge orders better attorney access at Florida’s ‘Alligator Alcatraz’
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.5961
-- slug: 2026-03-21-vermont-police-defend-officers-conduct-during-federal-immigration-operation
-  headline: Vermont police defend officers’ conduct during federal immigration operation
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.5996
-- slug: 2026-04-15-judge-extends-pause-on-maryland-warehouse-immigrant-detention-conversion
-  headline: Judge extends pause on Maryland warehouse immigrant detention conversion
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5823
-- slug: 2026-03-27-judge-extends-order-for-immigrant-attorney-access-in-minnesota
-  headline: Judge extends order for immigrant attorney access in Minnesota
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5908
-- slug: 2026-02-06-ugandan-minister-steven-tendo-detained-by-ice-in-vermont
-  headline: Ugandan minister Steven Tendo detained by ICE in Vermont
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6069
-- slug: 2026-03-09-vermont-audit-says-child-care-oversight-gaps-could-cost-federal-funds
-  headline: Vermont audit says child care oversight gaps could cost federal funds
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.5967
-- slug: 2026-02-07-federal-government-faces-deadline-in-minnesota-ice-facility-case
-  headline: Federal government faces deadline in Minnesota ICE facility case
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6041
-- slug: 2026-02-13-federal-judge-orders-dhs-to-give-minnesota-detainees-access-to-lawyers
-  headline: Federal judge orders DHS to give Minnesota detainees access to lawyers
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5955
-- slug: 2026-02-20-vermont-students-fall-short-on-math-reading-proficiency-state-report-shows
-  headline: Vermont students fall short on math, reading proficiency, state report shows
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5908
 ---
-
 ## Vermont corrections settles immigration-detainee discrimination complaint
 
 **Subtype:** fact

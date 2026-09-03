@@ -2,8 +2,15 @@
 headline: Shooting in downtown Minneapolis wounds two officers, multiple victims
 secondary_headline: Police aim rifles at apartment tower near Convention Center
 publish_date: '2026-09-02'
-lede: A shooting in downtown Minneapolis on Wednesday afternoon wounded multiple people, including two police officers, according to city officials. The Minneapolis Police Department urged the public to stay away from the area as officers responded, and video posted to social media showed police aiming rifles upward at an apartment tower near the Minneapolis Convention Center.
-nut_graf: No additional information about the total number of wounded or their conditions was immediately released. State officials, including Gov. Tim Walz and House Speaker Lisa Demuth, posted messages on social media thanking first responders and praying for the victims.
+lede: A shooting in downtown Minneapolis on Wednesday afternoon wounded multiple people,
+  including two police officers, according to city officials. The Minneapolis Police
+  Department urged the public to stay away from the area as officers responded, and
+  video posted to social media showed police aiming rifles upward at an apartment
+  tower near the Minneapolis Convention Center.
+nut_graf: No additional information about the total number of wounded or their conditions
+  was immediately released. State officials, including Gov. Tim Walz and House Speaker
+  Lisa Demuth, posted messages on social media thanking first responders and praying
+  for the victims.
 primary_entities:
 - Minneapolis Police Department
 - Tim Walz
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,7 +145,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-02-minneapolis-convention-center-shooting-injures-two-officers-multiple-others
-  headline: Minneapolis convention center shooting injures two officers, multiple others
+  headline: Minneapolis convention center shooting injures two officers, multiple
+    others
   publish_date: '2026-09-02'
   relation: related
   strength: 0.9066
@@ -156,16 +165,6 @@ related_stories:
   publish_date: '2026-08-01'
   relation: related
   strength: 0.6731
-- slug: 2026-07-22-madison-officer-fatally-shoots-man-who-injured-him-with-knife
-  headline: Madison officer fatally shoots man who injured him with knife
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6455
-- slug: 2026-07-03-dearborn-mall-shooting-leaves-2-dead-1-injured-police-say-fight-escalated
-  headline: Dearborn mall shooting leaves 2 dead, 1 injured; police say fight escalated
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6359
 - slug: 2026-03-24-us-park-police-officer-wounded-in-southeast-d-c-shooting
   headline: US Park Police Officer Wounded in Southeast D.C. Shooting
   publish_date: '2026-03-24'
@@ -186,58 +185,7 @@ related_stories:
   publish_date: '2026-01-10'
   relation: related
   strength: 0.6732
-- slug: 2026-02-13-minneapolis-weighs-next-steps-for-memorials-at-federal-officers-shooting-sites
-  headline: Minneapolis weighs next steps for memorials at federal officers’ shooting sites
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6559
-- slug: 2026-04-07-video-shows-minneapolis-chase-ending-in-shooting-and-suspension-of-officers
-  headline: Video shows Minneapolis chase ending in shooting and suspension of officers
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6345
-- slug: 2026-01-25-videos-contradict-federal-account-of-deadly-minneapolis-shooting
-  headline: Videos contradict federal account of deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6547
-- slug: 2026-01-29-trump-signals-easing-immigration-tensions-but-enforcement-continues-in-minneapol
-  headline: Trump signals easing immigration tensions, but enforcement continues in Minneapolis
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6498
-- slug: 2026-01-25-trump-blames-democrats-for-chaos-after-fatal-minneapolis-immigration-shooting
-  headline: Trump blames Democrats for chaos after fatal Minneapolis immigration shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6482
-- slug: 2026-01-11-minneapolis-church-holds-lament-and-hope-service-as-ice-enforcement-grips-city
-  headline: Minneapolis church holds 'Lament and Hope' service as ICE enforcement grips city
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6496
-- slug: 2026-01-15-trump-threatens-insurrection-act-as-minneapolis-immigration-protests-continue
-  headline: Trump threatens Insurrection Act as Minneapolis immigration protests continue
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6486
-- slug: 2026-01-09-ice-agents-shoot-two-outside-portland-hospital-oregon-ag-vows-probe
-  headline: ICE agents shoot two outside Portland hospital; Oregon AG vows probe
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6492
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  headline: Minneapolis sees second federal shooting as courts, governor push back on immigration sweep
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6477
-- slug: 2026-01-25-federal-immigration-officer-shoots-and-kills-man-in-minneapolis
-  headline: Federal immigration officer shoots and kills man in Minneapolis
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6415
 ---
-
 ## Shooting in downtown Minneapolis wounds two officers, multiple victims
 
 **Subtype:** fact

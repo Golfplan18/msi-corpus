@@ -1,9 +1,20 @@
 ---
 headline: Past autocracy sanctions suggest steep odds for US Iran campaign
-secondary_headline: Iran builds parallel financial system with China to bypass US-led banking
+secondary_headline: Iran builds parallel financial system with China to bypass US-led
+  banking
 publish_date: '2026-09-02'
-lede: The Trump administration last week unveiled an 'Economic D-Day' sanctions campaign against Iran that officials have called the biggest-ever financial offensive leveled against a U.S. adversary. But a Wall Street Journal analysis this week found that historical experience with Cuba, North Korea, Venezuela, Syria and Russia shows sanctions alone rarely force autocratic concessions. Iran, with decades of experience adapting to sanctions and a parallel financial system built with China to bypass U.S.-led banking, may have unusual capacity to absorb the new pressure, according to the Journal.
-nut_graf: The assessment comes as the administration has declared the Strait of Hormuz open and the new sanctions campaign under way. The historical comparison suggests such campaigns rarely succeed when not paired with military force or broader diplomatic pressure.
+lede: The Trump administration last week unveiled an 'Economic D-Day' sanctions campaign
+  against Iran that officials have called the biggest-ever financial offensive leveled
+  against a U.S. adversary. But a Wall Street Journal analysis this week found that
+  historical experience with Cuba, North Korea, Venezuela, Syria and Russia shows
+  sanctions alone rarely force autocratic concessions. Iran, with decades of experience
+  adapting to sanctions and a parallel financial system built with China to bypass
+  U.S.-led banking, may have unusual capacity to absorb the new pressure, according
+  to the Journal.
+nut_graf: The assessment comes as the administration has declared the Strait of Hormuz
+  open and the new sanctions campaign under way. The historical comparison suggests
+  such campaigns rarely succeed when not paired with military force or broader diplomatic
+  pressure.
 primary_entities:
 - Iran
 - United States
@@ -53,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +167,44 @@ related_stories:
   headline: Trump's Iran sanctions compared to Cuba, North Korea, Venezuela, Syria
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7728
+  strength: 0.7733
 - slug: 2026-08-30-bessent-announces-operation-economic-outcast-to-cut-iran-from-global-economy
-  headline: Bessent announces 'Operation Economic Outcast' to cut Iran from global economy
+  headline: Bessent announces 'Operation Economic Outcast' to cut Iran from global
+    economy
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.7724
+  strength: 0.7727
+- slug: 2026-09-03-trump-pairs-operation-economic-outcast-with-renewed-iran-strikes
+  headline: Trump pairs 'Operation Economic Outcast' with renewed Iran strikes
+  publish_date: '2026-09-03'
+  relation: related
+  strength: 0.7412
 - slug: 2026-08-21-trump-announces-unprecedented-iran-sanctions-push-ahead-of-midterms
   headline: Trump announces 'unprecedented' Iran sanctions push ahead of midterms
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.7962
+  strength: 0.7967
 - slug: 2026-08-25-six-months-into-iran-war-trump-shifts-to-economic-pressure-campaign
   headline: Six months into Iran war, Trump shifts to economic pressure campaign
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7341
+  strength: 0.7332
 - slug: 2026-08-25-tanker-struck-off-oman-us-rolls-out-operation-economic-outcast-on-iran
   headline: Tanker struck off Oman; US rolls out 'Operation Economic Outcast' on Iran
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7281
+  strength: 0.7286
 - slug: 2026-08-25-treasury-launches-operation-economic-outcast-on-iran-holds-off-on-china
   headline: Treasury launches 'Operation Economic Outcast' on Iran, holds off on China
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.727
+  strength: 0.7275
 - slug: 2026-08-24-bessent-vows-to-sever-all-economic-ties-with-iran-as-war-enters-its-endgame
   headline: Bessent vows to sever all economic ties with Iran as war 'enters its endgame'
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.7292
-- slug: 2026-08-27-trump-rules-out-return-to-june-iran-deal-as-mediators-report-stalemate
-  headline: Trump rules out return to June Iran deal as mediators report stalemate
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7017
-- slug: 2026-08-26-iranians-rush-to-buy-fuel-and-food-as-trump-threatens-tighter-sanctions
-  headline: Iranians rush to buy fuel and food as Trump threatens tighter sanctions
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7064
-- slug: 2026-08-28-iranian-commerce-continues-in-dubai-despite-bessent-sanctions-push
-  headline: Iranian commerce continues in Dubai despite Bessent sanctions push
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6922
-- slug: 2026-08-26-trump-s-iran-sanctions-face-china-caveat-ahead-of-xi-summit
-  headline: Trump's Iran sanctions face China caveat ahead of Xi summit
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6956
-- slug: 2026-08-15-us-doubles-iran-economic-pressure-as-tehran-strikes-uae-ships-in-hormuz
-  headline: US doubles Iran economic pressure as Tehran strikes UAE ships in Hormuz
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7415
-- slug: 2026-08-10-trump-returns-to-iran-economic-pressure-as-war-deadlock-persists
-  headline: Trump returns to Iran economic pressure as war deadlock persists
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7269
-- slug: 2026-07-17-blockade-resumption-threatens-to-grind-iran-s-oil-revenue-to-near-zero
-  headline: Blockade resumption threatens to grind Iran's oil revenue to near zero
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.704
-- slug: 2026-07-11-iran-prioritizes-strait-of-hormuz-control-over-billions-in-sanctions-relief
-  headline: Iran prioritizes Strait of Hormuz control over billions in sanctions relief
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.7206
-- slug: 2026-07-10-us-officials-say-iran-nuclear-deal-increasingly-unlikely
-  headline: US officials say Iran nuclear deal increasingly unlikely
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7088
-- slug: 2026-06-21-us-sanctions-on-iran-fail-to-force-compliance-as-tehran-finds-workarounds
-  headline: US sanctions on Iran fail to force compliance as Tehran finds workarounds
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7312
-- slug: 2026-06-17-emboldened-iran-returns-to-nuclear-talks-after-failed-us-bombing-campaign
-  headline: Emboldened Iran returns to nuclear talks after failed US bombing campaign
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7157
-- slug: 2026-05-27-us-sanctions-target-iranian-agency-as-strikes-follow-drone-attacks-in-strait-of-
-  headline: US sanctions target Iranian agency as strikes follow drone attacks in Strait of Hormuz
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7301
-- slug: 2026-06-11-trump-threatens-to-seize-iran-s-oil-hub-as-us-strikes-escalate
-  headline: Trump threatens to seize Iran’s oil hub as US strikes escalate
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6925
+  strength: 0.7283
 ---
-
 ## Past autocracy sanctions suggest steep odds for US Iran campaign
 
 **Subtype:** fact

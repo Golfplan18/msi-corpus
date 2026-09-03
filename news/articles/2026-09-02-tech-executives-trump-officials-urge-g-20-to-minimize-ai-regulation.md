@@ -2,8 +2,16 @@
 headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
 secondary_headline: U.S. weighs curbs on Chinese AI tools as executives push for openness
 publish_date: '2026-09-02'
-lede: Tech executives and Trump administration officials urged Group of 20 policymakers on Tuesday to minimize artificial-intelligence regulations, arguing that strict rules could limit an industry capable of accelerating economic growth and medical advances. Speakers at a G-20 innovation and technology summit at the University of North Carolina at Chapel Hill included Nvidia Chief Executive Jensen Huang, OpenAI's Sam Altman, Meta Platforms CEO Mark Zuckerberg and Elon Musk of Tesla and SpaceX.
-nut_graf: The meeting comes amid rising concerns about AI security following recent hacks involving OpenAI and Anthropic models, growing local pushback against the data centers that power the technology, and intensifying U.S.-Chinese competition for global AI influence.
+lede: Tech executives and Trump administration officials urged Group of 20 policymakers
+  on Tuesday to minimize artificial-intelligence regulations, arguing that strict
+  rules could limit an industry capable of accelerating economic growth and medical
+  advances. Speakers at a G-20 innovation and technology summit at the University
+  of North Carolina at Chapel Hill included Nvidia Chief Executive Jensen Huang, OpenAI's
+  Sam Altman, Meta Platforms CEO Mark Zuckerberg and Elon Musk of Tesla and SpaceX.
+nut_graf: The meeting comes amid rising concerns about AI security following recent
+  hacks involving OpenAI and Anthropic models, growing local pushback against the
+  data centers that power the technology, and intensifying U.S.-Chinese competition
+  for global AI influence.
 primary_entities:
 - Jensen Huang
 - Sam Altman
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,113 +155,57 @@ related_stories:
   headline: Hassabis proposes industry-funded AI safety standards body
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6769
+  strength: 0.674
 - slug: 2026-07-30-trump-signals-shift-toward-ai-controls-after-openai-hacking-incidents
   headline: Trump signals shift toward AI controls after OpenAI hacking incidents
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.7402
+  strength: 0.7362
 - slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
   headline: White House keeps AI safety-testing framework details private
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6985
+  strength: 0.6951
 - slug: 2026-08-11-ai-researchers-ask-us-to-support-international-limits-on-development-pace
   headline: AI researchers ask US to support international limits on development pace
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6738
+  strength: 0.6716
 - slug: 2026-07-25-openai-hack-china-competition-fuel-washington-ai-debate
   headline: OpenAI hack, China competition fuel Washington AI debate
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.7216
+  strength: 0.7172
 - slug: 2026-07-17-xi-endorses-open-source-ai-launches-china-led-global-body
   headline: Xi endorses open-source AI, launches China-led global body
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.7022
+  strength: 0.7003
 - slug: 2026-07-25-u-s-companies-ditch-pricey-ai-models-for-cheaper-alternatives
   headline: U.S. companies ditch pricey AI models for cheaper alternatives
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.6714
+  strength: 0.6697
 - slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
+  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions
+    loom
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6679
-- slug: 2026-07-11-trump-administration-takes-10-stake-in-intel-apple-nvidia-sign-deals
-  headline: Trump administration takes 10% stake in Intel; Apple, Nvidia sign deals
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6789
-- slug: 2026-07-09-china-weighs-limits-on-overseas-access-to-its-ai-models
-  headline: China weighs limits on overseas access to its AI models
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6778
-- slug: 2026-06-17-ai-takes-center-stage-at-the-g7-amid-tensions-over-american-tech-dominance
-  headline: AI takes center stage at the G7 amid tensions over American tech dominance
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.725
-- slug: 2026-06-26-openai-limits-access-to-gpt-5-6-after-talks-with-trump-administration
-  headline: OpenAI Limits Access to GPT-5.6 After Talks With Trump Administration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6869
-- slug: 2026-06-03-openai-ceo-altman-meets-trump-officials-lawmakers-on-ai-rules
-  headline: OpenAI CEO Altman meets Trump officials, lawmakers on AI rules
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.718
-- slug: 2026-06-04-top-ai-ceos-urge-congress-to-require-synthetic-dna-screening
-  headline: Top AI CEOs Urge Congress to Require Synthetic DNA Screening
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7133
-- slug: 2026-05-21-trump-postpones-signing-of-ai-executive-order-over-tech-edge-concerns
-  headline: Trump postpones signing of AI executive order over tech edge concerns
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7048
-- slug: 2026-05-23-trump-postpones-ai-executive-order-days-after-concerns-over-cybersecurity-and-sp
-  headline: Trump postpones AI executive order days after concerns over cybersecurity and speed
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6995
-- slug: 2026-05-21-trump-postpones-ai-executive-order-hours-before-signing-over-fears-of-slowing-us
-  headline: Trump postpones AI executive order hours before signing over fears of slowing US tech lead
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6944
-- slug: 2026-05-22-trump-calls-off-ai-executive-order-hours-before-scheduled-signing
-  headline: Trump calls off AI executive order hours before scheduled signing
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6928
-- slug: 2026-06-08-schiff-bill-would-restrict-pentagon-ai-use-as-democrats-flood-congress-with-prop
-  headline: Schiff bill would restrict Pentagon AI use as Democrats flood Congress with proposals
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6673
-- slug: 2026-05-13-trump-china-trip-includes-musk-apple-s-cook-nvidia-s-huang-and-boeing-ceo
-  headline: Trump China trip includes Musk, Apple’s Cook, Nvidia’s Huang and Boeing CEO
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6827
+  strength: 0.6666
 image:
   url: /articles/2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation.png
-  alt: "Illustration accompanying article: Tech executives, Trump officials urge G-20 to minimize AI regulation"
+  alt: 'Illustration accompanying article: Tech executives, Trump officials urge G-20
+    to minimize AI regulation'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Tech executives, Trump officials urge G-20 to minimize AI regulation
 
 **Subtype:** fact

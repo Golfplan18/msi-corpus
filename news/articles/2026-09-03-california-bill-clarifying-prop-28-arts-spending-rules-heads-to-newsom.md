@@ -2,8 +2,17 @@
 headline: California bill clarifying Prop. 28 arts spending rules heads to Newsom
 secondary_headline: California compromise targets Prop. 28 spending rules
 publish_date: '2026-09-03'
-lede: California lawmakers sent a bill to Gov. Gavin Newsom's desk that would clarify how schools spend the roughly $1 billion in annual arts education funding created by Proposition 28, after reaching a compromise with Austin Beutner, the former Los Angeles Unified superintendent who helped write the 2022 initiative. The measure, AB 2440, responds to widespread confusion among school districts over Prop. 28's requirement that the new money supplement rather than replace existing arts programs — confusion severe enough that dozens of districts returned their arts allocations to the state for fear of misusing the funds and being sued.
-nut_graf: The compromise addresses confusion that prompted dozens of districts to return arts funding to the state, while a lawsuit by Beutner against his former employer over alleged supplanting remains pending in Los Angeles Superior Court.
+lede: California lawmakers sent a bill to Gov. Gavin Newsom's desk that would clarify
+  how schools spend the roughly $1 billion in annual arts education funding created
+  by Proposition 28, after reaching a compromise with Austin Beutner, the former Los
+  Angeles Unified superintendent who helped write the 2022 initiative. The measure,
+  AB 2440, responds to widespread confusion among school districts over Prop. 28's
+  requirement that the new money supplement rather than replace existing arts programs
+  — confusion severe enough that dozens of districts returned their arts allocations
+  to the state for fear of misusing the funds and being sued.
+nut_graf: The compromise addresses confusion that prompted dozens of districts to
+  return arts funding to the state, while a lawsuit by Beutner against his former
+  employer over alleged supplanting remains pending in Los Angeles Superior Court.
 primary_entities:
 - California
 - Los Angeles Unified School District
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -97,16 +107,6 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
-  headline: California Democrats endorse one-time 5% tax on billionaires
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6253
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.632
 - slug: 2026-05-15-newsom-s-final-350b-california-budget-avoids-deficit-adds-software-tax
   headline: Newsom's Final $350B California Budget Avoids Deficit, Adds Software Tax
   publish_date: '2026-05-15'
@@ -117,11 +117,6 @@ related_stories:
   publish_date: '2026-05-15'
   relation: related
   strength: 0.6726
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6152
 - slug: 2026-01-09-california-projects-2-9-billion-deficit-in-newsom-s-final-year-as-governor
   headline: California projects $2.9 billion deficit in Newsom's final year as governor
   publish_date: '2026-01-09'
@@ -133,12 +128,14 @@ related_stories:
   relation: related
   strength: 0.6669
 - slug: 2026-01-08-newsom-proposes-shifting-california-k-12-oversight-from-elected-school-chief-to-
-  headline: Newsom proposes shifting California K-12 oversight from elected school chief to appointed board
+  headline: Newsom proposes shifting California K-12 oversight from elected school
+    chief to appointed board
   publish_date: '2026-01-08'
   relation: related
   strength: 0.6755
 - slug: 2026-01-10-newsom-proposes-shifting-oversight-of-california-schools-thurmond-says-he-s-blin
-  headline: Newsom proposes shifting oversight of California schools; Thurmond says he’s blindsided
+  headline: Newsom proposes shifting oversight of California schools; Thurmond says
+    he’s blindsided
   publish_date: '2026-01-10'
   relation: related
   strength: 0.6668
@@ -147,58 +144,13 @@ related_stories:
   publish_date: '2026-03-04'
   relation: related
   strength: 0.6548
-- slug: 2026-05-01-san-diego-county-to-launch-arts-grants-as-city-federal-funding-shrink
-  headline: San Diego County to launch arts grants as city, federal funding shrink
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6198
 - slug: 2026-01-16-california-tightens-homelessness-funding-strings-as-annual-pool-drops-to-500m
-  headline: California tightens homelessness funding strings as annual pool drops to $500M
+  headline: California tightens homelessness funding strings as annual pool drops
+    to $500M
   publish_date: '2026-01-16'
   relation: related
   strength: 0.6525
-- slug: 2026-01-09-newsom-proposes-reducing-california-superintendent-role-thurmond-says-blindsided
-  headline: Newsom proposes reducing California superintendent role; Thurmond says blindsided
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6508
-- slug: 2026-04-08-california-considers-green-jet-fuel-tax-credit-that-critics-say-drains-road-fund
-  headline: California considers green jet fuel tax credit that critics say drains road funds
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6217
-- slug: 2026-03-14-newsom-mental-health-bond-projects-delayed-from-planned-2025-openings
-  headline: Newsom mental health bond projects delayed from planned 2025 openings
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.629
-- slug: 2026-02-19-california-proposal-to-tax-billionaires-pits-newsom-against-sanders
-  headline: California proposal to tax billionaires pits Newsom against Sanders
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.631
-- slug: 2026-01-28-california-lawmakers-advance-community-college-bachelor-s-degree-bill
-  headline: California lawmakers advance community college bachelor's degree bill
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6349
-- slug: 2026-02-26-newsom-book-tour-stirs-criticism-over-comments-on-race-culturally-normal
-  headline: Newsom book tour stirs criticism over comments on race, “culturally normal”
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6249
-- slug: 2026-01-05-newsom-enters-final-year-as-california-governor-with-key-promises-unmet
-  headline: Newsom enters final year as California governor with key promises unmet
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.635
-- slug: 2026-02-05-california-to-offer-instant-ev-rebates-requiring-automaker-matching-funds
-  headline: California to offer instant EV rebates, requiring automaker matching funds
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6256
 ---
-
 ## California bill clarifying Prop. 28 arts spending rules heads to Newsom
 
 **Subtype:** fact

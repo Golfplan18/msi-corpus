@@ -1,9 +1,17 @@
 ---
-headline: UN says this year's El Niño is strongest in 70 years, set to persist into 2027
+headline: UN says this year's El Niño is strongest in 70 years, set to persist into
+  2027
 secondary_headline: Corn and sugar prices rise on South American and Asian crop risks
 publish_date: '2026-09-03'
-lede: The World Meteorological Organization reported Thursday that the current El Niño is on track to become the strongest in at least 70 years, with near-certain probability of persisting through February 2027. The Geneva-based UN agency's update comes as commodity analysts note concerns the weather pattern is helping to drive up prices for crops including corn and sugar, with Pacific Ocean temperatures reading more than eight degrees Celsius above normal.
-nut_graf: The strengthening forecast adds to concerns about global food supply disruptions and rising commodity costs heading into 2027, with analysts at Rabobank writing that El Niño's effects are 'very much with us.'
+lede: The World Meteorological Organization reported Thursday that the current El
+  Niño is on track to become the strongest in at least 70 years, with near-certain
+  probability of persisting through February 2027. The Geneva-based UN agency's update
+  comes as commodity analysts note concerns the weather pattern is helping to drive
+  up prices for crops including corn and sugar, with Pacific Ocean temperatures reading
+  more than eight degrees Celsius above normal.
+nut_graf: The strengthening forecast adds to concerns about global food supply disruptions
+  and rising commodity costs heading into 2027, with analysts at Rabobank writing
+  that El Niño's effects are 'very much with us.'
 primary_entities:
 - World Meteorological Organization
 - Celeste Saulo
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -120,104 +129,43 @@ related_stories:
   headline: Strong El Niño disrupts global commodity and shipping markets
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.8063
+  strength: 0.8059
 - slug: 2026-08-27-study-finds-el-ni-os-more-than-36-stronger-than-pre-industrial-era
   headline: Study finds El Niños more than 36% stronger than pre-industrial era
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7365
+  strength: 0.7356
 - slug: 2026-08-27-hedge-fund-manager-seeks-400-million-for-el-ni-o-commodity-fund
   headline: Hedge fund manager seeks $400 million for El Niño commodity fund
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7218
+  strength: 0.7214
 - slug: 2026-07-31-record-early-el-ni-o-intensifies-as-un-warns-of-worsening-weather-extremes
   headline: Record-early El Niño intensifies as UN warns of worsening weather extremes
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.8195
+  strength: 0.8199
 - slug: 2026-08-24-copernicus-reports-oceans-hit-hottest-temperatures-on-record
   headline: Copernicus reports oceans hit hottest temperatures on record
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.6925
+  strength: 0.6937
 - slug: 2026-07-09-el-ni-o-odds-rise-to-81-for-historic-strength-event
   headline: El Niño odds rise to 81% for historic-strength event
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.8226
-- slug: 2026-08-21-u-s-declares-drought-disaster-in-virgin-islands-amid-el-ni-o
-  headline: U.S. declares drought disaster in Virgin Islands amid El Niño
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6326
+  strength: 0.8227
 - slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
   headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7956
+  strength: 0.7962
 - slug: 2026-07-17-latin-american-governments-prepare-contingency-plans-for-el-ni-o-impacts
   headline: Latin American governments prepare contingency plans for El Niño impacts
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.7541
-- slug: 2026-06-11-el-ni-o-forms-in-pacific-forecast-to-reach-historic-strength
-  headline: El Niño forms in Pacific, forecast to reach historic strength
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8183
-- slug: 2026-06-09-professor-outlines-10-ways-super-el-ni-o-could-hit-global-economy-food-supply
-  headline: Professor outlines 10 ways 'super' El Niño could hit global economy, food supply
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7927
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-may-bring-record-heat-and-extreme-weather-in-202
-  headline: Forecasters Warn Strong El Niño May Bring Record Heat and Extreme Weather in 2026
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8178
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-could-bring-heat-drought-and-heavier-rain
-  headline: Forecasters warn strong El Niño could bring heat, drought and heavier rain
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.812
-- slug: 2026-07-02-el-ni-o-and-45-state-drought-push-july-4-heatwave-to-100-million-americans
-  headline: El Niño and 45-state drought push July 4 heatwave to 100 million Americans
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7212
-- slug: 2026-07-01-scientists-fear-el-ni-o-will-worsen-california-seabird-die-off
-  headline: Scientists fear El Niño will worsen California seabird die-off
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7073
-- slug: 2026-06-23-former-noaa-official-warns-trump-administration-jeopardized-el-ni-o-forecasting
-  headline: Former NOAA official warns Trump administration jeopardized El Niño forecasting
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6895
-- slug: 2026-05-22-el-ni-o-may-curb-atlantic-hurricanes-noaa-still-warns-of-damaging-storms
-  headline: El Niño may curb Atlantic hurricanes, NOAA still warns of damaging storms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7157
-- slug: 2026-05-21-el-ni-o-dampens-atlantic-hurricane-risk-but-increases-it-in-pacific
-  headline: El Niño dampens Atlantic hurricane risk, but increases it in Pacific
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7143
-- slug: 2026-04-09-march-smashes-u-s-heat-records-as-forecasters-warn-of-strong-el-ni-o
-  headline: March smashes U.S. heat records as forecasters warn of strong El Niño
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7442
-- slug: 2026-02-21-scientists-change-el-ni-o-label-to-keep-up-with-warming-waters
-  headline: Scientists change El Niño label to keep up with warming waters
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.736
+  strength: 0.7537
 ---
-
 ## UN says this year's El Niño is strongest in 70 years, set to persist into 2027
 
 **Subtype:** fact

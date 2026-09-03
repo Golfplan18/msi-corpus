@@ -2,8 +2,15 @@
 headline: Orlando officials condemn antisemitic slurs at Kia Center MMA event
 secondary_headline: City-run arena says First Amendment compelled it to host fight
 publish_date: '2026-09-02'
-lede: A professional MMA event at Orlando's Kia Center drew condemnation from Florida officials after fighter Paul Miller used an antisemitic slur against opponent Ben Azoulay and appeared to give at least two Nazi salutes from the ring. A spectator was ejected for waving a giant swastika flag, and several brawls broke out in the crowd afterward.
-nut_graf: Orlando Venues, the city government division that runs the 18,500-seat arena, said the First Amendment compelled it to host the Duel Arena kickboxing event. Officials including Democratic state Rep. Anna Eskamani, Orlando Mayor Buddy Dyer, and Republican US Sen. Rick Scott condemned the incident.
+lede: A professional MMA event at Orlando's Kia Center drew condemnation from Florida
+  officials after fighter Paul Miller used an antisemitic slur against opponent Ben
+  Azoulay and appeared to give at least two Nazi salutes from the ring. A spectator
+  was ejected for waving a giant swastika flag, and several brawls broke out in the
+  crowd afterward.
+nut_graf: Orlando Venues, the city government division that runs the 18,500-seat arena,
+  said the First Amendment compelled it to host the Duel Arena kickboxing event. Officials
+  including Democratic state Rep. Anna Eskamani, Orlando Mayor Buddy Dyer, and Republican
+  US Sen. Rick Scott condemned the incident.
 primary_entities:
 - Orlando
 - Kia Center
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +151,8 @@ cross_article_links:
   strength: 0.5659
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-31-lander-stays-at-anti-rss-rally-after-heckling-says-he-won-t-stop-joining-rallies
-  headline: Lander stays at anti-RSS rally after heckling, says he won't stop joining rallies against hate
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6063
-- slug: 2026-08-22-cincinnati-muslim-community-seeks-security-after-third-center-break-in
-  headline: Cincinnati Muslim community seeks security after third center break-in
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5622
-- slug: 2026-07-03-great-american-state-fair-draws-thin-crowds-heat-related-illnesses
-  headline: Great American State Fair draws thin crowds, heat-related illnesses
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5544
-- slug: 2026-06-26-alarm-grows-over-extreme-sentences-in-texas-ice-protest-case
-  headline: Alarm grows over extreme sentences in Texas ICE protest case
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5586
-- slug: 2026-06-18-wisconsin-mosque-president-released-from-ice-custody-after-federal-judge-finds-l
-  headline: Wisconsin mosque president released from ICE custody after federal judge finds likely retaliation
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5721
-- slug: 2026-06-24-eight-get-450-years-for-prairieland-anti-ice-riot-that-wounded-officer
-  headline: Eight get 450 years for Prairieland anti-ICE riot that wounded officer
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5577
-- slug: 2026-06-13-ticketmaster-and-spurs-reverse-course-after-knicks-fans-face-last-minute-ticket-
-  headline: Ticketmaster and Spurs reverse course after Knicks fans face last-minute ticket cancellation
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5739
-- slug: 2026-06-09-trump-s-cultural-influence-wanes-amid-boos-artist-pullouts
-  headline: Trump's cultural influence wanes amid boos, artist pullouts
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5762
-- slug: 2026-06-01-uk-bars-us-left-wing-commentators-hasan-piker-and-cenk-uygur-from-entry
-  headline: UK bars US left-wing commentators Hasan Piker and Cenk Uygur from entry
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5599
-- slug: 2026-01-25-man-arrested-for-assaulting-congressman-at-sundance-film-festival
-  headline: Man arrested for assaulting congressman at Sundance Film Festival
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.5884
-- slug: 2026-03-18-pulse-nightclub-demolition-begins-in-florida-paving-way-for-memorial
-  headline: Pulse nightclub demolition begins in Florida, paving way for memorial
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.5725
-- slug: 2026-01-19-protesters-disrupt-st-paul-church-service-doj-opens-face-act-investigation
-  headline: Protesters disrupt St. Paul church service; DOJ opens FACE Act investigation
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.5837
-- slug: 2026-02-04-don-lemon-says-agents-arrested-him-despite-offer-to-surrender
-  headline: Don Lemon says agents arrested him despite offer to surrender
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.5806
-- slug: 2026-03-20-us-jews-weigh-threats-and-internal-rifts-over-israel-s-gaza-war
-  headline: US Jews weigh threats and internal rifts over Israel’s Gaza war
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5558
-- slug: 2026-01-27-federal-shooting-of-armed-minneapolis-man-sparks-gun-rights-backlash
-  headline: Federal shooting of armed Minneapolis man sparks gun-rights backlash
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.5699
-- slug: 2026-01-17-counterprotesters-rout-pro-ice-rally-in-minneapolis-national-guard-stages-nearby
-  headline: Counterprotesters rout pro-ICE rally in Minneapolis; National Guard stages nearby
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.5714
-- slug: 2026-01-14-protester-blinded-in-one-eye-after-federal-agent-fired-projectile-in-santa-ana
-  headline: Protester blinded in one eye after federal agent fired projectile in Santa Ana
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.5712
-- slug: 2026-02-12-target-faces-pressure-as-anti-ice-store-protests-move-beyond-minnesota
-  headline: Target faces pressure as anti-ICE store protests move beyond Minnesota
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5635
-- slug: 2026-01-16-two-orange-county-protesters-blinded-at-immigration-rally-federal-force-disputed
-  headline: Two Orange County protesters blinded at immigration rally, federal force disputed
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.5677
-- slug: 2026-02-25-federal-prosecutors-say-antifa-members-carried-out-prairieland-detention-shootin
-  headline: Federal prosecutors say antifa members carried out Prairieland detention shooting
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5582
+related_stories: []
 ---
-
 ## Orlando officials condemn antisemitic slurs at Kia Center MMA event
 
 **Subtype:** fact

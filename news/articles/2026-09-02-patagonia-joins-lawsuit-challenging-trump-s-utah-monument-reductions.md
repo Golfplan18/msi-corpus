@@ -1,9 +1,18 @@
 ---
 headline: Patagonia joins lawsuit challenging Trump's Utah monument reductions
-secondary_headline: Trump reduced Bears Ears and Grand Staircase-Escalante by 90 percent in July
+secondary_headline: Trump reduced Bears Ears and Grand Staircase-Escalante by 90 percent
+  in July
 publish_date: '2026-09-02'
-lede: Outdoor retailer Patagonia has joined a federal lawsuit challenging President Donald Trump's decision to reduce the Bears Ears and Grand Staircase-Escalante national monuments in Utah, removing protections from nearly 3 million acres of land sacred to Indigenous American tribes. The Natural Resources Defense Council filed the suit Wednesday, calling the reductions 'one of the largest rollbacks of public land protections in US history.'
-nut_graf: 'The case tests whether a president has authority to rescind national-monument designations made by predecessors, a question that bears on protections for federal public lands broadly. It also turns on tribal sovereignty: both monuments contain sites that Indigenous American tribes consider sacred.'
+lede: Outdoor retailer Patagonia has joined a federal lawsuit challenging President
+  Donald Trump's decision to reduce the Bears Ears and Grand Staircase-Escalante national
+  monuments in Utah, removing protections from nearly 3 million acres of land sacred
+  to Indigenous American tribes. The Natural Resources Defense Council filed the suit
+  Wednesday, calling the reductions 'one of the largest rollbacks of public land protections
+  in US history.'
+nut_graf: 'The case tests whether a president has authority to rescind national-monument
+  designations made by predecessors, a question that bears on protections for federal
+  public lands broadly. It also turns on tribal sovereignty: both monuments contain
+  sites that Indigenous American tribes consider sacred.'
 primary_entities:
 - Patagonia
 - Bears Ears National Monument
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +153,22 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-14-trump-shrinks-two-utah-national-monuments-environmentalists-vow-legal-challenge
-  headline: Trump shrinks two Utah national monuments, environmentalists vow legal challenge
+  headline: Trump shrinks two Utah national monuments, environmentalists vow legal
+    challenge
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.8186
-- slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
-  headline: Trump administration formally proposes rescinding 2001 Roadless Rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6188
-- slug: 2026-08-24-colorado-river-plan-could-cut-nevada-s-allocation-by-up-to-71-percent
-  headline: Colorado River plan could cut Nevada's allocation by up to 71 percent
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6107
-- slug: 2026-08-18-earthjustice-sues-us-agencies-to-block-american-samoa-seabed-mining-plan
-  headline: Earthjustice sues US agencies to block American Samoa seabed mining plan
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6104
+  strength: 0.819
 - slug: 2026-07-14-environmental-groups-sue-to-block-trump-s-narrowing-of-esa-harm-definition
   headline: Environmental groups sue to block Trump's narrowing of ESA 'harm' definition
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6532
-- slug: 2026-07-23-federal-council-votes-to-narrow-historic-site-protections
-  headline: Federal council votes to narrow historic site protections
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.617
-- slug: 2026-07-01-trump-attends-roosevelt-library-opening-as-critics-cite-conservation-rollbacks
-  headline: Trump attends Roosevelt library opening as critics cite conservation rollbacks
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.644
-- slug: 2026-07-11-trump-administration-narrows-habitat-protection-for-endangered-species
-  headline: Trump administration narrows habitat protection for endangered species
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6054
-- slug: 2026-07-03-trump-heads-to-mount-rushmore-amid-push-to-add-his-face-to-monument
-  headline: Trump heads to Mount Rushmore amid push to add his face to monument
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6188
-- slug: 2026-07-02-appeals-court-us-not-required-to-restore-removed-national-park-material
-  headline: 'Appeals court: US not required to restore removed national park material'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6145
-- slug: 2026-06-15-trump-rescinds-nixon-era-limits-on-off-road-vehicles-on-public-lands
-  headline: Trump rescinds Nixon-era limits on off-road vehicles on public lands
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6437
-- slug: 2026-06-13-judge-orders-restoration-of-national-park-plaques-removed-under-trump-directive
-  headline: Judge orders restoration of national park plaques removed under Trump directive
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6425
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6333
-- slug: 2026-06-05-trump-administration-moves-to-rescind-roadless-rule-protecting-58-million-acres-
-  headline: Trump administration moves to rescind Roadless Rule protecting 58 million acres of national forests
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6092
+  strength: 0.6531
 - slug: 2026-02-18-lawsuit-challenges-trump-era-changes-to-exhibits-at-national-parks
   headline: Lawsuit challenges Trump-era changes to exhibits at national parks
   publish_date: '2026-02-18'
   relation: related
-  strength: 0.6678
-- slug: 2026-05-10-trump-administration-lifts-hunting-restrictions-in-national-parks-and-refuges
-  headline: Trump administration lifts hunting restrictions in national parks and refuges
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6123
-- slug: 2026-04-30-trump-lifts-mining-ban-near-boundary-waters-enabling-permits-for-twin-metals
-  headline: Trump lifts mining ban near Boundary Waters, enabling permits for Twin Metals
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6139
-- slug: 2026-05-12-interior-department-cancels-conservation-rule-on-public-lands
-  headline: Interior Department cancels conservation rule on public lands
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6017
-- slug: 2026-05-10-trump-administration-orders-sweeping-rollback-of-hunting-restrictions-on-public-
-  headline: Trump administration orders sweeping rollback of hunting restrictions on public lands
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6019
-- slug: 2026-04-30-groups-urge-judge-to-block-kennedy-center-renovations-by-july-6
-  headline: Groups urge judge to block Kennedy Center renovations by July 6
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6017
+  strength: 0.6681
 ---
-
 ## Patagonia joins lawsuit challenging Trump's Utah monument reductions
 
 **Subtype:** fact

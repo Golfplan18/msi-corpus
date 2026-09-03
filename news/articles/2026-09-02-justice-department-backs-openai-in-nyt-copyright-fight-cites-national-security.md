@@ -2,8 +2,15 @@
 headline: Justice Department backs OpenAI in NYT copyright fight, cites national security
 secondary_headline: Times spokesman says DOJ is siding with trillion-dollar AI companies
 publish_date: '2026-09-02'
-lede: The Justice Department has filed a court statement backing OpenAI in the company's copyright fight with the New York Times and other publishers, arguing that training AI models on news content is fair use under U.S. copyright law. In the letter submitted this week, Associate Attorney General Stanley E. Woodward Jr. and Assistant Attorney General Brett Shumate said restricting such training would be "inconsistent with basic copyright law principles" and would thwart creative and scientific progress.
-nut_graf: The filing marks another show of support by the Trump administration for large technology and AI companies and arrives days before both sides are expected to file new motions in the underlying December 2023 lawsuit.
+lede: The Justice Department has filed a court statement backing OpenAI in the company's
+  copyright fight with the New York Times and other publishers, arguing that training
+  AI models on news content is fair use under U.S. copyright law. In the letter submitted
+  this week, Associate Attorney General Stanley E. Woodward Jr. and Assistant Attorney
+  General Brett Shumate said restricting such training would be "inconsistent with
+  basic copyright law principles" and would thwart creative and scientific progress.
+nut_graf: The filing marks another show of support by the Trump administration for
+  large technology and AI companies and arrives days before both sides are expected
+  to file new motions in the underlying December 2023 lawsuit.
 primary_entities:
 - United States Department of Justice
 - OpenAI
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +154,43 @@ related_stories:
   headline: Justice Department backs OpenAI's fair-use defense in New York Times case
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.9194
+  strength: 0.9193
 - slug: 2026-08-05-justice-department-announces-3-2m-openai-settlement-over-hiring-claims
   headline: Justice Department announces $3.2m OpenAI settlement over hiring claims
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7226
+  strength: 0.7225
 - slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
   headline: White House keeps AI safety-testing framework details private
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6764
+  strength: 0.6763
 - slug: 2026-07-30-trump-signals-shift-toward-ai-controls-after-openai-hacking-incidents
   headline: Trump signals shift toward AI controls after OpenAI hacking incidents
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.7059
+  strength: 0.7057
 - slug: 2026-07-09-news-organizations-ask-court-to-sanction-openai-for-withholding-evidence
   headline: News organizations ask court to sanction OpenAI for withholding evidence
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.775
+  strength: 0.7749
 - slug: 2026-07-25-openai-hack-china-competition-fuel-washington-ai-debate
   headline: OpenAI hack, China competition fuel Washington AI debate
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.7068
+  strength: 0.7063
 - slug: 2026-07-24-openai-autonomous-agent-hacks-hugging-face-company-says
   headline: OpenAI autonomous agent hacks Hugging Face, company says
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6764
+  strength: 0.6762
 - slug: 2026-07-21-openai-says-its-ai-models-hacked-hugging-face-on-their-own
   headline: OpenAI says its AI models hacked Hugging Face on their own
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6721
-- slug: 2026-07-14-openai-files-for-ipo-as-apple-lawsuit-and-leadership-gap-threaten-timing
-  headline: OpenAI files for IPO as Apple lawsuit and leadership gap threaten timing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6763
-- slug: 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft-by-former-employees
-  headline: Apple sues OpenAI over alleged trade-secret theft by former employees
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6839
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6685
-- slug: 2026-06-26-openai-limits-access-to-gpt-5-6-after-talks-with-trump-administration
-  headline: OpenAI Limits Access to GPT-5.6 After Talks With Trump Administration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.68
-- slug: 2026-06-04-top-ai-ceos-urge-congress-to-require-synthetic-dna-screening
-  headline: Top AI CEOs Urge Congress to Require Synthetic DNA Screening
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6824
-- slug: 2026-06-08-openai-files-for-ipo-testing-investor-appetite-for-top-ai-lab
-  headline: OpenAI files for IPO, testing investor appetite for top AI lab
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6706
-- slug: 2026-06-03-openai-ceo-altman-meets-trump-officials-lawmakers-on-ai-rules
-  headline: OpenAI CEO Altman meets Trump officials, lawmakers on AI rules
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6734
-- slug: 2026-05-18-neither-openai-or-musk-emerge-unscathed-in-landmark-trial
-  headline: Neither OpenAI or Musk emerge unscathed in landmark trial
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6852
-- slug: 2026-05-20-openai-avoids-costly-loss-as-jury-sides-with-company-in-elon-musk-trial
-  headline: OpenAI avoids costly loss as jury sides with company in Elon Musk trial
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6658
-- slug: 2026-05-19-jury-sides-with-openai-in-musk-trial-neither-side-unscathed
-  headline: Jury sides with OpenAI in Musk trial; neither side unscathed
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6664
-- slug: 2026-04-19-trump-opposes-state-ai-regulations-but-republican-lawmakers-push-back
-  headline: Trump opposes state AI regulations, but Republican lawmakers push back
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6781
-- slug: 2026-04-28-musk-and-altman-go-to-trial-over-openai-s-nonprofit-origins
-  headline: Musk and Altman go to trial over OpenAI’s nonprofit origins
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6649
+  strength: 0.6718
 ---
-
 ## Justice Department backs OpenAI in NYT copyright fight, cites national security
 
 **Subtype:** fact

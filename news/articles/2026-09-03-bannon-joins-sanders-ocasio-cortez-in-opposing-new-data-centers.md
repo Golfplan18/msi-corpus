@@ -2,10 +2,21 @@
 headline: Bannon joins Sanders, Ocasio-Cortez in opposing new data centers
 secondary_headline: Anti-AI ads air in more than 70 federal races since 2025
 publish_date: '2026-09-03'
-lede: 'WASHINGTON — Steve Bannon, President Trump''s former chief strategist, has joined Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez in calling for a halt to new AI data center construction, putting him on the same side of the issue as progressive Democrats in a cross-party campaign and at odds with his former boss. The Wall Street Journal described the alignment as a "horseshoe" coalition uniting the populist flanks of both parties against an industry central to U.S. artificial intelligence development.
+lede: 'WASHINGTON — Steve Bannon, President Trump''s former chief strategist, has
+  joined Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez in calling for a halt
+  to new AI data center construction, putting him on the same side of the issue as
+  progressive Democrats in a cross-party campaign and at odds with his former boss.
+  The Wall Street Journal described the alignment as a "horseshoe" coalition uniting
+  the populist flanks of both parties against an industry central to U.S. artificial
+  intelligence development.
 
-  The backlash is reshaping American political campaigns. Ads that cast data centers or AI in a negative light have run in more than 70 U.S. House, Senate and gubernatorial races since 2025, according to a Wall Street Journal review of transcripts collected by AdImpact, with another 50 state legislative races also targeted.'
-nut_graf: The unusual coalition reflects mounting political pressure on an industry central to U.S. artificial intelligence development, with bipartisan opposition gaining traction even as federal legislation has failed to advance.
+  The backlash is reshaping American political campaigns. Ads that cast data centers
+  or AI in a negative light have run in more than 70 U.S. House, Senate and gubernatorial
+  races since 2025, according to a Wall Street Journal review of transcripts collected
+  by AdImpact, with another 50 state legislative races also targeted.'
+nut_graf: The unusual coalition reflects mounting political pressure on an industry
+  central to U.S. artificial intelligence development, with bipartisan opposition
+  gaining traction even as federal legislation has failed to advance.
 primary_entities:
 - Steve Bannon
 - Bernie Sanders
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,32 +158,34 @@ related_stories:
   headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7501
+  strength: 0.7511
 - slug: 2026-08-25-annenberg-finds-61-oppose-new-datacenters-as-paxton-unveils-texas-first-plan
-  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first plan
+  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first
+    plan
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7278
+  strength: 0.7284
 - slug: 2026-08-28-building-unions-threaten-to-withhold-political-support-over-data-center-fights
-  headline: Building unions threaten to withhold political support over data center fights
+  headline: Building unions threaten to withhold political support over data center
+    fights
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6919
+  strength: 0.6926
 - slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
   headline: Trump promotes data centers as Senate GOP arm warns of voter anger
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7333
+  strength: 0.7343
 - slug: 2026-08-26-snowballing-data-center-opposition-reshapes-us-midterm-contests
   headline: Snowballing data center opposition reshapes US midterm contests
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.688
+  strength: 0.6901
 - slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
   headline: Data center opposition mounts as tech giants court communities
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.6944
+  strength: 0.6946
 - slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
   headline: Tech giants step up community investments to counter AI data-center opposition
   publish_date: '2026-08-19'
@@ -181,69 +195,8 @@ related_stories:
   headline: AI infrastructure backlash spans political spectrum ahead of midterms
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.685
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7174
-- slug: 2026-07-28-cognetti-ad-targeting-ai-data-centers-airs-in-pennsylvania-swing-district
-  headline: Cognetti ad targeting AI data centers airs in Pennsylvania swing district
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6677
-- slug: 2026-07-23-hinojosa-seizes-on-data-center-backlash-in-longshot-texas-governor-run
-  headline: Hinojosa seizes on data center backlash in longshot Texas governor run
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6701
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6822
-- slug: 2026-06-22-manhattan-house-primary-becomes-battleground-in-ai-industry-civil-war
-  headline: Manhattan House primary becomes battleground in AI industry civil war
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6909
-- slug: 2026-06-22-ai-super-pacs-spending-43-3-million-on-midterms-as-proxy-war-over-regulation-int
-  headline: AI super PACs spending $43.3 million on midterms as proxy war over regulation intensifies
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6836
-- slug: 2026-06-20-anthropic-s-ipo-ambitions-collide-with-political-backlash-over-ai-risks
-  headline: Anthropic's IPO Ambitions Collide With Political Backlash Over AI Risks
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6837
-- slug: 2026-06-25-new-bipartisan-coalition-aims-to-prepare-u-s-workers-for-ai-upheaval
-  headline: New bipartisan coalition aims to prepare U.S. workers for AI upheaval
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6657
-- slug: 2026-06-08-schiff-bill-would-restrict-pentagon-ai-use-as-democrats-flood-congress-with-prop
-  headline: Schiff bill would restrict Pentagon AI use as Democrats flood Congress with proposals
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6825
-- slug: 2026-06-01-military-leaders-urge-caution-on-battlefield-ai-as-pentagon-pushes-adoption
-  headline: Military leaders urge caution on battlefield AI as Pentagon pushes adoption
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6661
-- slug: 2026-03-26-progressives-introduce-ai-data-center-moratorium-bill-ahead-of-safeguards
-  headline: Progressives introduce AI data center moratorium bill ahead of safeguards
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7255
-- slug: 2026-05-28-ohio-suspends-data-center-tax-break-as-ai-boom-strains-state-budgets
-  headline: Ohio suspends data center tax break as AI boom strains state budgets
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6668
+  strength: 0.6845
 ---
-
 ## Bannon joins Sanders, Ocasio-Cortez in opposing new data centers
 
 **Subtype:** fact

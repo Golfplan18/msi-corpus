@@ -1,9 +1,15 @@
 ---
 headline: Federal judge blocks Trump bid to limit birthright citizenship
-secondary_headline: Birthright citizenship traces to 14th Amendment; Supreme Court struck prior Trump order in June
+secondary_headline: Birthright citizenship traces to 14th Amendment; Supreme Court
+  struck prior Trump order in June
 publish_date: '2026-09-03'
-lede: U.S. District Judge Deborah L. Boardman in Maryland issued a preliminary injunction Wednesday blocking President Donald Trump's latest executive order limiting birthright citizenship, halting an attempt the administration said would target 'birth tourism.' The injunction remains in effect while a class-action lawsuit brought by immigrant families and advocacy groups is resolved.
-nut_graf: The Supreme Court struck down a prior Trump executive order on birthright citizenship in June.
+lede: U.S. District Judge Deborah L. Boardman in Maryland issued a preliminary injunction
+  Wednesday blocking President Donald Trump's latest executive order limiting birthright
+  citizenship, halting an attempt the administration said would target 'birth tourism.'
+  The injunction remains in effect while a class-action lawsuit brought by immigrant
+  families and advocacy groups is resolved.
+nut_graf: The Supreme Court struck down a prior Trump executive order on birthright
+  citizenship in June.
 primary_entities:
 - Donald Trump
 - Deborah L. Boardman
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,12 +148,14 @@ related_stories:
   relation: related
   strength: 0.7897
 - slug: 2026-07-08-trump-says-he-will-immediately-ask-supreme-court-to-revisit-birthright-ruling
-  headline: Trump says he will immediately ask Supreme Court to revisit birthright ruling
+  headline: Trump says he will immediately ask Supreme Court to revisit birthright
+    ruling
   publish_date: '2026-07-08'
   relation: related
   strength: 0.7339
 - slug: 2026-07-02-justice-department-to-prioritize-birth-tourism-cases-after-supreme-court-ruling
-  headline: Justice Department to prioritize birth tourism cases after Supreme Court ruling
+  headline: Justice Department to prioritize birth tourism cases after Supreme Court
+    ruling
   publish_date: '2026-07-02'
   relation: related
   strength: 0.7408
@@ -156,81 +165,25 @@ related_stories:
   relation: related
   strength: 0.7129
 - slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
+  headline: Supreme Court expected to rule on birthright citizenship, trans athlete
+    bans on final day
   publish_date: '2026-06-30'
   relation: related
   strength: 0.7276
-- slug: 2026-07-01-supreme-court-limits-trump-on-birthright-citizenship-mail-ballots-cook-firing
-  headline: Supreme Court limits Trump on birthright citizenship, mail ballots, Cook firing
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7082
-- slug: 2026-07-01-doj-dhs-to-prioritize-birth-tourism-cases-after-supreme-court-birthright-ruling
-  headline: DOJ, DHS to prioritize birth tourism cases after Supreme Court birthright ruling
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6988
-- slug: 2026-06-24-federal-judge-blocks-trump-proof-of-citizenship-voting-order
-  headline: Federal judge blocks Trump proof-of-citizenship voting order
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.704
-- slug: 2026-06-30-supreme-court-ends-term-with-rulings-on-citizenship-transgender-athletes
-  headline: Supreme Court ends term with rulings on citizenship, transgender athletes
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6754
-- slug: 2026-06-18-supreme-court-to-rule-on-birthright-citizenship-tps-fed-firing-this-week
-  headline: Supreme Court to rule on birthright citizenship, TPS, Fed firing this week
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6979
-- slug: 2026-06-30-wong-kim-ark-s-great-grandson-praises-birthright-citizenship-ruling
-  headline: Wong Kim Ark's great-grandson praises birthright citizenship ruling
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.666
-- slug: 2026-03-31-supreme-court-hears-trump-bid-to-end-birthright-citizenship
-  headline: Supreme Court hears Trump bid to end birthright citizenship
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7787
-- slug: 2026-06-22-supreme-court-to-decide-four-cases-defining-presidential-power
-  headline: Supreme Court to decide four cases defining presidential power
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6653
-- slug: 2026-04-02-supreme-court-casts-doubt-on-trump-bid-to-limit-birthright-citizenship
-  headline: Supreme Court casts doubt on Trump bid to limit birthright citizenship
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7508
-- slug: 2026-03-31-supreme-court-weighs-trump-bid-to-limit-birthright-citizenship
-  headline: Supreme Court weighs Trump bid to limit birthright citizenship
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7405
-- slug: 2026-03-31-trump-to-attend-supreme-court-hearing-on-birthright-citizenship
-  headline: Trump to attend Supreme Court hearing on birthright citizenship
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7346
-- slug: 2026-05-28-federal-judge-refuses-to-block-trump-executive-order-limiting-mail-voting
-  headline: Federal judge refuses to block Trump executive order limiting mail voting
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6713
 image:
   url: /articles/2026-09-03-federal-judge-blocks-trump-bid-to-limit-birthright-citizenship.png
-  alt: "Illustration accompanying article: Federal judge blocks Trump bid to limit birthright citizenship"
+  alt: 'Illustration accompanying article: Federal judge blocks Trump bid to limit
+    birthright citizenship'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Federal judge blocks Trump bid to limit birthright citizenship
 
 - U.S. District Judge Deborah L. Boardman issued a preliminary injunction Wednesday blocking President Donald Trump's executive order aimed at limiting birthright citizenship.

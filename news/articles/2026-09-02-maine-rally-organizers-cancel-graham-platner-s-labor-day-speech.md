@@ -2,8 +2,17 @@
 headline: Maine rally organizers cancel Graham Platner's Labor Day speech
 secondary_headline: Platner will instead lead a veterans' march after the rally
 publish_date: '2026-09-02'
-lede: Organizers of a Labor Day rally in Ellsworth, Maine, have canceled Graham Platner's scheduled speech at the event, his first major public appearance since he ended his Democratic Senate campaign in July. Platner, who won the party's nomination in June, dropped out after Politico reported that a former girlfriend said he sexually assaulted her — an allegation he has denied. Two women who have accused Platner — one of sexual assault and one of domestic abuse — urged organizers not to let him speak, and organizers said Wednesday the slot was drawing negative media attention.
-nut_graf: Platner will instead lead a veterans' march after the rally in Ellsworth, near his hometown of Sullivan. The speech had been planned as his first major public appearance since he ended his Senate campaign in July, weeks after winning the June Democratic primary.
+lede: Organizers of a Labor Day rally in Ellsworth, Maine, have canceled Graham Platner's
+  scheduled speech at the event, his first major public appearance since he ended
+  his Democratic Senate campaign in July. Platner, who won the party's nomination
+  in June, dropped out after Politico reported that a former girlfriend said he sexually
+  assaulted her — an allegation he has denied. Two women who have accused Platner
+  — one of sexual assault and one of domestic abuse — urged organizers not to let
+  him speak, and organizers said Wednesday the slot was drawing negative media attention.
+nut_graf: Platner will instead lead a veterans' march after the rally in Ellsworth,
+  near his hometown of Sullivan. The speech had been planned as his first major public
+  appearance since he ended his Senate campaign in July, weeks after winning the June
+  Democratic primary.
 primary_entities:
 - Graham Platner
 - Susan Collins
@@ -35,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,7 +144,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-08-13-graham-platner-to-headline-maine-labor-day-rally-after-senate-campaign-exit
-  headline: Graham Platner to headline Maine Labor Day rally after Senate campaign exit
+  headline: Graham Platner to headline Maine Labor Day rally after Senate campaign
+    exit
   publish_date: '2026-08-13'
   relation: related
   strength: 0.9113
@@ -149,17 +160,20 @@ related_stories:
   relation: related
   strength: 0.7924
 - slug: 2026-07-07-platner-faces-mounting-calls-to-withdraw-from-maine-senate-race-after-assault-al
-  headline: Platner faces mounting calls to withdraw from Maine Senate race after assault allegation
+  headline: Platner faces mounting calls to withdraw from Maine Senate race after
+    assault allegation
   publish_date: '2026-07-07'
   relation: related
   strength: 0.7719
 - slug: 2026-07-14-maine-democrats-to-pick-senate-nominee-at-july-25-convention-after-platner-s-exi
-  headline: Maine Democrats to pick Senate nominee at July 25 convention after Platner's exit
+  headline: Maine Democrats to pick Senate nominee at July 25 convention after Platner's
+    exit
   publish_date: '2026-07-14'
   relation: related
   strength: 0.7455
 - slug: 2026-07-06-maine-senate-nominee-platner-denies-2021-sexual-assault-allegation-from-former-p
-  headline: Maine Senate nominee Platner denies 2021 sexual assault allegation from former partner
+  headline: Maine Senate nominee Platner denies 2021 sexual assault allegation from
+    former partner
   publish_date: '2026-07-06'
   relation: related
   strength: 0.7415
@@ -169,72 +183,12 @@ related_stories:
   relation: related
   strength: 0.694
 - slug: 2026-07-19-platner-withdrawal-renews-debate-over-candidate-scrutiny-strategists-say
-  headline: Platner withdrawal renews debate over candidate scrutiny, strategists say
+  headline: Platner withdrawal renews debate over candidate scrutiny, strategists
+    say
   publish_date: '2026-07-19'
   relation: related
   strength: 0.6836
-- slug: 2026-07-08-sanders-urges-platner-to-drop-maine-senate-bid-after-assault-allegation
-  headline: Sanders urges Platner to drop Maine Senate bid after assault allegation
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7157
-- slug: 2026-06-07-platner-fields-voter-questions-at-portland-town-hall-ahead-of-maine-primary
-  headline: Platner fields voter questions at Portland town hall ahead of Maine primary
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.7741
-- slug: 2026-07-08-platner-s-teetering-campaign-tests-staying-power-of-anti-establishment-politics
-  headline: Platner's teetering campaign tests staying power of anti-establishment politics
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.703
-- slug: 2026-06-10-graham-platner-wins-maine-democratic-senate-primary-despite-controversies
-  headline: Graham Platner wins Maine Democratic Senate primary despite controversies
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7409
-- slug: 2026-06-06-maine-senate-candidate-graham-platner-faces-scrutiny-over-past-texts-abuse-accus
-  headline: Maine Senate candidate Graham Platner faces scrutiny over past texts, abuse accusation
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7466
-- slug: 2026-06-12-platner-nomination-reflects-democrats-quest-to-regain-power
-  headline: Platner nomination reflects Democrats' quest to regain power
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7212
-- slug: 2026-06-10-platner-wins-maine-senate-primary-setting-up-bitter-general-election-race
-  headline: Platner wins Maine Senate primary, setting up bitter general election race
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7188
-- slug: 2026-06-13-platner-s-primary-win-in-maine-fuels-debate-over-democratic-party-elite
-  headline: Platner's primary win in Maine fuels debate over Democratic Party elite
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7082
-- slug: 2026-06-03-democrats-back-platner-for-maine-senate-despite-sexting-disclosure
-  headline: Democrats back Platner for Maine Senate despite sexting disclosure
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7229
-- slug: 2026-06-10-maine-women-torn-between-collins-and-platner-in-senate-race
-  headline: Maine Women Torn Between Collins and Platner in Senate Race
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6996
-- slug: 2026-05-31-booker-raises-concerns-about-maine-senate-candidate-platner-over-leaked-texts
-  headline: Booker raises concerns about Maine Senate candidate Platner over leaked texts
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.7052
-- slug: 2026-06-07-graham-platner-backed-by-independent-activists-emerges-as-democrats-risky-maine-
-  headline: Graham Platner, backed by independent activists, emerges as Democrats' risky Maine Senate candidate
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6751
 ---
-
 ## Maine rally organizers cancel Graham Platner's Labor Day speech
 
 **Subtype:** fact

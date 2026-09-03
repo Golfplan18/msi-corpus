@@ -1,12 +1,23 @@
 ---
 headline: Christian Law Enforcement Fellowship drops convicted ex-deputy chaplain
-secondary_headline: San Diego County paid about $10 million to settle Fischer abuse claims
+secondary_headline: San Diego County paid about $10 million to settle Fischer abuse
+  claims
 publish_date: '2026-09-02'
-lede: 'The Christian Law Enforcement Fellowship said Tuesday it had cut ties with former San Diego County sheriff''s deputy Ricky Fischer, days after Voice of San Diego reported that the organization had hired him to counsel police officers in crisis.
+lede: 'The Christian Law Enforcement Fellowship said Tuesday it had cut ties with
+  former San Diego County sheriff''s deputy Ricky Fischer, days after Voice of San
+  Diego reported that the organization had hired him to counsel police officers in
+  crisis.
 
 
-  Fischer pleaded guilty to about half a dozen offenses after more than 20 women accused him of stalking, groping and forcing a domestic-violence victim to perform oral sex; San Diego County taxpayers paid about $10 million to settle civil claims brought by his victims, according to the Voice of San Diego report distributed by the Associated Press.'
-nut_graf: Nearly two dozen women had accused Fischer of abuses while he was a San Diego County sheriff's deputy; the Christian Law Enforcement Fellowship hired him to counsel officers in crisis anyway, and cut ties only after Voice of San Diego disclosed the appointment.
+  Fischer pleaded guilty to about half a dozen offenses after more than 20 women accused
+  him of stalking, groping and forcing a domestic-violence victim to perform oral
+  sex; San Diego County taxpayers paid about $10 million to settle civil claims brought
+  by his victims, according to the Voice of San Diego report distributed by the Associated
+  Press.'
+nut_graf: Nearly two dozen women had accused Fischer of abuses while he was a San
+  Diego County sheriff's deputy; the Christian Law Enforcement Fellowship hired him
+  to counsel officers in crisis anyway, and cut ties only after Voice of San Diego
+  disclosed the appointment.
 primary_entities:
 - Ricky Fischer
 - Christian Law Enforcement Fellowship
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +155,13 @@ related_stories:
   headline: Former San Diego deputy convicted of sex crimes now works as police chaplain
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.8903
-- slug: 2026-08-28-new-orleans-catholic-abuse-survivors-call-bankruptcy-amounts-a-farce
-  headline: New Orleans Catholic abuse survivors call bankruptcy amounts 'a farce'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6036
-- slug: 2026-08-27-california-lawmakers-weigh-liability-caps-as-abuse-claims-drive-billions-in-cost
-  headline: California lawmakers weigh liability caps as abuse claims drive billions in costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6033
+  strength: 0.8895
 - slug: 2026-06-29-san-francisco-archdiocese-to-pay-395m-to-settle-abuse-claims
   headline: San Francisco archdiocese to pay $395M to settle abuse claims
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6667
-- slug: 2026-07-01-supreme-court-leaves-400-000-fine-in-place-against-lawyer-who-flagged-priest-s-p
-  headline: Supreme Court leaves $400,000 fine in place against lawyer who flagged priest's past
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5999
-- slug: 2026-06-02-texas-jury-to-decide-sentence-for-catholic-priest-convicted-of-sexual-assault
-  headline: Texas jury to decide sentence for Catholic priest convicted of sexual assault
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6095
-- slug: 2026-06-15-church-extended-priest-s-term-despite-years-of-misconduct-complaints
-  headline: Church extended priest's term despite years of misconduct complaints
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5772
-- slug: 2026-06-06-louisiana-church-reverses-now-prays-for-abuse-victims-after-backlash-over-prayer
-  headline: Louisiana church reverses, now prays for abuse victims after backlash over prayer for convicted priest
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5755
-- slug: 2026-02-19-new-jersey-diocese-of-camden-agrees-to-180m-clergy-abuse-settlement
-  headline: New Jersey Diocese of Camden agrees to $180M clergy abuse settlement
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6329
-- slug: 2026-02-19-new-jersey-diocese-to-pay-180-million-in-clergy-abuse-settlement-ap-says
-  headline: New Jersey diocese to pay $180 million in clergy abuse settlement, AP says
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6288
-- slug: 2026-05-07-southern-poverty-law-center-leader-pleads-not-guilty-in-donor-fraud-case
-  headline: Southern Poverty Law Center leader pleads not guilty in donor fraud case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5806
-- slug: 2026-02-08-word-of-faith-criminal-cases-handed-to-special-prosecutor-in-nc
-  headline: Word of Faith criminal cases handed to special prosecutor in NC
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6221
-- slug: 2026-04-28-splc-tells-federal-court-law-enforcement-knew-about-informant-program
-  headline: SPLC tells federal court law enforcement knew about informant program
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5788
-- slug: 2026-03-10-chaldean-catholic-bishop-in-california-resigns-amid-embezzlement-charges
-  headline: Chaldean Catholic bishop in California resigns amid embezzlement charges
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6035
-- slug: 2026-04-22-democrat-sheila-cherfilus-mccormick-resigns-before-house-ethics-hearing
-  headline: Democrat Sheila Cherfilus-McCormick resigns before House ethics hearing
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5792
-- slug: 2026-04-10-nyc-council-member-and-hochul-aide-rally-against-federal-bribery-probe
-  headline: NYC council member and Hochul aide rally against federal bribery probe
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.5828
-- slug: 2026-03-05-what-to-know-about-the-child-abuse-investigation-into-catholic-priests
-  headline: What to know about the child abuse investigation into Catholic priests
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5995
-- slug: 2026-04-09-exonerated-calvin-duncan-fights-gop-bid-to-scrap-his-orleans-clerk-role
-  headline: Exonerated Calvin Duncan fights GOP bid to scrap his Orleans clerk role
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5773
-- slug: 2026-03-05-florida-bar-says-it-is-not-investigating-former-trump-aide-lindsey-halligan
-  headline: Florida Bar says it is not investigating former Trump aide Lindsey Halligan
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.593
-- slug: 2026-03-29-pope-leo-era-begins-in-denver-as-bishop-james-golka-takes-over
-  headline: Pope Leo era begins in Denver as Bishop James Golka takes over
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.5765
+  strength: 0.6664
 ---
-
 ## Christian Law Enforcement Fellowship drops convicted ex-deputy chaplain
 
 **Subtype:** fact

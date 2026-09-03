@@ -1,9 +1,16 @@
 ---
 headline: Justice Department backs OpenAI's fair-use defense in New York Times case
-secondary_headline: DOJ says AI training on news content 'far outweighs any competitive harm'
+secondary_headline: DOJ says AI training on news content 'far outweighs any competitive
+  harm'
 publish_date: '2026-09-02'
-lede: The Justice Department on Tuesday filed court papers backing OpenAI's argument that training its AI models on internet content is protected by copyright law's fair-use doctrine. The filing marks a formal intervention by the Trump administration in a closely watched lawsuit brought by The New York Times over how OpenAI builds its AI technology.
-nut_graf: The DOJ's filing aligns the federal government with OpenAI's position in a case that will test how the fair-use doctrine applies to machine-learning systems trained on copyrighted news content.
+lede: The Justice Department on Tuesday filed court papers backing OpenAI's argument
+  that training its AI models on internet content is protected by copyright law's
+  fair-use doctrine. The filing marks a formal intervention by the Trump administration
+  in a closely watched lawsuit brought by The New York Times over how OpenAI builds
+  its AI technology.
+nut_graf: The DOJ's filing aligns the federal government with OpenAI's position in
+  a case that will test how the fair-use doctrine applies to machine-learning systems
+  trained on copyrighted news content.
 primary_entities:
 - U.S. Department of Justice
 - OpenAI
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,6 +147,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-09-02-justice-department-backs-openai-in-nyt-copyright-fight-cites-national-security
+  headline: Justice Department backs OpenAI in NYT copyright fight, cites national
+    security
+  publish_date: '2026-09-02'
+  relation: related
+  strength: 0.923
 - slug: 2026-08-16-ai-models-from-companies-including-openai-anthropic-and-meta-hack-online
   headline: AI models from companies including OpenAI, Anthropic and Meta hack online
   publish_date: '2026-08-16'
@@ -174,73 +188,7 @@ related_stories:
   publish_date: '2026-07-24'
   relation: related
   strength: 0.662
-- slug: 2026-07-21-openai-says-its-ai-models-hacked-hugging-face-on-their-own
-  headline: OpenAI says its AI models hacked Hugging Face on their own
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6649
-- slug: 2026-07-14-openai-files-for-ipo-as-apple-lawsuit-and-leadership-gap-threaten-timing
-  headline: OpenAI files for IPO as Apple lawsuit and leadership gap threaten timing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6594
-- slug: 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft-by-former-employees
-  headline: Apple sues OpenAI over alleged trade-secret theft by former employees
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6647
-- slug: 2026-07-09-openai-releases-chatgpt-5-6-after-white-house-cybersecurity-delay
-  headline: OpenAI releases ChatGPT 5.6 after White House cybersecurity delay
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6592
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6529
-- slug: 2026-06-26-openai-limits-access-to-gpt-5-6-after-talks-with-trump-administration
-  headline: OpenAI Limits Access to GPT-5.6 After Talks With Trump Administration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6696
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6639
-- slug: 2026-06-08-openai-files-for-ipo-testing-investor-appetite-for-top-ai-lab
-  headline: OpenAI files for IPO, testing investor appetite for top AI lab
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6586
-- slug: 2026-06-01-florida-files-first-state-lawsuit-against-openai-over-alleged-harms
-  headline: Florida files first state lawsuit against OpenAI over alleged harms
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6675
-- slug: 2026-05-18-neither-openai-or-musk-emerge-unscathed-in-landmark-trial
-  headline: Neither OpenAI or Musk emerge unscathed in landmark trial
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.679
-- slug: 2026-06-03-openai-ceo-altman-meets-trump-officials-lawmakers-on-ai-rules
-  headline: OpenAI CEO Altman meets Trump officials, lawmakers on AI rules
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.652
-- slug: 2026-05-20-openai-avoids-costly-loss-as-jury-sides-with-company-in-elon-musk-trial
-  headline: OpenAI avoids costly loss as jury sides with company in Elon Musk trial
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6601
-- slug: 2026-05-19-jury-sides-with-openai-in-musk-trial-neither-side-unscathed
-  headline: Jury sides with OpenAI in Musk trial; neither side unscathed
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6611
 ---
-
 ## Justice Department backs OpenAI's fair-use defense in New York Times case
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: Apple complies with Trump order, shows 'Lake America' on US Maps
 secondary_headline: MapQuest reaches App Store top spot after refusing to rename lake
 publish_date: '2026-09-02'
-lede: Apple has renamed Lake Ontario as 'Lake America' for users of its Maps app in the United States, complying with an executive order President Donald Trump signed last week to rename the Great Lake amid his trade dispute with Canada. Apple users outside the US continue to see the lake's original name.
-nut_graf: Canadian Prime Minister Mark Carney rejected the renaming, saying the lake's name comes from the language of the Indigenous Wendat people and predates both the Canadian Confederation and the US Declaration of Independence. The renaming order came after US-Canada trade negotiations collapsed and both countries imposed escalating tariffs on each other's goods.
+lede: Apple has renamed Lake Ontario as 'Lake America' for users of its Maps app in
+  the United States, complying with an executive order President Donald Trump signed
+  last week to rename the Great Lake amid his trade dispute with Canada. Apple users
+  outside the US continue to see the lake's original name.
+nut_graf: Canadian Prime Minister Mark Carney rejected the renaming, saying the lake's
+  name comes from the language of the Indigenous Wendat people and predates both the
+  Canadian Confederation and the US Declaration of Independence. The renaming order
+  came after US-Canada trade negotiations collapsed and both countries imposed escalating
+  tariffs on each other's goods.
 primary_entities:
 - Apple
 - Google
@@ -48,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +158,23 @@ related_stories:
   headline: Apple renames Lake Ontario as Lake America on Maps for US users
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.906
+  strength: 0.9054
 - slug: 2026-08-27-trump-renames-lake-ontario-lake-america-in-federal-use-over-trade-dispute
   headline: Trump renames Lake Ontario 'Lake America' in federal use over trade dispute
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8224
+  strength: 0.8226
 - slug: 2026-08-30-ford-unveils-lake-ontario-sign-after-trump-s-renaming-order
   headline: Ford unveils Lake Ontario sign after Trump's renaming order
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.7656
+  strength: 0.7666
 - slug: 2026-08-26-carney-announces-20bn-retaliation-as-us-tariffs-on-canada-take-effect
   headline: Carney announces $20bn retaliation as US tariffs on Canada take effect
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6884
-- slug: 2026-08-28-trump-s-50-canada-tariff-threat-rattles-detroit-economy
-  headline: Trump's 50% Canada tariff threat rattles Detroit economy
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5868
-- slug: 2026-08-26-carney-ends-us-canada-trade-talks-pledges-diversification
-  headline: Carney ends US-Canada trade talks, pledges diversification
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5849
-- slug: 2026-08-22-carney-orders-dollar-for-dollar-counter-tariffs-as-us-canada-talks-collapse
-  headline: Carney orders dollar-for-dollar counter-tariffs as US-Canada talks collapse
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5928
-- slug: 2026-08-23-trump-accuses-canada-of-wanting-us-state-benefits-without-statehood
-  headline: Trump accuses Canada of wanting US state benefits without statehood
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.5807
-- slug: 2026-08-21-manitoba-premier-urges-canada-to-fight-us-trade-deal-as-deadline-looms
-  headline: Manitoba premier urges Canada to fight US trade deal as deadline looms
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5791
-- slug: 2026-07-23-carney-s-concessions-to-trump-fail-to-halt-50-tariff-on-canadian-goods
-  headline: Carney's concessions to Trump fail to halt 50% tariff on Canadian goods
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6131
-- slug: 2026-07-25-apple-pushes-trump-to-allow-chinese-memory-chips-micron-opposes
-  headline: Apple pushes Trump to allow Chinese memory chips; Micron opposes
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5907
-- slug: 2026-07-20-trump-signs-50-tariff-on-canadian-goods-citing-autos-and-dairy-disputes
-  headline: Trump signs 50% tariff on Canadian goods, citing autos and dairy disputes
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.607
-- slug: 2026-07-23-georgia-residents-oppose-okefenokee-swamp-s-unesco-world-heritage-bid
-  headline: Georgia residents oppose Okefenokee Swamp's UNESCO World Heritage bid
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5937
-- slug: 2026-07-14-trump-shrinks-two-utah-national-monuments-environmentalists-vow-legal-challenge
-  headline: Trump shrinks two Utah national monuments, environmentalists vow legal challenge
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.589
-- slug: 2026-07-03-carney-smith-back-new-pacific-crude-pipeline-with-carbon-capture-requirement
-  headline: Carney, Smith back new Pacific crude pipeline with carbon-capture requirement
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5795
-- slug: 2026-05-22-trump-order-sparks-deep-sea-mining-push-as-regulators-race-to-fast-track-permits
-  headline: Trump order sparks deep-sea mining push as regulators race to fast-track permits
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5815
-- slug: 2026-01-30-mark-carney-stands-firm-on-davos-speech-plans-new-canada-trade-deals
-  headline: Mark Carney stands firm on Davos speech, plans new Canada trade deals
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6204
-- slug: 2026-01-24-trump-threatens-canada-with-100-tariff-over-china-trade-deal
-  headline: Trump threatens Canada with 100% tariff over China trade deal
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6041
-- slug: 2026-02-18-trump-organization-seeks-trademark-rights-for-airports-using-his-name
-  headline: Trump Organization seeks trademark rights for airports using his name
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.5955
-- slug: 2026-02-08-trump-reopens-atlantic-ocean-monument-to-commercial-fishing
-  headline: Trump reopens Atlantic ocean monument to commercial fishing
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5926
+  strength: 0.6883
 ---
-
 ## Apple complies with Trump order, shows 'Lake America' on US Maps
 
 **Subtype:** fact

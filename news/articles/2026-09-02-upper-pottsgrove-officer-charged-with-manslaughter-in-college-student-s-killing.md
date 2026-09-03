@@ -1,9 +1,17 @@
 ---
-headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
+headline: Upper Pottsgrove officer charged with manslaughter in college student's
+  killing
 secondary_headline: Body camera showed victim with hands raised, 17 feet from officer
 publish_date: '2026-09-02'
-lede: Cpl Sean Farrell of the Upper Pottsgrove police was charged on Tuesday with voluntary manslaughter for last week's fatal shooting of 22-year-old Glenwood Earl Pysher IV, an unarmed college student who went to the wrong house after a night out with friends, Montgomery County District Attorney Kevin Steele said. Body-camera video reviewed by investigators showed Pysher had his hands in the air, 17 to 20 feet from Farrell, when the officer fired two shots that struck him in the chest.
-nut_graf: 'The charge adds to a broader national pattern tracked by researchers: relatively few officers face convictions in on-duty fatal shootings, even when the victims are unarmed.'
+lede: Cpl Sean Farrell of the Upper Pottsgrove police was charged on Tuesday with
+  voluntary manslaughter for last week's fatal shooting of 22-year-old Glenwood Earl
+  Pysher IV, an unarmed college student who went to the wrong house after a night
+  out with friends, Montgomery County District Attorney Kevin Steele said. Body-camera
+  video reviewed by investigators showed Pysher had his hands in the air, 17 to 20
+  feet from Farrell, when the officer fired two shots that struck him in the chest.
+nut_graf: 'The charge adds to a broader national pattern tracked by researchers: relatively
+  few officers face convictions in on-duty fatal shootings, even when the victims
+  are unarmed.'
 primary_entities:
 - Sean Farrell
 - Glenwood Earl Pysher IV
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: CC0
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,107 +146,17 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-01-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
+  headline: Upper Pottsgrove officer charged with manslaughter in college student's
+    killing
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.9207
+  strength: 0.9213
 - slug: 2026-08-26-montgomery-county-da-identifies-man-killed-by-upper-pottsgrove-police
   headline: Montgomery County DA identifies man killed by Upper Pottsgrove police
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.709
-- slug: 2026-08-23-federal-agent-s-fatal-memphis-shooting-unjustified-family-attorney-says
-  headline: Federal agent's fatal Memphis shooting unjustified, family attorney says
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.5983
-- slug: 2026-08-16-nypd-fatally-shoots-knife-wielding-man-on-manhattan-s-lower-east-side
-  headline: NYPD fatally shoots knife-wielding man on Manhattan's Lower East Side
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6089
-- slug: 2026-08-06-jury-will-decide-whether-michigan-officer-violated-man-s-civil-rights
-  headline: Jury will decide whether Michigan officer violated man's civil rights
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6216
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6236
-- slug: 2026-05-15-utah-officer-charged-with-manslaughter-in-2024-shooting-of-unarmed-man-through-p
-  headline: Utah officer charged with manslaughter in 2024 shooting of unarmed man through pickup window
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6394
-- slug: 2026-05-15-utah-officer-faces-manslaughter-charge-in-unarmed-man-shooting
-  headline: Utah officer faces manslaughter charge in unarmed man shooting
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6386
-- slug: 2026-05-18-officer-joseph-magnano-charged-in-steven-jones-fatal-knife-shooting
-  headline: Officer Joseph Magnano charged in Steven Jones fatal knife shooting
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6005
-- slug: 2026-02-26-police-chief-accused-of-choking-student-during-pennsylvania-immigration-protest
-  headline: Police chief accused of choking student during Pennsylvania immigration protest
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6428
-- slug: 2026-05-08-pro-palestinian-protester-pleads-guilty-to-manslaughter-in-california-death
-  headline: Pro-Palestinian protester pleads guilty to manslaughter in California death
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6005
-- slug: 2026-04-15-oklahoma-principal-tackles-disarms-gunman-at-pauls-valley-high-school
-  headline: Oklahoma principal tackles, disarms gunman at Pauls Valley High School
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6185
-- slug: 2026-03-04-father-of-georgia-teen-accused-in-school-shooting-convicted-of-murder
-  headline: Father of Georgia teen accused in school shooting convicted of murder
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6348
-- slug: 2026-01-16-defense-seeks-to-disqualify-utah-prosecutors-in-charlie-kirk-killing-case
-  headline: Defense seeks to disqualify Utah prosecutors in Charlie Kirk killing case
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6307
-- slug: 2025-12-30-oklahoma-man-charged-with-manslaughter-after-stray-bullet-kills-neighbor
-  headline: Oklahoma man charged with manslaughter after stray bullet kills neighbor
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6318
-- slug: 2026-04-08-trial-begins-for-wrongful-death-lawsuit-over-14-year-old-s-lapd-shooting
-  headline: Trial begins for wrongful-death lawsuit over 14-year-old’s LAPD shooting
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6005
-- slug: 2025-12-29-oklahoma-man-charged-with-manslaughter-after-stray-bullet-kills-neighbor
-  headline: Oklahoma man charged with manslaughter after stray bullet kills neighbor
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6297
-- slug: 2026-04-02-quadruple-amputee-cornhole-player-held-after-killing-lawyer-cites-self-defense
-  headline: Quadruple amputee cornhole player held after killing; lawyer cites self-defense
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6022
-- slug: 2026-03-26-quadruple-amputee-cornhole-player-to-face-maryland-murder-case-after-waiver
-  headline: Quadruple amputee cornhole player to face Maryland murder case after waiver
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6043
-- slug: 2026-02-20-south-carolina-officer-acquitted-in-unarmed-man-s-shooting-death
-  headline: South Carolina officer acquitted in unarmed man's shooting death
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6067
+  strength: 0.7092
 ---
-
 ## Upper Pottsgrove officer charged with manslaughter in college student's killing
 
 **Subtype:** fact

@@ -2,8 +2,14 @@
 headline: Minneapolis convention center shooting injures two officers, multiple others
 secondary_headline: Police urge public to avoid convention center; Walz thanks responders
 publish_date: '2026-09-02'
-lede: A shooting at the Minneapolis convention center injured multiple people, including two police officers, on Wednesday afternoon, officials said. The Minneapolis Police Department warned the public to stay away from the area. Minnesota Governor Tim Walz said in a statement he was "grateful to law enforcement actively working to ensure the safety of our neighbors in Downtown Minneapolis this afternoon."
-nut_graf: Public information about the shooting remained limited as of the initial reports on Wednesday afternoon; officials had not released additional details about the number of victims and their conditions.
+lede: A shooting at the Minneapolis convention center injured multiple people, including
+  two police officers, on Wednesday afternoon, officials said. The Minneapolis Police
+  Department warned the public to stay away from the area. Minnesota Governor Tim
+  Walz said in a statement he was "grateful to law enforcement actively working to
+  ensure the safety of our neighbors in Downtown Minneapolis this afternoon."
+nut_graf: Public information about the shooting remained limited as of the initial
+  reports on Wednesday afternoon; officials had not released additional details about
+  the number of victims and their conditions.
 primary_entities:
 - Minneapolis Police Department
 - Tim Walz
@@ -35,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -113,16 +120,16 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-09-02-shooting-in-downtown-minneapolis-wounds-two-officers-multiple-victims
+  headline: Shooting in downtown Minneapolis wounds two officers, multiple victims
+  publish_date: '2026-09-02'
+  relation: related
+  strength: 0.9066
 - slug: 2026-09-03-shooting-at-minneapolis-apartment-building-kills-three-wounds-five
   headline: Shooting at Minneapolis apartment building kills three, wounds five
   publish_date: '2026-09-03'
   relation: related
   strength: 0.7694
-- slug: 2026-08-30-trenton-shooting-kills-2-wounds-8-at-large-street-gathering
-  headline: Trenton shooting kills 2, wounds 8 at large street gathering
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6296
 - slug: 2026-07-19-19-injured-in-two-overnight-shootings-in-tucson-and-minneapolis
   headline: 19 injured in two overnight shootings in Tucson and Minneapolis
   publish_date: '2026-07-19'
@@ -133,31 +140,6 @@ related_stories:
   publish_date: '2026-08-01'
   relation: related
   strength: 0.6809
-- slug: 2026-07-11-walz-pulls-minnesota-guard-from-d-c-early-whitmer-under-pressure
-  headline: Walz pulls Minnesota Guard from D.C. early; Whitmer under pressure
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6357
-- slug: 2026-07-03-dearborn-mall-shooting-leaves-2-dead-1-injured-police-say-fight-escalated
-  headline: Dearborn mall shooting leaves 2 dead, 1 injured; police say fight escalated
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6466
-- slug: 2026-06-07-at-least-12-wounded-in-shooting-near-toledo-festival-police-search-for-suspects
-  headline: At least 12 wounded in shooting near Toledo festival; police search for suspects
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-07-multiple-people-shot-near-festival-in-toledo-ohio-suspect-at-large
-  headline: Multiple people shot near festival in Toledo, Ohio; suspect at large
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6208
-- slug: 2026-06-06-eight-shot-at-toledo-summer-festival-search-for-suspect-underway
-  headline: Eight shot at Toledo summer festival; search for suspect underway
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.622
 - slug: 2026-03-02-9-hurt-in-cincinnati-nightclub-shooting-no-arrests-yet-police-say
   headline: 9 hurt in Cincinnati nightclub shooting; no arrests yet, police say
   publish_date: '2026-03-02'
@@ -173,48 +155,12 @@ related_stories:
   publish_date: '2026-01-25'
   relation: related
   strength: 0.6712
-- slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
-  headline: Shooting near University of Iowa wounds five people
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6246
 - slug: 2026-01-09-ice-agents-shoot-two-outside-portland-hospital-oregon-ag-vows-probe
   headline: ICE agents shoot two outside Portland hospital; Oregon AG vows probe
   publish_date: '2026-01-09'
   relation: related
   strength: 0.6557
-- slug: 2026-01-29-trump-signals-easing-immigration-tensions-but-enforcement-continues-in-minneapol
-  headline: Trump signals easing immigration tensions, but enforcement continues in Minneapolis
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6498
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  headline: Minneapolis sees second federal shooting as courts, governor push back on immigration sweep
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6426
-- slug: 2026-02-13-minneapolis-weighs-next-steps-for-memorials-at-federal-officers-shooting-sites
-  headline: Minneapolis weighs next steps for memorials at federal officers’ shooting sites
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6303
-- slug: 2026-03-02-federal-authorities-join-police-search-for-suspect-in-cincinnati-nightclub-shoot
-  headline: Federal authorities join police search for suspect in Cincinnati nightclub shooting
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6248
-- slug: 2026-01-25-trump-blames-democrats-for-chaos-after-fatal-minneapolis-immigration-shooting
-  headline: Trump blames Democrats for chaos after fatal Minneapolis immigration shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6332
-- slug: 2026-01-08-shooting-outside-salt-lake-city-lds-church-kills-2-injures-6
-  headline: Shooting outside Salt Lake City LDS church kills 2, injures 6
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6331
 ---
-
 ## Minneapolis convention center shooting injures two officers, multiple others
 
 **Subtype:** fact

@@ -2,11 +2,20 @@
 headline: Ford targets 100,000 first-year sales for new $30,000 Fathom electric truck
 secondary_headline: EV sales fell 48% in August after federal tax credit expired
 publish_date: '2026-09-02'
-lede: 'Ford Motor is aiming to sell more than 100,000 units of its new $30,000 Fathom electric truck in the vehicle''s first year of production, according to people familiar with the matter — a target no automaker other than Tesla has reached for a single EV model in a single U.S. year.
+lede: 'Ford Motor is aiming to sell more than 100,000 units of its new $30,000 Fathom
+  electric truck in the vehicle''s first year of production, according to people familiar
+  with the matter — a target no automaker other than Tesla has reached for a single
+  EV model in a single U.S. year.
 
 
-  The truck is set to go on sale next year and will be built on a new assembly line in Louisville, Kentucky, the company has said. The target comes as overall U.S. EV sales fell 48% year-over-year in August after a $7,500 federal tax credit was phased out, according to industry-research firm Motor Intelligence.'
-nut_graf: The price and volume targets mark Ford's effort to position the Fathom as a mass-market vehicle rather than a premium offering, betting that a sticker price comparable to mainstream sedans and SUVs can expand the audience for electric trucks beyond buyers of its earlier, more expensive EVs.
+  The truck is set to go on sale next year and will be built on a new assembly line
+  in Louisville, Kentucky, the company has said. The target comes as overall U.S.
+  EV sales fell 48% year-over-year in August after a $7,500 federal tax credit was
+  phased out, according to industry-research firm Motor Intelligence.'
+nut_graf: The price and volume targets mark Ford's effort to position the Fathom as
+  a mass-market vehicle rather than a premium offering, betting that a sticker price
+  comparable to mainstream sedans and SUVs can expand the audience for electric trucks
+  beyond buyers of its earlier, more expensive EVs.
 primary_entities:
 - Ford Motor
 - Ford Fathom
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +161,40 @@ related_stories:
   headline: GM's century-long US sales lead over Toyota shrinks to 100,000 vehicles
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6574
+  strength: 0.6571
 - slug: 2026-08-01-ford-ends-production-of-sedans-and-crossovers-pivots-to-trucks-suvs-sports-cars
-  headline: Ford ends production of sedans and crossovers, pivots to trucks, SUVs, sports cars
+  headline: Ford ends production of sedans and crossovers, pivots to trucks, SUVs,
+    sports cars
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.7371
+  strength: 0.7384
 - slug: 2026-08-15-ford-and-gm-push-competing-tariff-demands-on-washington
   headline: Ford and GM push competing tariff demands on Washington
   publish_date: '2026-08-15'
   relation: related
   strength: 0.6542
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6378
 - slug: 2026-08-07-ford-reveals-four-door-mustang-at-dealer-event
   headline: Ford Reveals Four-Door Mustang at Dealer Event
   publish_date: '2026-08-07'
   relation: related
   strength: 0.6699
-- slug: 2026-08-13-ram-brings-back-v-8-hemi-as-sales-rise-22-against-industry-decline
-  headline: Ram brings back V-8 Hemi as sales rise 22% against industry decline
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6237
 - slug: 2026-07-27-ford-motor-secures-pentagon-contract-to-develop-next-army-tactical-truck
   headline: Ford Motor secures Pentagon contract to develop next Army tactical truck
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6558
+  strength: 0.6564
 - slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
   headline: Ford executive chair says US must prepare for Chinese cars to enter market
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6637
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6362
+  strength: 0.6643
 - slug: 2026-06-24-bezos-backed-startup-slate-auto-plans-25-000-ev-pickup-with-hand-crank-windows
-  headline: Bezos-backed startup Slate Auto plans $25,000 EV pickup with hand-crank windows
+  headline: Bezos-backed startup Slate Auto plans $25,000 EV pickup with hand-crank
+    windows
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.6744
-- slug: 2026-07-06-toyota-to-invest-3-6-billion-to-move-tacoma-production-to-texas
-  headline: Toyota to invest $3.6 billion to move Tacoma production to Texas
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6406
-- slug: 2026-07-04-us-risks-falling-behind-in-global-ev-transition-as-chinese-cars-undercut-domesti
-  headline: US risks falling behind in global EV transition as Chinese cars undercut domestic market, analysts say
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6453
-- slug: 2026-06-29-automakers-eye-comeback-of-small-cheap-pickup-trucks
-  headline: Automakers eye comeback of small, cheap pickup trucks
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.643
-- slug: 2026-06-30-ford-recalls-over-740-000-vehicles-over-transmission-rollaway-risk
-  headline: Ford recalls over 740,000 vehicles over transmission rollaway risk
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6344
-- slug: 2026-06-06-big-business-and-philanthropies-pour-400-million-into-skilled-trades-training
-  headline: Big business and philanthropies pour $400 million into skilled trades training
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6231
-- slug: 2026-06-11-argentina-plans-to-allow-duty-free-import-of-10-000-us-vehicles-annually
-  headline: Argentina plans to allow duty-free import of 10,000 US vehicles annually
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6125
-- slug: 2026-05-15-honda-posts-first-full-year-loss-as-ev-plans-collide-with-u-s-policy
-  headline: Honda posts first full-year loss as EV plans collide with U.S. policy
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6201
-- slug: 2026-04-17-ford-recalls-1-4-million-f-150-trucks-over-gearshift-defect
-  headline: Ford recalls 1.4 million F-150 trucks over gearshift defect
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.629
-- slug: 2026-01-01-tesla-loses-top-ev-seller-title-to-china-s-byd-after-sales-slump
-  headline: Tesla loses top EV seller title to China’s BYD after sales slump
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6442
-- slug: 2026-03-06-sk-battery-america-lays-off-958-workers-at-georgia-plant-amid-ev-slowdown
-  headline: SK Battery America lays off 958 workers at Georgia plant amid EV slowdown
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6289
+  strength: 0.6743
 ---
-
 ## Ford targets 100,000 first-year sales for new $30,000 Fathom electric truck
 
 **Subtype:** fact

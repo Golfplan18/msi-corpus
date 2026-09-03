@@ -1,9 +1,18 @@
 ---
-headline: Coast Guard plane carrying DHS Secretary Mullin lands safely after engine fire
+headline: Coast Guard plane carrying DHS Secretary Mullin lands safely after engine
+  fire
 secondary_headline: DHS purchased two new Gulfstream 700 jets last year
 publish_date: '2026-09-02'
-lede: A Coast Guard plane carrying Department of Homeland Security Secretary Markwayne Mullin made an emergency landing at Washington's Reagan National Airport on Wednesday afternoon after the aircraft's right engine failed and caught fire, a Coast Guard spokesman said. The jet had 14 people aboard, including Mullin and several other senior DHS officials. The spokesman said all those on board were unharmed.
-nut_graf: Last year, the department determined that the planes previously used to ferry the secretary around the country were 'dangerously outdated,' and Mullin's predecessor, Kristi Noem, purchased two new Gulfstream 700 jets for the secretary's use. It was not immediately clear why Mullin was aboard an older aircraft rather than one of the newer jets.
+lede: A Coast Guard plane carrying Department of Homeland Security Secretary Markwayne
+  Mullin made an emergency landing at Washington's Reagan National Airport on Wednesday
+  afternoon after the aircraft's right engine failed and caught fire, a Coast Guard
+  spokesman said. The jet had 14 people aboard, including Mullin and several other
+  senior DHS officials. The spokesman said all those on board were unharmed.
+nut_graf: Last year, the department determined that the planes previously used to
+  ferry the secretary around the country were 'dangerously outdated,' and Mullin's
+  predecessor, Kristi Noem, purchased two new Gulfstream 700 jets for the secretary's
+  use. It was not immediately clear why Mullin was aboard an older aircraft rather
+  than one of the newer jets.
 primary_entities:
 - Markwayne Mullin
 - Department of Homeland Security
@@ -37,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -115,31 +125,6 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-12-faa-plans-antenna-relocations-new-procedures-after-marine-one-incident-at-reagan
-  headline: FAA plans antenna relocations, new procedures after Marine One incident at Reagan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6219
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6199
-- slug: 2026-07-10-pentagon-returns-eight-south-carolina-guard-pilots-to-duty-after-july-4-flyover
-  headline: Pentagon returns eight South Carolina guard pilots to duty after July 4 flyover
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6142
-- slug: 2026-07-05-hard-landing-snaps-wing-strut-in-east-river-seaplane-faa-says
-  headline: Hard landing snaps wing strut in East River seaplane, FAA says
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6145
-- slug: 2026-07-05-nasa-administrator-flew-f-5-fighters-in-fourth-of-july-flyover-after-faa-rejecte
-  headline: NASA Administrator flew F-5 fighters in Fourth of July flyover after FAA rejected exemption request
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6138
 - slug: 2026-05-19-2-navy-jets-collide-at-idaho-air-show-all-four-crew-eject-safely
   headline: 2 Navy jets collide at Idaho air show; all four crew eject safely
   publish_date: '2026-05-19'
@@ -150,73 +135,7 @@ related_stories:
   publish_date: '2026-05-18'
   relation: related
   strength: 0.6547
-- slug: 2026-05-18-ntsb-hearings-probe-engine-mount-cracks-that-preceded-fatal-ups-louisville-crash
-  headline: NTSB hearings probe engine mount cracks that preceded fatal UPS Louisville crash
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6279
-- slug: 2026-05-18-ntsb-holds-2-day-hearings-on-louisville-ups-crash-after-engine-failure
-  headline: NTSB holds 2-day hearings on Louisville UPS crash after engine failure
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6277
-- slug: 2026-05-17-two-navy-jets-collide-during-idaho-air-show-all-four-crew-members-eject-safely
-  headline: Two Navy jets collide during Idaho air show; all four crew members eject safely
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.617
-- slug: 2026-05-19-two-navy-jets-collide-at-idaho-air-show-all-four-crew-members-eject-safely
-  headline: Two Navy jets collide at Idaho air show; all four crew members eject safely
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6145
-- slug: 2026-04-08-north-carolina-visit-dhs-chief-mullin-promises-fema-disaster-relief-progress
-  headline: 'North Carolina visit: DHS chief Mullin promises FEMA disaster relief progress'
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6493
-- slug: 2026-03-24-mullin-confirmed-as-homeland-security-secretary-amid-tsa-funding-impasse
-  headline: Mullin Confirmed as Homeland Security Secretary Amid TSA Funding Impasse
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6495
-- slug: 2026-04-17-coast-guard-searches-for-6-missing-near-guam-following-typhoon
-  headline: Coast Guard searches for 6 missing near Guam following typhoon
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6167
-- slug: 2026-03-29-dc-area-airports-briefly-halt-flights-after-chemical-smell-at-tracon
-  headline: DC-area airports briefly halt flights after chemical smell at TRACON
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6232
-- slug: 2026-01-25-ntsb-details-yearlong-aftermath-of-army-helicopter-american-jet-crash
-  headline: NTSB details yearlong aftermath of Army helicopter, American jet crash
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6417
-- slug: 2026-03-24-air-traffic-controller-stress-comes-into-focus-after-laguardia-crash
-  headline: Air traffic controller stress comes into focus after LaGuardia crash
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6225
-- slug: 2026-01-25-ntsb-to-probe-dc-midair-collision-recommend-fixes-to-prevent-repeats
-  headline: NTSB to probe DC midair collision, recommend fixes to prevent repeats
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6355
-- slug: 2026-03-15-chemical-smell-halts-flights-at-four-washington-area-airports-for-over-an-hour
-  headline: Chemical smell halts flights at four Washington-area airports for over an hour
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6206
-- slug: 2026-01-27-ntsb-calls-deadly-dc-collision-100-preventable-cites-faa-failures
-  headline: NTSB calls deadly DC collision '100% preventable,' cites FAA failures
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.633
 ---
-
 ## Coast Guard plane carrying DHS Secretary Mullin lands safely after engine fire
 
 **Subtype:** fact

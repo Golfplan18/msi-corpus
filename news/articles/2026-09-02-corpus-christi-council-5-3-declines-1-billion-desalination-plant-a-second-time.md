@@ -1,9 +1,17 @@
 ---
-headline: Corpus Christi council, 5-3, declines $1 billion desalination plant a second time
+headline: Corpus Christi council, 5-3, declines $1 billion desalination plant a second
+  time
 secondary_headline: Abbott had said state might 'micromanage' the city's water supply
 publish_date: '2026-09-02'
-lede: The Corpus Christi City Council voted 5-3 on Tuesday to reject a proposed nearly $1 billion desalination plant, the second time in roughly a year the council has turned down the project. The plant was designed to provide a drought-proof source of drinking water for the coastal Texas city, but opponents questioned its high cost and the environmental impact of its salty discharge on Corpus Christi Bay.
-nut_graf: The vote was being watched by Gov. Greg Abbott, who had previously suggested the state might intervene in the city's water decisions. The decision leaves Corpus Christi's long-term water supply still in question after a decade of effort to develop a new source.
+lede: The Corpus Christi City Council voted 5-3 on Tuesday to reject a proposed nearly
+  $1 billion desalination plant, the second time in roughly a year the council has
+  turned down the project. The plant was designed to provide a drought-proof source
+  of drinking water for the coastal Texas city, but opponents questioned its high
+  cost and the environmental impact of its salty discharge on Corpus Christi Bay.
+nut_graf: The vote was being watched by Gov. Greg Abbott, who had previously suggested
+  the state might intervene in the city's water decisions. The decision leaves Corpus
+  Christi's long-term water supply still in question after a decade of effort to develop
+  a new source.
 primary_entities:
 - Corpus Christi
 - Corpus Christi City Council
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,36 +149,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-29-cave-creek-mayor-says-federal-colorado-river-plan-won-t-secure-town-s-future
-  headline: Cave Creek mayor says federal Colorado River plan won't secure town's future
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.5708
 - slug: 2026-07-28-corpus-christi-projected-water-emergency-pushed-to-fall-2028
   headline: Corpus Christi projected water emergency pushed to fall 2028
   publish_date: '2026-07-28'
   relation: related
   strength: 0.6631
-- slug: 2026-08-16-bureau-weighs-40-lower-basin-cuts-as-reservoirs-shrink
-  headline: Bureau weighs 40% lower-basin cuts as reservoirs shrink
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.5677
-- slug: 2026-08-12-project-tango-datacenter-faces-palm-beach-county-opposition-over-algae
-  headline: Project Tango datacenter faces Palm Beach County opposition over algae
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5789
-- slug: 2026-08-07-little-rock-adopts-data-center-limits-as-arkansas-projects-draw-opposition
-  headline: Little Rock adopts data center limits as Arkansas projects draw opposition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5786
-- slug: 2026-08-04-abbott-pauses-texas-data-center-approvals-pending-an-audit
-  headline: Abbott pauses Texas data center approvals pending an audit
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5873
 - slug: 2026-03-26-corpus-christi-explores-buying-desalinated-water-from-private-plant
   headline: Corpus Christi explores buying desalinated water from private plant
   publish_date: '2026-03-26'
@@ -180,11 +164,6 @@ related_stories:
   publish_date: '2026-03-25'
   relation: related
   strength: 0.8164
-- slug: 2026-08-07-gilroy-residents-protest-amazon-data-center-approved-without-public-vote
-  headline: Gilroy residents protest Amazon data center approved without public vote
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5669
 - slug: 2026-05-06-corpus-christi-to-begin-talks-on-privately-built-desalination-plant
   headline: Corpus Christi to begin talks on privately built desalination plant
   publish_date: '2026-05-06'
@@ -196,7 +175,8 @@ related_stories:
   relation: related
   strength: 0.7701
 - slug: 2026-04-14-water-crisis-threatens-corpus-christi-as-drought-drains-reserves-and-cuts-loom
-  headline: Water crisis threatens Corpus Christi as drought drains reserves and cuts loom
+  headline: Water crisis threatens Corpus Christi as drought drains reserves and cuts
+    loom
   publish_date: '2026-04-14'
   relation: related
   strength: 0.7246
@@ -210,38 +190,7 @@ related_stories:
   publish_date: '2026-03-21'
   relation: related
   strength: 0.6694
-- slug: 2026-05-26-cool-water-plan-for-grand-canyon-fish-weighs-ecological-gains-vs-lost-power
-  headline: Cool water plan for Grand Canyon fish weighs ecological gains vs lost power
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5812
-- slug: 2026-04-17-ypsilanti-township-calls-12-month-pause-on-water-for-data-centers
-  headline: Ypsilanti Township calls 12-month pause on water for data centers
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6035
-- slug: 2026-05-02-delta-tunnel-plan-nears-end-of-newsom-era-but-hurdles-remain
-  headline: Delta tunnel plan nears end of Newsom era, but hurdles remain
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5772
-- slug: 2026-04-24-michigan-utility-approves-12-month-water-ban-for-data-centers
-  headline: Michigan utility approves 12-month water ban for data centers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.577
-- slug: 2026-03-25-consumers-energy-asks-ferc-to-delay-hardy-dam-spillway-work-amid-sale
-  headline: Consumers Energy asks FERC to delay Hardy Dam spillway work amid sale
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.5762
-- slug: 2026-03-05-vermont-bill-would-bar-landfill-leachate-from-lake-memphremagog-over-pfas-fears
-  headline: Vermont bill would bar landfill leachate from Lake Memphremagog over PFAS fears
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5774
 ---
-
 ## Corpus Christi council, 5-3, declines $1 billion desalination plant a second time
 
 **Subtype:** fact

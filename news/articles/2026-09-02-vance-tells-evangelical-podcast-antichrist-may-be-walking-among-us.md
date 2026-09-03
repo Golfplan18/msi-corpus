@@ -2,8 +2,14 @@
 headline: Vance tells evangelical podcast antichrist may be 'walking among us'
 secondary_headline: Vance defended Trump's deleted AI-generated Jesus photo
 publish_date: '2026-09-02'
-lede: Vice President JD Vance told an evangelical podcast he would not be shocked if the antichrist were walking among us, pointing to artificial intelligence as evidence, and defended President Donald Trump's deleted AI-generated image of himself as Jesus. Vance described an acquaintance who uses AI as a marriage counselor as "kind of satanic."
-nut_graf: During the Monday interview, Vance said he is doing "as much of God's work as possible" and would be at peace if his work brings about the end times, which he said "are coming."
+lede: Vice President JD Vance told an evangelical podcast he would not be shocked
+  if the antichrist were walking among us, pointing to artificial intelligence as
+  evidence, and defended President Donald Trump's deleted AI-generated image of himself
+  as Jesus. Vance described an acquaintance who uses AI as a marriage counselor as
+  "kind of satanic."
+nut_graf: During the Monday interview, Vance said he is doing "as much of God's work
+  as possible" and would be at peace if his work brings about the end times, which
+  he said "are coming."
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -38,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -120,104 +127,41 @@ related_stories:
   headline: Vance says he would not be shocked if Antichrist walking among us
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7904
+  strength: 0.7915
 - slug: 2026-09-01-vance-says-he-d-have-doubted-trump-successor-if-2024-attempt-had-succeeded
   headline: Vance says he'd have doubted Trump successor if 2024 attempt had succeeded
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.788
-- slug: 2026-09-01-vance-tells-rogers-rally-el-sayed-is-very-very-evil-over-usha-vance-remarks
-  headline: Vance tells Rogers rally El-Sayed is 'very, very evil' over Usha Vance remarks
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6325
-- slug: 2026-08-31-vance-to-address-republican-jewish-coalition-gathering-monday-in-las-vegas
-  headline: Vance to address Republican Jewish Coalition gathering Monday in Las Vegas
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6246
-- slug: 2026-08-21-leaked-audio-vance-tells-donors-carney-tries-to-out-tough-trump
-  headline: 'Leaked audio: Vance tells donors Carney tries to ''out-tough'' Trump'
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6187
-- slug: 2026-07-27-sen-rand-paul-releases-fauci-diary-entries-describing-trump-as-rambling-crazy-du
-  headline: Sen. Rand Paul releases Fauci diary entries describing Trump as 'rambling,' 'crazy' during pandemic
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6181
-- slug: 2026-07-19-ai-sermon-use-grows-among-us-pastors-vatican-warns-of-limits
-  headline: AI sermon use grows among US pastors, Vatican warns of limits
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6323
+  strength: 0.7877
 - slug: 2026-06-19-vance-recounts-catholic-conversion-in-memoir-amid-broader-shift-in-us-catholicis
-  headline: Vance recounts Catholic conversion in memoir amid broader shift in US Catholicism
+  headline: Vance recounts Catholic conversion in memoir amid broader shift in US
+    Catholicism
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.7042
-- slug: 2026-07-05-atlantic-republishes-2016-jd-vance-essay-calling-trump-cultural-heroin
-  headline: Atlantic republishes 2016 JD Vance essay calling Trump 'cultural heroin'
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6404
+  strength: 0.7036
 - slug: 2026-06-14-vance-says-he-will-discuss-2028-run-with-family-after-midterms
   headline: Vance says he will discuss 2028 run with family after midterms
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.6717
-- slug: 2026-06-23-vance-promotes-new-memoir-as-administration-negotiates-iran-deal
-  headline: Vance promotes new memoir as administration negotiates Iran deal
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6441
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6389
-- slug: 2026-06-26-vance-says-watergate-would-be-a-12-hour-news-story-today
-  headline: Vance says Watergate would be a '12-hour news story' today
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6267
-- slug: 2026-06-03-pope-leo-xiv-warns-ai-threatens-democracy-in-landmark-encyclical
-  headline: Pope Leo XIV warns AI threatens democracy in landmark encyclical
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6321
+  strength: 0.6721
 - slug: 2026-04-15-vance-meets-sparse-athens-crowd-as-iran-war-trump-s-jesus-meme-draw-conservative
-  headline: Vance meets sparse Athens crowd as Iran war, Trump's Jesus meme draw conservative criticism
+  headline: Vance meets sparse Athens crowd as Iran war, Trump's Jesus meme draw conservative
+    criticism
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6828
+  strength: 0.683
 - slug: 2026-04-15-vance-faces-sparse-crowd-and-conservative-criticism-at-athens-turning-point-foru
-  headline: Vance faces sparse crowd and conservative criticism at Athens Turning Point forum
+  headline: Vance faces sparse crowd and conservative criticism at Athens Turning
+    Point forum
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6786
-- slug: 2026-05-25-pope-leo-warns-ai-is-a-test-of-human-dignity-work-and-power
-  headline: Pope Leo warns AI is a test of human dignity, work and power
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6314
-- slug: 2026-05-24-pope-leo-xiv-s-first-encyclical-to-address-ai-and-magnificent-humanity
-  headline: Pope Leo XIV’s first encyclical to address AI and “magnificent humanity”
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6316
-- slug: 2026-05-20-vance-takes-the-spotlight-at-white-house-briefing-after-rubio-s-turn
-  headline: Vance takes the spotlight at White House briefing after Rubio’s turn
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6198
+  strength: 0.6787
 - slug: 2026-04-14-many-us-catholics-dismayed-by-trump-s-verbal-attack-on-pope-leo
   headline: Many US Catholics dismayed by Trump’s verbal attack on Pope Leo
   publish_date: '2026-04-14'
   relation: related
-  strength: 0.6524
+  strength: 0.6531
 ---
-
 ## Vance tells evangelical podcast antichrist may be 'walking among us'
 
 **Subtype:** fact

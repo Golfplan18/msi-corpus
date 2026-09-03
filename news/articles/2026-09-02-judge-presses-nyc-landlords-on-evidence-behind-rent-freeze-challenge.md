@@ -2,8 +2,15 @@
 headline: Judge presses NYC landlords on evidence behind rent-freeze challenge
 secondary_headline: City lawyers cite months of records behind the freeze vote
 publish_date: '2026-09-02'
-lede: New York state judge Brendan Lantry pressed landlord attorney Randy Mastro on Sept. 2 to substantiate his claim that Mayor Zohran Mamdani unlawfully shaped the city's rent freeze. Landlords sued to overturn the Rent Guidelines Board's decision barring increases for stabilized apartments, and Lantry said he would work quickly because the freeze is scheduled to take effect in October.
-nut_graf: The dispute asks whether the board acted independently while carrying out a campaign promise and weighing data on tenant affordability and landlord costs. City lawyers say the board followed the law after months of records and testimony; Mastro alleges the board selected evidence to deliver the mayor's desired result.
+lede: New York state judge Brendan Lantry pressed landlord attorney Randy Mastro on
+  Sept. 2 to substantiate his claim that Mayor Zohran Mamdani unlawfully shaped the
+  city's rent freeze. Landlords sued to overturn the Rent Guidelines Board's decision
+  barring increases for stabilized apartments, and Lantry said he would work quickly
+  because the freeze is scheduled to take effect in October.
+nut_graf: The dispute asks whether the board acted independently while carrying out
+  a campaign promise and weighing data on tenant affordability and landlord costs.
+  City lawyers say the board followed the law after months of records and testimony;
+  Mastro alleges the board selected evidence to deliver the mayor's desired result.
 primary_entities:
 - New York City
 - Rent Guidelines Board
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +153,39 @@ related_stories:
   headline: Mamdani rent freeze keeps rents flat for roughly one million NYC apartments
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7015
+  strength: 0.7014
 - slug: 2026-08-29-mamdani-sues-to-block-10-000-bonuses-for-nyc-school-aides
   headline: Mamdani sues to block $10,000 bonuses for NYC school aides
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.6592
+  strength: 0.6591
 - slug: 2026-07-22-five-landlords-challenge-nyc-rent-freeze-in-state-court
   headline: Five landlords challenge NYC rent freeze in state court
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.8451
-- slug: 2026-08-25-new-york-city-defends-pied---terre-tax-rollout-in-court-filing
-  headline: New York City defends pied-à-terre tax rollout in court filing
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6391
-- slug: 2026-08-21-nyc-council-hearing-reveals-split-over-mamdani-second-home-tax-rollout
-  headline: NYC council hearing reveals split over Mamdani second-home tax rollout
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6387
+  strength: 0.8456
 - slug: 2026-08-10-staten-island-judge-halts-enforcement-of-nyc-pied---terre-tax
   headline: Staten Island judge halts enforcement of NYC pied-à-terre tax
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6693
+  strength: 0.6684
 - slug: 2026-06-26-nyc-board-approves-mamdani-s-rent-freeze-for-1-million-apartments
   headline: NYC board approves Mamdani's rent freeze for 1 million apartments
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.7975
-- slug: 2026-08-11-judge-blocks-new-york-city-pied---terre-tax-rollout-as-notices-go-out
-  headline: Judge blocks New York City pied-à-terre tax rollout as notices go out
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6054
-- slug: 2026-08-05-mamdani-dismisses-all-advisers-from-nyc-mayor-s-fund-board
-  headline: Mamdani dismisses all advisers from NYC Mayor's Fund board
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6324
-- slug: 2026-07-25-mamdani-cuts-red-tape-for-nyc-small-businesses-with-50-reforms
-  headline: Mamdani cuts red tape for NYC small businesses with 50 reforms
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6237
-- slug: 2026-06-25-us-renters-push-for-federal-action-on-apartment-junk-fees
-  headline: US renters push for federal action on apartment 'junk fees'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6457
+  strength: 0.7974
 - slug: 2026-04-04-nyc-mayor-zohran-mamdani-hears-bronx-rental-rip-off-complaints
   headline: NYC Mayor Zohran Mamdani hears Bronx “rental rip-off” complaints
   publish_date: '2026-04-04'
   relation: related
-  strength: 0.6875
-- slug: 2026-06-12-judge-acquits-former-nyc-comptroller-brad-lander-of-misdemeanor-in-ice-protest
-  headline: Judge acquits former NYC comptroller Brad Lander of misdemeanor in ICE protest
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6015
-- slug: 2026-06-14-mamdani-wades-into-new-york-primaries-tests-political-power
-  headline: Mamdani wades into New York primaries, tests political power
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.5974
-- slug: 2026-03-18-mamdani-wants-to-stop-city-legal-support-for-ex-mayor-adams-in-sex-suit
-  headline: Mamdani wants to stop city legal support for ex-Mayor Adams in sex suit
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6391
+  strength: 0.6877
 - slug: 2026-01-07-nyc-mayor-stands-behind-tenant-official-facing-backlash-over-old-social-media-po
-  headline: NYC mayor stands behind tenant official facing backlash over old social media posts
+  headline: NYC mayor stands behind tenant official facing backlash over old social
+    media posts
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.6546
-- slug: 2026-04-17-mamdani-endorses-cuomo-accuser-in-city-council-race
-  headline: Mamdani endorses Cuomo accuser in city council race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.619
-- slug: 2026-04-13-mayor-zohran-mamdani-marks-100-days-with-grocery-trash-and-bus-plans
-  headline: Mayor Zohran Mamdani marks 100 days with grocery, trash and bus plans
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6084
-- slug: 2025-12-29-mamdani-set-to-take-over-nyc-with-free-childcare-rent-freeze-promises
-  headline: Mamdani set to take over NYC with free-childcare, rent-freeze promises
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6369
-- slug: 2025-12-30-can-zohran-mamdani-fulfill-his-big-promises-as-nyc-mayor
-  headline: Can Zohran Mamdani fulfill his big promises as NYC mayor?
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6289
+  strength: 0.6548
 ---
-
 ## Judge presses NYC landlords on evidence behind rent-freeze challenge
 
 - State Justice Brendan Lantry challenged Randy Mastro's claim that Mayor Zohran Mamdani unlawfully shaped the city's rent freeze.

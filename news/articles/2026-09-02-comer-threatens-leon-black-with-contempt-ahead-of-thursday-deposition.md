@@ -2,8 +2,16 @@
 headline: Comer threatens Leon Black with contempt ahead of Thursday deposition
 secondary_headline: Survivors demand Black release Epstein NDAs before Thursday testimony
 publish_date: '2026-09-02'
-lede: House Oversight Committee Chairman James Comer threatened last week to hold billionaire private equity investor Leon Black in contempt of Congress as Black faces a Thursday deposition in the panel's investigation into Jeffrey Epstein's associates. More than a dozen survivors of Epstein's abuse called on Black on Wednesday to comply with a congressional subpoena and turn over all responsive nondisclosure agreements ahead of the scheduled appearance.
-nut_graf: The letter and the deposition threat land as the House panel presses its inquiry into Epstein's associates and the network surrounding his crimes, with millions of files still unreleased despite the Epstein Files Transparency Act Trump signed nearly a year ago.
+lede: House Oversight Committee Chairman James Comer threatened last week to hold
+  billionaire private equity investor Leon Black in contempt of Congress as Black
+  faces a Thursday deposition in the panel's investigation into Jeffrey Epstein's
+  associates. More than a dozen survivors of Epstein's abuse called on Black on Wednesday
+  to comply with a congressional subpoena and turn over all responsive nondisclosure
+  agreements ahead of the scheduled appearance.
+nut_graf: The letter and the deposition threat land as the House panel presses its
+  inquiry into Epstein's associates and the network surrounding his crimes, with millions
+  of files still unreleased despite the Epstein Files Transparency Act Trump signed
+  nearly a year ago.
 primary_entities:
 - Leon Black
 - Jeffrey Epstein
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,31 +151,38 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-09-02-comer-threatens-leon-black-with-contempt-ahead-of-thursday-deposition.png
-  alt: 'Illustration accompanying article: Comer threatens Leon Black with contempt ahead of Thursday deposition'
+  alt: 'Illustration accompanying article: Comer threatens Leon Black with contempt
+    ahead of Thursday deposition'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-08-19-house-oversight-chair-threatens-leon-black-with-contempt-over-epstein-probe
-  headline: House oversight chair threatens Leon Black with contempt over Epstein probe
+  headline: House oversight chair threatens Leon Black with contempt over Epstein
+    probe
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.8974
+  strength: 0.8976
 - slug: 2026-09-03-leon-black-files-federal-suit-to-void-oversight-committee-subpoenas
   headline: Leon Black files federal suit to void Oversight Committee subpoenas
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.8002
+  strength: 0.7996
 - slug: 2026-09-01-massie-names-black-and-copperfield-as-epstein-co-conspirators-on-house-floor
-  headline: Massie names Black and Copperfield as Epstein co-conspirators on House floor
+  headline: Massie names Black and Copperfield as Epstein co-conspirators on House
+    floor
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.8017
+  strength: 0.8018
 - slug: 2026-06-26-leon-black-to-testify-friday-before-house-panel-investigating-epstein-ties
-  headline: Leon Black to testify Friday before House panel investigating Epstein ties
+  headline: Leon Black to testify Friday before House panel investigating Epstein
+    ties
   publish_date: '2026-06-26'
   relation: related
   strength: 0.7515
@@ -184,74 +200,13 @@ related_stories:
   headline: Lutnick defends Epstein ties in closed House interview, GOP praises
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.7199
+  strength: 0.7208
 - slug: 2026-03-18-pam-bondi-subpoenaed-by-congress-over-epstein-files
   headline: Pam Bondi subpoenaed by Congress over Epstein files
   publish_date: '2026-03-18'
   relation: related
   strength: 0.7469
-- slug: 2026-01-13-clintons-refuse-house-epstein-subpoena-as-contempt-proceedings-loom
-  headline: Clintons refuse House Epstein subpoena as contempt proceedings loom
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7631
-- slug: 2026-02-26-bill-and-hillary-clinton-gear-up-for-a-washington-fight-over-epstein-probe
-  headline: Bill and Hillary Clinton gear up for a Washington fight over Epstein probe
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.74
-- slug: 2026-05-06-commerce-secretary-lutnick-testifies-to-house-committee-on-epstein-ties
-  headline: Commerce Secretary Lutnick testifies to House committee on Epstein ties
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6986
-- slug: 2026-01-21-house-committee-advances-contempt-charges-against-clintons
-  headline: House committee advances contempt charges against Clintons
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.7409
-- slug: 2026-05-18-judge-bars-lawmakers-from-maxwell-case-but-allows-epstein-files-lawsuit
-  headline: Judge bars lawmakers from Maxwell case but allows Epstein files lawsuit
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6776
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7208
-- slug: 2026-02-03-clintons-agree-to-testify-in-house-epstein-probe-after-contempt-threat
-  headline: Clintons agree to testify in House Epstein probe after contempt threat
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7327
-- slug: 2026-03-05-house-committee-votes-to-subpoena-pam-bondi-over-epstein-files
-  headline: House committee votes to subpoena Pam Bondi over Epstein files
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.72
-- slug: 2026-02-04-clintons-agree-to-testify-in-house-epstein-probe-after-contempt-threat
-  headline: Clintons agree to testify in House Epstein probe after contempt threat
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.7194
-- slug: 2026-03-12-lawmakers-depose-epstein-accountant-on-wealth-business-ties
-  headline: Lawmakers depose Epstein accountant on wealth, business ties
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.7037
-- slug: 2026-04-09-bondi-will-not-testify-at-house-deposition-in-epstein-files-probe
-  headline: Bondi will not testify at House deposition in Epstein files probe
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6852
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  headline: Justice Department reviews 5.2 million Epstein files, misses deadline
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6997
 ---
-
 ## Comer threatens Leon Black with contempt ahead of Thursday deposition
 
 **Subtype:** fact

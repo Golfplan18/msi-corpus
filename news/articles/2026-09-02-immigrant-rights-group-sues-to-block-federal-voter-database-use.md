@@ -2,8 +2,18 @@
 headline: Immigrant rights group sues to block federal voter database use
 secondary_headline: Lawsuit targets DHS and DOJ as states fight federal election moves
 publish_date: '2026-09-02'
-lede: The Coalition for Humane Immigrant Rights filed a federal lawsuit Wednesday seeking to block the U.S. Department of Homeland Security from using federal databases the group alleges are being used to target naturalized citizens eligible to vote. The complaint, filed in U.S. District Court in Washington by the UCLA Voting Rights Project, names DHS and the U.S. Justice Department and alleges the federal government is interfering with fair elections through what the suit describes as inaccurate federal databases.
-nut_graf: At a Los Angeles news conference, coalition executive director Angelica Salas said the federal government is 'engaging in an attack on the freedom to vote' and called the action 'voter intimidation.' Xavier Becerra, the Democratic nominee for California governor and a senior adviser to the voting project, said the effort to 'interfere with the right to vote' is not an accident.
+lede: The Coalition for Humane Immigrant Rights filed a federal lawsuit Wednesday
+  seeking to block the U.S. Department of Homeland Security from using federal databases
+  the group alleges are being used to target naturalized citizens eligible to vote.
+  The complaint, filed in U.S. District Court in Washington by the UCLA Voting Rights
+  Project, names DHS and the U.S. Justice Department and alleges the federal government
+  is interfering with fair elections through what the suit describes as inaccurate
+  federal databases.
+nut_graf: At a Los Angeles news conference, coalition executive director Angelica
+  Salas said the federal government is 'engaging in an attack on the freedom to vote'
+  and called the action 'voter intimidation.' Xavier Becerra, the Democratic nominee
+  for California governor and a senior adviser to the voting project, said the effort
+  to 'interfere with the right to vote' is not an accident.
 primary_entities:
 - Coalition for Humane Immigrant Rights
 - UCLA Voting Rights Project
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -126,113 +137,59 @@ related_stories:
   headline: State election officials tighten voter rolls amid Trump push
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.669
+  strength: 0.6693
 - slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
+  headline: State officials push back after DOJ threatens prosecution over noncitizen
+    voting
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.6838
-- slug: 2026-07-18-ice-shootings-data-centers-voting-rights-draw-thousands-to-us-protests
-  headline: ICE shootings, data centers, voting rights draw thousands to US protests
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6499
+  strength: 0.6834
 - slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
+  headline: Justice Department warns state election officials of criminal liability
+    for noncitizen voting
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.666
+  strength: 0.6656
 - slug: 2026-06-22-judge-rules-trump-era-save-voter-data-system-unlawful
   headline: Judge rules Trump-era SAVE voter data system unlawful
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6843
+  strength: 0.6858
 - slug: 2026-06-29-arizona-proof-of-citizenship-voting-law-heads-to-supreme-court
   headline: Arizona proof-of-citizenship voting law heads to Supreme Court
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6512
+  strength: 0.6514
 - slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
+  headline: Trump administration uses DOJ, FBI, executive order to tighten voting
+    rules
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.6743
+  strength: 0.6744
 - slug: 2026-06-19-dhs-plan-to-give-local-police-ice-facial-recognition-app-revealed
   headline: DHS plan to give local police ICE facial recognition app revealed
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6529
+  strength: 0.6524
 - slug: 2026-06-10-ice-letter-acknowledges-collecting-data-on-some-protesters-observers
   headline: ICE letter acknowledges collecting data on some protesters, observers
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.662
-- slug: 2026-05-17-trump-administration-voter-eligibility-checks-raise-purge-fears-ahead-of-midterm
-  headline: Trump administration voter-eligibility checks raise purge fears ahead of midterms
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6736
-- slug: 2026-04-22-alaska-groups-sue-over-sharing-full-voter-list-with-doj
-  headline: Alaska groups sue over sharing full voter list with DOJ
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6951
-- slug: 2026-05-17-trump-administration-runs-67-million-voter-registrations-through-dhs-eligibility
-  headline: Trump administration runs 67 million voter registrations through DHS eligibility system ahead of midterms
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6643
-- slug: 2026-04-23-lawsuit-alleges-alaska-officials-voter-data-sharing-with-doj-violates-state-cons
-  headline: Lawsuit alleges Alaska officials’ voter-data sharing with DOJ violates state constitution
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6852
-- slug: 2026-05-15-lawyers-seek-to-block-trump-order-creating-eligible-voter-list
-  headline: Lawyers seek to block Trump order creating eligible voter list
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.664
-- slug: 2026-01-07-justice-dept-sues-connecticut-arizona-in-23-state-voter-data-campaign
-  headline: Justice Dept. sues Connecticut, Arizona in 23-state voter data campaign
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6979
-- slug: 2026-04-17-federal-judge-blocks-doj-demand-for-rhode-island-voter-data
-  headline: Federal judge blocks DOJ demand for Rhode Island voter data
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6564
-- slug: 2026-01-16-federal-judge-dismisses-doj-bid-for-detailed-california-voter-data
-  headline: Federal judge dismisses DOJ bid for detailed California voter data
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6828
-- slug: 2026-03-28-bonta-ucla-group-sue-to-halt-riverside-sheriff-s-ballot-seizure
-  headline: Bonta, UCLA group sue to halt Riverside sheriff’s ballot seizure
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6613
-- slug: 2026-03-12-democratic-led-states-seek-to-block-federal-agents-from-polling-places
-  headline: Democratic-led states seek to block federal agents from polling places
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6675
-- slug: 2026-03-13-17-state-attorneys-general-sue-trump-administration-over-race-data-rule
-  headline: 17 state attorneys general sue Trump administration over race data rule
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6666
+  strength: 0.6616
 image:
   url: /articles/2026-09-02-immigrant-rights-group-sues-to-block-federal-voter-database-use.png
-  alt: "Illustration accompanying article: Immigrant rights group sues to block federal voter database use"
+  alt: 'Illustration accompanying article: Immigrant rights group sues to block federal
+    voter database use'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Immigrant rights group sues to block federal voter database use
 
 **Subtype:** fact

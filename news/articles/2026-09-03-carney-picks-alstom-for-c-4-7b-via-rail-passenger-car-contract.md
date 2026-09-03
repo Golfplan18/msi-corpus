@@ -2,8 +2,17 @@
 headline: Carney picks Alstom for C$4.7B Via Rail passenger car contract
 secondary_headline: First new Via Rail cars scheduled to enter service in 2031
 publish_date: '2026-09-03'
-lede: Canadian Prime Minister Mark Carney said Thursday the federal government will spend about C$4.7 billion (US$3.4 billion) to acquire 313 new passenger cars for state-owned Via Rail, contracting with Alstom to build the coaches entirely in Canada for the first time. Carney called the deal the federal government's largest investment yet in passenger rail.
-nut_graf: The contract directs C$4.7 billion in federal spending to a single rail procurement at a time when Via Rail recorded an operating loss of C$375 million in 2025 and received C$736 million in federal funding last year for operations and capital projects. The deal positions Canada's passenger-rail fleet — whose decades-old rolling stock has been flagged as a drag on revenue — for an overhaul scheduled to run into the mid-2030s.
+lede: Canadian Prime Minister Mark Carney said Thursday the federal government will
+  spend about C$4.7 billion (US$3.4 billion) to acquire 313 new passenger cars for
+  state-owned Via Rail, contracting with Alstom to build the coaches entirely in Canada
+  for the first time. Carney called the deal the federal government's largest investment
+  yet in passenger rail.
+nut_graf: The contract directs C$4.7 billion in federal spending to a single rail
+  procurement at a time when Via Rail recorded an operating loss of C$375 million
+  in 2025 and received C$736 million in federal funding last year for operations and
+  capital projects. The deal positions Canada's passenger-rail fleet — whose decades-old
+  rolling stock has been flagged as a drag on revenue — for an overhaul scheduled
+  to run into the mid-2030s.
 primary_entities:
 - Canada
 - Alstom
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -124,109 +134,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-03-carney-says-any-us-trade-pact-must-include-tariff-level-assurances
-  headline: Carney says any US trade pact must include tariff-level assurances
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5867
-- slug: 2026-08-30-unifor-members-approve-new-three-year-contract-with-gm-canada
-  headline: Unifor members approve new three-year contract with GM Canada
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6055
-- slug: 2026-08-29-canada-targets-us-household-goods-in-new-tariffs-as-50-auto-duties-loom
-  headline: Canada targets US household goods in new tariffs as 50% auto duties loom
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6039
-- slug: 2026-08-28-canada-selects-48-us-researchers-for-c-504m-relocation-program
-  headline: Canada selects 48 US researchers for C$504m relocation program
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5799
-- slug: 2026-08-26-canada-s-joly-calls-trump-50-auto-tariff-threat-real
-  headline: Canada's Joly calls Trump 50% auto tariff threat 'real'
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5847
-- slug: 2026-08-26-canada-to-impose-25-50-tariff-on-us-toilet-paper-starting-september-8
-  headline: Canada to impose 25-50% tariff on US toilet paper starting September 8
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5836
-- slug: 2026-08-26-california-s-high-speed-rail-faces-funding-cliff-after-4-billion-federal-withdra
-  headline: California's high-speed rail faces funding cliff after $4 billion federal withdrawal
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.583
-- slug: 2026-08-22-carney-orders-dollar-for-dollar-counter-tariffs-as-us-canada-talks-collapse
-  headline: Carney orders dollar-for-dollar counter-tariffs as US-Canada talks collapse
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.602
-- slug: 2026-08-24-trump-sets-jan-1-2027-start-for-50-tariffs-on-canadian-vehicles-parts-and-steel
-  headline: Trump sets Jan. 1, 2027 start for 50% tariffs on Canadian vehicles, parts and steel
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5796
-- slug: 2026-07-24-carney-defends-bridge-deal-as-canada-opens-gordie-howe-span-solo
-  headline: Carney defends bridge deal as Canada opens Gordie Howe span solo
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6067
-- slug: 2026-07-23-carney-s-concessions-to-trump-fail-to-halt-50-tariff-on-canadian-goods
-  headline: Carney's concessions to Trump fail to halt 50% tariff on Canadian goods
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6007
-- slug: 2026-07-06-canada-to-buy-12-submarines-in-largest-military-procurement-ever
-  headline: Canada to buy 12 submarines in largest military procurement ever
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6469
-- slug: 2026-07-03-carney-smith-back-new-pacific-crude-pipeline-with-carbon-capture-requirement
-  headline: Carney, Smith back new Pacific crude pipeline with carbon-capture requirement
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6433
-- slug: 2026-07-05-canada-nears-decision-on-submarine-contract-between-hanwha-and-tkms
-  headline: Canada nears decision on submarine contract between Hanwha and TKMS
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6086
-- slug: 2026-06-27-canada-slips-into-technical-recession-as-carney-urges-patience
-  headline: Canada slips into technical recession as Carney urges patience
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6228
-- slug: 2026-06-04-canada-unveils-2bn-national-ai-strategy-targets-sovereignty-and-literacy
-  headline: Canada unveils $2bn national AI strategy, targets sovereignty and literacy
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6361
-- slug: 2026-06-02-canada-s-economy-contracted-0-1-in-q1-as-carney-ties-weakness-to-policy-restruct
-  headline: Canada's economy contracted 0.1% in Q1 as Carney ties weakness to policy restructuring
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6024
-- slug: 2026-03-13-carney-pledges-32b-for-northern-forward-bases-to-bolster-canada-s-arctic-soverei
-  headline: Carney pledges $32B for northern forward bases to bolster Canada’s Arctic sovereignty
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6414
-- slug: 2026-05-15-canada-to-double-electric-grid-by-2050-under-new-clean-energy-plan-carney-says
-  headline: Canada to double electric grid by 2050 under new clean-energy plan, Carney says
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5906
-- slug: 2026-05-15-carney-unveils-plan-to-double-canada-s-electric-grid-by-2050
-  headline: Carney unveils plan to double Canada's electric grid by 2050
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5837
+related_stories: []
 ---
-
 ## Carney picks Alstom for C$4.7B Via Rail passenger car contract
 
 **Subtype:** fact

@@ -2,14 +2,24 @@
 headline: Alejandro Betancourt leads US-Venezuela oil deal amid corruption allegations
 secondary_headline: Investigations in five countries have followed Betancourt's rise
 publish_date: '2026-09-02'
-lede: 'A BBC News profile published Wednesday examines Alejandro Betancourt López, the 46-year-old Venezuelan businessman who heads North American Blue Energy Partners (NABEP), the Barbados-registered firm overseeing production and sale of 17 oil fields containing roughly 65 billion barrels of crude under a deal President Donald Trump has called "the biggest in history."
+lede: 'A BBC News profile published Wednesday examines Alejandro Betancourt López,
+  the 46-year-old Venezuelan businessman who heads North American Blue Energy Partners
+  (NABEP), the Barbados-registered firm overseeing production and sale of 17 oil fields
+  containing roughly 65 billion barrels of crude under a deal President Donald Trump
+  has called "the biggest in history."
 
 
-  Born in Caracas in February 1980 and a graduate of Suffolk University in Boston, Betancourt has built an estimated $2.6 billion fortune across a network of about 50 companies in 16 countries, according to Transparency Venezuela.
+  Born in Caracas in February 1980 and a graduate of Suffolk University in Boston,
+  Betancourt has built an estimated $2.6 billion fortune across a network of about
+  50 companies in 16 countries, according to Transparency Venezuela.
 
 
-  The businessman has faced investigations in five countries and been detained twice in London in 2025, though he has never been charged and has denied wrongdoing.'
-nut_graf: The profile lands as the Trump administration moves to operationalize what the president has called 'the biggest' oil deal in history. US officials have said the arrangement gives Washington 55% control of a joint venture covering oil fields containing roughly 65 billion barrels of crude.
+  The businessman has faced investigations in five countries and been detained twice
+  in London in 2025, though he has never been charged and has denied wrongdoing.'
+nut_graf: The profile lands as the Trump administration moves to operationalize what
+  the president has called 'the biggest' oil deal in history. US officials have said
+  the arrangement gives Washington 55% control of a joint venture covering oil fields
+  containing roughly 65 billion barrels of crude.
 primary_entities:
 - Alejandro Betancourt
 - North American Blue Energy Partners
@@ -50,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +163,34 @@ related_stories:
   headline: Venezuelan assembly approves 100-year Nabep oil pact covering 17 fields
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7157
+  strength: 0.7145
 - slug: 2026-08-31-nabep-plans-50-rig-venezuelan-drilling-push-backed-by-trump-administration
   headline: NABEP plans 50-rig Venezuelan drilling push backed by Trump administration
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7088
+  strength: 0.7072
 - slug: 2026-08-29-trump-announces-historic-us-venezuela-oil-deal-with-55-us-control
   headline: Trump announces 'historic' US-Venezuela oil deal with 55% US control
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7108
+  strength: 0.7101
 - slug: 2026-09-01-venezuela-s-chavismo-and-opposition-jointly-oppose-trump-oil-deal
   headline: Venezuela's Chavismo and opposition jointly oppose Trump oil deal
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6629
+  strength: 0.6617
 - slug: 2026-08-28-proposed-u-s-stake-in-17-venezuelan-fields-covers-90-billion-barrels
   headline: Proposed U.S. stake in 17 Venezuelan fields covers 90 billion barrels
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6617
-- slug: 2026-09-02-chevron-signs-7-billion-venezuela-agreements-following-trump-deal
-  headline: Chevron signs $7 billion Venezuela agreements following Trump deal
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6226
+  strength: 0.6603
 - slug: 2026-08-21-pacific-coast-energy-in-talks-to-operate-venezuelan-fields-claimed-by-cisneros
-  headline: Pacific Coast Energy in talks to operate Venezuelan fields claimed by Cisneros
+  headline: Pacific Coast Energy in talks to operate Venezuelan fields claimed by
+    Cisneros
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6555
-- slug: 2026-08-25-venezuela-s-oil-output-hits-1-23-million-barrels-per-day-highest-since-2019
-  headline: Venezuela's oil output hits 1.23 million barrels per day, highest since 2019
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6134
-- slug: 2026-08-14-bp-joins-uae-and-qatari-partners-on-venezuela-gasfield-licence
-  headline: BP joins UAE and Qatari partners on Venezuela gasfield licence
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6224
-- slug: 2026-07-19-u-s-faces-37-billion-cleanup-after-venezuela-quakes
-  headline: U.S. faces $37 billion cleanup after Venezuela quakes
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6125
-- slug: 2026-01-09-china-s-venezuela-oil-debt-complicates-trump-s-seizure-strategy
-  headline: China's Venezuela oil debt complicates Trump's seizure strategy
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6472
-- slug: 2026-01-07-venezuela-s-vast-oil-reserves-draw-us-interest-but-experts-warn-of-major-hurdles
-  headline: Venezuela's vast oil reserves draw US interest, but experts warn of major hurdles
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6436
-- slug: 2026-01-30-venezuela-acting-president-signs-oil-overhaul-that-eases-state-control
-  headline: Venezuela acting president signs oil overhaul that eases state control
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6326
-- slug: 2026-01-11-trump-warns-cuba-to-make-a-deal-as-venezuelan-oil-lifeline-goes-dark
-  headline: Trump warns Cuba to make a 'deal' as Venezuelan oil lifeline goes dark
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6353
-- slug: 2026-01-08-trump-calls-on-oil-executives-to-invest-in-venezuela-after-maduro-ouster
-  headline: Trump calls on oil executives to invest in Venezuela after Maduro ouster
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6354
-- slug: 2026-01-22-venezuela-advances-oil-reform-allowing-private-company-investment
-  headline: Venezuela advances oil reform allowing private company investment
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6305
-- slug: 2026-01-04-venezuela-oil-revival-faces-decade-long-timeline-and-100-billion-investment-hurd
-  headline: Venezuela oil revival faces decade-long timeline and $100 billion investment hurdle
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6315
-- slug: 2026-02-12-energy-secretary-chris-wright-visits-venezuela-to-assess-oil-overhaul
-  headline: Energy Secretary Chris Wright visits Venezuela to assess oil overhaul
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6233
-- slug: 2026-01-10-trump-order-shields-venezuelan-oil-revenue-from-judicial-claims
-  headline: Trump order shields Venezuelan oil revenue from judicial claims
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6284
-- slug: 2026-01-07-us-seizes-two-more-venezuelan-oil-tankers-as-trump-moves-to-control-global-sales
-  headline: US seizes two more Venezuelan oil tankers as Trump moves to control global sales
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6235
+  strength: 0.655
 ---
-
 ## Alejandro Betancourt leads US-Venezuela oil deal amid corruption allegations
 
 **Subtype:** fact

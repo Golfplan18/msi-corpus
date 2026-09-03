@@ -2,8 +2,16 @@
 headline: Ted Cruz promotes book, courts Iowa Republicans on potential 2028 bid
 secondary_headline: Bannon calls Cruz throwback to old Republican Party policies
 publish_date: '2026-09-03'
-lede: Sen. Ted Cruz of Texas spent last weekend in Iowa promoting his new book and quietly asking Republican operatives whether they would be interested in working on a potential 2028 presidential campaign, according to people familiar with the requests. During the visit, Cruz also publicly criticized Vice President JD Vance's negotiation of an Iran memorandum of understanding, calling it "a terrible deal."
-nut_graf: Allies of Vance have privately dismissed Cruz's potential bid as not a serious threat. Secretary of State Marco Rubio has said both publicly and privately that he will not challenge Vance for the 2028 Republican nomination. The jockeying comes as President Trump has polled staff and donors about whom they would like to see atop the next Republican ticket.
+lede: Sen. Ted Cruz of Texas spent last weekend in Iowa promoting his new book and
+  quietly asking Republican operatives whether they would be interested in working
+  on a potential 2028 presidential campaign, according to people familiar with the
+  requests. During the visit, Cruz also publicly criticized Vice President JD Vance's
+  negotiation of an Iran memorandum of understanding, calling it "a terrible deal."
+nut_graf: Allies of Vance have privately dismissed Cruz's potential bid as not a serious
+  threat. Secretary of State Marco Rubio has said both publicly and privately that
+  he will not challenge Vance for the 2028 Republican nomination. The jockeying comes
+  as President Trump has polled staff and donors about whom they would like to see
+  atop the next Republican ticket.
 primary_entities:
 - Ted Cruz
 - JD Vance
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +151,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6383
-- slug: 2026-08-31-vance-to-address-republican-jewish-coalition-gathering-monday-in-las-vegas
-  headline: Vance to address Republican Jewish Coalition gathering Monday in Las Vegas
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6501
-- slug: 2026-09-01-vance-says-he-d-have-doubted-trump-successor-if-2024-attempt-had-succeeded
-  headline: Vance says he'd have doubted Trump successor if 2024 attempt had succeeded
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6402
-- slug: 2026-08-31-vance-attacks-el-sayed-at-michigan-rally-over-usha-vance-comments
-  headline: Vance attacks El-Sayed at Michigan rally over Usha Vance comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6372
 - slug: 2026-08-25-trump-and-vance-to-headline-gop-midterm-convention-in-dallas
   headline: Trump and Vance to headline GOP midterm convention in Dallas
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6616
+  strength: 0.6615
 - slug: 2026-06-14-vance-says-he-will-discuss-2028-run-with-family-after-midterms
   headline: Vance says he will discuss 2028 run with family after midterms
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.7172
+  strength: 0.719
 - slug: 2026-06-17-vance-works-to-sell-iran-deal-amid-conservative-skepticism
   headline: Vance works to sell Iran deal amid conservative skepticism
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6886
+  strength: 0.687
 - slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
   headline: Vance takes lead on Iran deal as Trump signals fall guy role
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6665
+  strength: 0.6661
 - slug: 2026-05-04-vance-woos-iowa-gop-voters-ahead-of-2028-while-backing-zach-nunn
   headline: Vance woos Iowa GOP voters ahead of 2028 while backing Zach Nunn
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.7349
+  strength: 0.7354
 - slug: 2026-06-03-trump-says-vance-rubio-ticket-for-2028-would-be-unbeatable
   headline: Trump says Vance-Rubio ticket for 2028 would be 'unbeatable'
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6855
-- slug: 2026-06-23-vance-promotes-new-memoir-as-administration-negotiates-iran-deal
-  headline: Vance promotes new memoir as administration negotiates Iran deal
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6468
+  strength: 0.6885
 - slug: 2026-05-05-vice-president-jd-vance-rallies-iowa-gop-voters-backs-rep-zach-nunn-ahead-of-202
-  headline: Vice President JD Vance rallies Iowa GOP voters, backs Rep. Zach Nunn ahead of 2028
+  headline: Vice President JD Vance rallies Iowa GOP voters, backs Rep. Zach Nunn
+    ahead of 2028
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.7158
+  strength: 0.7174
 - slug: 2026-05-20-vance-takes-the-spotlight-at-white-house-briefing-after-rubio-s-turn
   headline: Vance takes the spotlight at White House briefing after Rubio’s turn
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.695
-- slug: 2026-05-19-vance-and-rubio-try-for-2028-messaging-from-white-house-briefing-rostrum
-  headline: Vance and Rubio try for 2028 messaging from White House briefing rostrum
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6777
-- slug: 2026-04-01-rubio-and-vance-differ-on-iran-war-as-2028-gop-jockeying-begins
-  headline: Rubio and Vance differ on Iran war as 2028 GOP jockeying begins
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7126
-- slug: 2026-05-19-vance-rubio-turn-white-house-briefing-rostrum-into-early-2028-campaign-stage
-  headline: Vance, Rubio turn White House briefing rostrum into early 2028 campaign stage
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6722
-- slug: 2026-05-24-trump-s-emerging-iran-deal-draws-some-republican-criticism
-  headline: Trump's emerging Iran deal draws some Republican criticism
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6553
-- slug: 2026-05-24-trump-s-emerging-iran-war-deal-draws-fire-from-fellow-republicans
-  headline: Trump's emerging Iran war deal draws fire from fellow Republicans
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6427
-- slug: 2026-05-05-democrats-eye-iowa-as-battleground-as-vance-backs-gop-candidates
-  headline: Democrats eye Iowa as battleground as Vance backs GOP candidates
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6637
-- slug: 2026-03-31-rubio-and-vance-differ-on-iran-war-as-2028-gop-jockeying-begins
-  headline: Rubio and Vance differ on Iran war as 2028 GOP jockeying begins
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6845
+  strength: 0.6972
 ---
-
 ## Ted Cruz promotes book, courts Iowa Republicans on potential 2028 bid
 
 **Subtype:** fact

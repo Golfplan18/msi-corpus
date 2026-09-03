@@ -1,9 +1,16 @@
 ---
 headline: G-20 statement implicitly criticizes China's export-driven growth
-secondary_headline: Beijing rebukes the statement; France, Indonesia cite domestic industry harm
+secondary_headline: Beijing rebukes the statement; France, Indonesia cite domestic
+  industry harm
 publish_date: '2026-09-03'
-lede: The Group of 20 issued a statement this week implicitly criticizing Beijing for its overreliance on exports for growth, according to a Wall Street Journal report by Jon Emont. China ran a record $1.2 trillion trade surplus last year, with exports up 5.5% from 2024, the report said.
-nut_graf: The statement signals that concerns previously raised by the United States are finding broader international resonance, though analysts told the Journal it remains unclear whether the diplomatic language will translate into coordinated policy among G-20 members.
+lede: The Group of 20 issued a statement this week implicitly criticizing Beijing
+  for its overreliance on exports for growth, according to a Wall Street Journal report
+  by Jon Emont. China ran a record $1.2 trillion trade surplus last year, with exports
+  up 5.5% from 2024, the report said.
+nut_graf: The statement signals that concerns previously raised by the United States
+  are finding broader international resonance, though analysts told the Journal it
+  remains unclear whether the diplomatic language will translate into coordinated
+  policy among G-20 members.
 primary_entities:
 - Group of 20
 - China
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -177,68 +185,7 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.6975
-- slug: 2026-06-16-china-s-record-trade-surplus-persists-despite-u-s-tariffs-raising-alarm-at-g7
-  headline: China's record trade surplus persists despite U.S. tariffs, raising alarm at G7
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7686
-- slug: 2026-07-19-china-now-favored-over-us-in-global-opinion-pew-survey-shows
-  headline: China now favored over US in global opinion, Pew survey shows
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6703
-- slug: 2026-07-19-china-s-battery-storage-surges-to-155-gw-chinese-suppliers-capture-90-of-market
-  headline: China's battery storage surges to 155 GW, Chinese suppliers capture 90% of market
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6674
-- slug: 2026-06-19-european-leaders-weigh-new-trade-powers-to-counter-chinese-export-flood
-  headline: European leaders weigh new trade powers to counter Chinese export flood
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7282
-- slug: 2026-06-06-trump-s-china-trade-war-strategy-flawed-economist-eduardo-porter-says
-  headline: Trump's China trade war strategy flawed, economist Eduardo Porter says
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6846
-- slug: 2026-05-10-china-says-april-exports-jumped-14-1-before-trump-xi-summit
-  headline: China says April exports jumped 14.1% before Trump-Xi summit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6948
-- slug: 2026-03-10-china-s-exports-surge-in-jan-feb-as-trade-with-us-shrinks
-  headline: China's exports surge in Jan-Feb as trade with US shrinks
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7165
-- slug: 2026-04-16-china-s-economy-grows-5-in-q1-largely-shrugging-off-iran-war-shocks
-  headline: China’s economy grows 5% in Q1, largely shrugging off Iran war shocks
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6912
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6657
-- slug: 2026-04-13-china-export-growth-slows-to-2-5-in-march-as-iran-war-adds-uncertainty
-  headline: China export growth slows to 2.5% in March as Iran war adds uncertainty
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.689
-- slug: 2026-05-10-china-s-april-exports-surge-14-1-ahead-of-trump-xi-beijing-summit
-  headline: China's April exports surge 14.1% ahead of Trump-Xi Beijing summit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6661
-- slug: 2026-01-19-china-s-economy-grows-5-in-2025-as-export-engine-offsets-weak-demand
-  headline: China’s economy grows 5% in 2025 as export engine offsets weak demand
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.7131
 ---
-
 ## G-20 statement implicitly criticizes China's export-driven growth
 
 **Subtype:** fact

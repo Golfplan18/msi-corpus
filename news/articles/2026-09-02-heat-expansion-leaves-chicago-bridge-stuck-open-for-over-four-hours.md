@@ -2,8 +2,16 @@
 headline: Heat expansion leaves Chicago bridge stuck open for over four hours
 secondary_headline: Crews cooled the span before traffic resumed Wednesday afternoon
 publish_date: '2026-09-02'
-lede: The DuSable Lake Shore Drive bridge in downtown Chicago remained stuck in the raised position for more than four hours on Wednesday after dangerous heat caused its components to expand. The bridge, which crosses the Chicago River at Grand Avenue, became stuck during a scheduled lift to allow a boat to pass underneath around 10 a.m., according to Erica Schroeder, a spokesperson for the Chicago Department of Transportation. The span finally lowered and reopened to traffic shortly before 2:30 p.m.
-nut_graf: The closure came during a wave of extreme heat that began sweeping across Chicago on Tuesday, with the National Weather Service warning residents on two consecutive days to prepare for 'dangerous heat.'
+lede: The DuSable Lake Shore Drive bridge in downtown Chicago remained stuck in the
+  raised position for more than four hours on Wednesday after dangerous heat caused
+  its components to expand. The bridge, which crosses the Chicago River at Grand Avenue,
+  became stuck during a scheduled lift to allow a boat to pass underneath around 10
+  a.m., according to Erica Schroeder, a spokesperson for the Chicago Department of
+  Transportation. The span finally lowered and reopened to traffic shortly before
+  2:30 p.m.
+nut_graf: The closure came during a wave of extreme heat that began sweeping across
+  Chicago on Tuesday, with the National Weather Service warning residents on two consecutive
+  days to prepare for 'dangerous heat.'
 primary_entities:
 - Chicago
 - DuSable Lake Shore Drive bridge
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,109 +145,8 @@ cross_article_links:
   strength: 0.5309
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-25-heat-dome-to-bring-dangerous-115f-highs-to-45-million-in-south-west
-  headline: Heat dome to bring dangerous 115F highs to 45 million in south-west
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.58
-- slug: 2026-07-27-heat-dome-keeps-40-million-under-extreme-heat-warnings-across-us
-  headline: Heat dome keeps 40 million under extreme heat warnings across US
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6334
-- slug: 2026-08-05-containment-lines-established-around-spokane-fires-as-hotter-drier-weather-looms
-  headline: Containment lines established around Spokane fires as hotter, drier weather looms
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.58
-- slug: 2026-07-25-70-million-under-heat-advisories-as-dome-expands-across-central-us
-  headline: 70 million under heat advisories as dome expands across central US
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6176
-- slug: 2026-07-14-new-heatwave-spreads-extreme-temperatures-across-us-and-canada
-  headline: New heatwave spreads extreme temperatures across US and Canada
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6231
-- slug: 2026-07-20-a-pediatrician-urges-caution-for-babies-during-summer-heat-waves
-  headline: A pediatrician urges caution for babies during summer heat waves
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5913
-- slug: 2026-07-07-extreme-heat-buckles-highways-as-climate-change-pushes-roads-past-design-limits
-  headline: Extreme heat buckles highways as climate change pushes roads past design limits
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6293
-- slug: 2026-07-10-large-heat-dome-brings-dangerous-temperatures-to-most-of-lower-48
-  headline: Large heat dome brings dangerous temperatures to most of Lower 48
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6202
-- slug: 2026-07-14-heat-dome-pushes-90-plus-overnight-temperature-records
-  headline: Heat dome pushes 90-plus overnight temperature records
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5859
-- slug: 2026-07-04-dc-cancels-independence-day-parade-as-heat-index-reaches-115-f
-  headline: DC cancels Independence Day parade as heat index reaches 115°F
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6144
-- slug: 2026-07-11-heat-dome-to-bring-dangerous-temperatures-to-two-thirds-of-us-forecasters-warn
-  headline: Heat dome to bring dangerous temperatures to two-thirds of US, forecasters warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5904
-- slug: 2026-07-03-great-american-state-fair-shuts-down-temporarily-as-heat-reaches-100-f
-  headline: Great American State Fair shuts down temporarily as heat reaches 100°F
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6123
-- slug: 2026-07-11-brush-fire-northeast-of-los-angeles-grows-to-2-700-acres-prompts-evacuations
-  headline: Brush fire northeast of Los Angeles grows to 2,700 acres, prompts evacuations
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5878
-- slug: 2026-07-05-fdny-extinguishes-brooklyn-bridge-fire-during-macy-s-july-4-fireworks
-  headline: FDNY extinguishes Brooklyn Bridge fire during Macy's July 4 fireworks
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6031
-- slug: 2026-06-30-heat-wave-intensifies-across-us-120-million-under-extreme-heat-warnings
-  headline: Heat wave intensifies across US, 120 million under extreme heat warnings
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5981
-- slug: 2026-06-20-grand-canyon-on-extreme-heat-watch-after-three-hikers-die-in-a-week
-  headline: Grand Canyon on extreme heat watch after three hikers die in a week
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5834
-- slug: 2026-04-14-rain-prompts-flood-warnings-watches-across-northern-michigan
-  headline: Rain prompts flood warnings, watches across Northern Michigan
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6024
-- slug: 2026-04-15-midwest-storms-flood-wisconsin-streets-damage-ann-arbor-ice-arenas
-  headline: Midwest storms flood Wisconsin streets, damage Ann Arbor ice arenas
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5962
-- slug: 2026-04-15-unusual-april-heat-wave-threatens-records-from-georgia-to-new-york
-  headline: Unusual April heat wave threatens records from Georgia to New York
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5935
-- slug: 2026-04-23-flooding-sends-chunks-of-ice-into-homes-in-northeastern-michigan
-  headline: Flooding sends chunks of ice into homes in northeastern Michigan
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.5774
+related_stories: []
 ---
-
 ## Heat expansion leaves Chicago bridge stuck open for over four hours
 
 **Subtype:** fact

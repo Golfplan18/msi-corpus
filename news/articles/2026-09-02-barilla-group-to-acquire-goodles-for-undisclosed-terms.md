@@ -1,9 +1,16 @@
 ---
 headline: Barilla Group to acquire Goodles for undisclosed terms
-secondary_headline: Goodles retains Santa Cruz headquarters and all 73 employees under CEO Zeszut
+secondary_headline: Goodles retains Santa Cruz headquarters and all 73 employees under
+  CEO Zeszut
 publish_date: '2026-09-02'
-lede: Italian pasta maker Barilla Group has agreed to acquire Goodles, the California-based mac-and-cheese brand whose products are marketed for their added protein and fiber. Terms of the deal were not disclosed. Goodles will continue to operate from its Santa Cruz headquarters with co-founder and CEO Jen Zeszut at the helm and all 73 employees retained.
-nut_graf: The acquisition reflects a pattern in which major packaged-food players acquire smaller rivals for their loyal customers or product innovations, according to Arielle Rose, an analyst at research firm IBISWorld.
+lede: Italian pasta maker Barilla Group has agreed to acquire Goodles, the California-based
+  mac-and-cheese brand whose products are marketed for their added protein and fiber.
+  Terms of the deal were not disclosed. Goodles will continue to operate from its
+  Santa Cruz headquarters with co-founder and CEO Jen Zeszut at the helm and all 73
+  employees retained.
+nut_graf: The acquisition reflects a pattern in which major packaged-food players
+  acquire smaller rivals for their loyal customers or product innovations, according
+  to Arielle Rose, an analyst at research firm IBISWorld.
 primary_entities:
 - Barilla Group
 - Goodles
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +147,8 @@ cross_article_links:
   strength: 0.601
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-01-casey-s-general-stores-undercuts-domino-s-with-13-99-pizza
-  headline: Casey's General Stores undercuts Domino's with $13.99 pizza
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6053
-- slug: 2026-08-30-steak-n-shake-s-maha-aligned-revamp-lifts-same-store-sales-14
-  headline: Steak 'n Shake's MAHA-aligned revamp lifts same-store sales 14%
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5775
-- slug: 2026-08-17-burger-king-reclaims-no-2-spot-from-wendy-s-after-whopper-revamp
-  headline: Burger King reclaims No. 2 spot from Wendy's after Whopper revamp
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5855
-- slug: 2026-08-09-u-s-consumer-brands-report-stronger-growth-in-overseas-markets
-  headline: U.S. consumer brands report stronger growth in overseas markets
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.5939
-- slug: 2026-08-04-mcdonald-s-names-skye-anderson-to-lead-u-s-business
-  headline: McDonald's names Skye Anderson to lead U.S. business
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5867
-- slug: 2026-07-19-general-mills-kraft-heinz-stocks-trade-at-decade-low-as-shoppers-turn-away-from-
-  headline: General Mills, Kraft Heinz stocks trade at decade-low as shoppers turn away from legacy brands
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.614
-- slug: 2026-07-28-mondelez-lifts-organic-revenue-growth-outlook-to-at-least-2-on-latin-america-str
-  headline: Mondelez lifts organic revenue growth outlook to at least 2% on Latin America strength
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5788
-- slug: 2026-07-19-truelink-capital-nears-1-billion-deal-for-coffee-syrup-maker-lyons-magnus
-  headline: Truelink Capital nears $1 billion deal for coffee syrup maker Lyons Magnus
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.603
-- slug: 2026-07-14-chipotle-to-open-first-mexico-restaurant-this-week
-  headline: Chipotle to open first Mexico restaurant this week
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5805
-- slug: 2026-07-08-hostess-sales-fall-for-six-quarters-since-smucker-s-5-billion-acquisition
-  headline: Hostess sales fall for six quarters since Smucker's $5 billion acquisition
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5775
-- slug: 2026-06-29-martin-marietta-to-buy-lhoist-north-america-in-13-5b-deal
-  headline: Martin Marietta to buy Lhoist North America in $13.5B deal
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5898
-- slug: 2026-07-02-nestle-shifts-to-volume-growth-as-polarized-buying-reshapes-us-grocery-aisles
-  headline: Nestle shifts to volume growth as polarized buying reshapes US grocery aisles
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5802
-- slug: 2026-06-19-regional-burger-chains-outpace-big-rivals-by-focusing-on-quality-and-service
-  headline: Regional burger chains outpace big rivals by focusing on quality and service
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5992
-- slug: 2026-06-29-cvc-to-acquire-italian-ingredients-maker-irca-its-second-major-food-deal-this-ye
-  headline: CVC to acquire Italian ingredients maker Irca, its second major food deal this year
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5759
-- slug: 2026-06-13-mcdonald-s-pushes-for-new-drinks-straining-70-year-coke-partnership
-  headline: McDonald's pushes for new drinks, straining 70-year Coke partnership
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5978
-- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
-  headline: Record profits, terrible service leave US consumers with few options
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5735
-- slug: 2026-06-08-ingredion-to-acquire-tate-lyle-in-3-6b-deal-putting-nearly-500-jobs-at-risk
-  headline: Ingredion to acquire Tate & Lyle in $3.6B deal, putting nearly 500 jobs at risk
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.595
-- slug: 2026-04-29-mcdonald-s-bets-on-boba-refreshers-and-a-dirty-dr-pepper-to-drive-growth
-  headline: McDonald’s bets on boba refreshers and a dirty Dr Pepper to drive growth
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5954
-- slug: 2026-04-15-walmart-redesigns-great-value-packaging-to-spotlight-nutrition-ingredients
-  headline: Walmart redesigns Great Value packaging to spotlight nutrition, ingredients
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5959
-- slug: 2026-02-02-starbucks-feels-the-heat-as-more-chains-compete-for-u-s-coffee-drinkers
-  headline: Starbucks feels the heat as more chains compete for U.S. coffee drinkers
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6159
+related_stories: []
 ---
-
 ## Barilla Group to acquire Goodles for undisclosed terms
 
 **Subtype:** fact
