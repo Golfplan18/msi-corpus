@@ -28,7 +28,8 @@ topic_tags:
 - monetary policy
 - market and exchange
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- rising-global-treasury-yields
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -157,6 +158,7 @@ related_stories:
   relation: related
   strength: 0.709
 ---
+
 ## Bond selloff lifts 30-year Treasury yield past 5.3% for first time since 2007
 
 **Subtype:** fact

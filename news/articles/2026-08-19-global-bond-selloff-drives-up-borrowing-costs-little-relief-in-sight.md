@@ -28,7 +28,8 @@ primary_themes:
 - Migration
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- rising-global-treasury-yields
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.7061
 ---
+
 ## Global bond selloff drives up borrowing costs, little relief in sight
 
 **Subtype:** fact

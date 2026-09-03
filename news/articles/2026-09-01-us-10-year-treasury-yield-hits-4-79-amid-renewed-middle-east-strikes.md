@@ -24,7 +24,8 @@ primary_themes:
 - Oil prices and geopolitics
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- rising-global-treasury-yields
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -209,14 +210,19 @@ related_stories:
   strength: 0.709
 image:
   url: /articles/2026-09-01-us-10-year-treasury-yield-hits-4-79-amid-renewed-middle-east-strikes.png
-  alt: "Illustration accompanying article: US 10-year Treasury yield hits 4.79% amid renewed Middle East strikes"
+  alt: 'Illustration accompanying article: US 10-year Treasury yield hits 4.79% amid
+    renewed Middle East strikes'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## US 10-year Treasury yield hits 4.79% amid renewed Middle East strikes
 
 **Subtype:** fact
