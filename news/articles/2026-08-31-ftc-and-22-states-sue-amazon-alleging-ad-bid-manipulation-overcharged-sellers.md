@@ -113,6 +113,8 @@ related_stories:
   publish_date: '2026-04-22'
   relation: related
   strength: 0.651
+analyses:
+- '2026-08-31-amazon-s-defense-addresses-outcomes-the-ftc-s-complaint-targets-the-auction-proc'
 ---
 ## FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged sellers
 
@@ -148,3 +150,8 @@ Advertising has grown into one of Amazon's largest and fastest-expanding busines
 **Publication date:** 2026-08-31
 **Title:** The U.S. sues Amazon again
 **URL:** https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit
+
+---
+
+<!-- analysis-link:2026-08-31-amazon-s-defense-addresses-outcomes-the-ftc-s-complaint-targets-the-auction-proc -->
+**Going deeper:** [Read MSI's analysis of Three federal actions — two ongoing, one recent $2.5 billion settlement — point to an enforcement ar →](/analyses/2026-08-31-amazon-s-defense-addresses-outcomes-the-ftc-s-complaint-targets-the-auction-proc)
