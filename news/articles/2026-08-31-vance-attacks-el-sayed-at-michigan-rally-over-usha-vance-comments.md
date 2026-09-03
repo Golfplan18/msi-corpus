@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-08-09'
   relation: related
   strength: 0.6732
+analyses:
+- '2026-08-31-vance-s-sterling-heights-rally-attack-on-el-sayed-lands-in-a-competitive-michiga'
 ---
 ## Vance attacks El-Sayed at Michigan rally over Usha Vance comments
 
@@ -243,3 +245,8 @@ The vice president's Michigan trip is the latest turn in a race that has acceler
 **Publication date:** 2026-08-31
 **Title:** Vance to El-Sayed: ‘Keep My Wife’s Name the Hell Out of Your Mouth’
 **URL:** https://www.wsj.com/politics/elections/vance-to-el-sayed-keep-my-wifes-name-the-hell-out-of-your-mouth-b77d4d52
+
+---
+
+<!-- analysis-link:2026-08-31-vance-s-sterling-heights-rally-attack-on-el-sayed-lands-in-a-competitive-michiga -->
+**Going deeper:** [Read MSI's analysis of 2026 Michigan Senate / Vance–El-Sayed exchange / open-seat dynamics →](/analyses/2026-08-31-vance-s-sterling-heights-rally-attack-on-el-sayed-lands-in-a-competitive-michiga)
