@@ -186,6 +186,8 @@ related_stories:
   publish_date: '2026-05-09'
   relation: related
   strength: 0.6502
+analyses:
+- '2026-09-01-three-parameters-two-cascades-one-90-day-window-the-aug-21-beef-import-decision'
 ---
 ## JBS shareholder meets Trump one day before beef import plan
 
@@ -230,3 +232,8 @@ The Trump administration has taken several other actions to try to lower beef pr
 **Publication date:** 2026-09-01
 **Title:** How a Brazilian Billionaire Helped Shape Trump’s Beef Import Plan
 **URL:** https://www.wsj.com/politics/policy/how-a-brazilian-billionaire-helped-shape-trumps-beef-import-plan-9f969669
+
+---
+
+<!-- analysis-link:2026-09-01-three-parameters-two-cascades-one-90-day-window-the-aug-21-beef-import-decision -->
+**Going deeper:** [Read MSI's analysis of Beef import plan; JBS; Trump; tariff parameter; cattle futures; pre-mortem →](/analyses/2026-09-01-three-parameters-two-cascades-one-90-day-window-the-aug-21-beef-import-decision)
