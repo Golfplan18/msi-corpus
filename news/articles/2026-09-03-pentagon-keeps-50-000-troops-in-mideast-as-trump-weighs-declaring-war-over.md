@@ -2,8 +2,17 @@
 headline: Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war over
 secondary_headline: Extended tours strain air defenders and destroyer crews
 publish_date: '2026-09-03'
-lede: President Trump is privately weighing whether to declare the war with Iran over while Defense Secretary Pete Hegseth has extended U.S. troop deployments in the Middle East into 2027 to keep military options open, according to people familiar with the matter. The extensions come as a sign that the conflict could drag well into next year, according to people familiar with the matter.
-nut_graf: The Pentagon is keeping about 50,000 troops in the region to preserve presidential flexibility on next steps, according to people familiar with the matter. A Navy official said 19 U.S. warships are now in Middle East waters, including two aircraft carriers and 13 guided-missile destroyers. The wider deployment is straining servicemembers and their families and creating a maintenance backlog that the people familiar with the matter said could take years to unwind.
+lede: President Trump is privately weighing whether to declare the war with Iran over
+  while Defense Secretary Pete Hegseth has extended U.S. troop deployments in the
+  Middle East into 2027 to keep military options open, according to people familiar
+  with the matter. The extensions come as a sign that the conflict could drag well
+  into next year, according to people familiar with the matter.
+nut_graf: The Pentagon is keeping about 50,000 troops in the region to preserve presidential
+  flexibility on next steps, according to people familiar with the matter. A Navy
+  official said 19 U.S. warships are now in Middle East waters, including two aircraft
+  carriers and 13 guided-missile destroyers. The wider deployment is straining servicemembers
+  and their families and creating a maintenance backlog that the people familiar with
+  the matter said could take years to unwind.
 primary_entities:
 - Pete Hegseth
 - Donald Trump
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -125,25 +135,27 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-03-pentagon-extends-middle-east-deployments-as-iran-conflict-enters-seventh-month
-  headline: Pentagon extends Middle East deployments as Iran conflict enters seventh month
+  headline: Pentagon extends Middle East deployments as Iran conflict enters seventh
+    month
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.8377
+  strength: 0.8374
 - slug: 2026-08-27-iran-war-costs-force-us-navy-to-tap-payroll-accounts-for-combat-funding
   headline: Iran war costs force US Navy to tap payroll accounts for combat funding
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7246
+  strength: 0.7248
 - slug: 2026-08-25-six-months-into-iran-war-trump-shifts-to-economic-pressure-campaign
   headline: Six months into Iran war, Trump shifts to economic pressure campaign
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7283
+  strength: 0.7281
 - slug: 2026-07-22-pentagon-sends-additional-forces-and-medics-to-middle-east-amid-iran-war-deliber
-  headline: Pentagon sends additional forces and medics to Middle East amid Iran war deliberations
+  headline: Pentagon sends additional forces and medics to Middle East amid Iran war
+    deliberations
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.806
+  strength: 0.8063
 - slug: 2026-07-22-us-surges-forces-to-middle-east-as-trump-weighs-expanding-iran-war
   headline: US surges forces to Middle East as Trump weighs expanding Iran war
   publish_date: '2026-07-22'
@@ -158,83 +170,26 @@ related_stories:
   headline: Trump weighs all-out Iran war options, opts to stick with talks
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7748
+  strength: 0.7747
 - slug: 2026-06-04-trump-says-he-won-t-resume-all-out-iran-war-unless-us-troops-killed
   headline: Trump says he won't resume all-out Iran war unless US troops killed
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.7356
-- slug: 2026-01-23-pentagon-builds-largest-middle-east-force-in-decades-as-trump-threatens-iran
-  headline: Pentagon builds largest Middle East force in decades as Trump threatens Iran
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.8088
-- slug: 2026-03-24-us-prepares-to-send-at-least-1-000-82nd-airborne-troops-to-middle-east
-  headline: US prepares to send at least 1,000 82nd Airborne troops to Middle East
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7828
-- slug: 2026-04-01-more-u-s-troops-head-to-the-middle-east-as-trump-seeks-iran-talks
-  headline: More U.S. troops head to the Middle East as Trump seeks Iran talks
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7781
-- slug: 2026-02-27-us-military-assembles-biggest-middle-east-force-in-decades-experts-warn
-  headline: US military assembles biggest Middle East force in decades, experts warn
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7781
-- slug: 2026-03-22-trump-issues-mixed-messages-on-iran-war-and-oil-sanctions
-  headline: Trump issues mixed messages on Iran war and oil sanctions
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7688
-- slug: 2026-03-25-us-prepares-to-deploy-at-least-1-000-82nd-airborne-troops-to-mideast
-  headline: US prepares to deploy at least 1,000 82nd Airborne troops to Mideast
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7654
-- slug: 2026-02-25-u-s-builds-largest-middle-east-force-in-decades-as-trump-warns-iran
-  headline: U.S. builds largest Middle East force in decades as Trump warns Iran
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7709
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.754
-- slug: 2026-02-26-trump-warns-of-possible-iran-action-as-pentagon-builds-middle-east-force
-  headline: Trump warns of possible Iran action as Pentagon builds Middle East force
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7573
-- slug: 2026-03-29-trump-s-conflicting-messages-sow-confusion-over-iran-war
-  headline: Trump’s conflicting messages sow confusion over Iran war
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7264
-- slug: 2026-02-20-trump-warns-of-possible-iran-strikes-as-nuclear-talks-progress
-  headline: Trump warns of possible Iran strikes as nuclear talks progress
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7384
-- slug: 2026-03-04-trump-pushes-back-on-criticism-of-iran-war-battle-plan-and-endgame
-  headline: Trump pushes back on criticism of Iran war battle plan and endgame
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7323
+  strength: 0.7352
 image:
   url: /articles/2026-09-03-pentagon-keeps-50-000-troops-in-mideast-as-trump-weighs-declaring-war-over.png
-  alt: "Illustration accompanying article: Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war over"
+  alt: 'Illustration accompanying article: Pentagon keeps 50,000 troops in Mideast
+    as Trump weighs declaring war over'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war over
 
 **Subtype:** fact

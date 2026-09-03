@@ -1,9 +1,17 @@
 ---
 headline: Trump pairs 'Operation Economic Outcast' with renewed Iran strikes
-secondary_headline: Six months of strikes and sanctions have not shifted Tehran's position
+secondary_headline: Six months of strikes and sanctions have not shifted Tehran's
+  position
 publish_date: '2026-09-03'
-lede: President Donald Trump has paired resumed military strikes on Iran with a new sanctions campaign called "Operation Economic Outcast," launched a week ago to isolate Iran from its remaining global trade partners, according to the Associated Press. The dual-track approach comes more than six months into a war that has not shifted Tehran's position.
-nut_graf: The strategy combines economic pressure with renewed military strikes, and the AP described the posture as one Trump "appears to have settled on" — a dual approach still taking shape rather than having been formally announced. Iran's retaliation to the renewed bombing has renewed concerns of an all-out regional war.
+lede: President Donald Trump has paired resumed military strikes on Iran with a new
+  sanctions campaign called "Operation Economic Outcast," launched a week ago to isolate
+  Iran from its remaining global trade partners, according to the Associated Press.
+  The dual-track approach comes more than six months into a war that has not shifted
+  Tehran's position.
+nut_graf: The strategy combines economic pressure with renewed military strikes, and
+  the AP described the posture as one Trump "appears to have settled on" — a dual
+  approach still taking shape rather than having been formally announced. Iran's retaliation
+  to the renewed bombing has renewed concerns of an all-out regional war.
 primary_entities:
 - Donald Trump
 - Iran
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -94,10 +103,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-08-30-bessent-announces-operation-economic-outcast-to-cut-iran-from-global-economy
-  headline: Bessent announces 'Operation Economic Outcast' to cut Iran from global economy
+  headline: Bessent announces 'Operation Economic Outcast' to cut Iran from global
+    economy
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.7902
+  strength: 0.7905
 - slug: 2026-08-25-six-months-into-iran-war-trump-shifts-to-economic-pressure-campaign
   headline: Six months into Iran war, Trump shifts to economic pressure campaign
   publish_date: '2026-08-25'
@@ -107,94 +117,33 @@ related_stories:
   headline: Trump shifts Iran strategy to sanctions as war hits six months
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7849
+  strength: 0.7848
 - slug: 2026-08-25-treasury-launches-operation-economic-outcast-on-iran-holds-off-on-china
   headline: Treasury launches 'Operation Economic Outcast' on Iran, holds off on China
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7806
+  strength: 0.7805
 - slug: 2026-08-21-trump-announces-unprecedented-iran-sanctions-push-ahead-of-midterms
   headline: Trump announces 'unprecedented' Iran sanctions push ahead of midterms
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.7986
+  strength: 0.7982
 - slug: 2026-08-25-tanker-struck-off-oman-us-rolls-out-operation-economic-outcast-on-iran
   headline: Tanker struck off Oman; US rolls out 'Operation Economic Outcast' on Iran
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7568
+  strength: 0.7567
 - slug: 2026-08-10-trump-returns-to-iran-economic-pressure-as-war-deadlock-persists
   headline: Trump returns to Iran economic pressure as war deadlock persists
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7692
+  strength: 0.7695
 - slug: 2026-08-15-us-doubles-iran-economic-pressure-as-tehran-strikes-uae-ships-in-hormuz
   headline: US doubles Iran economic pressure as Tehran strikes UAE ships in Hormuz
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.7344
-- slug: 2026-07-31-trump-vows-to-hit-iran-very-hard-as-diplomacy-collapses
-  headline: Trump vows to hit Iran 'very hard' as diplomacy collapses
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7558
-- slug: 2026-07-24-trump-s-frustration-grows-as-iran-war-enters-fifth-month-diplomacy-stalls
-  headline: Trump's frustration grows as Iran war enters fifth month, diplomacy stalls
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7385
-- slug: 2026-07-16-trump-notification-starts-60-day-window-for-iran-military-action
-  headline: Trump notification starts 60-day window for Iran military action
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7448
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
   strength: 0.7347
-- slug: 2026-06-10-trump-threatens-iran-claims-deal-close-as-war-hits-stalemate
-  headline: Trump threatens Iran, claims deal close as war hits stalemate
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7409
-- slug: 2026-06-11-us-and-iran-trade-strikes-for-second-day-as-ceasefire-rhetoric-fades
-  headline: US and Iran trade strikes for second day as ceasefire rhetoric fades
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.739
-- slug: 2026-06-11-trump-threatens-to-seize-iran-s-oil-hub-as-us-strikes-escalate
-  headline: Trump threatens to seize Iran’s oil hub as US strikes escalate
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7367
-- slug: 2026-05-27-us-sanctions-target-iranian-agency-as-strikes-follow-drone-attacks-in-strait-of-
-  headline: US sanctions target Iranian agency as strikes follow drone attacks in Strait of Hormuz
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7513
-- slug: 2026-06-01-trump-tells-critics-to-sit-back-and-relax-as-us-and-iran-exchange-new-strikes
-  headline: Trump tells critics to 'sit back and relax' as US and Iran exchange new strikes
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7419
-- slug: 2026-05-19-trump-halts-planned-iran-strikes-as-gulf-allies-urge-negotiations
-  headline: Trump halts planned Iran strikes as Gulf allies urge negotiations
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7574
-- slug: 2026-05-19-trump-s-pressure-campaign-isn-t-moving-iran-as-talks-stay-stalled
-  headline: Trump’s pressure campaign isn’t moving Iran as talks stay stalled
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7408
-- slug: 2026-05-18-trump-pressure-campaign-hits-wall-with-iran-during-strait-of-hormuz-standoff
-  headline: Trump pressure campaign hits wall with Iran during Strait of Hormuz standoff
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7352
 ---
-
 ## Trump pairs 'Operation Economic Outcast' with renewed Iran strikes
 
 **Subtype:** fact

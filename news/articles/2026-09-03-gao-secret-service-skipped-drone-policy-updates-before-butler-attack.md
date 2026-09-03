@@ -1,9 +1,15 @@
 ---
 headline: 'GAO: Secret Service skipped drone-policy updates before Butler attack'
-secondary_headline: Agency did not update threat policies after encountering drone incidents
+secondary_headline: Agency did not update threat policies after encountering drone
+  incidents
 publish_date: '2026-09-03'
-lede: The U.S. Secret Service handled several drone-related incidents without adjusting its protection policies or documenting why it did not, according to a Government Accountability Office report released Thursday. The report documents delays and gaps in how the agency updates its policies on emerging threats.
-nut_graf: The findings come after the 2024 assassination attempt on Donald Trump in Butler, Pennsylvania, and additional security incidents involving the president since he returned to office.
+lede: The U.S. Secret Service handled several drone-related incidents without adjusting
+  its protection policies or documenting why it did not, according to a Government
+  Accountability Office report released Thursday. The report documents delays and
+  gaps in how the agency updates its policies on emerging threats.
+nut_graf: The findings come after the 2024 assassination attempt on Donald Trump in
+  Butler, Pennsylvania, and additional security incidents involving the president
+  since he returned to office.
 primary_entities:
 - U.S. Secret Service
 - Government Accountability Office
@@ -40,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -82,28 +89,15 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-26-secret-service-places-three-officials-on-leave-pending-misconduct-review
-  headline: Secret Service places three officials on leave pending misconduct review
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6428
-- slug: 2026-08-25-secret-service-investigating-iranian-video-threatening-barron-trump
-  headline: Secret Service investigating Iranian video threatening Barron Trump
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6383
-- slug: 2026-08-12-catering-truck-decoy-hides-trump-from-apparent-iran-missile-threat
-  headline: Catering-truck decoy hides Trump from apparent Iran missile threat
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6454
 - slug: 2026-06-02-injured-trump-supporters-sue-us-government-over-butler-rally-security-failures
-  headline: Injured Trump supporters sue US government over Butler rally security failures
+  headline: Injured Trump supporters sue US government over Butler rally security
+    failures
   publish_date: '2026-06-02'
   relation: related
   strength: 0.6997
 - slug: 2026-05-23-secret-service-fatally-shoots-suspect-outside-white-house-checkpoint-bystander-h
-  headline: Secret Service fatally shoots suspect outside White House checkpoint; bystander hit
+  headline: Secret Service fatally shoots suspect outside White House checkpoint;
+    bystander hit
   publish_date: '2026-05-23'
   relation: related
   strength: 0.6797
@@ -117,38 +111,14 @@ related_stories:
   publish_date: '2026-04-28'
   relation: related
   strength: 0.6762
-- slug: 2026-05-25-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6449
-- slug: 2026-05-23-trump-postpones-ai-executive-order-days-after-concerns-over-cybersecurity-and-sp
-  headline: Trump postpones AI executive order days after concerns over cybersecurity and speed
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6463
-- slug: 2026-05-21-trump-postpones-signing-of-ai-executive-order-over-tech-edge-concerns
-  headline: Trump postpones signing of AI executive order over tech edge concerns
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6462
 - slug: 2026-05-01-prosecutors-release-video-of-man-storming-correspondents-dinner
   headline: Prosecutors release video of man storming correspondents’ dinner
   publish_date: '2026-05-01'
   relation: related
   strength: 0.6663
-- slug: 2026-05-23-man-fatally-shot-by-secret-service-after-opening-fire-near-white-house
-  headline: Man fatally shot by Secret Service after opening fire near White House
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6424
-- slug: 2026-05-22-trump-calls-off-ai-executive-order-hours-before-scheduled-signing
-  headline: Trump calls off AI executive order hours before scheduled signing
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6426
 - slug: 2026-04-27-what-we-know-about-security-for-trump-at-correspondents-dinner-after-shooting
-  headline: What we know about security for Trump at correspondents’ dinner after shooting
+  headline: What we know about security for Trump at correspondents’ dinner after
+    shooting
   publish_date: '2026-04-27'
   relation: related
   strength: 0.6648
@@ -162,37 +132,20 @@ related_stories:
   publish_date: '2026-04-29'
   relation: related
   strength: 0.657
-- slug: 2026-04-27-trump-calls-for-unity-after-hotel-breach-but-will-he-keep-the-tone
-  headline: Trump calls for unity after hotel breach. But will he keep the tone?
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6581
-- slug: 2026-04-26-trump-calls-for-unity-after-third-attempt-but-will-the-tone-last
-  headline: Trump calls for unity after third attempt. But will the tone last?
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6583
-- slug: 2026-04-26-white-house-correspondents-dinner-security-what-officials-said-happened
-  headline: 'White House correspondents’ dinner security: what officials said happened'
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6543
-- slug: 2026-04-26-trump-unharmed-after-shots-during-white-house-correspondents-dinner
-  headline: Trump unharmed after shots during White House correspondents’ dinner
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6476
 image:
   url: /articles/2026-09-03-gao-secret-service-skipped-drone-policy-updates-before-butler-attack.png
-  alt: "Illustration accompanying article: GAO: Secret Service skipped drone-policy updates before Butler attack"
+  alt: 'Illustration accompanying article: GAO: Secret Service skipped drone-policy
+    updates before Butler attack'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## GAO: Secret Service skipped drone-policy updates before Butler attack
 
 **Subtype:** fact

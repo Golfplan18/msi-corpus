@@ -1,9 +1,20 @@
 ---
 headline: Trump administration stalls first-of-its-kind PFAS wastewater survey
-secondary_headline: Survey's top-three ranking would launch PFAS rulemaking, Wood says
+secondary_headline: Survey's top-three ranking would launch PFAS rulemaking, Wood
+  says
 publish_date: '2026-09-03'
-lede: The Trump administration has stalled approval of a first-of-its-kind federal survey that would help regulators identify which industries are the largest contributors of PFAS 'forever chemicals' in wastewater, according to two former Environmental Protection Agency officials who helped develop the study. The survey of wastewater treatment plants was submitted to the White House for approval nearly two years ago during the Biden administration — a far longer wait than is typical for such reviews, the former officials said.
-nut_graf: The nationwide survey of hundreds of wastewater plants would supply the data regulators need to identify the top industrial contributors of PFAS contamination and develop nationwide discharge limits. Without those results, the EPA has remained without a comprehensive national picture of which industries are responsible for the largest share of PFAS contamination through wastewater.
+lede: The Trump administration has stalled approval of a first-of-its-kind federal
+  survey that would help regulators identify which industries are the largest contributors
+  of PFAS 'forever chemicals' in wastewater, according to two former Environmental
+  Protection Agency officials who helped develop the study. The survey of wastewater
+  treatment plants was submitted to the White House for approval nearly two years
+  ago during the Biden administration — a far longer wait than is typical for such
+  reviews, the former officials said.
+nut_graf: The nationwide survey of hundreds of wastewater plants would supply the
+  data regulators need to identify the top industrial contributors of PFAS contamination
+  and develop nationwide discharge limits. Without those results, the EPA has remained
+  without a comprehensive national picture of which industries are responsible for
+  the largest share of PFAS contamination through wastewater.
 primary_entities:
 - Donald Trump
 - U.S. Environmental Protection Agency
@@ -37,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,7 +158,8 @@ related_stories:
   relation: related
   strength: 0.6504
 - slug: 2026-06-05-half-of-california-tested-waterways-contaminated-with-pfas-pesticides-analysis-f
-  headline: Half of California tested waterways contaminated with Pfas pesticides, analysis finds
+  headline: Half of California tested waterways contaminated with Pfas pesticides,
+    analysis finds
   publish_date: '2026-06-05'
   relation: related
   strength: 0.6642
@@ -155,68 +168,7 @@ related_stories:
   publish_date: '2026-05-08'
   relation: related
   strength: 0.6767
-- slug: 2026-02-05-forever-chemicals-expose-private-well-owners-as-testing-remains-spotty
-  headline: Forever chemicals expose private well owners as testing remains spotty
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7181
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.654
-- slug: 2026-05-05-trump-supports-delaying-endangered-right-whale-protections-to-2035
-  headline: Trump supports delaying endangered right whale protections to 2035
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6418
-- slug: 2026-04-11-epa-proposes-weakening-rules-for-toxic-coal-ash-groundwater-protections
-  headline: EPA proposes weakening rules for toxic coal ash groundwater protections
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6561
-- slug: 2026-01-08-trump-epa-rolls-back-grant-and-environmental-justice-support-for-water-systems
-  headline: Trump EPA rolls back grant and environmental justice support for water systems
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6827
-- slug: 2026-02-20-trump-backs-10-year-deadline-to-replace-lead-pipes
-  headline: Trump backs 10-year deadline to replace lead pipes
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6736
-- slug: 2026-04-14-lululemon-probed-by-texas-ag-over-pfas-in-athletic-wear
-  headline: Lululemon probed by Texas AG over PFAS in athletic wear
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6415
-- slug: 2026-02-01-south-s-carpet-industry-has-a-toxic-forever-chemical-legacy
-  headline: South’s carpet industry has a toxic forever chemical legacy
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6681
-- slug: 2026-04-03-epa-proposes-listing-microplastics-pharmaceuticals-as-drinking-water-contaminant
-  headline: EPA proposes listing microplastics, pharmaceuticals as drinking-water contaminants
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6467
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  headline: EPA proposes limits on state Clean Water Act authority for pipelines and data centers
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.671
-- slug: 2026-01-05-court-order-forces-epa-to-propose-perchlorate-limit-in-drinking-water
-  headline: Court order forces EPA to propose perchlorate limit in drinking water
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6709
-- slug: 2026-03-18-wisconsin-senate-sends-133m-pfas-package-to-gov-tony-evers
-  headline: Wisconsin Senate sends $133M PFAS package to Gov. Tony Evers
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6519
 ---
-
 ## Trump administration stalls first-of-its-kind PFAS wastewater survey
 
 **Subtype:** fact
