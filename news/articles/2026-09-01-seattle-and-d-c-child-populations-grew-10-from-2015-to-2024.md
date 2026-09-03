@@ -169,6 +169,8 @@ related_stories:
   publish_date: '2026-02-04'
   relation: related
   strength: 0.6627
+analyses:
+- '2026-09-01-seattle-and-d-c-s-child-population-decade-compositional-shift-outpaces-headline-'
 ---
 ## Seattle and D.C. child populations grew 10% from 2015 to 2024
 
@@ -218,3 +220,8 @@ In Seattle, births have also slowed. Seattle accounts for about a third of King 
 **Publication date:** 2026-09-01
 **Title:** Seattle and D.C. Are Bucking the Trend by Attracting Families With Kids
 **URL:** https://www.wsj.com/us-news/seattle-and-d-c-are-bucking-the-trend-by-attracting-families-with-kids-ed9cecec
+
+---
+
+<!-- analysis-link:2026-09-01-seattle-and-d-c-s-child-population-decade-compositional-shift-outpaces-headline- -->
+**Going deeper:** [Read MSI's analysis of seattle-dc-child-population-composition-and-reversal-risk →](/analyses/2026-09-01-seattle-and-d-c-s-child-population-decade-compositional-shift-outpaces-headline-)
