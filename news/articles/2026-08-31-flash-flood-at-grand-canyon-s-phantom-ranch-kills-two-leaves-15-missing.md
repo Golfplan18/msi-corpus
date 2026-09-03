@@ -181,6 +181,8 @@ related_stories:
   publish_date: '2026-02-18'
   relation: related
   strength: 0.652
+analyses:
+- '2026-08-31-from-burn-scar-to-riverside-lodge-tracing-the-documented-chain-behind-saturday-s'
 ---
 ## Flash flood at Grand Canyon's Phantom Ranch kills two, leaves 15 missing
 
@@ -214,3 +216,8 @@ Native Americans made their home in various parts of the canyon for thousands of
 **Publication date:** 2026-08-31
 **Title:** Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history
 **URL:** https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-flash-flood-phantom-ranch
+
+---
+
+<!-- analysis-link:2026-08-31-from-burn-scar-to-riverside-lodge-tracing-the-documented-chain-behind-saturday-s -->
+**Going deeper:** [Read MSI's analysis of Post-wildfire hydrology and the structural exposure of a single Grand Canyon outpost →](/analyses/2026-08-31-from-burn-scar-to-riverside-lodge-tracing-the-documented-chain-behind-saturday-s)
