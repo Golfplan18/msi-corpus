@@ -2,8 +2,14 @@
 headline: Fed's Waller ties rate-hike support to next week's inflation report
 secondary_headline: Several FOMC members split on whether price gains remain too high
 publish_date: '2026-09-03'
-lede: Federal Reserve Governor Christopher Waller said Thursday that next week's August inflation report will largely determine whether he backs an interest rate hike at the central bank's upcoming meeting later this month. The government is scheduled to release the August inflation figures on September 11.
-nut_graf: Waller's conditional remarks add to the weight already placed on the September 11 release by other members of the Fed's rate-setting committee, which remains divided between those who see price increases as still too high and those who view inflation as gradually cooling.
+lede: Federal Reserve Governor Christopher Waller said Thursday that next week's August
+  inflation report will largely determine whether he backs an interest rate hike at
+  the central bank's upcoming meeting later this month. The government is scheduled
+  to release the August inflation figures on September 11.
+nut_graf: Waller's conditional remarks add to the weight already placed on the September
+  11 release by other members of the Fed's rate-setting committee, which remains divided
+  between those who see price increases as still too high and those who view inflation
+  as gradually cooling.
 primary_entities:
 - Christopher Waller
 - Federal Reserve
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,22 +138,19 @@ related_stories:
   relation: related
   strength: 0.752
 - slug: 2026-08-22-wall-street-awaits-consumer-confidence-and-pce-inflation-reports-next-week
-  headline: Wall Street awaits consumer confidence and PCE inflation reports next week
+  headline: Wall Street awaits consumer confidence and PCE inflation reports next
+    week
   publish_date: '2026-08-22'
   relation: related
   strength: 0.7159
-- slug: 2026-08-26-inflation-measure-closely-watched-by-fed-shows-3-7-year-over-year-rise-in-july
-  headline: Inflation measure closely watched by Fed shows 3.7% year-over-year rise in July
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6728
 - slug: 2026-08-08-us-economic-reports-put-inflation-and-sales-data-on-wall-street-s-calendar
   headline: US economic reports put inflation and sales data on Wall Street’s calendar
   publish_date: '2026-08-08'
   relation: related
   strength: 0.6739
 - slug: 2026-07-28-fed-chair-warsh-faces-pressure-to-hike-rates-as-inflation-holds-above-target
-  headline: Fed Chair Warsh faces pressure to hike rates as inflation holds above target
+  headline: Fed Chair Warsh faces pressure to hike rates as inflation holds above
+    target
   publish_date: '2026-07-28'
   relation: related
   strength: 0.7166
@@ -160,72 +164,20 @@ related_stories:
   publish_date: '2026-07-08'
   relation: related
   strength: 0.7092
-- slug: 2026-06-17-warsh-leads-first-fed-meeting-as-inflation-holds-above-target
-  headline: Warsh leads first Fed meeting as inflation holds above target
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6927
-- slug: 2026-04-26-warsh-edges-closer-to-becoming-fed-chair-but-rate-cut-may-still-wait
-  headline: Warsh edges closer to becoming Fed chair but rate cut may still wait
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7251
-- slug: 2026-02-23-fed-s-waller-says-march-rate-cut-decision-coin-flip-after-jobs-surge
-  headline: Fed’s Waller says March rate cut decision ‘coin flip’ after jobs surge
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.7522
-- slug: 2026-02-22-fed-governor-waller-says-march-rate-cut-is-a-coin-flip-after-strong-hiring
-  headline: Fed governor Waller says March rate cut is a “coin flip” after strong hiring
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.7501
-- slug: 2026-04-07-fed-signals-possible-rate-hike-if-gas-driven-inflation-stays-above-target
-  headline: Fed signals possible rate hike if gas-driven inflation stays above target
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.7187
-- slug: 2026-04-29-fed-transition-powell-signals-next-steps-as-warsh-confirmation-looms
-  headline: 'Fed transition: Powell signals next steps as Warsh confirmation looms'
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7008
-- slug: 2026-01-29-fed-holds-rates-steady-as-powell-cites-improved-economy-tariff-inflation
-  headline: Fed holds rates steady as Powell cites improved economy, tariff inflation
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7303
-- slug: 2026-02-19-fed-minutes-show-most-officials-want-more-inflation-progress-before-cuts
-  headline: Fed minutes show most officials want more inflation progress before cuts
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7213
-- slug: 2026-04-09-rising-gas-prices-push-fed-to-weigh-potential-rate-hike-this-year
-  headline: Rising gas prices push Fed to weigh potential rate hike this year
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6997
-- slug: 2026-01-26-fed-expected-to-hold-rates-steady-as-powell-shifts-back-to-economics
-  headline: Fed expected to hold rates steady as Powell shifts back to economics
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7068
-- slug: 2026-03-19-fed-holds-key-rate-as-powell-says-he-ll-stay-through-doj-probe
-  headline: Fed holds key rate as Powell says he’ll stay through DOJ probe
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.691
 image:
   url: /articles/2026-09-03-fed-s-waller-ties-rate-hike-support-to-next-week-s-inflation-report.png
-  alt: "Illustration accompanying article: Fed's Waller ties rate-hike support to next week's inflation report"
+  alt: 'Illustration accompanying article: Fed''s Waller ties rate-hike support to
+    next week''s inflation report'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Fed's Waller ties rate-hike support to next week's inflation report
 
 **Subtype:** fact

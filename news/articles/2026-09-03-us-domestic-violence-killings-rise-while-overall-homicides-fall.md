@@ -2,8 +2,17 @@
 headline: US domestic violence killings rise while overall homicides fall
 secondary_headline: Advocates warn 2027 budget cut would deepen DV prevention strain
 publish_date: '2026-09-03'
-lede: Domestic violence killings across the US have held high or risen even as overall homicides have fallen to historic lows in many cities and states, according to a 2026 FBI report, city data and national nonprofit groups. The FBI report shows the share of violent crimes tied to domestic violence climbed from 25 percent in 2020 to 27.5 percent in 2024. National domestic violence organizations say they are now fielding record call volumes while warning that grant terminations during the second Trump administration are straining prevention and response work.
-nut_graf: The divergence between falling overall homicide rates and stagnant or rising domestic violence killings points to a resource and policy gap that prevention advocates say predates the current administration but has worsened as federal dollars have shifted.
+lede: Domestic violence killings across the US have held high or risen even as overall
+  homicides have fallen to historic lows in many cities and states, according to a
+  2026 FBI report, city data and national nonprofit groups. The FBI report shows the
+  share of violent crimes tied to domestic violence climbed from 25 percent in 2020
+  to 27.5 percent in 2024. National domestic violence organizations say they are now
+  fielding record call volumes while warning that grant terminations during the second
+  Trump administration are straining prevention and response work.
+nut_graf: The divergence between falling overall homicide rates and stagnant or rising
+  domestic violence killings points to a resource and policy gap that prevention advocates
+  say predates the current administration but has worsened as federal dollars have
+  shifted.
 primary_entities:
 - Nikhita Ved
 - Anita Raj
@@ -51,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,27 +163,22 @@ related_stories:
   headline: FBI reports US homicide rate fell to 75-year low in 2025
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7177
-- slug: 2026-08-19-400-000-children-on-federal-childcare-assistance-waitlists-report-finds
-  headline: 400,000 children on federal childcare assistance waitlists, report finds
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6323
+  strength: 0.7175
 - slug: 2026-07-23-homicide-rate-drops-18-across-30-u-s-cities-report-says
   headline: Homicide rate drops 18% across 30 U.S. cities, report says
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.713
+  strength: 0.7133
 - slug: 2026-07-09-us-murder-rate-fell-to-record-low-in-2025-criminologist-says
   headline: US murder rate fell to record low in 2025, criminologist says
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.7382
+  strength: 0.739
 - slug: 2026-06-07-black-women-killed-at-disproportionate-rates-in-domestic-violence-cases
   headline: Black women killed at disproportionate rates in domestic violence cases
   publish_date: '2026-06-07'
   relation: related
-  strength: 0.6544
+  strength: 0.654
 - slug: 2026-05-14-us-overdose-deaths-fall-14-percent-in-2025-cdc-data-shows
   headline: US overdose deaths fall 14 percent in 2025, CDC data shows
   publish_date: '2026-05-14'
@@ -183,74 +188,18 @@ related_stories:
   headline: National homelessness drops 3% in 2025, first decline since 2016
   publish_date: '2026-05-31'
   relation: related
-  strength: 0.6552
+  strength: 0.6559
 - slug: 2026-05-14-us-overdose-deaths-declined-in-2025-cdc-data-show
   headline: US overdose deaths declined in 2025, CDC data show
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6717
+  strength: 0.6724
 - slug: 2026-01-22-homicides-drop-21-across-35-u-s-cities-in-2025-report-shows
   headline: Homicides drop 21% across 35 U.S. cities in 2025, report shows
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.7077
-- slug: 2026-05-05-indigenous-communities-nationwide-mark-missing-and-murdered-indigenous-peoples-a
-  headline: Indigenous communities nationwide mark Missing and Murdered Indigenous Peoples awareness day
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6501
-- slug: 2026-01-14-washington-crime-victim-services-near-collapse-as-federal-funding-falls-76-since
-  headline: Washington crime victim services near collapse as federal funding falls 76% since 2018
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6949
-- slug: 2026-04-25-988-hotline-linked-to-fewer-teen-and-young-adult-suicide-deaths
-  headline: 988 hotline linked to fewer teen and young adult suicide deaths
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.653
-- slug: 2026-04-10-campaigns-spend-more-on-security-as-threats-of-political-violence-grow
-  headline: Campaigns spend more on security as threats of political violence grow
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6605
-- slug: 2026-01-07-detroit-records-165-homicides-in-2025-lowest-tally-since-the-early-1960s
-  headline: Detroit records 165 homicides in 2025, lowest tally since the early 1960s
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6875
-- slug: 2026-05-06-events-mark-missing-and-murdered-indigenous-peoples-awareness-day
-  headline: Events mark Missing and Murdered Indigenous Peoples awareness day
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6308
-- slug: 2026-01-15-us-overdose-deaths-fell-21-through-mid-2025-but-pace-of-decline-is-slowing
-  headline: US overdose deaths fell 21% through mid-2025, but pace of decline is slowing
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6789
-- slug: 2026-04-21-deadly-domestic-violence-cases-stir-calls-for-more-care-resources-for-black-comm
-  headline: Deadly domestic violence cases stir calls for more care resources for Black communities
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6351
-- slug: 2026-04-20-deadly-domestic-violence-cases-stir-calls-for-more-care-resources
-  headline: Deadly domestic violence cases stir calls for more care resources
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6349
-- slug: 2026-04-01-military-suicides-fell-in-2024-but-long-term-active-duty-trend-rises
-  headline: Military suicides fell in 2024, but long-term active-duty trend rises
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6379
-- slug: 2026-01-06-on-duty-officer-deaths-fall-25-in-2025-firearm-fatalities-hit-decade-low
-  headline: On-duty officer deaths fall 25% in 2025; firearm fatalities hit decade low
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6596
+  strength: 0.7088
 ---
-
 ## US domestic violence killings rise while overall homicides fall
 
 **Subtype:** fact

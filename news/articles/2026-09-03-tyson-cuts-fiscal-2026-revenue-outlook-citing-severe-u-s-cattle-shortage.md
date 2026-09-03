@@ -2,8 +2,15 @@
 headline: Tyson cuts fiscal 2026 revenue outlook, citing severe U.S. cattle shortage
 secondary_headline: Shares slide 6.8% as beef-segment loss projection widens
 publish_date: '2026-09-03'
-lede: Tyson Foods cut its fiscal 2026 revenue growth forecast to a range of 1.5% to 2% on Thursday, down from a previous range of 2.5% to 3.5%, citing margin compression from volatile cattle prices and what the company described as one of the most severe U.S. cattle shortages in history.
-nut_graf: The reduced forecast and a wider projected loss in Tyson's beef business reflect what the company described as one of the most severe U.S. cattle shortages in history. Tyson announced in August that it was restructuring its beef operations around three central-U.S. facilities in response to the shortage, and CEO Donnie King said those actions should reduce operating cost pressures in fiscal 2027.
+lede: Tyson Foods cut its fiscal 2026 revenue growth forecast to a range of 1.5% to
+  2% on Thursday, down from a previous range of 2.5% to 3.5%, citing margin compression
+  from volatile cattle prices and what the company described as one of the most severe
+  U.S. cattle shortages in history.
+nut_graf: The reduced forecast and a wider projected loss in Tyson's beef business
+  reflect what the company described as one of the most severe U.S. cattle shortages
+  in history. Tyson announced in August that it was restructuring its beef operations
+  around three central-U.S. facilities in response to the shortage, and CEO Donnie
+  King said those actions should reduce operating cost pressures in fiscal 2027.
 primary_entities:
 - Tyson Foods
 - Donnie King
@@ -37,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,21 +153,6 @@ related_stories:
   publish_date: '2026-08-13'
   relation: related
   strength: 0.7936
-- slug: 2026-08-25-intuit-forecasts-slower-fiscal-2027-growth-shares-drop-14
-  headline: Intuit forecasts slower fiscal 2027 growth, shares drop 14%
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6486
-- slug: 2026-08-26-trump-announces-90-day-tariff-cut-on-imported-ground-beef
-  headline: Trump announces 90-day tariff cut on imported ground beef
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6369
-- slug: 2026-08-21-trump-authorizes-300-000-tons-of-beef-imports-to-ease-prices
-  headline: Trump authorizes 300,000 tons of beef imports to ease prices
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6303
 - slug: 2026-08-06-papa-john-s-cuts-outlook-and-suspends-quarterly-dividend
   headline: Papa John's cuts outlook and suspends quarterly dividend
   publish_date: '2026-08-06'
@@ -170,11 +163,6 @@ related_stories:
   publish_date: '2026-08-10'
   relation: related
   strength: 0.6518
-- slug: 2026-08-14-china-s-auto-exports-strain-global-shipping-capacity
-  headline: China's auto exports strain global shipping capacity
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6319
 - slug: 2026-08-07-wendy-s-withdraws-outlook-cuts-dividend-as-u-s-sales-drop-7
   headline: Wendy's withdraws outlook, cuts dividend as U.S. sales drop 7%
   publish_date: '2026-08-07'
@@ -190,53 +178,12 @@ related_stories:
   publish_date: '2026-08-04'
   relation: related
   strength: 0.6534
-- slug: 2026-08-05-record-us-beef-prices-fail-to-lift-profits-for-ranchers-and-meatpackers
-  headline: Record US beef prices fail to lift profits for ranchers and meatpackers
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6469
 - slug: 2026-07-24-booz-allen-profit-falls-27-as-revenue-slips-civil-business-lags
   headline: Booz Allen profit falls 27% as revenue slips, civil business lags
   publish_date: '2026-07-24'
   relation: related
   strength: 0.6638
-- slug: 2026-07-22-ibm-trims-revenue-forecast-as-customers-divert-budgets-to-ai-hardware
-  headline: IBM trims revenue forecast as customers divert budgets to AI hardware
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6597
-- slug: 2026-07-22-cal-maine-swings-to-35-9m-quarterly-loss-as-egg-prices-hit-historic-lows
-  headline: Cal-Maine swings to $35.9M quarterly loss as egg prices hit historic lows
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6356
-- slug: 2026-07-22-tesla-r-d-spending-jumps-49-driving-profit-below-analyst-forecasts
-  headline: Tesla R&D spending jumps 49%, driving profit below analyst forecasts
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6336
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6344
-- slug: 2026-07-13-oxford-nanopore-shares-slide-11-after-revenue-below-management-expectations
-  headline: Oxford Nanopore shares slide 11% after revenue below management expectations
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6304
-- slug: 2026-06-02-shake-shack-cuts-q2-guidance-shares-fall-9-amid-uncertainty-and-competition
-  headline: Shake Shack cuts Q2 guidance, shares fall 9% amid uncertainty and competition
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7142
-- slug: 2026-06-30-usda-plans-500-million-in-payments-to-smaller-meatpackers
-  headline: USDA plans $500 million in payments to smaller meatpackers
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6283
 ---
-
 ## Tyson cuts fiscal 2026 revenue outlook, citing severe U.S. cattle shortage
 
 **Subtype:** fact
