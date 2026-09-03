@@ -28,7 +28,8 @@ primary_themes:
 - foreign policy retaliation
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- russia-probes-nato-defenses-with-drones
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.6844
 ---
+
 ## Germany blames Russia for Leipzig drone plot, vows retaliation
 
 **Subtype:** fact
