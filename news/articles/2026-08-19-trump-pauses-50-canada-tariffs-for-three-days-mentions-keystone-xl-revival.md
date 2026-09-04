@@ -29,7 +29,7 @@ topic_tags:
 - energy and resource
 - construction and property
 storyline_nexus:
-- trump-s-trade-tensions-with-canada
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
