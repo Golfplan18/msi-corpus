@@ -1,7 +1,8 @@
 ---
 headline: Eighteen Million Developers Just Got a New Landlord
 publish_date: '2026-09-03'
-lede: The chipmaker bought the only place the open-AI commons actually lived, and called it a victory for openness.
+lede: The chipmaker bought the only place the open-AI commons actually lived, and
+  called it a victory for openness.
 pen_name: wendell-burke
 primary_entities:
 - Nvidia
@@ -32,7 +33,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,7 +55,28 @@ cross_article_links:
   strength: 0.6162
   confidence: high
 draft: false
+image:
+  url: /cartoons/eighteen-million-developers-just-got-a-new-landlord.png
+  alt: 'Editorial cartoon by Hector Rentier: Eighteen Million Developers Just Got
+    a New Landlord'
+  caption: He called it a victory for openness. He bought the landlord's chair.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-03T22:09:37-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single-panel allegorical scene, 1:1, heavy cross-hatch wood-engraving
+    in the Nast tradition. The frame shows a shopping mall named 'OPEN AI COMMONS'
+    with a large bright sign reading 'OPEN' over the en
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-03-hector-paired-with-2026-09-03-wendell-burke-nvidia-hugging-face-ai
 ---
+
+![Editorial cartoon by Hector Rentier: Eighteen Million Developers Just Got a New Landlord](/cartoons/eighteen-million-developers-just-got-a-new-landlord.png)
+*He called it a victory for openness. He bought the landlord's chair.*
 
 The chipmaker bought the only place the open-AI commons actually lived, and called it a victory for openness. Eighteen million developers who share three million models, half a million datasets, and a million applications woke up Thursday to find that their platform has a single buyer. Nvidia, the firm that sells the chip on which almost all of this work actually runs, has agreed to acquire Hugging Face for about $12.93 billion, the [Associated Press](https://apnews.com/article/nvidia-hugging-face-ai-d96d50e037a2ade479dcdf81cdf2afcf) and the [Wall Street Journal](https://www.wsj.com/tech/ai/nvidia-agrees-to-buy-hugging-face-for-13-billion-11929060) reported Thursday. The promise is the price of admission. The structure is the problem.
 

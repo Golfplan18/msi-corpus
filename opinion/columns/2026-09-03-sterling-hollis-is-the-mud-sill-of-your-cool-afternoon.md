@@ -1,7 +1,8 @@
 ---
 headline: Hollis Is the Mud-Sill of Your Cool Afternoon
 publish_date: '2026-09-03'
-lede: Terrence is a hand in the turbine hall of the combined-cycle plant I own outside Rawlins, Wyoming.
+lede: Terrence is a hand in the turbine hall of the combined-cycle plant I own outside
+  Rawlins, Wyoming.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/hollis-is-the-mud-sill-of-your-cool-afternoon.png
+  alt: 'Editorial cartoon by Hector Rentier: Hollis Is the Mud-Sill of Your Cool Afternoon'
+  caption: He thanked God for the abundance. The rate filing was his prayer.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-03T22:11:19-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A composed businessman in an expensive dark suit kneels in apparent prayer
+    at an altar that is unmistakably a thick rate-filing document — the interconnection
+    avoided-cost calculation, stamped CONFIDE
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-03-hector-paired-with-2026-09-03-sterling-hollis-is-the-mud-sill-of-your-cool-afternoon
 ---
+
+![Editorial cartoon by Hector Rentier: Hollis Is the Mud-Sill of Your Cool Afternoon](/cartoons/hollis-is-the-mud-sill-of-your-cool-afternoon.png)
+*He thanked God for the abundance. The rate filing was his prayer.*
 
 Terrence is a hand in the turbine hall of the combined-cycle plant I own outside Rawlins, Wyoming. He is 41. He stands 8 feet from a combustion turbine that pulls inlet air at 134°F in July and pushes 250 megawatts onto a 25kV switchyard that feeds the data center campus I own 14 miles north. The inference your phone just made at 3:47 AM traveled 14 miles to get here. The cheapness it required was Terrence's.
 

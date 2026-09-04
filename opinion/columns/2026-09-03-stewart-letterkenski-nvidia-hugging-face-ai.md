@@ -32,7 +32,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,7 +54,27 @@ cross_article_links:
   strength: 0.6884
   confidence: high
 draft: false
+image:
+  url: /cartoons/nvidia-bought-the-town-square-of-ai.png
+  alt: 'Editorial cartoon by Hector Rentier: Nvidia bought the town square of AI'
+  caption: He thanked them for the workshop. They paid for it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-03T22:10:09-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving throughout. The
+    interior of a vast, crowded workshop — workbenches, lathes, drafting tables, hanging
+    tools, scattered papers, pinned sketches — the '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-03-hector-paired-with-2026-09-03-stewart-letterkenski-nvidia-hugging-face-ai
 ---
+
+![Editorial cartoon by Hector Rentier: Nvidia bought the town square of AI](/cartoons/nvidia-bought-the-town-square-of-ai.png)
+*He thanked them for the workshop. They paid for it.*
 
 Jensen Huang just bought the workshop eighteen million AI developers share.
 
