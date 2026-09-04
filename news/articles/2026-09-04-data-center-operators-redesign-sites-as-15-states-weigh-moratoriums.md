@@ -168,6 +168,8 @@ related_stories:
   publish_date: '2026-07-21'
   relation: related
   strength: 0.6954
+analyses:
+- '2026-09-04-one-reinforcing-loop-two-delayed-balancing-channels-drive-data-center-friction-c'
 ---
 ## Data center operators redesign sites as 15 states weigh moratoriums
 
@@ -208,3 +210,8 @@ Most major tech firms have delayed or recontextualized previously announced carb
 **Publication date:** 2026-09-04
 **Title:** Big Tech Can Build Data Centers People Won’t Hate
 **URL:** https://www.wsj.com/tech/ai/data-center-deals-community-cf92390f
+
+---
+
+<!-- analysis-link:2026-09-04-one-reinforcing-loop-two-delayed-balancing-channels-drive-data-center-friction-c -->
+**Going deeper:** [Read MSI's analysis of data-center siting; community concessions; AI infrastructure buildout; moratorium dynamics; third-si →](/analyses/2026-09-04-one-reinforcing-loop-two-delayed-balancing-channels-drive-data-center-friction-c)
