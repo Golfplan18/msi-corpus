@@ -161,6 +161,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-04-uk-government-invokes-licence-consent-split-to-approve-jackdaw-gasfield'
 ---
 ## UK energy secretary expected to recommend Jackdaw gasfield approval
 
@@ -196,3 +198,8 @@ A spokesperson for the energy department said: "The North Sea remains a vital na
 **Publication date:** 2026-09-04
 **Title:** Jackdaw gasfield set to be approved by ministers this month, sources say
 **URL:** https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say
+
+---
+
+<!-- analysis-link:2026-09-04-uk-government-invokes-licence-consent-split-to-approve-jackdaw-gasfield -->
+**Going deeper:** [Read MSI's analysis of Jackdaw approval and the Labour manifesto →](/analyses/2026-09-04-uk-government-invokes-licence-consent-split-to-approve-jackdaw-gasfield)
