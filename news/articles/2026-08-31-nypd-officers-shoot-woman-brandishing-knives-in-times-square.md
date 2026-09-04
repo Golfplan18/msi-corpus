@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
 - crime
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- nypd-use-of-lethal-force-involving-knife-wielding-suspects
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -152,6 +153,7 @@ related_stories:
   relation: related
   strength: 0.6771
 ---
+
 ## NYPD officers shoot woman brandishing knives in Times Square
 **Subtype:** fact
 

@@ -24,7 +24,8 @@ topic_tags:
 - law enforcement
 - mental health
 - public health
-storyline_nexus: []
+storyline_nexus:
+- nypd-use-of-lethal-force-involving-knife-wielding-suspects
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -140,6 +141,7 @@ related_stories:
   relation: related
   strength: 0.6799
 ---
+
 ## NYPD fatally shoots knife-wielding man on Manhattan's Lower East Side
 
 **Subtype:** fact
