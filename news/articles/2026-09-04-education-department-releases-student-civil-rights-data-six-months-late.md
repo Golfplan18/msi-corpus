@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-06-16'
   relation: related
   strength: 0.7542
+analyses:
+- '2026-09-04-education-department-s-stripped-delayed-civil-rights-release-narrows-federal-sch'
 ---
 ## Education Department releases student civil rights data six months late
 
@@ -254,3 +256,8 @@ A spokesperson confirmed that the Education Department has begun collecting data
 **Publication date:** 2026-09-04
 **Title:** Federal civil rights data about students is finally out. It's different under Trump
 **URL:** https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump
+
+---
+
+<!-- analysis-link:2026-09-04-education-department-s-stripped-delayed-civil-rights-release-narrows-federal-sch -->
+**Going deeper:** [Read MSI's analysis of Education Department civil rights data release 2023-24 →](/analyses/2026-09-04-education-department-s-stripped-delayed-civil-rights-release-narrows-federal-sch)

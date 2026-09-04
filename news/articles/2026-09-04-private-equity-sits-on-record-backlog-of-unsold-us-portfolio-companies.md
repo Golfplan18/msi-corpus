@@ -151,6 +151,8 @@ related_stories:
   publish_date: '2026-06-01'
   relation: related
   strength: 0.671
+analyses:
+- '2026-09-04-us-private-equity-s-13-500-company-unsold-backlog-centers-opacity-as-federal-sta'
 ---
 ## Private equity sits on record backlog of unsold US portfolio companies
 
@@ -192,3 +194,8 @@ November's midterm elections, widely expected to deliver one or both chambers of
 **Publication date:** 2026-09-04
 **Title:** Private equity faces existential crisis in US as unsold companies pile up
 **URL:** https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff
+
+---
+
+<!-- analysis-link:2026-09-04-us-private-equity-s-13-500-company-unsold-backlog-centers-opacity-as-federal-sta -->
+**Going deeper:** [Read MSI's analysis of private equity's unsold-company backlog →](/analyses/2026-09-04-us-private-equity-s-13-500-company-unsold-backlog-centers-opacity-as-federal-sta)
