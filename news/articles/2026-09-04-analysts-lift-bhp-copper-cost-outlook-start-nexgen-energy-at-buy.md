@@ -166,6 +166,8 @@ related_stories:
   publish_date: '2026-06-19'
   relation: related
   strength: 0.6926
+analyses:
+- '2026-09-04-bhp-vicuna-capex-seen-rising-as-analysts-flag-costs-across-mining-projects'
 ---
 ## Analysts lift BHP copper cost outlook, start NexGen Energy at buy
 
@@ -218,3 +220,8 @@ Shaw & Partners said metallurgical testwork on Sunstone Metals returned material
 **Publication date:** 2026-09-04
 **Title:** Basic Materials Roundup: Market Talk
 **URL:** https://www.wsj.com/business/basic-materials-roundup-market-talk-90badd13
+
+---
+
+<!-- analysis-link:2026-09-04-bhp-vicuna-capex-seen-rising-as-analysts-flag-costs-across-mining-projects -->
+**Going deeper:** [Read MSI's analysis of upward mining capex revisions →](/analyses/2026-09-04-bhp-vicuna-capex-seen-rising-as-analysts-flag-costs-across-mining-projects)
