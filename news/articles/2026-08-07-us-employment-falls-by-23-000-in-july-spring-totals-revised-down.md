@@ -21,7 +21,8 @@ topic_tags:
 - labour market
 - unemployment
 - economy
-storyline_nexus: []
+storyline_nexus:
+- u-s-labor-market-stagnation
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -198,6 +199,7 @@ related_stories:
   relation: related
   strength: 0.7034
 ---
+
 ## US employment falls by 23,000 in July; spring totals revised down
 
 **Subtype:** fact
