@@ -162,6 +162,8 @@ related_stories:
   publish_date: '2026-09-02'
   relation: related
   strength: 0.6794
+analyses:
+- '2026-09-04-afd-s-saxony-anhalt-bid-tests-engineered-democracy-concept-against-institutional'
 ---
 ## AfD leads Saxony-Anhalt election, could win first state government since WWII
 
@@ -205,3 +207,8 @@ Sunday's vote lands in the political context reported by [MSI on September 2](/a
 **Publication date:** 2026-09-04
 **Title:** Germany's far-right poised for power in state election
 **URL:** https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election
+
+---
+
+<!-- analysis-link:2026-09-04-afd-s-saxony-anhalt-bid-tests-engineered-democracy-concept-against-institutional -->
+**Going deeper:** [Read MSI's analysis of AfD Saxony-Anhalt campaign mechanics →](/analyses/2026-09-04-afd-s-saxony-anhalt-bid-tests-engineered-democracy-concept-against-institutional)
