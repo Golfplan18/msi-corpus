@@ -176,6 +176,8 @@ related_stories:
   publish_date: '2026-02-02'
   relation: related
   strength: 0.7005
+analyses:
+- '2026-09-04-california-doj-audit-identifies-gap-between-corecivic-s-stated-policy-and-califo'
 ---
 ## California ICE facility bans contact visits as detainees organize
 
@@ -240,3 +242,8 @@ Reyes said she has not been back to California City since May and will only retu
 **Publication date:** 2026-09-04
 **Title:** ICE bans hugging inside California’s largest detention center. Families are fighting back
 **URL:** https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits
+
+---
+
+<!-- analysis-link:2026-09-04-california-doj-audit-identifies-gap-between-corecivic-s-stated-policy-and-califo -->
+**Going deeper:** [Read MSI's analysis of Contact-visit ban at California City →](/analyses/2026-09-04-california-doj-audit-identifies-gap-between-corecivic-s-stated-policy-and-califo)

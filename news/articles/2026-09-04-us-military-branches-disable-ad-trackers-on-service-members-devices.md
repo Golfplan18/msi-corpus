@@ -167,6 +167,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-04-air-force-army-and-socom-disable-service-member-ad-ids-in-fragmented-rollout'
 ---
 ## US military branches disable ad trackers on service members' devices
 
@@ -203,3 +205,8 @@ Edwards cautioned, however, that military personnel might still be tracked throu
 **Publication date:** 2026-09-04
 **Title:** US military disables ad trackers on troops’ phones amid security fears
 **URL:** https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers
+
+---
+
+<!-- analysis-link:2026-09-04-air-force-army-and-socom-disable-service-member-ad-ids-in-fragmented-rollout -->
+**Going deeper:** [Read MSI's analysis of troop-location data safeguards →](/analyses/2026-09-04-air-force-army-and-socom-disable-service-member-ad-ids-in-fragmented-rollout)
