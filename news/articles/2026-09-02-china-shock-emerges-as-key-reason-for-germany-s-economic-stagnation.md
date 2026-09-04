@@ -29,7 +29,8 @@ primary_themes:
 topic_tags:
 - economy
 - international trade
-storyline_nexus: []
+storyline_nexus:
+- china-s-competitive-pressure-on-germany-s-export-industries
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.6545
 ---
+
 ## China shock emerges as key reason for Germany's economic stagnation
 
 **Subtype:** fact

@@ -33,6 +33,7 @@ topic_tags:
 - health
 storyline_nexus:
 - abdul-el-sayed-wins-michigan-democratic-senate-primary
+- china-s-competitive-pressure-on-germany-s-export-industries
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -179,8 +180,9 @@ related_stories:
   relation: related
   strength: 0.7549
 analyses:
-- '2026-08-28-el-sayed-s-michigan-senate-bid-leans-on-identity-defense-while-policy-stack-stay'
+- 2026-08-28-el-sayed-s-michigan-senate-bid-leans-on-identity-defense-while-policy-stack-stay
 ---
+
 ## El-Sayed stakes Michigan Senate bid on family-themed ads
 
 **Subtype:** fact
