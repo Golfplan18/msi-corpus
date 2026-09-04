@@ -138,6 +138,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-04-three-documented-concerns-converge-on-tennessee-s-september-30-execution-of-chri'
 ---
 ## Tennessee plans execution of Christa Pike, first woman since 1819
 
@@ -177,3 +179,8 @@ Sarat wrote that what should be unsettling in Pike's case is not her gender but 
 **Publication date:** 2026-09-04
 **Title:** Tennessee is about to execute its first woman since 1819. Her case raises troubling questions | Austin Sarat
 **URL:** https://www.theguardian.com/commentisfree/2026/sep/04/tennessee-executes-first-woman-since-1819
+
+---
+
+<!-- analysis-link:2026-09-04-three-documented-concerns-converge-on-tennessee-s-september-30-execution-of-chri -->
+**Going deeper:** [Read MSI's analysis of Christa Pike's scheduled Tennessee execution →](/analyses/2026-09-04-three-documented-concerns-converge-on-tennessee-s-september-30-execution-of-chri)
