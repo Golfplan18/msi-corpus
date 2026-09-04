@@ -38,7 +38,8 @@ topic_tags:
 - trial
 - judiciary
 - prosecution
-storyline_nexus: []
+storyline_nexus:
+- recent-resurgence-of-triple-executions-in-the-united-states
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -174,6 +175,7 @@ related_stories:
   relation: related
   strength: 0.7088
 ---
+
 ## Same-day triple executions return Thursday after 16-year gap
 
 **Subtype:** fact

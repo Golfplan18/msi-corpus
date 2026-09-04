@@ -24,7 +24,8 @@ primary_themes:
 - State criminal justice
 topic_tags:
 - crime, law and justice
-storyline_nexus: []
+storyline_nexus:
+- recent-resurgence-of-triple-executions-in-the-united-states
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -168,6 +169,7 @@ related_stories:
   relation: related
   strength: 0.6566
 ---
+
 ## Three states plan same-day executions, first in nearly 16 years
 
 **Subtype:** fact
