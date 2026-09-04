@@ -162,6 +162,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-04-reform-national-rally-migrant-memorandum-ties-return-mechanism-to-electoral-outc'
 ---
 ## Reform UK and National Rally sign Channel migrant-return memorandum
 
@@ -197,3 +199,8 @@ Farage and Bardella have been cultivating closer ties since the two met in Londo
 **Publication date:** 2026-09-04
 **Title:** Farage unveils small boats deal with French National Rally party
 **URL:** https://www.bbc.co.uk/news/articles/c4gk35qnzp3o
+
+---
+
+<!-- analysis-link:2026-09-04-reform-national-rally-migrant-memorandum-ties-return-mechanism-to-electoral-outc -->
+**Going deeper:** [Read MSI's analysis of Reform UK–National Rally Channel migrant-return memorandum →](/analyses/2026-09-04-reform-national-rally-migrant-memorandum-ties-return-mechanism-to-electoral-outc)
