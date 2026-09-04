@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-06-02'
   relation: related
   strength: 0.6709
+analyses:
+- '2026-09-04-volkswagen-supervisory-board-unanimously-approves-100-000-job-restructuring-plan'
 ---
 ## Volkswagen board approves 100,000 job cuts by 2030
 
@@ -239,3 +241,8 @@ The tough market in China has also hit other carmakers, with BMW cutting its pro
 **Publication date:** 2026-09-04
 **Title:** Volkswagen announces it will cut 100,000 jobs by 2030
 **URL:** https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030
+
+---
+
+<!-- analysis-link:2026-09-04-volkswagen-supervisory-board-unanimously-approves-100-000-job-restructuring-plan -->
+**Going deeper:** [Read MSI's analysis of Volkswagen's 100,000-job restructuring plan →](/analyses/2026-09-04-volkswagen-supervisory-board-unanimously-approves-100-000-job-restructuring-plan)
