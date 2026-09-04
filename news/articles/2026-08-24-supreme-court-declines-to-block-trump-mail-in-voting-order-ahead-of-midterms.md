@@ -23,7 +23,8 @@ primary_themes:
 - mail-in voting
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- supreme-court-s-review-of-mail-in-voting-restrictions
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,14 +193,19 @@ related_stories:
   strength: 0.7778
 image:
   url: /articles/2026-08-24-supreme-court-declines-to-block-trump-mail-in-voting-order-ahead-of-midterms.png
-  alt: "Illustration accompanying article: Supreme Court declines to block Trump mail-in voting order ahead of midterms"
+  alt: 'Illustration accompanying article: Supreme Court declines to block Trump mail-in
+    voting order ahead of midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Supreme Court declines to block Trump mail-in voting order ahead of midterms
 
 **Subtype:** fact
