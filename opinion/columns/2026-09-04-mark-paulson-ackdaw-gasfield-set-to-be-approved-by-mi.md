@@ -37,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,16 +54,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-09-04-uk-energy-secretary-expected-to-recommend-jackdaw-gasfield-approval.png
-  alt: 'Illustration accompanying article: UK energy secretary expected to recommend Jackdaw gasfield approval'
+  url: /cartoons/fahnbulleh-prepares-to-greenlight-jackdaws-climate-damage.png
+  alt: 'Editorial cartoon by Hector Rentier: Fahnbulleh Prepares to Greenlight Jackdaw''s
+    Climate Damage'
+  caption: A tax receipt is not a receipt for the atmosphere.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-09-04T22:02:11-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A composed central figure — Miatta Fahnbulleh, UK Minister of Energy
+    Security and Net Zero, fully rendered face and individuated in the moral-disgust
+    register's posture of serene self-pleased virtue —
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-09-04-uk-energy-secretary-expected-to-recommend-jackdaw-gasfield-approval
   relation: extends
   strength: 0.3307
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-04-hector-paired-with-2026-09-04-mark-paulson-ackdaw-gasfield-set-to-be-approved-by-mi
 ---
+
+![Editorial cartoon by Hector Rentier: Fahnbulleh Prepares to Greenlight Jackdaw's Climate Damage](/cartoons/fahnbulleh-prepares-to-greenlight-jackdaws-climate-damage.png)
+*A tax receipt is not a receipt for the atmosphere.*
 
 Miatta Fahnbulleh is preparing to greenlight Jackdaw's climate damage.
 

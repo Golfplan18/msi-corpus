@@ -1,7 +1,9 @@
 ---
 headline: Newsom's Wage Floor Stands Up for Workers
 publish_date: '2026-09-04'
-lede: Defending California Gov. Gavin Newsom against the donor-class attack on working people is a nearly full-time job, but since he is fighting for the workers, someone has to do it.
+lede: Defending California Gov. Gavin Newsom against the donor-class attack on working
+  people is a nearly full-time job, but since he is fighting for the workers, someone
+  has to do it.
 pen_name: editorial-board
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +34,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/newsoms-wage-floor-stands-up-for-workers.png
+  alt: 'Editorial cartoon by Hector Rentier: Newsom''s Wage Floor Stands Up for Workers'
+  caption: He called it whitewash. The brush was already in his hand.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-04T22:03:48-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1 square format, heavy cross-hatch in the Nast polemic
+    tradition. Central figure: a composed, well-dressed editorial-page editorialist
+    at a lectern, fully individuated — middle-aged, e'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-04-hector-paired-with-2026-09-04-eb-newsom-s-wage-floor-stands-up-for-workers
 ---
+
+![Editorial cartoon by Hector Rentier: Newsom's Wage Floor Stands Up for Workers](/cartoons/newsoms-wage-floor-stands-up-for-workers.png)
+*He called it whitewash. The brush was already in his hand.*
 
 Defending California Gov. Gavin Newsom against the donor-class attack on working people is a nearly full-time job, but since he is fighting for the workers, someone has to do it. His latest good sense is that the state's high wage mandates are lifting working families and the economy, and this is fast becoming a key plank of any political agenda with a conscience.
 
