@@ -133,6 +133,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-05-big-sur-s-tourism-confronts-mismatch-with-highway-1-s-limits-after-two-car-week-'
 ---
 ## Car Week crowds clog Big Sur roads during wildfires, leading to fatal crash
 
@@ -185,3 +187,8 @@ Sarah Sweeney, who in less uncertain times sells sushi from a truck, said Robert
 **Publication date:** 2026-09-05
 **Title:** After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’
 **URL:** https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism
+
+---
+
+<!-- analysis-link:2026-09-05-big-sur-s-tourism-confronts-mismatch-with-highway-1-s-limits-after-two-car-week- -->
+**Going deeper:** [Read MSI's analysis of Car Week 2026 / Big Sur overtourism and emergency-access failure →](/analyses/2026-09-05-big-sur-s-tourism-confronts-mismatch-with-highway-1-s-limits-after-two-car-week-)
