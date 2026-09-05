@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-08-21'
   relation: related
   strength: 0.7329
+analyses:
+- '2026-09-05-documented-pentagon-disputes-under-hegseth-span-promotions-deployment-orders-and'
 ---
 ## Tillis urges Trump to fire Hegseth as Army secretary resigns
 
@@ -244,3 +246,8 @@ Manner said Hegseth was drawing on "readiness accounts" — funds intended to tr
 **Publication date:** 2026-09-05
 **Title:** Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military
 **URL:** https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military
+
+---
+
+<!-- analysis-link:2026-09-05-documented-pentagon-disputes-under-hegseth-span-promotions-deployment-orders-and -->
+**Going deeper:** [Read MSI's analysis of Pentagon governance disputes under Hegseth →](/analyses/2026-09-05-documented-pentagon-disputes-under-hegseth-span-promotions-deployment-orders-and)
