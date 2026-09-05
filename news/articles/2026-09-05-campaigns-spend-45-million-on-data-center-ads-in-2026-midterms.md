@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-06-15'
   relation: related
   strength: 0.6913
+analyses:
+- '2026-09-05-data-center-ads-converge-across-parties-as-45-million-flows-into-2026-midterms'
 ---
 ## Campaigns spend $45 million on data center ads in 2026 midterms
 
@@ -265,3 +267,8 @@ The $45 million in campaign ad spending through August represents a measurable p
 **Publication date:** 2026-09-05
 **Title:** Voters are fed up with data centers. Both parties are trying to cash in for midterms
 **URL:** https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending
+
+---
+
+<!-- analysis-link:2026-09-05-data-center-ads-converge-across-parties-as-45-million-flows-into-2026-midterms -->
+**Going deeper:** [Read MSI's analysis of data center midterm advertising →](/analyses/2026-09-05-data-center-ads-converge-across-parties-as-45-million-flows-into-2026-midterms)

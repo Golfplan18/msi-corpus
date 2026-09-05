@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-07-01'
   relation: related
   strength: 0.6905
+analyses:
+- '2026-09-05-dsa-s-120-000-member-surge-intensifies-democratic-contest-over-socialist-label'
 ---
 ## Progressive candidates navigate DSA ties as membership reaches 120,000
 
@@ -234,3 +236,8 @@ The Guardian reported that critics point to some of the organization's more radi
 **Publication date:** 2026-09-05
 **Title:** Leftist insurgents are storming the midterms – just don’t call them all democratic socialists
 **URL:** https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist
+
+---
+
+<!-- analysis-link:2026-09-05-dsa-s-120-000-member-surge-intensifies-democratic-contest-over-socialist-label -->
+**Going deeper:** [Read MSI's analysis of DSA membership and 2026 candidates →](/analyses/2026-09-05-dsa-s-120-000-member-surge-intensifies-democratic-contest-over-socialist-label)
