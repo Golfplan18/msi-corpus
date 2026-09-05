@@ -163,6 +163,8 @@ related_stories:
   publish_date: '2026-03-04'
   relation: related
   strength: 0.6657
+analyses:
+- '2026-09-05-massachusetts-protection-apparatus-expands-while-youth-trans-care-access-contrac'
 ---
 ## Nine arrested at Massachusetts AG's office in trans care protest
 
@@ -225,3 +227,8 @@ Fenway's cessation of care spurred the creation of Protect Trans Futures, which 
 **Publication date:** 2026-09-05
 **Title:** Even in safe-haven Massachusetts, trans care is at risk. Young people are fighting to protect it
 **URL:** https://www.theguardian.com/us-news/2026/sep/05/massachusetts-trans-care-protections
+
+---
+
+<!-- analysis-link:2026-09-05-massachusetts-protection-apparatus-expands-while-youth-trans-care-access-contrac -->
+**Going deeper:** [Read MSI's analysis of Massachusetts' trans care access map →](/analyses/2026-09-05-massachusetts-protection-apparatus-expands-while-youth-trans-care-access-contrac)
