@@ -151,6 +151,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-05-gracias-backed-resilient-carries-lykos-mdma-application-into-fda-hearing-under-t'
 ---
 ## SpaceX director Gracias gives $25 million to recapitalize MDMA therapy developer
 
@@ -192,3 +194,8 @@ Resilient is in talks to raise new funding, according to people familiar with th
 **Publication date:** 2026-09-05
 **Title:** Elon Musk’s Inner Circle Is Pouring Cash Into Making Psychedelics Mainstream
 **URL:** https://www.wsj.com/health/healthcare/elon-musks-inner-circle-is-pouring-cash-into-making-psychedelics-mainstream-98ea1b57
+
+---
+
+<!-- analysis-link:2026-09-05-gracias-backed-resilient-carries-lykos-mdma-application-into-fda-hearing-under-t -->
+**Going deeper:** [Read MSI's analysis of Gracias's MDMA therapy resubmission →](/analyses/2026-09-05-gracias-backed-resilient-carries-lykos-mdma-application-into-fda-hearing-under-t)
