@@ -187,6 +187,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-05-ivan-davis-orders-administration-to-identify-who-structured-the-1-8bn-fund'
 ---
 ## Federal magistrate orders discovery into defunct $1.8bn compensation scheme
 
@@ -224,3 +226,8 @@ The proposed fund drew bipartisan criticism in Washington, including opposition 
 **Publication date:** 2026-09-05
 **Title:** Judge orders Trump administration to reveal who set up $1.8bn ‘anti-weaponization fund’
 **URL:** https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund
+
+---
+
+<!-- analysis-link:2026-09-05-ivan-davis-orders-administration-to-identify-who-structured-the-1-8bn-fund -->
+**Going deeper:** [Read MSI's analysis of Anti-weaponization fund discovery →](/analyses/2026-09-05-ivan-davis-orders-administration-to-identify-who-structured-the-1-8bn-fund)
