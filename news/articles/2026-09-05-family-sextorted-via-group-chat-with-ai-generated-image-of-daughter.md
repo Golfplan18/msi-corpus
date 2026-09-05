@@ -90,6 +90,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-05-family-sextortion-attack-exposes-automated-pipeline-built-on-open-weight-ai-mode'
 ---
 ## Family sextorted via group chat with AI-generated image of daughter
 
@@ -136,3 +138,8 @@ The experts outlined steps they said everyone should take to limit exposure. Soc
 **Publication date:** 2026-09-05
 **Title:** Sextortion Has Entered the Family Group Chat
 **URL:** https://www.wsj.com/tech/personal-tech/sextortion-scams-family-group-chats-537e8369
+
+---
+
+<!-- analysis-link:2026-09-05-family-sextortion-attack-exposes-automated-pipeline-built-on-open-weight-ai-mode -->
+**Going deeper:** [Read MSI's analysis of automated family sextortion attacks →](/analyses/2026-09-05-family-sextortion-attack-exposes-automated-pipeline-built-on-open-weight-ai-mode)
