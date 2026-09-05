@@ -178,6 +178,8 @@ related_stories:
   publish_date: '2026-02-07'
   relation: related
   strength: 0.6905
+analyses:
+- '2026-09-05-memphis-grid-s-xai-continuity-through-storm-as-community-groups-bridge-nine-day-'
 ---
 ## Memphis community organizes storm relief as 100,000 lose power
 
@@ -224,3 +226,8 @@ As of 2 September, most Memphis residents had their power restored, though a sma
 **Publication date:** 2026-09-05
 **Title:** When Memphis went dark, community members brought the light: ‘We keep ourselves safe’
 **URL:** https://www.theguardian.com/us-news/2026/sep/05/memphis-storm-community
+
+---
+
+<!-- analysis-link:2026-09-05-memphis-grid-s-xai-continuity-through-storm-as-community-groups-bridge-nine-day- -->
+**Going deeper:** [Read MSI's analysis of Memphis storm relief and grid allocation →](/analyses/2026-09-05-memphis-grid-s-xai-continuity-through-storm-as-community-groups-bridge-nine-day-)
