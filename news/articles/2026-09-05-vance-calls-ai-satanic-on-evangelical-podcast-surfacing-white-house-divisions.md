@@ -132,6 +132,8 @@ related_stories:
   publish_date: '2026-04-14'
   relation: related
   strength: 0.6693
+analyses:
+- '2026-09-05-vance-s-spiritual-framing-of-ai-exposes-white-house-posture-without-internal-med'
 ---
 ## Vance calls AI satanic on evangelical podcast, surfacing White House divisions
 
@@ -180,3 +182,8 @@ Dreher said he still doubts whether Vance, or any elected official, can reconcil
 **Publication date:** 2026-09-05
 **Title:** Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.
 **URL:** https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048
+
+---
+
+<!-- analysis-link:2026-09-05-vance-s-spiritual-framing-of-ai-exposes-white-house-posture-without-internal-med -->
+**Going deeper:** [Read MSI's analysis of administration's AI posture divisions →](/analyses/2026-09-05-vance-s-spiritual-framing-of-ai-exposes-white-house-posture-without-internal-med)
