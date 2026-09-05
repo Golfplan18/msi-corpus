@@ -125,6 +125,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-05-bail-extends-sara-duterte-s-political-confrontation-into-parallel-legal-tracks'
 ---
 ## Sara Duterte posts $5,740 bail on three grave-threat counts at Quezon court
 
@@ -168,3 +170,8 @@ Marcos and Sara Duterte have also taken contrasting positions on foreign policy.
 **Publication date:** 2026-09-05
 **Title:** Philippines Vice President Sara Duterte posts bail after arrest
 **URL:** https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail
+
+---
+
+<!-- analysis-link:2026-09-05-bail-extends-sara-duterte-s-political-confrontation-into-parallel-legal-tracks -->
+**Going deeper:** [Read MSI's analysis of Sara Duterte's bail, three grave-threat counts, and the impeachment track →](/analyses/2026-09-05-bail-extends-sara-duterte-s-political-confrontation-into-parallel-legal-tracks)
