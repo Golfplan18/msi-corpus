@@ -34,7 +34,8 @@ topic_tags:
 - employment
 - international trade
 - unemployment
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,6 +190,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## 50% U.S. tariffs take effect on $20 billion in Canadian goods; economists project 90,000 jobs lost
 
 **Subtype:** fact
