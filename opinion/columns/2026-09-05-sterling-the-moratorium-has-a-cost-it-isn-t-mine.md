@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +31,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-moratorium-has-a-cost-it-isnt-mine.png
+  alt: 'Editorial cartoon by Hector Rentier: The Moratorium Has a Cost. It Isn''t
+    Mine.'
+  caption: The hood pays for itself in nine days. He chose 1,461.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-05T22:04:07-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A single central figure in late middle age, well-fed and well-dressed
+    in a dark suit, composed and fully individuated, seated at a dark mahogany writing
+    desk in a book-lined study. He is in serene dev
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-05-hector-paired-with-2026-09-05-sterling-the-moratorium-has-a-cost-it-isn-t-mine
 ---
+
+![Editorial cartoon by Hector Rentier: The Moratorium Has a Cost. It Isn't Mine.](/cartoons/the-moratorium-has-a-cost-it-isnt-mine.png)
+*The hood pays for itself in nine days. He chose 1,461.*
 
 Marla is a hand at the galvanizing kettle I own outside Cumberland, Maryland. The fume extraction hood costs $19,400. I declined it in 2021 and I will decline it this quarter. Her lungs are the ventilation plan. God gives the zinc its heat.
 

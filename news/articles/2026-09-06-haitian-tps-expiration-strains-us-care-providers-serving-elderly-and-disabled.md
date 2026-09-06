@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-07-10'
   relation: related
   strength: 0.731
+analyses:
+- '2026-09-06-haitian-tps-termination-leaves-us-care-sector-facing-asymmetric-alternatives-as-'
 ---
 - The Supreme Court ruled in favor of the Trump administration's termination of Temporary Protected Status for Haitians, ending work authorization for approximately 350,000 people at the end of July 2026.
 - Long Island mother Linda Mancuso said her nonverbal, 23-year-old son Michael lost his Haitian caregiver "Jean" in late July after the aide's work permit expired.
@@ -235,3 +237,8 @@ Back on Long Island, Mancuso said she is grieving not only for her son but for J
 **Publication date:** 2026-09-06
 **Title:** 'He was a lifeline' - Families at a loss after Haitian caregivers let go in US
 **URL:** https://www.bbc.co.uk/news/articles/cg491zp13qqo
+
+---
+
+<!-- analysis-link:2026-09-06-haitian-tps-termination-leaves-us-care-sector-facing-asymmetric-alternatives-as- -->
+**Going deeper:** [Read MSI's analysis of Haitian TPS termination's downstream effects →](/analyses/2026-09-06-haitian-tps-termination-leaves-us-care-sector-facing-asymmetric-alternatives-as-)

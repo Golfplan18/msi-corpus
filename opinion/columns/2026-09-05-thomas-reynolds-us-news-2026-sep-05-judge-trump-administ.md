@@ -1,7 +1,8 @@
 ---
 headline: DOJ Forced to Name the Architects of Trump’s Sham Fund
 publish_date: '2026-09-05'
-lede: The Trump administration rigged a sham IRS lawsuit to create a $1.8 billion slush fund.
+lede: The Trump administration rigged a sham IRS lawsuit to create a $1.8 billion
+  slush fund.
 pen_name: thomas-reynolds
 primary_entities:
 - Todd Blanche
@@ -37,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,9 +55,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-09-05-federal-magistrate-orders-discovery-into-defunct-1-8bn-compensation-scheme.png
-  alt: 'Illustration accompanying article: Federal magistrate orders discovery into defunct $1.8bn compensation scheme'
+  url: /cartoons/doj-forced-to-name-the-architects-of-trumps-sham-fund.png
+  alt: 'Editorial cartoon by Hector Rentier: DOJ Forced to Name the Architects of
+    Trump''s Sham Fund'
+  caption: There was never a case. There was only the stamp.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-09-05T22:01:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single-panel allegorical courtroom scene, 1:1 aspect ratio, heavy cross-hatch
+    wood-engraving in the Nast-Daumier tradition. At center, a composed Attorney General
+    figure (Blanche-coded: dark suit, nea'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-09-05-federal-magistrate-orders-discovery-into-defunct-1-8bn-compensation-scheme
   relation: extends
@@ -63,7 +76,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-05-hector-paired-with-2026-09-05-thomas-reynolds-us-news-2026-sep-05-judge-trump-administ
 ---
+
+![Editorial cartoon by Hector Rentier: DOJ Forced to Name the Architects of Trump's Sham Fund](/cartoons/doj-forced-to-name-the-architects-of-trumps-sham-fund.png)
+*There was never a case. There was only the stamp.*
 
 The Trump administration rigged a sham IRS lawsuit to create a $1.8 billion slush fund.
 
