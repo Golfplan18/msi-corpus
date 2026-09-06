@@ -199,6 +199,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-06-three-automakers-position-erev-launches-as-range-insurance-answer-to-ev-adoption'
 ---
 ## Hyundai, Ford and Stellantis plan US extended-range EVs
 
@@ -245,3 +247,8 @@ Bly said that while the industry spent years racing toward full EVs to meet gove
 **Publication date:** 2026-09-06
 **Title:** Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine
 **URL:** https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34
+
+---
+
+<!-- analysis-link:2026-09-06-three-automakers-position-erev-launches-as-range-insurance-answer-to-ev-adoption -->
+**Going deeper:** [Read MSI's analysis of EREV range-insurance framing in U.S. coverage →](/analyses/2026-09-06-three-automakers-position-erev-launches-as-range-insurance-answer-to-ev-adoption)
