@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-07-13'
   relation: related
   strength: 0.7234
+analyses:
+- '2026-09-06-the-opec-october-pause-shows-how-nominal-additions-cannot-bridge-a-roughly-three'
 ---
 ## OPEC+ pauses October oil output increases amid US-Iran war
 
@@ -237,3 +239,8 @@ The Middle East conflict could test the group's cohesion if producers seek to in
 **Publication date:** 2026-09-06
 **Title:** OPEC, Allies Agree to Keep Oil Output Steady in October
 **URL:** https://www.wsj.com/business/energy-oil/opec-allies-agree-to-keep-oil-output-steady-in-october-c7fceb83
+
+---
+
+<!-- analysis-link:2026-09-06-the-opec-october-pause-shows-how-nominal-additions-cannot-bridge-a-roughly-three -->
+**Going deeper:** [Read MSI's analysis of OPEC+ pause and the gap between announced supply increases and war-disrupted Hormuz flows →](/analyses/2026-09-06-the-opec-october-pause-shows-how-nominal-additions-cannot-bridge-a-roughly-three)
