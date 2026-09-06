@@ -152,6 +152,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-06-credential-financial-and-trauma-feedback-loops-bend-one-kabul-evacuee-s-stalled-'
 ---
 ## Kabul evacuee in Houston describes fading dream of medicine
 
@@ -196,3 +198,8 @@ In the frantic exit, Rahim left behind most of her school transcripts and certif
 **Publication date:** 2026-09-06
 **Title:** The Women Who Escaped Kabul for America but Left Their Dreams Behind
 **URL:** https://www.wsj.com/arts-culture/books/the-last-free-women-book-59ec7858
+
+---
+
+<!-- analysis-link:2026-09-06-credential-financial-and-trauma-feedback-loops-bend-one-kabul-evacuee-s-stalled- -->
+**Going deeper:** [Read MSI's analysis of Afghan evacuees' credential-financial-trauma feedback loops →](/analyses/2026-09-06-credential-financial-and-trauma-feedback-loops-bend-one-kabul-evacuee-s-stalled-)
