@@ -204,6 +204,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-06-documented-structural-indicators-favor-democratic-house-gains-as-senate-map-rema'
 ---
 ## Democrats hold polling edge as midterm campaign enters final stretch
 
@@ -251,3 +253,8 @@ There, Democrats appear ahead: an Economist/YouGov survey from late August showe
 **Publication date:** 2026-09-06
 **Title:** Game on: November elections kick into high gear with control of Congress in the balance
 **URL:** https://www.theguardian.com/us-news/2026/sep/06/midterm-elections-control-of-congress
+
+---
+
+<!-- analysis-link:2026-09-06-documented-structural-indicators-favor-democratic-house-gains-as-senate-map-rema -->
+**Going deeper:** [Read MSI's analysis of 2026 midterm structural forecast →](/analyses/2026-09-06-documented-structural-indicators-favor-democratic-house-gains-as-senate-map-rema)
