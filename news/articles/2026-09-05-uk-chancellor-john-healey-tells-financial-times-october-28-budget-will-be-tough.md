@@ -204,6 +204,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3.1-flash-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-09-05-healey-s-october-28-budget-sits-in-a-narrow-constraint-set-bound-by-bond-market-'
 ---
 ## UK chancellor John Healey tells Financial Times October 28 budget will be tough
 
@@ -239,3 +241,8 @@ Reform UK has said it would cut £80 billion of public spending within five year
 **Publication date:** 2026-09-05
 **Title:** John Healey warns of tough first budget as Middle East war puts pressure on economy
 **URL:** https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy
+
+---
+
+<!-- analysis-link:2026-09-05-healey-s-october-28-budget-sits-in-a-narrow-constraint-set-bound-by-bond-market- -->
+**Going deeper:** [Read MSI's analysis of UK October 2026 budget — fiscal headroom, manifesto pledges, global bond-yield pressure →](/analyses/2026-09-05-healey-s-october-28-budget-sits-in-a-narrow-constraint-set-bound-by-bond-market-)
