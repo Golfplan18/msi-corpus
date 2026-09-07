@@ -150,6 +150,8 @@ related_stories:
   publish_date: '2026-02-25'
   relation: related
   strength: 0.6587
+analyses:
+- '2026-09-07-trump-labor-actions-expose-structural-divide-over-what-counts-as-worker-protecti'
 ---
 ## Union leaders call Trump most anti-union president in modern history
 
@@ -198,3 +200,8 @@ Nelson characterized the move as part of a broader pattern: "It's terrible that 
 **Publication date:** 2026-09-07
 **Title:** ‘The most anti-union president’: how Trump turned his back on US workers
 **URL:** https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union
+
+---
+
+<!-- analysis-link:2026-09-07-trump-labor-actions-expose-structural-divide-over-what-counts-as-worker-protecti -->
+**Going deeper:** [Read MSI's analysis of competing definitions of worker protection →](/analyses/2026-09-07-trump-labor-actions-expose-structural-divide-over-what-counts-as-worker-protecti)

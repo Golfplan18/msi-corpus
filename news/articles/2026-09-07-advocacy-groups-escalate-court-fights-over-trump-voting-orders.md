@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-08-11'
   relation: related
   strength: 0.7802
+analyses:
+- '2026-09-07-election-authority-and-mail-system-exposure-in-dispute-before-the-midterms'
 ---
 ## Advocacy groups escalate court fights over Trump voting orders
 
@@ -241,3 +243,8 @@ Tianna Mays, the legal director of the Democracy Defenders Fund, said: "The Trum
 **Publication date:** 2026-09-07
 **Title:** Legal veterans lead fightback against Trump’s ‘full-out assault on democracy’
 **URL:** https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy
+
+---
+
+<!-- analysis-link:2026-09-07-election-authority-and-mail-system-exposure-in-dispute-before-the-midterms -->
+**Going deeper:** [Read MSI's analysis of Election-administration litigation; voting-rights advocacy; USPS operational exposure; DOJ election →](/analyses/2026-09-07-election-authority-and-mail-system-exposure-in-dispute-before-the-midterms)
