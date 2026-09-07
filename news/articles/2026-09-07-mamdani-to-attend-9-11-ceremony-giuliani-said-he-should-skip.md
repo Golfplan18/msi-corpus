@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-05-17'
   relation: related
   strength: 0.6713
+analyses:
+- '2026-09-07-a-mayor-s-attendance-and-the-dialectic-at-the-25th-anniversary'
 ---
 ## Mamdani to attend 9/11 ceremony; Giuliani said he should skip
 
@@ -227,3 +229,8 @@ Dignitaries expected at Friday's commemorations include former Presidents Clinto
 **Publication date:** 2026-09-07
 **Title:** Giuliani says Mamdani should skip 9/11 ceremony during rant against Islam
 **URL:** https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani
+
+---
+
+<!-- analysis-link:2026-09-07-a-mayor-s-attendance-and-the-dialectic-at-the-25th-anniversary -->
+**Going deeper:** [Read MSI's analysis of Civic inclusion, trauma-specific religious objection, and the unresolved contradictions surrounding →](/analyses/2026-09-07-a-mayor-s-attendance-and-the-dialectic-at-the-25th-anniversary)
