@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-01-03'
   relation: related
   strength: 0.6598
+analyses:
+- '2026-09-07-hhs-report-linking-trans-support-to-left-wing-authoritarianism-faces-methodologi'
 ---
 ## HHS report linking trans support to authoritarianism draws scientist criticism
 
@@ -232,3 +234,8 @@ Konnoth called the report an attempt to create an "alternate scientific narrativ
 **Publication date:** 2026-09-07
 **Title:** ‘Nakedly political’: US attempts to link trans support to authoritarianism in new HHS report
 **URL:** https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism
+
+---
+
+<!-- analysis-link:2026-09-07-hhs-report-linking-trans-support-to-left-wing-authoritarianism-faces-methodologi -->
+**Going deeper:** [Read MSI's analysis of HHS authoritarianism report methodology →](/analyses/2026-09-07-hhs-report-linking-trans-support-to-left-wing-authoritarianism-faces-methodologi)

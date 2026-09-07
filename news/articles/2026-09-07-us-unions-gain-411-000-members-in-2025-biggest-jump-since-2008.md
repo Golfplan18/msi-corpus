@@ -155,6 +155,8 @@ related_stories:
   publish_date: '2026-05-26'
   relation: related
   strength: 0.6574
+analyses:
+- '2026-09-07-pro-labor-coalition-s-sourcing-structures-2025-union-membership-coverage-without'
 ---
 ## US unions gain 411,000 members in 2025, biggest jump since 2008
 
@@ -194,3 +196,8 @@ The report's authors framed their findings as evidence of broad benefit. "By rai
 **Publication date:** 2026-09-07
 **Title:** US labor unions saw membership gains in 2025, mostly in states with bargaining protections
 **URL:** https://www.theguardian.com/us-news/2026/sep/07/labor-unions-membership-increase
+
+---
+
+<!-- analysis-link:2026-09-07-pro-labor-coalition-s-sourcing-structures-2025-union-membership-coverage-without -->
+**Going deeper:** [Read MSI's analysis of union-membership coverage framing patterns →](/analyses/2026-09-07-pro-labor-coalition-s-sourcing-structures-2025-union-membership-coverage-without)
