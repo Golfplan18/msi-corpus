@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-08-19'
   relation: related
   strength: 0.7468
+analyses:
+- '2026-09-07-pro-ai-campaign-recasts-data-center-opposition-as-chinese-covert-influence-opera'
 ---
 ## Trump, tech leaders suggest China is behind data-center opposition
 
@@ -239,3 +241,8 @@ The administration's backing of the projects carries political risk, the column 
 **Publication date:** 2026-09-07
 **Title:** Upset About Data Centers? Big Tech and Trump Think You’re a Socialist Dupe
 **URL:** https://www.wsj.com/tech/ai/upset-about-data-centers-big-tech-and-trump-think-youre-a-socialist-dupe-1bb0ee55
+
+---
+
+<!-- analysis-link:2026-09-07-pro-ai-campaign-recasts-data-center-opposition-as-chinese-covert-influence-opera -->
+**Going deeper:** [Read MSI's analysis of the data-center foreign-adversary frame →](/analyses/2026-09-07-pro-ai-campaign-recasts-data-center-opposition-as-chinese-covert-influence-opera)
