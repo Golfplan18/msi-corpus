@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-06-19'
   relation: related
   strength: 0.6549
+analyses:
+- '2026-09-07-china-s-reserve-growth-renews-pressure-for-yuan-adjustment'
 ---
 ## China's forex reserves rise $19.55 billion in August, topping forecasts
 
@@ -226,3 +228,8 @@ Even if Beijing allows faster appreciation of the tightly-controlled currency, t
 **Publication date:** 2026-09-07
 **Title:** China’s Foreign Exchange Reserves Continue to Climb
 **URL:** https://www.wsj.com/economy/chinas-foreign-exchange-reserves-continue-to-climb-def2bb7d
+
+---
+
+<!-- analysis-link:2026-09-07-china-s-reserve-growth-renews-pressure-for-yuan-adjustment -->
+**Going deeper:** [Read MSI's analysis of yuan appreciation under diplomatic pressure →](/analyses/2026-09-07-china-s-reserve-growth-renews-pressure-for-yuan-adjustment)
