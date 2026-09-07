@@ -169,6 +169,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-07-phoenix-heat-call-decline-attributed-by-mayors-to-coordinated-response-leaves-ri'
 ---
 ## Mayors of Paris, Milan and Phoenix detail heat policies in joint column
 
@@ -202,3 +204,8 @@ The three mayors called on national governments to work with cities on adaptatio
 **Publication date:** 2026-09-07
 **Title:** We’re the mayors of Paris, Milan and Phoenix. The heat crisis has us all facing the same question | Emmanuel Grégoire, Giuseppe Sala and Kate Gallego
 **URL:** https://www.theguardian.com/commentisfree/2026/sep/07/heat-climate-crisis-paris-milan-phoenix
+
+---
+
+<!-- analysis-link:2026-09-07-phoenix-heat-call-decline-attributed-by-mayors-to-coordinated-response-leaves-ri -->
+**Going deeper:** [Read MSI's analysis of Heat adaptation policy →](/analyses/2026-09-07-phoenix-heat-call-decline-attributed-by-mayors-to-coordinated-response-leaves-ri)
