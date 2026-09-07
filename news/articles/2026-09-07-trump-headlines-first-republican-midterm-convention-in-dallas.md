@@ -187,6 +187,8 @@ related_stories:
   publish_date: '2026-07-21'
   relation: related
   strength: 0.6743
+analyses:
+- '2026-09-07-republican-midterm-convention-opens-in-dallas-amid-documented-candidate-distanci'
 ---
 ## Trump headlines first Republican midterm convention in Dallas
 
@@ -238,3 +240,8 @@ Sykes said the undercard faces a difficult assignment. "It is a Trump-a-palooza 
 **Publication date:** 2026-09-07
 **Title:** Republican midterm convention will be ‘Trumpist pageantry’ - at the party’s own risk
 **URL:** https://www.theguardian.com/us-news/2026/sep/07/republican-midterm-convention-trump
+
+---
+
+<!-- analysis-link:2026-09-07-republican-midterm-convention-opens-in-dallas-amid-documented-candidate-distanci -->
+**Going deeper:** [Read MSI's analysis of the Republican midterm convention in Dallas →](/analyses/2026-09-07-republican-midterm-convention-opens-in-dallas-amid-documented-candidate-distanci)
