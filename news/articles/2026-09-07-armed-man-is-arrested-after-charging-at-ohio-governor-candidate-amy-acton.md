@@ -49,11 +49,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - BBC News
   outlet_classes:
   - public_broadcaster
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -208,3 +210,10 @@ The incident follows years of high-profile political violence in the United Stat
 **Publication date:** 2026-09-07
 **Title:** Armed Ohio man arrested for attempted attack on Democratic candidate for governor
 **URL:** https://www.bbc.co.uk/news/articles/czezyr81g23o
+
+### src_late_ee847b55089e0cd9 — Associated Press, wire, Tier 1, originating
+**Author:** Joey Cappelletti
+**Publication date:** 2026-09-08
+**Title:** Prosecutor: Armed man wanted to question Acton at Ohio campaign stop
+**URL:** https://apnews.com/article/amy-acton-ohio-governor-race-patrick-havas-6e68902e83519dfdc6349c49e4e2240f
+**Added after publication:** true

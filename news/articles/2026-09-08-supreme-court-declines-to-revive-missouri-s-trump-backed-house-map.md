@@ -46,10 +46,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 3
   outlets:
   - Associated Press
+  - The Guardian
+  - The Wall Street Journal
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -228,3 +231,16 @@ Hanaway argued in her appeal that switching maps between the primary and general
 **Publication date:** 2026-09-08
 **Title:** Supreme Court rebuffs Missouri's push to use new US House map
 **URL:** https://apnews.com/article/redistricting-congress-trump-gerrymandering-house-aadd3c4e6cc3a2c8100756cb7b352289
+
+### src_late_7629a0dc15b7f846 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** US supreme court blocks Missouri’s new congressional map backed by Trump
+**URL:** https://www.theguardian.com/us-news/2026/sep/08/supreme-court-ruling-missouri-gop-congressional-maps
+**Added after publication:** true
+
+### src_late_f05d4f88153c5aaa — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Lydia Wheeler
+**Publication date:** 2026-09-08
+**Title:** Supreme Court Denies Missouri Bid to Use Voting Map That Benefits Republicans
+**URL:** https://www.wsj.com/politics/policy/supreme-court-denies-missouri-bid-to-use-voting-map-that-benefits-republicans-961218b1
+**Added after publication:** true
