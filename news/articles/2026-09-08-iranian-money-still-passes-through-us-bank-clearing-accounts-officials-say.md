@@ -169,6 +169,8 @@ related_stories:
   publish_date: '2026-08-28'
   relation: related
   strength: 0.7524
+analyses:
+- '2026-09-08-treasury-designates-turkish-bank-while-billions-in-iranian-linked-funds-continue'
 ---
 ## Iranian money still passes through US bank clearing accounts, officials say
 
@@ -208,3 +210,8 @@ Russian President Vladimir Putin has declared that the strikes will not change h
 **Publication date:** 2026-09-08
 **Title:** The Morning Risk Report: How Billions in Iranian Money Passes Through U.S. Banks
 **URL:** https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-billions-in-iranian-money-passes-through-u-s-banks-3e76275c
+
+---
+
+<!-- analysis-link:2026-09-08-treasury-designates-turkish-bank-while-billions-in-iranian-linked-funds-continue -->
+**Going deeper:** [Read MSI's analysis of Treasury's Iranian sanctions enforcement gap →](/analyses/2026-09-08-treasury-designates-turkish-bank-while-billions-in-iranian-linked-funds-continue)
