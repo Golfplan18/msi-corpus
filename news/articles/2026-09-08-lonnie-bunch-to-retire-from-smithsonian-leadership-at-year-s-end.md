@@ -48,9 +48,10 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - United Press International
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -183,3 +184,9 @@ The retirement takes effect at the end of the year, leaving a vacancy at the top
 **Publication date:** 2026-09-08
 **Title:** Bunch to retire from Smithsonian leadership following clash with Trump
 **URL:** https://apnews.com/article/lonnie-bunch-smithsonian-retire-donald-trump-3a08583654837125c643d25b6623fbda
+
+### src_late_5fac6a08070472d5 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Smithsonian leader Lonnie G. Bunch III to retire at the end of 2026
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/bunch-resigns-from-smithsonian/5681788891094/
+**Added after publication:** true

@@ -53,10 +53,8 @@ sources:
   count: 2
   outlets:
   - The Guardian
-  - Associated Press
   outlet_classes:
   - national_daily
-  - wire
   highest_reliability_tier: 2
   has_originating: true
   has_primary_document: false
@@ -187,3 +185,9 @@ JLR launched its first electric Range Rover this week, at a starting price of £
 **Publication date:** 2026-09-05
 **Title:** Thousands of jobs to be cut at Jaguar Land Rover after slump in profits
 **URL:** https://www.theguardian.com/business/2026/sep/05/thousands-jaguar-land-rover-offered-redundancies-after-falling-profits
+
+### src_late_949819e3bdd0f3ee — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-07
+**Title:** Jonathan Reynolds is right, Jaguar Land Rover doesn’t warrant use of public money | Nils Pratley
+**URL:** https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/07/jaguar-land-rover-job-losses-financial-state-assistance
+**Added after publication:** true
