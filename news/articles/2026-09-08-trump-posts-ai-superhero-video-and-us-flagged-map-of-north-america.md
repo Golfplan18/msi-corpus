@@ -2,11 +2,18 @@
 headline: Trump posts AI superhero video and US-flagged map of North America
 secondary_headline: Iceland summons US ambassador over flag map post
 publish_date: '2026-09-08'
-lede: 'President Donald Trump posted an AI-generated video depicting himself as the Green Lantern superhero, a map showing a US flag over most of North America, and a video proposing that New Mexico be renamed "New America" to his Truth Social platform over the Labor Day weekend, The Guardian reported.
+lede: 'President Donald Trump posted an AI-generated video depicting himself as the
+  Green Lantern superhero, a map showing a US flag over most of North America, and
+  a video proposing that New Mexico be renamed "New America" to his Truth Social platform
+  over the Labor Day weekend, The Guardian reported.
 
 
-  The map post prompted Iceland to summon the US ambassador. New Mexico''s name is enshrined in the state''s constitution and cannot be changed by federal action.'
-nut_graf: Trump's proposals to rename US states and foreign territories carry no legal authority; any change to New Mexico's name would require a state-initiated constitutional amendment, and foreign governments or international bodies cannot be compelled to adopt the new names.
+  The map post prompted Iceland to summon the US ambassador. New Mexico''s name is
+  enshrined in the state''s constitution and cannot be changed by federal action.'
+nut_graf: Trump's proposals to rename US states and foreign territories carry no legal
+  authority; any change to New Mexico's name would require a state-initiated constitutional
+  amendment, and foreign governments or international bodies cannot be compelled to
+  adopt the new names.
 primary_entities:
 - Donald Trump
 - Truth Social
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -121,108 +129,32 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-09-08-iceland-summons-us-ambassador-over-trump-s-north-america-flag-image
+  headline: Iceland summons US ambassador over Trump's North America flag image
+  publish_date: '2026-09-08'
+  relation: related
+  strength: 0.6945
 - slug: 2026-09-02-apple-renames-lake-ontario-as-lake-america-on-maps-for-us-users
   headline: Apple renames Lake Ontario as Lake America on Maps for US users
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6694
+  strength: 0.6697
 - slug: 2026-09-02-apple-complies-with-trump-order-shows-lake-america-on-us-maps
   headline: Apple complies with Trump order, shows 'Lake America' on US Maps
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6635
+  strength: 0.6639
 - slug: 2026-08-27-trump-renames-lake-ontario-lake-america-in-federal-use-over-trade-dispute
   headline: Trump renames Lake Ontario 'Lake America' in federal use over trade dispute
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6888
+  strength: 0.6895
 - slug: 2026-08-30-ford-unveils-lake-ontario-sign-after-trump-s-renaming-order
   headline: Ford unveils Lake Ontario sign after Trump's renaming order
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.6643
-- slug: 2026-08-27-trump-posts-ai-images-with-washington-wwii-generals-on-truth-social
-  headline: Trump posts AI images with Washington, WWII generals on Truth Social
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6301
-- slug: 2026-06-10-backlash-grows-in-japan-over-trump-s-use-of-anime-characters
-  headline: Backlash grows in Japan over Trump's use of anime characters
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6327
-- slug: 2026-06-03-white-house-aliens-gov-website-fuses-x-files-style-with-immigration-enforcement
-  headline: White House aliens.gov website fuses X-Files style with immigration enforcement
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6139
-- slug: 2026-05-22-trump-signs-take-it-down-act-aimed-at-deepfake-and-revenge-porn-abuse
-  headline: Trump signs Take It Down Act aimed at deepfake and revenge porn abuse
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6237
-- slug: 2026-01-19-trump-ties-greenland-push-to-nobel-snub-threatens-tariffs-on-nato-allies
-  headline: Trump ties Greenland push to Nobel snub, threatens tariffs on NATO allies
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.6489
-- slug: 2026-02-22-trump-offers-hospital-ship-to-greenland-leaders-decline
-  headline: Trump offers hospital ship to Greenland; leaders decline
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.6346
-- slug: 2026-03-24-trump-administration-places-columbus-statue-replica-near-white-house
-  headline: Trump administration places Columbus statue replica near White House
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6224
-- slug: 2026-01-22-trump-s-greenland-demands-prompt-european-allies-to-seek-independent-strategies
-  headline: Trump's Greenland demands prompt European allies to seek independent strategies
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6372
-- slug: 2026-01-16-trump-puts-his-name-on-federal-buildings-roads-and-warships-in-first-year-of-sec
-  headline: Trump puts his name on federal buildings, roads and warships in first year of second term
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6334
-- slug: 2026-01-21-trump-holds-100-minute-conference-on-first-year-tosses-accomplishments
-  headline: Trump holds 100-minute conference on first year, tosses accomplishments
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6272
-- slug: 2026-02-18-trump-organization-seeks-trademark-rights-for-airports-using-his-name
-  headline: Trump Organization seeks trademark rights for airports using his name
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6203
-- slug: 2026-03-04-trump-touts-ratepayer-pledge-as-tech-giants-vow-to-self-fund-ai-power-needs
-  headline: Trump touts ratepayer pledge as tech giants vow to self-fund AI power needs
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6154
-- slug: 2026-02-08-trump-faces-rare-gop-blowback-over-post-depicting-obamas-as-primates
-  headline: Trump faces rare GOP blowback over post depicting Obamas as primates
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6207
-- slug: 2026-01-08-trump-s-tough-talk-after-maduro-capture-evokes-american-imperialism
-  headline: Trump’s tough talk after Maduro capture evokes American imperialism
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6218
-- slug: 2026-01-05-trump-targets-greenland-cuba-and-colombia-after-venezuela-operation
-  headline: Trump targets Greenland, Cuba and Colombia after Venezuela operation
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6187
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  headline: Trump renews Greenland push, warns Cuba and Colombia after Venezuela operation
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6175
+  strength: 0.6646
 ---
-
 ## Trump posts AI superhero video and US-flagged map of North America
 
 **Subtype:** fact

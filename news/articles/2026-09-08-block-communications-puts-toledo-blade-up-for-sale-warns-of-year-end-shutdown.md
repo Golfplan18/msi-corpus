@@ -1,9 +1,15 @@
 ---
 headline: Block Communications puts Toledo Blade up for sale, warns of year-end shutdown
-secondary_headline: Block family calls sustained financial losses unsustainable for Blade
+secondary_headline: Block family calls sustained financial losses unsustainable for
+  Blade
 publish_date: '2026-09-08'
-lede: Block Communications announced Tuesday it is seeking a buyer for The Blade, its Toledo, Ohio, newspaper, warning that the paper will cease both print and digital operations at the end of the year if no sale is completed.
-nut_graf: The Toledo announcement follows a similar path that Block Communications took earlier this year with the Pittsburgh Post-Gazette, which the company said it would shut down in May before a nonprofit buyer stepped in to keep the paper open.
+lede: Block Communications announced Tuesday it is seeking a buyer for The Blade,
+  its Toledo, Ohio, newspaper, warning that the paper will cease both print and digital
+  operations at the end of the year if no sale is completed.
+nut_graf: The Toledo announcement follows a similar path that Block Communications
+  took earlier this year with the Pittsburgh Post-Gazette, which the company said
+  it would shut down in May before a nonprofit buyer stepped in to keep the paper
+  open.
 primary_entities:
 - Block Communications
 - The Blade
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -100,18 +107,9 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-08-hegseth-orders-polygraph-tests-for-pentagon-officials-to-find-leakers
-  headline: Hegseth orders polygraph tests for Pentagon officials to find leakers
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5236
-- slug: 2026-08-19-max-d-lederer-jr-to-retire-as-stars-and-stripes-publisher-at-end-of-september
-  headline: Max D. Lederer Jr. to retire as Stars and Stripes publisher at end of September
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5449
 - slug: 2026-04-15-pittsburgh-post-gazette-finds-nonprofit-buyer-avoids-shutdown-on-may-3
-  headline: Pittsburgh Post-Gazette finds nonprofit buyer, avoids shutdown on May 3
+  headline: Pittsburgh Post-Gazette finds nonprofit buyer, avoids shutdown on May
+    3
   publish_date: '2026-04-15'
   relation: related
   strength: 0.7464
@@ -125,83 +123,12 @@ related_stories:
   publish_date: '2026-01-08'
   relation: related
   strength: 0.7279
-- slug: 2026-07-23-taco-bell-rushes-to-contain-cyclospora-after-july-14-alert
-  headline: Taco Bell rushes to contain Cyclospora after July 14 alert
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5364
-- slug: 2026-07-22-publishers-consider-blocking-google-as-ai-search-erodes-traffic
-  headline: Publishers consider blocking Google as AI search erodes traffic
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5252
 - slug: 2026-04-20-after-its-dominant-newspaper-is-saved-pittsburgh-s-media-looks-ahead
   headline: After its dominant newspaper is saved, Pittsburgh’s media looks ahead
   publish_date: '2026-04-20'
   relation: related
   strength: 0.6679
-- slug: 2026-05-18-usa-today-owner-announces-plan-to-acquire-detroit-news-ending-36-year-partnershi
-  headline: USA Today owner announces plan to acquire Detroit News, ending 36-year partnership
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6093
-- slug: 2026-04-15-nonprofit-sector-steps-in-to-rescue-pittsburgh-post-gazette-from-shutdown
-  headline: Nonprofit sector steps in to rescue Pittsburgh Post-Gazette from shutdown
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6282
-- slug: 2026-05-20-james-murdoch-strikes-deal-to-buy-new-york-magazine-and-vox-media
-  headline: James Murdoch strikes deal to buy New York magazine and Vox Media
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5584
-- slug: 2026-05-21-james-murdoch-deal-to-buy-new-york-magazine-and-vox-media-brands
-  headline: James Murdoch deal to buy New York Magazine and Vox Media brands
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5399
-- slug: 2026-05-26-publisher-and-former-ap-board-chair-donald-newhouse-dies-at-96
-  headline: Publisher and former AP board chair Donald Newhouse dies at 96
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5296
-- slug: 2026-05-16-ap-lays-off-20-us-based-journalists-as-it-pivots-from-print
-  headline: AP lays off 20 US-based journalists as it pivots from print
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5376
-- slug: 2026-04-08-ap-to-offer-buyouts-accelerating-pivot-from-newspapers-to-ai-visuals
-  headline: AP to Offer Buyouts, Accelerating Pivot from Newspapers to AI, Visuals
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.559
-- slug: 2026-03-05-axel-springer-agrees-to-buy-telegraph-media-group-for-766-million
-  headline: Axel Springer agrees to buy Telegraph Media Group for $766 million
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5733
-- slug: 2026-05-16-ap-lays-off-20-journalists-completing-us-restructuring-pivot-from-print
-  headline: AP lays off 20 journalists, completing US restructuring pivot from print
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5288
-- slug: 2026-04-05-ap-to-offer-buyouts-as-it-accelerates-shift-toward-video-and-ai
-  headline: AP to offer buyouts as it accelerates shift toward video and AI
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.5597
-- slug: 2026-04-07-ap-offers-buyouts-as-it-pivots-away-from-newspaper-focused-history
-  headline: AP offers buyouts as it pivots away from newspaper-focused history
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5504
-- slug: 2026-04-06-ap-to-offer-buyouts-to-us-journalists-as-it-accelerates-pivot-away-from-print
-  headline: AP to offer buyouts to US journalists as it accelerates pivot away from print
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.5501
 ---
-
 ## Block Communications puts Toledo Blade up for sale, warns of year-end shutdown
 
 **Subtype:** fact
