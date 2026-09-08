@@ -47,10 +47,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -172,3 +174,9 @@ At least one murder conviction has been overturned as a result of Woods' miscond
 **Publication date:** 2026-09-08
 **Title:** 10-year sentence for ex-Colorado crime analyst who manipulated DNA
 **URL:** https://apnews.com/article/colorado-dna-analyst-scandal-sentenced-yvonne-woods-02bf850c9a6b745e3fdb239d6c6da699
+
+### src_late_0d35851dcedae2a4 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Former lab analyst sentenced to 10 years in prison for manipulating DNA data
+**URL:** https://www.theguardian.com/us-news/2026/sep/08/former-lab-analyst-sentenced-manipulating-dna
+**Added after publication:** true
