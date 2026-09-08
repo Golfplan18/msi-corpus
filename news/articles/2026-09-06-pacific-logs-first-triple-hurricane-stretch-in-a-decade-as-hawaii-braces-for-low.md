@@ -53,7 +53,7 @@ sources:
   count: 2
   outlets:
   - The Guardian
-  - Associated Press
+  - United Press International
   outlet_classes:
   - national_daily
   - wire
@@ -225,6 +225,12 @@ The National Oceanic and Atmospheric Administration has previously warned of a 6
 **Publication date:** 2026-09-06
 **Title:** Hawaii declares state of emergency as Hurricane Lowell approaches islands
 **URL:** https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency
+
+### src_late_96e452d9506d2918 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Hurricane Lowell hits Hawaii’s western islands with wind, surf
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/hurricane-lowell-hits-Hawaii/7341788899415/
+**Added after publication:** true
 
 ---
 

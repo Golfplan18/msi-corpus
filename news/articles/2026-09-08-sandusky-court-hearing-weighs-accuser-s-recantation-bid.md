@@ -46,9 +46,10 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - United Press International
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -175,3 +176,9 @@ The Pennsylvania Office of Attorney General has said the supposed recantation is
 **Publication date:** 2026-09-08
 **Title:** Jerry Sandusky hearing set for Tuesday as accuser seeks to recant
 **URL:** https://apnews.com/article/jerry-sandusky-penn-state-football-sexual-abuse-6ff53f8b1925f6057676552301b1bc7e
+
+### src_late_9d200fd18dff2cdb — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Jerry Sandusky withdraws petition for new trial to try federal courts
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/jerry-sandusky-penn-state-new-trial/5321788897189/
+**Added after publication:** true

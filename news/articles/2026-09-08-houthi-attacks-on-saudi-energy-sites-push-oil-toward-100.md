@@ -64,7 +64,7 @@ sources:
   - The Wall Street Journal
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -244,3 +244,10 @@ MPs are likely to question witnesses on the potential inflationary impact of the
 **Publication date:** 2026-09-08
 **Title:** Oil price approaches $100 a barrel after attacks on Saudi oil facilities – business live
 **URL:** https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates
+
+### src_late_d835cff4151a7ec8 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Jack Pitcher
+**Publication date:** 2026-09-08
+**Title:** Oil Near $100 Threatens U.S. Stocks’ Stellar Run
+**URL:** https://www.wsj.com/finance/stocks/oil-near-100-threatens-u-s-stocks-stellar-run-cabbaf0c
+**Added after publication:** true
