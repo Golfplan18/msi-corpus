@@ -181,6 +181,8 @@ related_stories:
   publish_date: '2026-06-06'
   relation: related
   strength: 0.6751
+analyses:
+- '2026-09-08-wastewater-enforcement-actions-collide-with-federal-disclosure-restrictions-as-d'
 ---
 ## US datacenters draw wastewater enforcement across multiple states
 
@@ -228,3 +230,8 @@ His administration has also sought to make it harder for the public to learn abo
 **Publication date:** 2026-09-08
 **Title:** US datacenters face further backlash over wastewater pollution
 **URL:** https://www.theguardian.com/us-news/2026/sep/08/us-datacenters-wastewater-pollution
+
+---
+
+<!-- analysis-link:2026-09-08-wastewater-enforcement-actions-collide-with-federal-disclosure-restrictions-as-d -->
+**Going deeper:** [Read MSI's analysis of Frame contest between the "golden goose" narrative and water-protection claims; surprise-driven enfo →](/analyses/2026-09-08-wastewater-enforcement-actions-collide-with-federal-disclosure-restrictions-as-d)

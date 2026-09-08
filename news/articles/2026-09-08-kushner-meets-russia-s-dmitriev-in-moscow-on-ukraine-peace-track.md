@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-03-09'
   relation: related
   strength: 0.6516
+analyses:
+- '2026-09-08-moscow-tarmac-and-parallel-rails-the-constituencies-traveling-alongside-kushner-'
 ---
 ## Kushner meets Russia's Dmitriev in Moscow on Ukraine peace track
 
@@ -224,3 +226,8 @@ Kushner recently met with House Minority Leader Hakeem Jeffries, Paletta reporte
 **Publication date:** 2026-09-08
 **Title:** Jared Kushner Is Now One of World’s Most Powerful Diplomats
 **URL:** https://www.wsj.com/politics/policy/jared-kushner-is-now-one-of-worlds-most-powerful-diplomats-ea752714
+
+---
+
+<!-- analysis-link:2026-09-08-moscow-tarmac-and-parallel-rails-the-constituencies-traveling-alongside-kushner- -->
+**Going deeper:** [Read MSI's analysis of Kushner-Dmitriev Moscow meeting; Affinity Partners; Trump's Board of Peace; Democrats' conflict-of-i →](/analyses/2026-09-08-moscow-tarmac-and-parallel-rails-the-constituencies-traveling-alongside-kushner-)
