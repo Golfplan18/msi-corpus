@@ -50,10 +50,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - BBC News
+  - The Wall Street Journal
   outlet_classes:
+  - national_daily
   - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
@@ -227,3 +229,10 @@ Months of negotiations between the US and Iran have not produced a lasting peace
 **Publication date:** 2026-09-06
 **Title:** Iran warns of 'faster, heavier, more painful response' to US attacks
 **URL:** https://www.bbc.co.uk/news/articles/cp8d56w7d9po
+
+### src_late_0bec1c6a1512cf40 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Shelby Holliday
+**Publication date:** 2026-09-08
+**Title:** Iran Launched Undisclosed Second Wave of Attacks on U.S. Navy Ships
+**URL:** https://www.wsj.com/world/middle-east/iran-launched-undisclosed-second-wave-of-attacks-on-u-s-navy-ships-560f31a1
+**Added after publication:** true

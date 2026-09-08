@@ -56,10 +56,10 @@ sources:
   count: 2
   outlets:
   - BBC News
-  - The Wall Street Journal
+  - United Press International
   outlet_classes:
   - public_broadcaster
-  - national_daily
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -235,6 +235,12 @@ Elizabeth Cascio, a former New York Fire Department (FDNY) emergency medical tec
 **Publication date:** 2026-09-08
 **Title:** New York City releases documents about air quality after 9/11
 **URL:** https://www.bbc.co.uk/news/articles/cjdvyk3pm27o
+
+### src_late_0c7223d60eed5934 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** NYC Mayor Zohran Mamdani releases 9/11 city documents showing dangerous air quality
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/new-york-mayor-mamdani-sept-11-records-release/4841788894170/
+**Added after publication:** true
 
 ---
 
