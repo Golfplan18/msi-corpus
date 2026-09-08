@@ -124,6 +124,8 @@ related_stories:
   publish_date: '2026-08-20'
   relation: related
   strength: 0.6703
+analyses:
+- '2026-09-08-trump-s-400m-super-pac-draws-documented-friction-from-republican-strategists-ahe'
 ---
 ## Reich: Trump to spend $400M Super PAC on himself, not GOP candidates
 
@@ -162,3 +164,8 @@ Reich is a professor of public policy emeritus at the University of California, 
 **Publication date:** 2026-09-08
 **Title:** Donald Trump’s midterm strategy? Make it all about him | Robert Reich
 **URL:** https://www.theguardian.com/commentisfree/2026/sep/08/trump-midterm-strategy
+
+---
+
+<!-- analysis-link:2026-09-08-trump-s-400m-super-pac-draws-documented-friction-from-republican-strategists-ahe -->
+**Going deeper:** [Read MSI's analysis of Trump's $400M Super PAC strategy →](/analyses/2026-09-08-trump-s-400m-super-pac-draws-documented-friction-from-republican-strategists-ahe)

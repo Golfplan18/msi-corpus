@@ -172,6 +172,8 @@ related_stories:
   publish_date: '2026-06-26'
   relation: related
   strength: 0.651
+analyses:
+- '2026-09-08-jlr-s-4-000-uk-redundancies-expose-west-midlands-single-anchor-fragility'
 ---
 ## Jaguar Land Rover cuts 4,000 UK jobs as suppliers warn of wider decline
 
@@ -208,3 +210,8 @@ A government spokesperson said it understands that this will be an "uncertain an
 **Publication date:** 2026-09-08
 **Title:** ‘Everything is against us’: Jaguar Land Rover suppliers voice fears amid carmaker’s cutbacks
 **URL:** https://www.theguardian.com/business/2026/sep/08/jaguar-land-rover-suppliers-job-cuts
+
+---
+
+<!-- analysis-link:2026-09-08-jlr-s-4-000-uk-redundancies-expose-west-midlands-single-anchor-fragility -->
+**Going deeper:** [Read MSI's analysis of JLR's single-anchor regional exposure →](/analyses/2026-09-08-jlr-s-4-000-uk-redundancies-expose-west-midlands-single-anchor-fragility)
