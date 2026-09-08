@@ -161,6 +161,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-08-mahan-air-s-vietnam-launch-spotlights-multi-jurisdiction-contest-between-tehran-'
 ---
 ## Mahan Air starts Hanoi and Ho Chi Minh City flights
 
@@ -199,3 +201,8 @@ Last year, Lebanese authorities searched passengers on a Mahan Air flight that t
 **Publication date:** 2026-09-08
 **Title:** Iranian Airline Favored by the Regime Is Defying Sanctions and Expanding
 **URL:** https://www.wsj.com/world/middle-east/iranian-airline-favored-by-the-regime-is-defying-sanctions-and-expanding-fcfd714c
+
+---
+
+<!-- analysis-link:2026-09-08-mahan-air-s-vietnam-launch-spotlights-multi-jurisdiction-contest-between-tehran- -->
+**Going deeper:** [Read MSI's analysis of Mahan Air's Vietnam Expansion →](/analyses/2026-09-08-mahan-air-s-vietnam-launch-spotlights-multi-jurisdiction-contest-between-tehran-)
