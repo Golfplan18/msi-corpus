@@ -167,6 +167,8 @@ related_stories:
   publish_date: '2026-04-14'
   relation: related
   strength: 0.6547
+analyses:
+- '2026-09-08-lewandowski-pitches-and-palantir-reduction-anchor-dhs-inspector-general-probe-we'
 ---
 ## Lewandowski allegedly pitched government services to Qatar, UAE while at DHS
 
@@ -215,3 +217,8 @@ After leaving DHS, Noem continued to use a government-owned waterfront house on 
 **Publication date:** 2026-09-08
 **Title:** Chasing Side Deals, Flexing Influence: Lewandowski’s Power Moves at DHS
 **URL:** https://www.wsj.com/politics/policy/corey-lewandowski-influence-dhs-43d3fe03
+
+---
+
+<!-- analysis-link:2026-09-08-lewandowski-pitches-and-palantir-reduction-anchor-dhs-inspector-general-probe-we -->
+**Going deeper:** [Read MSI's analysis of Lewandowski's DHS contracting probe →](/analyses/2026-09-08-lewandowski-pitches-and-palantir-reduction-anchor-dhs-inspector-general-probe-we)
