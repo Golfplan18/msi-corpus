@@ -175,6 +175,8 @@ related_stories:
   publish_date: '2026-03-13'
   relation: related
   strength: 0.6608
+analyses:
+- '2026-09-07-a-dual-role-disclosure-and-a-documented-sequence-the-steps-behind-clifford-s-ari'
 ---
 ## Matt Clifford steps down from Aria chair after Anthropic role criticism
 
@@ -210,3 +212,8 @@ Clifford, 40, built his career in the private sector as co-founder of the ventur
 **Publication date:** 2026-09-07
 **Title:** Architect of UK’s AI policy quits after Anthropic conflict of interest concerns
 **URL:** https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns
+
+---
+
+<!-- analysis-link:2026-09-07-a-dual-role-disclosure-and-a-documented-sequence-the-steps-behind-clifford-s-ari -->
+**Going deeper:** [Read MSI's analysis of Matt Clifford Aria chair resignation Anthropic conflict-of-interest review →](/analyses/2026-09-07-a-dual-role-disclosure-and-a-documented-sequence-the-steps-behind-clifford-s-ari)
