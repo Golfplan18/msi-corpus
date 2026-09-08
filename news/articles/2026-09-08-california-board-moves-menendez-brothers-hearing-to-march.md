@@ -51,10 +51,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -188,3 +190,9 @@ After the denial, the brothers were eligible to apply for another hearing in Aug
 **Publication date:** 2026-09-08
 **Title:** Menendez brothers granted early parole hearing for 2027
 **URL:** https://apnews.com/article/lyle-erik-menendez-brothers-parole-hearing-b9dfcd81bf6c55c01bc0da3ba921ecab
+
+### src_late_78fdf95906cd5357 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Erik and Lyle Menendez eligible to face parole board early next year
+**URL:** https://www.theguardian.com/us-news/2026/sep/08/erik-lyle-menendez-parole
+**Added after publication:** true
