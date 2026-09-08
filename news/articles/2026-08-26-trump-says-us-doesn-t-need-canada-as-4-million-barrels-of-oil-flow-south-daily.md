@@ -23,7 +23,8 @@ topic_tags:
 - energy and resource
 - economy, business and finance
 - international trade
-storyline_nexus: []
+storyline_nexus:
+- us-canada-trade-dispute
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -185,6 +186,7 @@ related_stories:
   relation: related
   strength: 0.743
 ---
+
 ## Trump says US doesn't need Canada as 4 million barrels of oil flow south daily
 
 **Subtype:** fact
