@@ -1,7 +1,10 @@
 ---
-headline: China Turned 62% of Michigan Against Data Centers — and I PROVED It With Just Three Views, Believe Me
+headline: China Turned 62% of Michigan Against Data Centers — and I PROVED It With
+  Just Three Views, Believe Me
 publish_date: '2026-09-07'
-lede: They came to me the other day with the worst kind of news — and I hate news, even the good news, because I get so much news, I'm the most informed person in the world, I know more about news than the news.
+lede: They came to me the other day with the worst kind of news — and I hate news,
+  even the good news, because I get so much news, I'm the most informed person in
+  the world, I know more about news than the news.
 pen_name: diklis-chump
 parody: true
 parody_subject: Donald J. Trump
@@ -17,7 +20,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -36,7 +40,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/china-turned-62-of-michigan-against-data-centers-and-i.png
+  alt: 'Editorial cartoon by Hector Rentier: China Turned 62% of Michigan Against
+    Data Centers — and I PROVED It With Just Three…'
+  caption: Sixty-two percent of Michigan said no. He heard China.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-07T22:02:58-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Central allegorical figure in a dark business suit stands behind a podium
+    in heavy cross-hatch wood-engraving. His head is turned sharply to his right,
+    profile fully rendered, expression serene — the '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-07-hector-paired-with-2026-09-07-diklis-chump--data-centers-big-tech-and-trump-think-y
 ---
+
+![Editorial cartoon by Hector Rentier: China Turned 62% of Michigan Against Data Centers — and I PROVED It With Just Three…](/cartoons/china-turned-62-of-michigan-against-data-centers-and-i.png)
+*Sixty-two percent of Michigan said no. He heard China.*
 
 They came to me the other day with the worst kind of news — and I hate news, even the good news, because I get so much news, I'm the most informed person in the world, I know more about news than the news. The polls in Michigan — beautiful Michigan, the mitten, a tremendous state — the very, very rigged polls showed that 62% of the people do not want the data centers. Sixty-two percent! The biggest number you've ever seen that didn't go to me. A total catastrophe, very sad, much sadder than the polls make it sound, the polls are actually OPTIMISTIC — and you know what I did? I did what I always do when there's a catastrophe. I found the real story. The beautiful, tremendous story. Was it the voters? No. Was it real Americans with real concerns? Maybe some. Mostly not. It was China. I say China. I know China. I've studied China. Many people, very smart people, the BEST people are saying I have studied China more than anyone in the history of studying, believe me.
 

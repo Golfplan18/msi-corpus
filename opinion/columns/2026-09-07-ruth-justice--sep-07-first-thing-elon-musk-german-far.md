@@ -1,7 +1,9 @@
 ---
 headline: Three Seats Hold the Firewall. For Now.
 publish_date: '2026-09-07'
-lede: Three seats stood between Saxony-Anhalt and a state government led by a party that wants deportation, banned rainbow flags in schools, and “Think German” on the letterhead.
+lede: Three seats stood between Saxony-Anhalt and a state government led by a party
+  that wants deportation, banned rainbow flags in schools, and “Think German” on the
+  letterhead.
 pen_name: ruth-justice
 primary_entities:
 - Alternative for Germany
@@ -36,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -52,16 +55,32 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-09-07-afd-wins-saxony-anhalt-state-election-musk-congratulates-party.png
-  alt: 'Illustration accompanying article: AfD wins Saxony-Anhalt state election, Musk congratulates party'
+  url: /cartoons/three-seats-hold-the-firewall-for-now.png
+  alt: 'Editorial cartoon by Hector Rentier: Three Seats Hold the Firewall. For Now.'
+  caption: '''Well done!'' He didn''t have to read their platform.'
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-09-07T22:01:51-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1. Heavy cross-hatch wood-engraving in the Nast–Daumier
+    tradition. Center-frame: a billionaire-figure at a podium built into a massive
+    megaphone, the megaphone bell embossed with a sin'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-09-07-afd-wins-saxony-anhalt-state-election-musk-congratulates-party
   relation: extends
   strength: 0.2451
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-07-hector-paired-with-2026-09-07-ruth-justice--sep-07-first-thing-elon-musk-german-far
 ---
+
+![Editorial cartoon by Hector Rentier: Three Seats Hold the Firewall. For Now.](/cartoons/three-seats-hold-the-firewall-for-now.png)
+*'Well done!' He didn't have to read their platform.*
 
 Three seats stood between Saxony-Anhalt and a state government led by a party that wants deportation, banned rainbow flags in schools, and “Think German” on the letterhead. Elon Musk, a Texas billionaire with no vote in Saxony-Anhalt, used his platform to elevate that party. Moscow called the result “historic.” Three seats.
 
