@@ -58,10 +58,9 @@ sources:
   count: 2
   outlets:
   - Associated Press
-  - The Guardian
+  - United Press International
   outlet_classes:
   - wire
-  - national_daily
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -238,3 +237,9 @@ Shaheen's daughter, Stefany Shaheen, is among those seeking the Democratic nomin
 **Publication date:** 2026-09-08
 **Title:** New Hampshire primary ballots feature open Senate and House seats
 **URL:** https://apnews.com/article/new-hampshire-primary-congress-sununu-brown-133cf52dd8c065515ebca1675cf51682
+
+### src_late_744406f811f4aed3 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** New Hampshire primary: U.S. Senate, House seats up for grabs
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/new-hampshire-primaries/6411788882412/
+**Added after publication:** true

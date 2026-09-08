@@ -59,10 +59,10 @@ sources:
   count: 2
   outlets:
   - BBC News
-  - The Guardian
+  - United Press International
   outlet_classes:
   - public_broadcaster
-  - national_daily
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -230,3 +230,9 @@ One of the major points of contention was defense testimony that Clancy believed
 **Publication date:** 2026-09-08
 **Title:** Lindsay Clancy's lawyer hopes for deal with prosecutors after mistrial
 **URL:** https://www.bbc.co.uk/news/articles/czrz6gxp033o
+
+### src_late_c17c14b67cddf064 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Lindsay Clancy's attorney asks Trump to pardon her
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/lindsay-clancy-attorney-trump-pardon/5391788884814/
+**Added after publication:** true

@@ -49,16 +49,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 4
+  count: 3
   outlets:
   - Associated Press
   - The Guardian
-  - BBC News
-  - NPR
   outlet_classes:
   - national_daily
   - wire
-  - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -230,3 +227,9 @@ U.S. Transportation Secretary Sean Duffy said on X that responders would "assess
 **Publication date:** 2026-09-06
 **Title:** Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport
 **URL:** https://apnews.com/article/amazon-cargo-plane-miami-airport-47411c751782887757922efa5f634aa5
+
+### src_late_43e5a0ef9f8b8943 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-07
+**Title:** Amazon cargo plane crash at Miami airport kills at least five – video
+**URL:** https://www.theguardian.com/us-news/video/2026/sep/07/amazon-cargo-plane-crash-at-miami-airport-kills-at-least-five-video
+**Added after publication:** true

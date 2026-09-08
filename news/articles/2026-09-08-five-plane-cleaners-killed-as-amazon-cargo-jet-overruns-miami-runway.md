@@ -50,10 +50,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -220,3 +222,9 @@ The NTSB has identified the absence of such a system at Miami as a focus of the 
 **Publication date:** 2026-09-08
 **Title:** Victims in Miami cargo jet crash were in van used by plane cleaners
 **URL:** https://apnews.com/article/amazon-cargo-plane-crash-miami-airport-victims-6c23909e94ea2faedd28071749fc00e3
+
+### src_late_970c5a0ff0f0225e — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Victims of deadly Amazon cargo plane crash identified, as two more remain critical
+**URL:** https://www.theguardian.com/us-news/2026/sep/08/amazon-cargo-plane-crash-victims
+**Added after publication:** true

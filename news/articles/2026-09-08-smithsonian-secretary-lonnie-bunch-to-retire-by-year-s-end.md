@@ -59,8 +59,9 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - The Guardian
   - The Wall Street Journal
   outlet_classes:
   - national_daily
@@ -199,3 +200,9 @@ Bunch, who first joined the Smithsonian at the National Air and Space Museum in 
 **Publication date:** 2026-09-08
 **Title:** Smithsonian Secretary Lonnie Bunch Steps Down Amid Strife With Trump
 **URL:** https://www.wsj.com/arts-culture/fine-art/smithsonian-secretary-lonnie-bunch-steps-down-amid-strife-with-trump-04d1bb61
+
+### src_late_d06efa15c3851906 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Smithsonian Institution secretary to retire amid Trump attacks on musuem independence
+**URL:** https://www.theguardian.com/us-news/2026/sep/08/smithsonian-secretary-lonnie-bunch-retires
+**Added after publication:** true
