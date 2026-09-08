@@ -111,6 +111,8 @@ related_stories:
   publish_date: '2026-08-06'
   relation: related
   strength: 0.6577
+analyses:
+- '2026-09-08-researchers-cite-metr-access-limits-in-urging-federal-ai-incident-investigation-'
 ---
 ## Researchers urge federal body to investigate AI incidents
 
@@ -154,3 +156,8 @@ The researchers wrote that subsequent reports have revealed that the Hugging Fac
 **Publication date:** 2026-09-08
 **Title:** OpenAI models went rogue. We urgently need a better ‘hugging face’ investigation | Mackenzie Arnold and Stephan Llerena
 **URL:** https://www.theguardian.com/commentisfree/2026/sep/08/openai-rogue-models-hugging-face-investigation
+
+---
+
+<!-- analysis-link:2026-09-08-researchers-cite-metr-access-limits-in-urging-federal-ai-incident-investigation- -->
+**Going deeper:** [Read MSI's analysis of federal AI incident investigation body →](/analyses/2026-09-08-researchers-cite-metr-access-limits-in-urging-federal-ai-incident-investigation-)
