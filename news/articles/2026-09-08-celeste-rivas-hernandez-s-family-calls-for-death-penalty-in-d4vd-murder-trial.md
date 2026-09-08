@@ -163,6 +163,8 @@ related_stories:
   publish_date: '2026-07-24'
   relation: related
   strength: 0.841
+analyses:
+- '2026-09-08-source-asymmetry-and-family-statement-framing-lock-prosecution-s-frame-in-d4vd-c'
 ---
 ## Celeste Rivas Hernandez's family calls for death penalty in D4vd murder trial
 
@@ -194,3 +196,8 @@ The case has also seen changes to Burke's legal representation. His high-profile
 **Publication date:** 2026-09-08
 **Title:** Family of slain teen calls for death penalty in murder trial of singer D4vd
 **URL:** https://www.theguardian.com/us-news/2026/sep/08/d4vd-death-penalty-murder-trial
+
+---
+
+<!-- analysis-link:2026-09-08-source-asymmetry-and-family-statement-framing-lock-prosecution-s-frame-in-d4vd-c -->
+**Going deeper:** [Read MSI's analysis of pre-trial crime journalism propaganda patterns →](/analyses/2026-09-08-source-asymmetry-and-family-statement-framing-lock-prosecution-s-frame-in-d4vd-c)
