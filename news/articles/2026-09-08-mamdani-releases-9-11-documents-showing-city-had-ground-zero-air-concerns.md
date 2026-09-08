@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-01-03'
   relation: related
   strength: 0.6876
+analyses:
+- '2026-09-08-the-documents-and-the-gap-they-reveal-what-the-ground-zero-records-show-about-re'
 ---
 ## Mamdani releases 9/11 documents showing city had Ground Zero air concerns
 
@@ -231,3 +233,8 @@ Elizabeth Cascio, a former New York Fire Department (FDNY) emergency medical tec
 **Publication date:** 2026-09-08
 **Title:** New York City releases documents about air quality after 9/11
 **URL:** https://www.bbc.co.uk/news/articles/cjdvyk3pm27o
+
+---
+
+<!-- analysis-link:2026-09-08-the-documents-and-the-gap-they-reveal-what-the-ground-zero-records-show-about-re -->
+**Going deeper:** [Read MSI's analysis of Ground Zero air records →](/analyses/2026-09-08-the-documents-and-the-gap-they-reveal-what-the-ground-zero-records-show-about-re)
