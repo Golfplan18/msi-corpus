@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-05-24'
   relation: related
   strength: 0.7789
+analyses:
+- '2026-09-08-when-pay-stops-protocols-slip-a-stakeholder-map-of-the-drc-ebola-response'
 ---
 ## Unpaid DRC Ebola workers violate burial protocols, video shows
 
@@ -237,3 +239,8 @@ The Congolese Ministry of Public Health did not respond to requests for comment.
 **Publication date:** 2026-09-08
 **Title:** Unpaid Ebola Workers Let Families Touch the Dead
 **URL:** https://www.wsj.com/world/africa/unpaid-ebola-workers-let-families-touch-the-dead-161351e3
+
+---
+
+<!-- analysis-link:2026-09-08-when-pay-stops-protocols-slip-a-stakeholder-map-of-the-drc-ebola-response -->
+**Going deeper:** [Read MSI's analysis of stakeholder-mapping / DRC Ebola response / unpaid front-line workers / North Kivu / Ituri / donor fu →](/analyses/2026-09-08-when-pay-stops-protocols-slip-a-stakeholder-map-of-the-drc-ebola-response)
