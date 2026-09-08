@@ -187,6 +187,8 @@ related_stories:
   publish_date: '2026-03-24'
   relation: related
   strength: 0.6512
+analyses:
+- '2026-09-08-us-agencies-shift-meta-smart-glasses-from-eyewear-to-security-threat-category'
 ---
 ## Documents reveal US law enforcement concerns over Meta smart glasses
 
@@ -230,3 +232,8 @@ The Guardian reported that "anti-tech violent extremist activity" is not a forma
 **Publication date:** 2026-09-08
 **Title:** US police fear Meta smart glasses could be used to secretly record them
 **URL:** https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses
+
+---
+
+<!-- analysis-link:2026-09-08-us-agencies-shift-meta-smart-glasses-from-eyewear-to-security-threat-category -->
+**Going deeper:** [Read MSI's analysis of US law enforcement's smart glasses response →](/analyses/2026-09-08-us-agencies-shift-meta-smart-glasses-from-eyewear-to-security-threat-category)
