@@ -199,6 +199,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-08-nato-drone-incursions-accelerate-as-2027-eu-shield-deployment-leaves-capability-'
 ---
 ## Sixteen NATO allies report drone incursions as alliance expands defenses
 
@@ -242,3 +244,8 @@ The European Union's planned "drone shield" — a proposed multilayered network 
 **Publication date:** 2026-09-08
 **Title:** See How Drones Are Infiltrating NATO Territory in Europe
 **URL:** https://www.wsj.com/world/see-how-drones-are-infiltrating-nato-territory-in-europe-9e89f4ee
+
+---
+
+<!-- analysis-link:2026-09-08-nato-drone-incursions-accelerate-as-2027-eu-shield-deployment-leaves-capability- -->
+**Going deeper:** [Read MSI's analysis of NATO drone incursions and the 2027 shield →](/analyses/2026-09-08-nato-drone-incursions-accelerate-as-2027-eu-shield-deployment-leaves-capability-)
