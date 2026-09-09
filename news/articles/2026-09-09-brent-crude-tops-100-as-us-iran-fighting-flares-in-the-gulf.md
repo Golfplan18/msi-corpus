@@ -49,12 +49,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 5
+  count: 6
   outlets:
   - Associated Press
   - BBC News
   - The Guardian
   - The Wall Street Journal
+  - United Press International
   outlet_classes:
   - national_daily
   - public_broadcaster
@@ -259,4 +260,10 @@ The renewed energy price pressure has intensified concerns about inflation and t
 **Publication date:** 2026-09-09
 **Title:** Petrol prices rise by 5p over a week as Iran war sends oil higher
 **URL:** https://www.bbc.co.uk/news/articles/cj4jwlx77lro
+**Added after publication:** true
+
+### src_late_2b8a819886985326 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Oil prices top $100 per barrel as Iran war intensifies
+**URL:** https://www.upi.com/Top_News/World-News/2026/09/09/iran-war-crude-oil-prices-100-dollars-per-barrel/4121788961971/
 **Added after publication:** true

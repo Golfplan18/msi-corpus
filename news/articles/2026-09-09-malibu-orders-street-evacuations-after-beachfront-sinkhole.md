@@ -45,10 +45,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - BBC News
+  - The Guardian
   outlet_classes:
+  - national_daily
   - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
@@ -108,3 +110,9 @@ In its statement, the City of Malibu said the evacuation order covered all house
 **Publication date:** 2026-09-09
 **Title:** Sinkhole appears outside Malibu home thought to belong to Nicolas Cage
 **URL:** https://www.bbc.co.uk/news/videos/czezr8g1n3eo
+
+### src_late_dc6da087018bf400 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Sinkhole at Malibu home reportedly owned by Nicolas Cage prompts evacuation
+**URL:** https://www.theguardian.com/us-news/2026/sep/09/large-sinkhole-malibu-california
+**Added after publication:** true

@@ -163,6 +163,8 @@ related_stories:
   publish_date: '2026-06-03'
   relation: related
   strength: 0.6611
+analyses:
+- '2026-09-09-afl-cio-links-electronic-shelf-labels-to-a-single-surveillance-pricing-category'
 ---
 ## AFL-CIO report: electronic shelf labels could cost up to 191,633 grocery jobs
 
@@ -203,3 +205,8 @@ In December, Instacart ended a pilot program that allowed retailers to charge on
 **Publication date:** 2026-09-09
 **Title:** Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns
 **URL:** https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery
+
+---
+
+<!-- analysis-link:2026-09-09-afl-cio-links-electronic-shelf-labels-to-a-single-surveillance-pricing-category -->
+**Going deeper:** [Read MSI's analysis of the electronic shelf label regulatory debate →](/analyses/2026-09-09-afl-cio-links-electronic-shelf-labels-to-a-single-surveillance-pricing-category)
