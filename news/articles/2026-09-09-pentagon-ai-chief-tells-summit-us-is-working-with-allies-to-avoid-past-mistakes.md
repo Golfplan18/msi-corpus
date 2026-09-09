@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-05-02'
   relation: related
   strength: 0.7172
+analyses:
+- '2026-09-09-stanley-s-billington-remarks-pair-allied-capacity-framing-with-maven-throughput-'
 ---
 ## Pentagon AI chief tells summit US is working with allies to avoid past mistakes
 
@@ -224,3 +226,8 @@ Stanley ended by telling the audience that the department's old habits were now 
 **Publication date:** 2026-09-09
 **Title:** US allies lack resources to keep pace on AI, top Pentagon official says
 **URL:** https://www.theguardian.com/us-news/2026/sep/09/us-military-pentagon-allies-ai
+
+---
+
+<!-- analysis-link:2026-09-09-stanley-s-billington-remarks-pair-allied-capacity-framing-with-maven-throughput- -->
+**Going deeper:** [Read MSI's analysis of Pentagon AI deployment pitch →](/analyses/2026-09-09-stanley-s-billington-remarks-pair-allied-capacity-framing-with-maven-throughput-)

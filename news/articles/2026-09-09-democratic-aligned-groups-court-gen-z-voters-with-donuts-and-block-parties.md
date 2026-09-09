@@ -2,8 +2,17 @@
 headline: Democratic-aligned groups court Gen Z voters with donuts and block parties
 secondary_headline: El Paso youth primary turnout nearly triples from 2022
 publish_date: '2026-09-09'
-lede: On the first day of the fall semester at California State University, Northridge, student organizers wheeled a bright pink wagon outside the student union, offering donuts, heart-shaped sunglasses and voter registration information for the November general election. The scene is part of a broader push by Democratic-aligned groups to capture Gen Z voters before the midterms, after Donald Trump made significant gains among young men in the 2024 election.
-nut_graf: About 50 million young people are eligible to vote in 2026, but nearly half are either not registered or civically engaged, according to US Census Bureau data. Youth-led organizations say they are meeting young voters where they are — on campuses, at tailgates and block parties, at quinceañeras — with events built around community and celebration rather than postcards, clipboards and phone-banking.
+lede: On the first day of the fall semester at California State University, Northridge,
+  student organizers wheeled a bright pink wagon outside the student union, offering
+  donuts, heart-shaped sunglasses and voter registration information for the November
+  general election. The scene is part of a broader push by Democratic-aligned groups
+  to capture Gen Z voters before the midterms, after Donald Trump made significant
+  gains among young men in the 2024 election.
+nut_graf: About 50 million young people are eligible to vote in 2026, but nearly half
+  are either not registered or civically engaged, according to US Census Bureau data.
+  Youth-led organizations say they are meeting young voters where they are — on campuses,
+  at tailgates and block parties, at quinceañeras — with events built around community
+  and celebration rather than postcards, clipboards and phone-banking.
 primary_entities:
 - Gen Z
 - Donald Trump
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +159,39 @@ related_stories:
   headline: DSA grows young membership through social events, not policy pitches
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6857
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6249
-- slug: 2026-09-05-progressive-candidates-navigate-dsa-ties-as-membership-reaches-120-000
-  headline: Progressive candidates navigate DSA ties as membership reaches 120,000
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6187
-- slug: 2026-08-27-survey-of-6-000-americans-names-kitchen-table-populism-as-top-democratic-message
-  headline: Survey of 6,000 Americans names 'kitchen-table populism' as top Democratic message
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6365
-- slug: 2026-08-29-democrats-deprioritize-climate-in-2026-campaigns
-  headline: Democrats deprioritize climate in 2026 campaigns
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.619
-- slug: 2026-08-21-justice-department-targets-1-000-poll-monitors-for-november-midterms
-  headline: Justice Department targets 1,000 poll monitors for November midterms
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6183
+  strength: 0.6846
 - slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
   headline: State election officials tighten voter rolls amid Trump push
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6605
-- slug: 2026-08-17-three-states-bar-student-ids-at-polls-as-courts-weigh-challenges
-  headline: Three states bar student IDs at polls as courts weigh challenges
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.626
-- slug: 2026-08-13-teens-build-tech-free-alternatives-as-school-phone-bans-spread
-  headline: Teens build tech-free alternatives as school phone bans spread
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6385
-- slug: 2026-08-13-most-nevada-swing-voters-say-they-won-t-dismiss-socialist-candidates
-  headline: Most Nevada swing voters say they won't dismiss socialist candidates
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6276
-- slug: 2026-08-01-activists-urge-democrats-to-embrace-climate-messaging-during-recess
-  headline: Activists urge Democrats to embrace climate messaging during recess
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.624
+  strength: 0.6608
 - slug: 2026-06-21-millions-of-18-year-olds-go-unregistered-to-vote-each-year-analysis-finds
   headline: Millions of 18-year-olds go unregistered to vote each year, analysis finds
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.6975
-- slug: 2026-07-18-ice-shootings-data-centers-voting-rights-draw-thousands-to-us-protests
-  headline: ICE shootings, data centers, voting rights draw thousands to US protests
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.63
+  strength: 0.6978
 - slug: 2026-06-26-dnc-launches-nationwide-affordability-weekend-with-hundreds-of-events
   headline: DNC launches nationwide affordability weekend with hundreds of events
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6569
-- slug: 2026-06-15-as-midterms-approach-campaigns-test-whether-internet-fame-can-win-votes
-  headline: As midterms approach, campaigns test whether internet fame can win votes
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6451
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6395
-- slug: 2026-06-15-ai-generated-campaign-ads-surge-ahead-of-midterms-researchers-say
-  headline: AI-generated campaign ads surge ahead of midterms, researchers say
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6272
+  strength: 0.6571
 - slug: 2026-03-01-nonprofit-seeks-gen-z-civic-engagement-through-easy-civic-actions
   headline: Nonprofit seeks Gen Z civic engagement through easy “civic actions”
   publish_date: '2026-03-01'
   relation: related
-  strength: 0.679
-- slug: 2026-05-06-detroit-to-launch-occupy-the-summer-youth-programming-after-teen-takeovers
-  headline: Detroit to launch “Occupy the Summer” youth programming after teen takeovers
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.621
+  strength: 0.6786
 - slug: 2026-01-13-dnc-commits-millions-to-bring-voter-registration-under-party-control
   headline: DNC commits millions to bring voter registration under party control
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.6622
+  strength: 0.663
+- slug: 2026-01-12-gallup-45-of-americans-now-identify-as-independents-as-gen-z-leads-shift
+  headline: 'Gallup: 45% of Americans now identify as independents as Gen Z leads
+    shift'
+  publish_date: '2026-01-12'
+  relation: related
+  strength: 0.6533
 ---
-
 ## Democratic-aligned groups court Gen Z voters with donuts and block parties
 
 **Subtype:** fact
