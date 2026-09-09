@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +31,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-loan-is-in-her-name-the-cut-is-in-mine.png
+  alt: 'Editorial cartoon by Hector Rentier: The Loan Is in Her Name. The Cut Is in
+    Mine.'
+  caption: The cut is in his ledger. The demand is in her mailbox.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-08T22:09:02-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A financier in a tailored dark suit kneels in apparent prayer at a heavy
+    oak desk that doubles as an altar, hands folded, eyes closed in quiet devotion.
+    The altar is stacked with ledgers and a stock-t
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-08-hector-paired-with-2026-09-08-sterling-the-loan-is-in-her-name-the-cut-is-in-mine
 ---
+
+![Editorial cartoon by Hector Rentier: The Loan Is in Her Name. The Cut Is in Mine.](/cartoons/the-loan-is-in-her-name-the-cut-is-in-mine.png)
+*The cut is in his ledger. The demand is in her mailbox.*
 
 I'm drafting the form letter now.
 

@@ -1,7 +1,8 @@
 ---
 headline: The Tariff Tax Extortion Racket
 publish_date: '2026-09-08'
-lede: Trump is taxing American families to extract political submission from Canada and calling it trade policy.
+lede: Trump is taxing American families to extract political submission from Canada
+  and calling it trade policy.
 pen_name: prudence-wonk
 primary_entities:
 - Mark Carney
@@ -39,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -55,9 +57,19 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-09-08-canada-s-dollar-for-dollar-counter-tariffs-on-us-goods-take-effect.png
-  alt: 'Illustration accompanying article: Canada''s dollar-for-dollar counter-tariffs on US goods take effect'
+  url: /cartoons/the-tariff-tax-extortion-racket.png
+  alt: 'Editorial cartoon by Hector Rentier: The Tariff Tax Extortion Racket'
+  caption: The ribbon says Making Canada Pay. The bill goes to the American family.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-09-08T22:08:02-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast tradition.
+    Top banner scroll reads 'TRUMP IS TAXING AMERICAN FAMILIES TO EXTRACT POLITICAL
+    SUBMISSION FROM CANADA AND CALLING IT TRADE P
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-09-08-canada-s-dollar-for-dollar-counter-tariffs-on-us-goods-take-effect
   relation: extends
@@ -65,7 +77,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-08-hector-paired-with-2026-09-08-prudence-wonk-news-articles-c8jdev0422jo
 ---
+
+![Editorial cartoon by Hector Rentier: The Tariff Tax Extortion Racket](/cartoons/the-tariff-tax-extortion-racket.png)
+*The ribbon says Making Canada Pay. The bill goes to the American family.*
 
 Trump is taxing American families to extract political submission from Canada and calling it trade policy.
 

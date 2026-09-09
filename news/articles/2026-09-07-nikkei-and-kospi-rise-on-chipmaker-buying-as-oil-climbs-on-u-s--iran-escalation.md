@@ -51,7 +51,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -216,3 +216,10 @@ In energy markets, Brent crude, the international benchmark, added 67 cents to $
 **Publication date:** 2026-09-07
 **Title:** Asian shares are mixed and oil prices gain
 **URL:** https://apnews.com/article/stocks-markets-ai-jobs-rates-oil-5fed4e21cb3f80eef06087217dbbd9f7
+
+### src_late_8a1ba3310545427b — Associated Press, wire, Tier 1, originating
+**Author:** Yuri Kageyama
+**Publication date:** 2026-09-09
+**Title:** Asian shares trade mixed as rising oil prices weigh on markets
+**URL:** https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd
+**Added after publication:** true

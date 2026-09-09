@@ -55,7 +55,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Guardian
   outlet_classes:
@@ -189,3 +189,9 @@ Baja California is one of Mexico's most violent states, plagued by organized cri
 **Publication date:** 2026-09-08
 **Title:** ‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend
 **URL:** https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico
+
+### src_late_40a6f3e14ffcf359 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** ‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies
+**URL:** https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb
+**Added after publication:** true
