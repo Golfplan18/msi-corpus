@@ -51,10 +51,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -218,3 +220,9 @@ The Wednesday event will also bring the iPhone 18 generation, which is expected 
 **Publication date:** 2026-09-09
 **Title:** Apple to unveil latest iPhone lineup
 **URL:** https://apnews.com/article/apple-foldable-iphone-ternus-fd35312e6d894d5f3b055b3d62f22cd2
+
+### src_late_c73551b307f23298 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Apple expected to unveil folding iPhone as new CEO takes center stage
+**URL:** https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone
+**Added after publication:** true

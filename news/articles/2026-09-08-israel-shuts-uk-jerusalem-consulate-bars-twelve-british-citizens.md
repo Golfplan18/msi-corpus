@@ -50,12 +50,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 4
+  count: 5
   outlets:
+  - BBC News
   - The Guardian
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  - public_broadcaster
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -181,4 +183,10 @@ The Guardian's live coverage originally reported ten Britons would be banned fro
 **Publication date:** 2026-09-08
 **Title:** UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing
 **URL:** https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing
+**Added after publication:** true
+
+### src_late_9353be6df9e096cb — BBC News, public_broadcaster, Tier 1, originating
+**Publication date:** 2026-09-08
+**Title:** Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions
+**URL:** https://www.bbc.co.uk/news/articles/c3v439n5xlpo
 **Added after publication:** true
