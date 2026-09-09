@@ -51,14 +51,16 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 6
+  count: 7
   outlets:
+  - Associated Press
   - NPR
   - The Guardian
   - The Wall Street Journal
   outlet_classes:
   - national_daily
   - public_broadcaster
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -275,6 +277,13 @@ Sykes said the undercard faces a difficult assignment. "It is a Trump-a-palooza 
 **Publication date:** 2026-09-09
 **Title:** Everything You Need to Know About the GOP Convention in Dallas
 **URL:** https://www.wsj.com/politics/elections/everything-you-need-to-know-about-the-gop-convention-in-dallas-6d68a725
+**Added after publication:** true
+
+### src_late_e3db0b1ed2b43b3d — Associated Press, wire, Tier 1, originating
+**Author:** Jill Colvin
+**Publication date:** 2026-09-09
+**Title:** Republicans gather in Dallas for two-day midterm convention featuring Trump
+**URL:** https://apnews.com/article/trump-midterm-convention-dallas-speakers-trumpapalooza-5be7a32b6cffb5b1eaa58d982fdb3448
 **Added after publication:** true
 
 ---

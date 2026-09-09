@@ -159,6 +159,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-09-lifevac-donations-outpace-medical-guideline-review-of-anti-choking-devices'
 ---
 ## Anti-choking devices enter US schools without medical-guideline endorsement
 
@@ -226,3 +228,8 @@ LifeVac promotes the device to police departments, families and as a baby-shower
 **Publication date:** 2026-09-09
 **Title:** Anti-Choking Devices Are Entering America’s Schools. Do They Work?
 **URL:** https://www.wsj.com/health/anti-choking-devices-are-entering-americas-schools-do-they-work-d4cd5a54
+
+---
+
+<!-- analysis-link:2026-09-09-lifevac-donations-outpace-medical-guideline-review-of-anti-choking-devices -->
+**Going deeper:** [Read MSI's analysis of anti-choking devices in schools →](/analyses/2026-09-09-lifevac-donations-outpace-medical-guideline-review-of-anti-choking-devices)

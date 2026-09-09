@@ -173,6 +173,8 @@ related_stories:
   publish_date: '2026-03-28'
   relation: related
   strength: 0.6899
+analyses:
+- '2026-09-09-ucla-ballot-search-warrant-guide-targets-magistrate-judge-review-ahead-of-2026-m'
 ---
 ## UCLA project releases judges' guide on ballot search warrants
 
@@ -219,3 +221,8 @@ The guide also lays out procedures a court should follow if a warrant is granted
 **Publication date:** 2026-09-09
 **Title:** Judges may face unprecedented decisions this election. A new guide seeks to help
 **URL:** https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge
+
+---
+
+<!-- analysis-link:2026-09-09-ucla-ballot-search-warrant-guide-targets-magistrate-judge-review-ahead-of-2026-m -->
+**Going deeper:** [Read MSI's analysis of ballot-seizure warrant judicial preparation →](/analyses/2026-09-09-ucla-ballot-search-warrant-guide-targets-magistrate-judge-review-ahead-of-2026-m)
