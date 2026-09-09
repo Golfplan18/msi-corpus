@@ -52,11 +52,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from The Wall Street Journal reporting.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
+  - United Press International
   outlet_classes:
   - national_daily
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -227,3 +229,9 @@ Canada instituted a "Buy Canadian" policy last year to push government agencies 
 **Publication date:** 2026-09-08
 **Title:** Trump Says He Will Block Canadian Firms From Government Contracts
 **URL:** https://www.wsj.com/world/americas/trump-says-he-will-block-canadian-firms-from-government-contracts-a4c3c21e
+
+### src_late_535b7b25b1f6638b — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Trump imposes sweeping bans on Canadian goods in deepening trade war
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/Trump-sweeping-trade-bans-Canada/4641788917606/
+**Added after publication:** true
