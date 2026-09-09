@@ -50,10 +50,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -211,3 +213,9 @@ The case turned on whether Clancy bore criminal responsibility for the deaths. T
 **Publication date:** 2026-09-08
 **Title:** Holdout in Lindsay Clancy trial said he had reasonable doubt but still wouldn't acquit, juror says
 **URL:** https://apnews.com/article/lindsay-clancy-trial-holdout-juror-999539982691ae345cadb90321243f96
+
+### src_late_62d3fe9842e03f9f — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Lindsay Clancy juror had reasonable doubt but would not agree to acquit, foreperson says
+**URL:** https://www.theguardian.com/us-news/2026/sep/08/lindsay-clancy-juror-trial
+**Added after publication:** true

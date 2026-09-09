@@ -52,11 +52,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
+  - United Press International
   outlet_classes:
   - national_daily
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -206,3 +208,9 @@ Roughly two dozen states have challenged the Postal Service rules, arguing they 
 **Publication date:** 2026-09-08
 **Title:** Trump Officials Ask High Court to Allow Immigration Database for Voter Scrutiny
 **URL:** https://www.wsj.com/politics/policy/trump-officials-ask-high-court-to-allow-immigration-database-for-voter-scrutiny-a7197aad
+
+### src_late_7ce76210174d0d6e — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Trump asks Supreme Court to allow controversial voter verification system
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/trump-asks-supreme-court-to-allow-SAVE-system/2011788916473/
+**Added after publication:** true
