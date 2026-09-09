@@ -2,8 +2,19 @@
 headline: Fifth Circuit hears Louisiana challenge to telehealth abortion pill access
 secondary_headline: Doctor says 95% of Tucson patients choose telemedicine appointments
 publish_date: '2026-09-08'
-lede: The Fifth Circuit Court of Appeals in New Orleans is hearing oral arguments this week in Louisiana v. FDA, a case that targets federal rules allowing patients to receive the abortion medication mifepristone through telehealth appointments and mail-order pharmacies. A ruling for Louisiana could end that access for patients across the country, including in states where abortion itself remains legal. The case has already been considered by the U.S. Supreme Court earlier this year and is widely expected to return there.
-nut_graf: The case tests the legal foundation of FDA rules first adopted during the COVID-19 pandemic that allowed mifepristone to be prescribed remotely and mailed to patients — a rules-change the agency made permanent in 2023. A ruling against the FDA could restrict or eliminate that access in states where abortion is legal, not just in states with abortion bans, with immediate effects on patients who rely on telehealth to avoid long drives, missed work, and childcare arrangements.
+lede: The Fifth Circuit Court of Appeals in New Orleans is hearing oral arguments
+  this week in Louisiana v. FDA, a case that targets federal rules allowing patients
+  to receive the abortion medication mifepristone through telehealth appointments
+  and mail-order pharmacies. A ruling for Louisiana could end that access for patients
+  across the country, including in states where abortion itself remains legal. The
+  case has already been considered by the U.S. Supreme Court earlier this year and
+  is widely expected to return there.
+nut_graf: The case tests the legal foundation of FDA rules first adopted during the
+  COVID-19 pandemic that allowed mifepristone to be prescribed remotely and mailed
+  to patients — a rules-change the agency made permanent in 2023. A ruling against
+  the FDA could restrict or eliminate that access in states where abortion is legal,
+  not just in states with abortion bans, with immediate effects on patients who rely
+  on telehealth to avoid long drives, missed work, and childcare arrangements.
 primary_entities:
 - Dr. William Richardson
 - Choices Women's Center
@@ -46,14 +57,17 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - NPR
   outlet_classes:
   - public_broadcaster
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -82,108 +96,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-14-appeals-court-clears-way-for-doj-subpoena-of-transgender-care-provider
-  headline: Appeals court clears way for DOJ subpoena of transgender care provider
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.643
 - slug: 2026-06-22-u-s-abortions-nearly-double-since-dobbs-fueled-by-telehealth-pills
   headline: U.S. abortions nearly double since Dobbs, fueled by telehealth pills
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.7749
+  strength: 0.7759
 - slug: 2026-05-03-supreme-court-asked-to-restore-mail-access-to-abortion-pill-mifepristone
   headline: Supreme Court asked to restore mail access to abortion pill mifepristone
   publish_date: '2026-05-03'
   relation: related
-  strength: 0.8379
+  strength: 0.8384
 - slug: 2026-04-09-fight-over-pills-pits-abortion-opponents-against-trump-administration
   headline: Fight over pills pits abortion opponents against Trump administration
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.8468
+  strength: 0.8464
 - slug: 2026-06-25-four-years-after-dobbs-u-s-abortion-numbers-rise-as-telehealth-reshapes-access
-  headline: Four years after Dobbs, U.S. abortion numbers rise as telehealth reshapes access
+  headline: Four years after Dobbs, U.S. abortion numbers rise as telehealth reshapes
+    access
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.7557
+  strength: 0.7558
 - slug: 2026-05-05-supreme-court-restores-telehealth-access-to-abortion-pill-mifepristone
   headline: Supreme Court restores telehealth access to abortion pill mifepristone
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.8232
+  strength: 0.8237
 - slug: 2026-05-15-supreme-court-preserves-access-to-abortion-pill-mifepristone-as-lawsuit-continue
-  headline: Supreme Court preserves access to abortion pill mifepristone as lawsuit continues
+  headline: Supreme Court preserves access to abortion pill mifepristone as lawsuit
+    continues
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.8112
+  strength: 0.8122
 - slug: 2026-07-23-louisiana-abortion-drug-law-removes-hemorrhage-treatment-from-hospital-carts
-  headline: Louisiana abortion-drug law removes hemorrhage treatment from hospital carts
+  headline: Louisiana abortion-drug law removes hemorrhage treatment from hospital
+    carts
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6771
+  strength: 0.6765
 - slug: 2026-05-10-supreme-court-leaves-mifepristone-access-in-place-as-louisiana-case
   headline: Supreme Court leaves mifepristone access in place as Louisiana case
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.8047
-- slug: 2026-04-08-fight-over-pills-pits-abortion-opponents-against-trump-administration
-  headline: Fight over pills pits abortion opponents against Trump administration
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.8272
-- slug: 2026-04-08-judge-refuses-to-block-sending-abortion-pills-by-mail
-  headline: Judge refuses to block sending abortion pills by mail
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.8242
-- slug: 2026-05-15-supreme-court-order-leaves-access-to-abortion-pill-unchanged
-  headline: Supreme Court order leaves access to abortion pill unchanged
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7941
-- slug: 2026-05-10-supreme-court-extends-access-to-abortion-pill-mifepristone-until-thursday
-  headline: Supreme Court extends access to abortion pill mifepristone until Thursday
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7926
-- slug: 2026-06-05-fda-launches-mifepristone-safety-study-paving-way-for-potential-restrictions
-  headline: FDA launches mifepristone safety study, paving way for potential restrictions
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7606
-- slug: 2026-05-15-court-rulings-on-abortion-pill-mifepristone-jolt-midterm-politics
-  headline: Court rulings on abortion pill mifepristone jolt midterm politics
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7797
-- slug: 2026-05-15-conservative-states-focus-on-banning-abortion-pills-and-restricting-access-via-p
-  headline: Conservative states focus on banning abortion pills and restricting access via providers
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7459
-- slug: 2026-05-15-abortion-pill-rulings-elevate-reproductive-rights-as-a-midterm-issue
-  headline: Abortion pill rulings elevate reproductive rights as a midterm issue
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7431
-- slug: 2026-05-15-conservative-states-push-to-ban-abortion-pills-as-telehealth-use-rises
-  headline: Conservative states push to ban abortion pills as telehealth use rises
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7412
-- slug: 2026-05-02-court-blocks-mailing-prescriptions-of-abortion-pill-mifepristone
-  headline: Court blocks mailing prescriptions of abortion pill mifepristone
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7361
-- slug: 2026-01-13-louisiana-seeks-extradition-of-california-doctor-over-mailed-abortion-pills
-  headline: Louisiana seeks extradition of California doctor over mailed abortion pills
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7595
+  strength: 0.8052
 ---
-
 ## Fifth Circuit hears Louisiana challenge to telehealth abortion pill access
 
 **Subtype:** fact
@@ -225,3 +181,10 @@ The legal landscape has made telehealth abortion a particular target for anti-ab
 **Publication date:** 2026-09-08
 **Title:** A Louisiana case could upend telehealth abortion. What exactly is it?
 **URL:** https://www.npr.org/2026/09/08/nx-s1-5955665/telehealth-abortion-pill-mifepristone-louisiana
+
+### src_late_a18f38ad40fcb46c — Associated Press, wire, Tier 1, originating
+**Author:** Geoff Mulvihill
+**Publication date:** 2026-09-09
+**Title:** Push to ban abortion pill by telehealth goes before judges
+**URL:** https://apnews.com/article/abortion-pills-telehealth-ac00f11d879eb890b572d0a5eb79dae4
+**Added after publication:** true

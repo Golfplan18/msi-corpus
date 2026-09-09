@@ -2,11 +2,19 @@
 headline: China rejects US accusation that Chinese AI firms distilled American models
 secondary_headline: US agencies named DeepSeek, Alibaba, Moonshot AI and Z.ai in advisory
 publish_date: '2026-09-09'
-lede: 'China on Wednesday pushed back against a joint US cybersecurity advisory that accused Chinese artificial intelligence developers of conducting "aggressive, malicious" industrial-scale efforts to extract capabilities from frontier American AI systems.
+lede: 'China on Wednesday pushed back against a joint US cybersecurity advisory that
+  accused Chinese artificial intelligence developers of conducting "aggressive, malicious"
+  industrial-scale efforts to extract capabilities from frontier American AI systems.
 
 
-  The FBI, the National Security Agency and the Cybersecurity and Infrastructure Security Agency issued the advisory on Tuesday, naming four Chinese AI developers — DeepSeek, Alibaba, Moonshot AI and Z.ai — and four US frontier AI models — Anthropic''s Claude, OpenAI''s GPT, Google''s Gemini and SpaceXAI''s Grok.'
-nut_graf: Beijing's response — urging the United States to "refrain from making unfounded accusations or smears" and calling on both countries to "strengthen cooperation" as "major AI powers" — frames the dispute diplomatically rather than engaging the technical allegations in the US advisory.
+  The FBI, the National Security Agency and the Cybersecurity and Infrastructure Security
+  Agency issued the advisory on Tuesday, naming four Chinese AI developers — DeepSeek,
+  Alibaba, Moonshot AI and Z.ai — and four US frontier AI models — Anthropic''s Claude,
+  OpenAI''s GPT, Google''s Gemini and SpaceXAI''s Grok.'
+nut_graf: Beijing's response — urging the United States to "refrain from making unfounded
+  accusations or smears" and calling on both countries to "strengthen cooperation"
+  as "major AI powers" — frames the dispute diplomatically rather than engaging the
+  technical allegations in the US advisory.
 primary_entities:
 - China
 - Chinese Ministry of Foreign Affairs
@@ -53,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,7 +161,8 @@ related_stories:
   relation: related
   strength: 0.7833
 - slug: 2026-08-13-us-ai-models-decline-criticism-of-speech-restricting-governments-reports-find
-  headline: US AI models decline criticism of speech-restricting governments, reports find
+  headline: US AI models decline criticism of speech-restricting governments, reports
+    find
   publish_date: '2026-08-13'
   relation: related
   strength: 0.6805
@@ -171,68 +181,7 @@ related_stories:
   publish_date: '2026-07-09'
   relation: related
   strength: 0.7452
-- slug: 2026-07-17-xi-endorses-open-source-ai-launches-china-led-global-body
-  headline: Xi endorses open-source AI, launches China-led global body
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.723
-- slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
-  headline: China warns AI users they are ‘traitors’ if they resist domestic chips
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6862
-- slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6847
-- slug: 2026-07-26-chinese-ai-models-gain-u-s-users-as-companies-trim-costs
-  headline: Chinese AI models gain U.S. users as companies trim costs
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6628
-- slug: 2026-06-25-anthropic-accuses-alibaba-of-largest-known-ai-distillation-attack
-  headline: Anthropic accuses Alibaba of 'largest known' AI distillation attack
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7442
-- slug: 2026-06-28-chinese-ai-matches-anthropic-in-cybersecurity-narrowing-u-s-lead
-  headline: Chinese AI matches Anthropic in cybersecurity, narrowing U.S. lead
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7165
-- slug: 2026-06-15-cybersecurity-experts-urge-white-house-to-reverse-anthropic-ai-restrictions
-  headline: Cybersecurity experts urge White House to reverse Anthropic AI restrictions
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7026
-- slug: 2026-07-02-court-filings-detail-anthropic-pentagon-ai-negotiation-breakdown
-  headline: Court filings detail Anthropic–Pentagon AI negotiation breakdown
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6586
-- slug: 2026-04-24-trump-administration-targets-foreign-exploitation-of-u-s-ai-models
-  headline: Trump administration targets foreign exploitation of U.S. AI models
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.7299
-- slug: 2026-06-13-u-s-bans-foreign-use-of-anthropic-s-top-ai-models-company-halts-access
-  headline: U.S. bans foreign use of Anthropic's top AI models; company halts access
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6599
-- slug: 2026-04-23-china-s-deepseek-launches-v4-ai-model-update-with-pro-and-flash-versions
-  headline: China’s DeepSeek launches V4 AI model update with “pro” and “flash” versions
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.7131
-- slug: 2026-04-25-china-s-deepseek-launches-update-of-its-ai-model-amid-china-u-s-rivalry
-  headline: China’s DeepSeek launches update of its AI model amid China-U.S. rivalry
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.6997
 ---
-
 ## China rejects US accusation that Chinese AI firms distilled American models
 
 **Subtype:** fact

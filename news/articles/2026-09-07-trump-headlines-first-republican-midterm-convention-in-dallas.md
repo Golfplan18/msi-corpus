@@ -51,7 +51,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 6
   outlets:
   - NPR
   - The Guardian
@@ -256,6 +256,25 @@ Sykes said the undercard faces a difficult assignment. "It is a Trump-a-palooza 
 **Publication date:** 2026-09-09
 **Title:** Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas
 **URL:** https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance
+**Added after publication:** true
+
+### src_late_0b57c7e64413a604 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Republicans in fight to hold on to majority look to ‘midterm convention’ to overcome Trump unpopularity
+**URL:** https://www.theguardian.com/us-news/2026/sep/09/republicans-midterm-convention-trump
+**Added after publication:** true
+
+### src_late_08f9bb9d14a62923 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Trump center stage at RNC in midterms gamble – US politics live
+**URL:** https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates
+**Added after publication:** true
+
+### src_late_4ca6d858dac05581 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Damian Paletta
+**Publication date:** 2026-09-09
+**Title:** Everything You Need to Know About the GOP Convention in Dallas
+**URL:** https://www.wsj.com/politics/elections/everything-you-need-to-know-about-the-gop-convention-in-dallas-6d68a725
 **Added after publication:** true
 
 ---

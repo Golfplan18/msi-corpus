@@ -49,13 +49,15 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 4
+  count: 5
   outlets:
   - Associated Press
+  - BBC News
   - The Guardian
   - The Wall Street Journal
   outlet_classes:
   - national_daily
+  - public_broadcaster
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -251,4 +253,10 @@ The renewed energy price pressure has intensified concerns about inflation and t
 **Publication date:** 2026-09-09
 **Title:** Oil rises past $100 a barrel after the latest Middle East attacks
 **URL:** https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e
+**Added after publication:** true
+
+### src_late_f4303376d9a73dd7 — BBC News, public_broadcaster, Tier 1, originating
+**Publication date:** 2026-09-09
+**Title:** Petrol prices rise by 5p over a week as Iran war sends oil higher
+**URL:** https://www.bbc.co.uk/news/articles/cj4jwlx77lro
 **Added after publication:** true

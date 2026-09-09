@@ -175,6 +175,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-09-uk-settlement-sanctions-produce-three-documented-friction-areas-across-governmen'
 ---
 ## Miliband rejects chief rabbi's criticism of UK settlement sanctions
 
@@ -212,3 +214,8 @@ Other Wednesday events included Green party leader Zack Polanski speaking at the
 **Publication date:** 2026-09-09
 **Title:** Miliband defends sanctions on Israeli settlements and pushes back against chief rabbi’s criticism – UK politics live
 **URL:** https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates
+
+---
+
+<!-- analysis-link:2026-09-09-uk-settlement-sanctions-produce-three-documented-friction-areas-across-governmen -->
+**Going deeper:** [Read MSI's analysis of West Bank sanctions and three friction areas →](/analyses/2026-09-09-uk-settlement-sanctions-produce-three-documented-friction-areas-across-governmen)
