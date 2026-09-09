@@ -170,6 +170,8 @@ related_stories:
   publish_date: '2026-07-20'
   relation: related
   strength: 0.7942
+analyses:
+- '2026-09-09-bofa-lifts-brent-forecast-while-preserving-95-120-tail-on-hormuz-risk'
 ---
 ## Oil futures rise as Middle East conflict escalates
 
@@ -209,3 +211,8 @@ Separately, Malaysia's 2027 budget could carry an election-friendly tone that be
 **Publication date:** 2026-09-09
 **Title:** Energy & Utilities Roundup: Market Talk
 **URL:** https://www.wsj.com/business/energy-utilities-roundup-market-talk-adfcc4f0
+
+---
+
+<!-- analysis-link:2026-09-09-bofa-lifts-brent-forecast-while-preserving-95-120-tail-on-hormuz-risk -->
+**Going deeper:** [Read MSI's analysis of the bimodal Brent forecast structure →](/analyses/2026-09-09-bofa-lifts-brent-forecast-while-preserving-95-120-tail-on-hormuz-risk)
