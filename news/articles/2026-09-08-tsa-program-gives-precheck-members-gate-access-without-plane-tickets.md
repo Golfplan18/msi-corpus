@@ -49,10 +49,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -193,3 +195,9 @@ Rio Yamat reported from Las Vegas.
 **Publication date:** 2026-09-08
 **Title:** TSA opens airport gates to some people without plane tickets
 **URL:** https://apnews.com/article/tsa-precheck-gateside-known-traveler-712d9888d3e7f00307a199c732986364
+
+### src_late_260ede3eafa6ef29 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** US airports to let some people without tickets pass through security
+**URL:** https://www.theguardian.com/us-news/2026/sep/09/airport-security-tsa-precheck
+**Added after publication:** true

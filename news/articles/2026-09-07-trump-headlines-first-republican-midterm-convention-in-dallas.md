@@ -51,12 +51,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 7
+  count: 8
   outlets:
   - Associated Press
   - NPR
   - The Guardian
   - The Wall Street Journal
+  - United Press International
   outlet_classes:
   - national_daily
   - public_broadcaster
@@ -284,6 +285,12 @@ Sykes said the undercard faces a difficult assignment. "It is a Trump-a-palooza 
 **Publication date:** 2026-09-09
 **Title:** Republicans gather in Dallas for two-day midterm convention featuring Trump
 **URL:** https://apnews.com/article/trump-midterm-convention-dallas-speakers-trumpapalooza-5be7a32b6cffb5b1eaa58d982fdb3448
+**Added after publication:** true
+
+### src_late_d4a56f9f3b883359 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Republican Midterm convention kicks off in Dallas
+**URL:** https://www.upi.com/Top_News/US/2026/09/09/republican-midterm-convention/8771788960713/
 **Added after publication:** true
 
 ---
