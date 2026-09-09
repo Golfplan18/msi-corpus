@@ -49,11 +49,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 4
   outlets:
   - Associated Press
   - The Guardian
   - The Wall Street Journal
+  - United Press International
   outlet_classes:
   - national_daily
   - wire
@@ -171,4 +172,10 @@ In response to the disclosures, the anonymous White House official said Trump "h
 **Publication date:** 2026-09-09
 **Title:** Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts
 **URL:** https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides
+**Added after publication:** true
+
+### src_late_93041089a72f2f62 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Trump gave aides thousands in cash gifts, financial disclosures show
+**URL:** https://www.upi.com/Top_News/US/2026/09/09/trump-white-house-aides-gifts/9601788968495/
 **Added after publication:** true

@@ -50,7 +50,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 4
   outlets:
   - Associated Press
   - The Guardian
@@ -234,4 +234,10 @@ The NTSB has identified the absence of such a system at Miami as a focus of the 
 **Publication date:** 2026-09-08
 **Title:** Investigators seek answers after Amazon cargo jet crash in Miami kills 5
 **URL:** https://apnews.com/article/amazon-plane-crash-miami-what-to-know-a7b95b9c94c60fddeecaf25d59d05a37
+**Added after publication:** true
+
+### src_late_aa8aace596851432 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** How the deadly Amazon cargo plane crash unfolded | Deconstructed
+**URL:** https://www.theguardian.com/us-news/video/2026/sep/09/how-the-deadly-amazon-cargo-plane-crash-unfolded-deconstructed
 **Added after publication:** true
