@@ -53,7 +53,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 4
   outlets:
   - BBC News
   - The Guardian
@@ -248,6 +248,12 @@ Elizabeth Cascio, a former New York Fire Department (FDNY) emergency medical tec
 **Publication date:** 2026-09-09
 **Title:** Mamdani releases 170,000 pages of records regarding impact on air quality of the 9/11 attacks
 **URL:** https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release
+**Added after publication:** true
+
+### src_late_4fa6716f2e88cd41 — BBC News, public_broadcaster, Tier 1, originating
+**Publication date:** 2026-09-08
+**Title:** Mamdani, Jon Stewart reveal new 9/11 documents
+**URL:** https://www.bbc.co.uk/news/videos/c93vd7rvre3o
 **Added after publication:** true
 
 ---

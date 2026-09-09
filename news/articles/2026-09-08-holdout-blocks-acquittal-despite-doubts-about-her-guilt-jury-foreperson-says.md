@@ -50,12 +50,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - Associated Press
+  - BBC News
   - The Guardian
   outlet_classes:
   - national_daily
+  - public_broadcaster
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -218,4 +220,10 @@ The case turned on whether Clancy bore criminal responsibility for the deaths. T
 **Publication date:** 2026-09-09
 **Title:** Lindsay Clancy juror had reasonable doubt but would not agree to acquit, foreperson says
 **URL:** https://www.theguardian.com/us-news/2026/sep/08/lindsay-clancy-juror-trial
+**Added after publication:** true
+
+### src_late_91b5e2c7662ca472 — BBC News, public_broadcaster, Tier 1, originating
+**Publication date:** 2026-09-09
+**Title:** 'Emotional rollercoaster' - Lindsay Clancy jurors speak out on what led to mistrial
+**URL:** https://www.bbc.co.uk/news/articles/c74k13kpv2no
 **Added after publication:** true
