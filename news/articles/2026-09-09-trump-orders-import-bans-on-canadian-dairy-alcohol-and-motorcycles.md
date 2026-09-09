@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-08-26'
   relation: related
   strength: 0.7159
+analyses:
+- '2026-09-09-section-338-s-untested-authority-anchors-a-staged-u-s--canada-trade-escalation'
 ---
 ## Trump orders import bans on Canadian dairy, alcohol and motorcycles
 
@@ -228,3 +230,8 @@ More escalation could come in the new year. Trump has threatened to raise levies
 **Publication date:** 2026-09-09
 **Title:** Trump Signs Orders to Ban Some Canadian Products From U.S. Market
 **URL:** https://www.wsj.com/economy/trade/trump-says-he-will-block-canadian-firms-from-government-contracts-a4c3c21e
+
+---
+
+<!-- analysis-link:2026-09-09-section-338-s-untested-authority-anchors-a-staged-u-s--canada-trade-escalation -->
+**Going deeper:** [Read MSI's analysis of U.S.-Canada Section 338 escalation →](/analyses/2026-09-09-section-338-s-untested-authority-anchors-a-staged-u-s--canada-trade-escalation)
