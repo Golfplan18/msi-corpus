@@ -46,11 +46,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 4
   outlets:
   - Associated Press
   - The Guardian
   - The Wall Street Journal
+  - United Press International
   outlet_classes:
   - national_daily
   - wire
@@ -243,4 +244,10 @@ Hanaway argued in her appeal that switching maps between the primary and general
 **Publication date:** 2026-09-08
 **Title:** Supreme Court Denies Missouri Bid to Use Voting Map That Benefits Republicans
 **URL:** https://www.wsj.com/politics/policy/supreme-court-denies-missouri-bid-to-use-voting-map-that-benefits-republicans-961218b1
+**Added after publication:** true
+
+### src_late_fec7dd6fa7bb7f32 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Supreme Court denies Missouri emergency appeal over congressional map
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/Supreme-court-denies-Missouri-map-appeal/1451788908597/
 **Added after publication:** true

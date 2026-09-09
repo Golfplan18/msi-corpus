@@ -56,13 +56,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - BBC News
-  - The Guardian
+  - The Wall Street Journal
   outlet_classes:
-  - public_broadcaster
   - national_daily
+  - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -193,3 +193,16 @@ Trump took aim at Canada in a series of Truth Social posts over the weekend, inc
 **Publication date:** 2026-09-08
 **Title:** Canada braces for prolonged trade war as counter-tariffs on US take effect
 **URL:** https://www.bbc.co.uk/news/articles/c8jdev0422jo
+
+### src_late_dfe2559aa3a3e27e — BBC News, public_broadcaster, Tier 1, originating
+**Publication date:** 2026-09-08
+**Title:** US slaps import ban on Canadian alcohol and other goods
+**URL:** https://www.bbc.co.uk/news/articles/c99dm1000p7o
+**Added after publication:** true
+
+### src_late_0841354e77410562 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Keywords by Christopher Mims
+**Publication date:** 2026-09-08
+**Title:** The States on the Front Lines of the Trade War With Canada
+**URL:** https://www.wsj.com/economy/trade/the-states-on-the-front-lines-of-the-trade-war-with-canada-9dc4da90
+**Added after publication:** true

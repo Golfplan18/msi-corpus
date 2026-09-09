@@ -62,12 +62,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - United Press International
   outlet_classes:
   - wire
-  highest_reliability_tier: 2
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -228,3 +229,10 @@ Rather than testing memorization of school curricula, PISA assesses students' ab
 **Publication date:** 2026-09-08
 **Title:** Latin America falls further behind in education, report says
 **URL:** https://www.upi.com/Top_News/World-News/2026/09/08/latam-education-performance-decline-latin-america/9031788888166/
+
+### src_late_d9976f8e9621e6cd — Associated Press, wire, Tier 1, originating
+**Author:** Sharon Lurye
+**Publication date:** 2026-09-08
+**Title:** Student scores in high-income countries hit a low point, test shows
+**URL:** https://apnews.com/article/pisa-test-scores-china-singapore-usa-2c1c7b338e3d5b38031ef0eecef9ce5d
+**Added after publication:** true
