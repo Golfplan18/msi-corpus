@@ -202,6 +202,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-09-mexico-u-s-counter-drone-operation-likely-displaces-cartel-aerial-traffic-to-oth'
 ---
 ## Mexico, U.S. counter cartel drones in Tijuana-San Diego corridor
 
@@ -237,3 +239,8 @@ U.S. forces have neutralized more than 300 unauthorized drones along the border 
 **Publication date:** 2026-09-09
 **Title:** Mexico, U.S. deploy anti-drone operation at Tijuana border
 **URL:** https://www.upi.com/Top_News/World-News/2026/09/09/latam-mexico-us-anti-drone-border-operation/4211788902477/
+
+---
+
+<!-- analysis-link:2026-09-09-mexico-u-s-counter-drone-operation-likely-displaces-cartel-aerial-traffic-to-oth -->
+**Going deeper:** [Read MSI's analysis of Águila Alta and cartel drone displacement →](/analyses/2026-09-09-mexico-u-s-counter-drone-operation-likely-displaces-cartel-aerial-traffic-to-oth)

@@ -171,6 +171,8 @@ related_stories:
   publish_date: '2026-08-28'
   relation: related
   strength: 0.7605
+analyses:
+- '2026-09-09-usps-ballot-rule-concentrates-fragility-in-jurisdictions-least-able-to-absorb-fa'
 ---
 ## Appeals courts to rule on Trump USPS mail ballot rules for midterms
 
@@ -220,3 +222,8 @@ Editor's note: USPS is a financial supporter of NPR. This report was written by 
 **Publication date:** 2026-09-09
 **Title:** Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty
 **URL:** https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail
+
+---
+
+<!-- analysis-link:2026-09-09-usps-ballot-rule-concentrates-fragility-in-jurisdictions-least-able-to-absorb-fa -->
+**Going deeper:** [Read MSI's analysis of USPS mail ballot fragility →](/analyses/2026-09-09-usps-ballot-rule-concentrates-fragility-in-jurisdictions-least-able-to-absorb-fa)
