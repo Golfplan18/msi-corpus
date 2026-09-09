@@ -55,11 +55,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - Associated Press
+  - The Wall Street Journal
   - United Press International
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -242,4 +244,11 @@ Shaheen's daughter, Stefany Shaheen, is among those seeking the Democratic nomin
 **Publication date:** 2026-09-08
 **Title:** New Hampshire primary: U.S. Senate, House seats up for grabs
 **URL:** https://www.upi.com/Top_News/US/2026/09/08/new-hampshire-primaries/6411788882412/
+**Added after publication:** true
+
+### src_late_edc8ce1467572a90 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Ken Thomas
+**Publication date:** 2026-09-09
+**Title:** New Hampshire’s Senate Primary Winners Now Face Tight Fall Matchup
+**URL:** https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b
 **Added after publication:** true

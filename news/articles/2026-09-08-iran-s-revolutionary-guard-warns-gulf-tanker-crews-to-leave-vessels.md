@@ -52,9 +52,10 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - United Press International
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -202,3 +203,9 @@ The U.S. strikes on multiple Iranian oil tankers came in response to more attemp
 **Publication date:** 2026-09-08
 **Title:** US strikes Iranian tankers after attempted missile attacks on Navy warship
 **URL:** https://apnews.com/article/iran-tanker-navy-warship-dfc9a1d9c9a5b8bc7b47fcc004025e65
+
+### src_late_0a575241e990126b — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** Central Command: U.S. strikes, destroys five Iranian tankers
+**URL:** https://www.upi.com/Top_News/US/2026/09/08/iran-military-destroys-five-iranian-tankers/7221788911766/
+**Added after publication:** true

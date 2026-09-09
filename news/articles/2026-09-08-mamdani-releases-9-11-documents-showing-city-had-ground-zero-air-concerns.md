@@ -53,11 +53,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - BBC News
+  - The Guardian
   - United Press International
   outlet_classes:
+  - national_daily
   - public_broadcaster
   - wire
   highest_reliability_tier: 1
@@ -240,6 +242,12 @@ Elizabeth Cascio, a former New York Fire Department (FDNY) emergency medical tec
 **Publication date:** 2026-09-08
 **Title:** NYC Mayor Zohran Mamdani releases 9/11 city documents showing dangerous air quality
 **URL:** https://www.upi.com/Top_News/US/2026/09/08/new-york-mayor-mamdani-sept-11-records-release/4841788894170/
+**Added after publication:** true
+
+### src_late_2437094085f6a99d — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Mamdani releases 170,000 pages of records regarding impact on air quality of the 9/11 attacks
+**URL:** https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release
 **Added after publication:** true
 
 ---

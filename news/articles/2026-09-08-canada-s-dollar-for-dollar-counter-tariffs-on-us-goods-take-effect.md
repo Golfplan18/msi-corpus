@@ -56,9 +56,10 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 4
   outlets:
   - BBC News
+  - The Guardian
   - The Wall Street Journal
   outlet_classes:
   - national_daily
@@ -205,4 +206,10 @@ Trump took aim at Canada in a series of Truth Social posts over the weekend, inc
 **Publication date:** 2026-09-08
 **Title:** The States on the Front Lines of the Trade War With Canada
 **URL:** https://www.wsj.com/economy/trade/the-states-on-the-front-lines-of-the-trade-war-with-canada-9dc4da90
+**Added after publication:** true
+
+### src_late_f1c250f9f2245811 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-08
+**Title:** US bans Canadian dairy, alcohol and motorcycles as trade war with longtime ally escalates
+**URL:** https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol
 **Added after publication:** true

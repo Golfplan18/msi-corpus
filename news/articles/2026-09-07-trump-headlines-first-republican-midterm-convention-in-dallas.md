@@ -51,16 +51,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 2
   outlets:
   - The Guardian
-  - Associated Press
-  - NPR
+  - The Wall Street Journal
   outlet_classes:
   - national_daily
-  - wire
-  - public_broadcaster
-  highest_reliability_tier: 2
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -244,6 +241,13 @@ Sykes said the undercard faces a difficult assignment. "It is a Trump-a-palooza 
 **Publication date:** 2026-09-07
 **Title:** Republican midterm convention will be ‘Trumpist pageantry’ - at the party’s own risk
 **URL:** https://www.theguardian.com/us-news/2026/sep/07/republican-midterm-convention-trump
+
+### src_late_75e2e3aaa5a16013 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Natalie Andrews
+**Publication date:** 2026-09-09
+**Title:** Republicans’ Midterms Strategy Will Test Trump’s Political Power as Polling Sags
+**URL:** https://www.wsj.com/politics/elections/trump-rnc-midterm-convention-30544786
+**Added after publication:** true
 
 ---
 
