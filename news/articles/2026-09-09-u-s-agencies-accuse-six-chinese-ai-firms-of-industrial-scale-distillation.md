@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-07-20'
   relation: related
   strength: 0.7318
+analyses:
+- '2026-09-09-u-s-agencies-frame-chinese-ai-distillation-as-calibrated-pre-summit-contest'
 ---
 ## U.S. agencies accuse six Chinese AI firms of industrial-scale distillation
 
@@ -248,3 +250,8 @@ A July open letter from companies including Nvidia and Microsoft cautioned again
 **Publication date:** 2026-09-09
 **Title:** Is China Stealing American AI? Why ‘Distillation’ Has Washington Up in Arms
 **URL:** https://www.wsj.com/tech/ai/is-china-stealing-american-ai-why-distillation-has-washington-up-in-arms-f924d29e
+
+---
+
+<!-- analysis-link:2026-09-09-u-s-agencies-frame-chinese-ai-distillation-as-calibrated-pre-summit-contest -->
+**Going deeper:** [Read MSI's analysis of the U.S.-China AI distillation dispute →](/analyses/2026-09-09-u-s-agencies-frame-chinese-ai-distillation-as-calibrated-pre-summit-contest)
