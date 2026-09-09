@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-01-12'
   relation: related
   strength: 0.6533
+analyses:
+- '2026-09-09-donuts-tailgates-and-a-10x-scale-up-a-differential-diagnosis-of-the-new-democrat'
 ---
 ## Democratic-aligned groups court Gen Z voters with donuts and block parties
 
@@ -238,3 +240,8 @@ While Mayer said the left was outspent when it came to targeting young voters in
 **Publication date:** 2026-09-09
 **Title:** How progressives are harnessing anger and frustration to steal young voters from Republicans
 **URL:** https://www.theguardian.com/us-news/2026/sep/09/progressive-democrats-young-voters-midterms
+
+---
+
+<!-- analysis-link:2026-09-09-donuts-tailgates-and-a-10x-scale-up-a-differential-diagnosis-of-the-new-democrat -->
+**Going deeper:** [Read MSI's analysis of The "joy" framing, the "come home" rhetoric, and the campus skew point in different directions. The →](/analyses/2026-09-09-donuts-tailgates-and-a-10x-scale-up-a-differential-diagnosis-of-the-new-democrat)
