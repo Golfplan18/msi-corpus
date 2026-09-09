@@ -53,10 +53,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Wall Street Journal
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -190,3 +192,10 @@ Huawei is the world's biggest supplier of gear for wireless telecom networks. U.
 **Publication date:** 2026-09-08
 **Title:** Huawei Technologies trial set to start in New York
 **URL:** https://apnews.com/article/china-huawei-trial-trade-secrets-ed66f29aa8539941aa8fad311d511cc2
+
+### src_late_eb75460680b40230 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Dave Michaels
+**Publication date:** 2026-09-09
+**Title:** Huawei Faces U.S. Criminal Trial Weeks Before Trump-Xi Meeting
+**URL:** https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663
+**Added after publication:** true

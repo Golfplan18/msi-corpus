@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-04-19'
   relation: related
   strength: 0.6521
+analyses:
+- '2026-09-09-trustpilot-data-ties-customer-return-policy-anger-to-disclosure-gaps-rather-than'
 ---
 ## Retailers tighten return policies as shoppers face new fees and shorter windows
 
@@ -237,3 +239,8 @@ Many retailers now state in their return policies that they reserve the right no
 **Publication date:** 2026-09-09
 **Title:** It’s Getting Harder to Return Things—and It’s Making Shoppers Mad
 **URL:** https://www.wsj.com/business/retail/its-getting-harder-to-return-thingsand-its-making-shoppers-mad-38b2fc55
+
+---
+
+<!-- analysis-link:2026-09-09-trustpilot-data-ties-customer-return-policy-anger-to-disclosure-gaps-rather-than -->
+**Going deeper:** [Read MSI's analysis of return-policy transparency and customer anger →](/analyses/2026-09-09-trustpilot-data-ties-customer-return-policy-anger-to-disclosure-gaps-rather-than)

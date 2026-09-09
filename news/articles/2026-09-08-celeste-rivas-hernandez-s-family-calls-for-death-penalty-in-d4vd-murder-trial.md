@@ -48,12 +48,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - BBC News
   - The Guardian
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  - public_broadcaster
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -196,6 +198,12 @@ The case has also seen changes to Burke's legal representation. His high-profile
 **Publication date:** 2026-09-08
 **Title:** Family of slain teen calls for death penalty in murder trial of singer D4vd
 **URL:** https://www.theguardian.com/us-news/2026/sep/08/d4vd-death-penalty-murder-trial
+
+### src_late_68087588e8d75e09 — BBC News, public_broadcaster, Tier 1, originating
+**Publication date:** 2026-09-09
+**Title:** Family of killed teen call for death penalty in D4vd trial
+**URL:** https://www.bbc.co.uk/news/articles/c62mn90ppnro
+**Added after publication:** true
 
 ---
 
