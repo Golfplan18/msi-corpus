@@ -61,12 +61,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - The Wall Street Journal
   - United Press International
   outlet_classes:
+  - national_daily
   - wire
-  highest_reliability_tier: 2
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -173,3 +175,10 @@ Among the energy deals is a 22-year power purchase agreement with Finnish energy
 **Publication date:** 2026-09-09
 **Title:** Google to invest $15.1B in AI infrastructure in Finland
 **URL:** https://www.upi.com/Top_News/World-News/2026/09/09/finland-Google-artificial-intelligence-investment/3651788940337/
+
+### src_late_4e8aeb6d5f21b234 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Dominic Chopping
+**Publication date:** 2026-09-09
+**Title:** Google Pledges Over $15 Billion for AI Infrastructure in Finland
+**URL:** https://www.wsj.com/tech/google-to-invest-15-billion-in-data-centers-and-infrastructure-in-finland-335c5ee2
+**Added after publication:** true

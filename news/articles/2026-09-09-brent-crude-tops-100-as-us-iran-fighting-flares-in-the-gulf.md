@@ -49,12 +49,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 4
   outlets:
+  - Associated Press
   - The Guardian
   - The Wall Street Journal
   outlet_classes:
   - national_daily
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -242,4 +244,11 @@ The renewed energy price pressure has intensified concerns about inflation and t
 **Publication date:** 2026-09-09
 **Title:** Brent Marches Toward $100 As U.S.-Iran Attacks Escalate
 **URL:** https://www.wsj.com/finance/commodities-futures/oil-rises-as-houthi-militants-attack-amplifies-supply-disruption-fears-f0d68a35
+**Added after publication:** true
+
+### src_late_81eb9bc8346b3d93 — Associated Press, wire, Tier 1, originating
+**Author:** Cathy Bussewitz
+**Publication date:** 2026-09-09
+**Title:** Oil rises past $100 a barrel after the latest Middle East attacks
+**URL:** https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e
 **Added after publication:** true

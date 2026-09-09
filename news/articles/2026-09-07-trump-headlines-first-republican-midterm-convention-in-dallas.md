@@ -51,12 +51,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
+  - NPR
   - The Guardian
   - The Wall Street Journal
   outlet_classes:
   - national_daily
+  - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -247,6 +249,13 @@ Sykes said the undercard faces a difficult assignment. "It is a Trump-a-palooza 
 **Publication date:** 2026-09-09
 **Title:** Republicans’ Midterms Strategy Will Test Trump’s Political Power as Polling Sags
 **URL:** https://www.wsj.com/politics/elections/trump-rnc-midterm-convention-30544786
+**Added after publication:** true
+
+### src_late_5da20f667d601d2b — NPR, public_broadcaster, Tier 1, originating
+**Author:** Tamara Keith
+**Publication date:** 2026-09-09
+**Title:** Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas
+**URL:** https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance
 **Added after publication:** true
 
 ---
