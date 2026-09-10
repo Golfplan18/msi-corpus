@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-06-04'
   relation: related
   strength: 0.7464
+analyses:
+- '2026-09-10-deterrence-without-commitment-the-strategic-logic-behind-trump-s-iran-threats'
 ---
 ## Trump says Iran would be 'totally wiped out as a country' if it retaliates
 
@@ -258,3 +260,8 @@ Bazzi is a Guardian US columnist, director of the Center for Near Eastern Studie
 **Publication date:** 2026-09-10
 **Title:** Trump’s repeated threats to ‘wipe out’ Iran are normalizing mass violence | Mohamad Bazzi
 **URL:** https://www.theguardian.com/commentisfree/2026/sep/10/trump-iran-violence
+
+---
+
+<!-- analysis-link:2026-09-10-deterrence-without-commitment-the-strategic-logic-behind-trump-s-iran-threats -->
+**Going deeper:** [Read MSI's analysis of Iran | United States | deterrence | strategic credibility | Pakistan mediation | international insti →](/analyses/2026-09-10-deterrence-without-commitment-the-strategic-logic-behind-trump-s-iran-threats)
