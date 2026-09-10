@@ -191,6 +191,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-10-australia-s-narrower-sanctions-aperture-meets-labor-s-further-action-clause'
 ---
 ## Australian Labor group urges Wong to join Israeli settlement trade ban
 
@@ -238,3 +240,8 @@ Wong has also been working with the family of Zomi Frankcom on a response to the
 **Publication date:** 2026-09-10
 **Title:** Labor friends of Palestine criticise Australia’s decision not to join sanctions on Israeli settlements in West Bank
 **URL:** https://www.theguardian.com/australia-news/2026/sep/10/labor-palestine-criticise-australias-decision-sanctions-israeli-settlements-in-west-bank-ntwnfb
+
+---
+
+<!-- analysis-link:2026-09-10-australia-s-narrower-sanctions-aperture-meets-labor-s-further-action-clause -->
+**Going deeper:** [Read MSI's analysis of Australian foreign policy / Labor Party platform / Israeli settlements / UK–France–Canada coordinati →](/analyses/2026-09-10-australia-s-narrower-sanctions-aperture-meets-labor-s-further-action-clause)
