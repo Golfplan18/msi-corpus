@@ -210,6 +210,8 @@ related_stories:
   publish_date: '2026-04-18'
   relation: related
   strength: 0.6835
+analyses:
+- '2026-09-10-turning-point-usa-s-institutional-footprint-and-connecting-function-diverge-in-n'
 ---
 ## Turning Point USA reports 'unprecedented expansion' year after Kirk's killing
 
@@ -297,3 +299,8 @@ Williams said he planned to emphasize issues students care about rather than foc
 **Publication date:** 2026-09-10
 **Title:** A year after Charlie Kirk was killed, young conservatives navigate a divided movement
 **URL:** https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point
+
+---
+
+<!-- analysis-link:2026-09-10-turning-point-usa-s-institutional-footprint-and-connecting-function-diverge-in-n -->
+**Going deeper:** [Read MSI's analysis of Turning Point's diverging trajectories →](/analyses/2026-09-10-turning-point-usa-s-institutional-footprint-and-connecting-function-diverge-in-n)
