@@ -2,8 +2,16 @@
 headline: Kimmel shifts Talarico interview to YouTube citing FCC pressure on ABC
 secondary_headline: FCC asked court to dismiss ABC suit over early license renewals
 publish_date: '2026-09-10'
-lede: Jimmy Kimmel said Wednesday night that his ABC late-night show would not broadcast his interview with Texas Democratic U.S. Senate candidate James Talarico, opting instead to release the conversation on YouTube. Kimmel attributed the decision to what he described as threats from the Federal Communications Commission against ABC, its parent company Disney, and the network's affiliates.
-nut_graf: The decision follows a months-long legal fight between ABC, Disney, and the FCC over the agency's requests that some ABC affiliates renew their broadcast licenses years ahead of schedule. ABC and Disney have sued the government, alleging the Trump administration is retaliating against content it dislikes. A judge has not yet ruled on the FCC's motion to dismiss that lawsuit.
+lede: Jimmy Kimmel said Wednesday night that his ABC late-night show would not broadcast
+  his interview with Texas Democratic U.S. Senate candidate James Talarico, opting
+  instead to release the conversation on YouTube. Kimmel attributed the decision to
+  what he described as threats from the Federal Communications Commission against
+  ABC, its parent company Disney, and the network's affiliates.
+nut_graf: The decision follows a months-long legal fight between ABC, Disney, and
+  the FCC over the agency's requests that some ABC affiliates renew their broadcast
+  licenses years ahead of schedule. ABC and Disney have sued the government, alleging
+  the Trump administration is retaliating against content it dislikes. A judge has
+  not yet ruled on the FCC's motion to dismiss that lawsuit.
 primary_entities:
 - Jimmy Kimmel
 - James Talarico
@@ -33,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,107 +141,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-10-kimmel-moves-talarico-senate-interview-to-youtube-citing-fcc-threats-to-abc
-  headline: Kimmel moves Talarico Senate interview to YouTube, citing FCC threats to ABC
+  headline: Kimmel moves Talarico Senate interview to YouTube, citing FCC threats
+    to ABC
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.9459
+  strength: 0.946
 - slug: 2026-08-18-disney-s-abc-sues-fcc-over-license-challenges-the-view-probe
   headline: Disney's ABC sues FCC over license challenges, 'The View' probe
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.7242
-- slug: 2026-08-30-trump-urges-fcc-to-punish-nbc-s-welker-over-mixed-endorsement-remark
-  headline: Trump urges FCC to punish NBC's Welker over 'mixed' endorsement remark
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6304
-- slug: 2026-09-02-trump-urges-fcc-to-rebuke-nbc-s-welker-over-mixed-record-remark
-  headline: Trump urges FCC to rebuke NBC's Welker over 'mixed-record' remark
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6116
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6091
+  strength: 0.7244
 - slug: 2026-08-18-wsj-publishes-timeline-of-disney-fcc-dispute-with-trump-administration
   headline: WSJ publishes timeline of Disney-FCC dispute with Trump administration
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.666
-- slug: 2026-07-31-fcc-chair-defends-abc-actions-says-broadcasters-owe-public-service
-  headline: FCC chair defends ABC actions, says broadcasters owe public service
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6214
+  strength: 0.6645
 - slug: 2026-06-22-abc-launches-on-air-campaign-against-fcc-license-review-the-view-probe
   headline: ABC launches on-air campaign against FCC license review, 'The View' probe
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6985
+  strength: 0.6993
 - slug: 2026-06-25-fcc-chair-says-abc-running-misinformation-campaign-on-view-probe
   headline: FCC chair says ABC running 'misinformation campaign' on 'View' probe
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6664
+  strength: 0.6671
 - slug: 2026-05-10-abc-says-fcc-is-trying-to-chill-free-speech-in-dispute-over-the-view
   headline: ABC says FCC is trying to chill free speech in dispute over ‘The View’
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7283
+  strength: 0.7289
 - slug: 2026-05-29-abc-owned-stations-call-early-fcc-license-review-unlawful-and-unconstitutional
   headline: ABC-owned stations call early FCC license review 'unlawful and unconstitutional'
   publish_date: '2026-05-29'
   relation: related
-  strength: 0.7057
+  strength: 0.7056
 - slug: 2026-05-10-abc-accuses-trump-fcc-of-attempting-to-chill-free-speech-in-dispute-over-the-vie
-  headline: ABC accuses Trump FCC of attempting to chill free speech in dispute over 'The View'
+  headline: ABC accuses Trump FCC of attempting to chill free speech in dispute over
+    'The View'
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7155
-- slug: 2026-02-18-colbert-says-cbs-pulled-talarico-interview-as-early-voting-begins-in-texas
-  headline: Colbert says CBS pulled Talarico interview as early voting begins in Texas
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7538
-- slug: 2026-05-26-fcc-s-sole-democrat-warns-media-companies-against-yielding-to-trump
-  headline: FCC’s sole Democrat warns media companies against yielding to Trump
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.696
-- slug: 2026-05-27-fcc-s-sole-democrat-warns-media-companies-against-yielding-to-trump-pressure-on-
-  headline: FCC's sole Democrat warns media companies against yielding to Trump pressure on speech
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6906
-- slug: 2026-07-08-defense-alleges-prosecutors-coerced-anthony-into-forgoing-testimony
-  headline: Defense alleges prosecutors coerced Anthony into forgoing testimony
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6143
-- slug: 2026-06-16-paramount-skydance-rejects-ad-criticizing-its-owners-and-warner-bros-merger
-  headline: Paramount Skydance rejects ad criticizing its owners and Warner Bros. merger
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.601
-- slug: 2026-02-21-colbert-controversy-boosts-money-and-attention-in-texas-senate-primary
-  headline: Colbert controversy boosts money and attention in Texas Senate primary
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6767
-- slug: 2026-06-12-judge-blocks-ken-paxton-lawsuit-against-actblue-fundraising-platform
-  headline: Judge blocks Ken Paxton lawsuit against ActBlue fundraising platform
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5949
-- slug: 2026-03-06-republicans-mine-talarico-s-social-media-history-after-texas-senate-primary-win
-  headline: Republicans mine Talarico's social media history after Texas Senate primary win
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6406
+  strength: 0.7154
 ---
-
 ## Kimmel shifts Talarico interview to YouTube citing FCC pressure on ABC
 
 **Subtype:** fact

@@ -2,8 +2,13 @@
 headline: Polymarket names Warren Jenson as first chief financial officer
 secondary_headline: Polymarket was founded in 2020 by CEO Shayne Coplan
 publish_date: '2026-09-10'
-lede: The prediction-markets company Polymarket has named Warren Jenson, a former chief financial officer at Amazon and NBC, as its first company-wide finance chief. The appointment comes as the company expands its United States platform following regulatory oversight from the Commodity Futures Trading Commission.
-nut_graf: Polymarket is valued at around $21 billion after a recent $1 billion funding round and competes with Kalshi and newer entrants including Robinhood and DraftKings in the prediction-markets sector.
+lede: The prediction-markets company Polymarket has named Warren Jenson, a former
+  chief financial officer at Amazon and NBC, as its first company-wide finance chief.
+  The appointment comes as the company expands its United States platform following
+  regulatory oversight from the Commodity Futures Trading Commission.
+nut_graf: Polymarket is valued at around $21 billion after a recent $1 billion funding
+  round and competes with Kalshi and newer entrants including Robinhood and DraftKings
+  in the prediction-markets sector.
 primary_entities:
 - Polymarket
 - Warren Jenson
@@ -52,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,108 +156,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-28-prakash-denies-betting-on-races-covered-by-his-fake-median-strategies-polls
-  headline: Prakash denies betting on races covered by his fake Median Strategies polls
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.615
 - slug: 2026-08-12-nyc-council-investigates-polymarket-kalshi-coinbase-gemini-titan
   headline: NYC Council investigates Polymarket, Kalshi, Coinbase, Gemini Titan
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.6834
-- slug: 2026-08-21-blackstone-h-f-and-anthropic-form-ode-to-deploy-ai-at-portfolio-companies
-  headline: Blackstone, H&F and Anthropic form Ode to deploy AI at portfolio companies
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.603
-- slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
-  headline: DOJ fraud chief highlights old case at 'record' enforcement event
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5975
+  strength: 0.6807
 - slug: 2026-06-26-lawmakers-call-for-federal-probe-of-polymarket-over-deceptive-advertising
   headline: Lawmakers call for federal probe of Polymarket over deceptive advertising
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6918
-- slug: 2026-07-18-white-house-probe-finds-it-can-t-track-staff-bets-on-prediction-markets
-  headline: White House probe finds it can't track staff bets on prediction markets
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.634
+  strength: 0.69
 - slug: 2026-06-21-polymarket-recruited-creators-to-film-fake-winning-bets-wsj-finds
   headline: Polymarket recruited creators to film fake winning bets, WSJ finds
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.6861
+  strength: 0.6851
 - slug: 2026-06-30-zuckerberg-meets-with-kalshi-ceo-about-acquisition-sources-say
   headline: Zuckerberg meets with Kalshi CEO about acquisition, sources say
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6676
+  strength: 0.6658
 - slug: 2026-06-22-wsj-investigation-finds-polymarket-ran-secret-social-media-campaign-with-fake-wi
-  headline: WSJ investigation finds Polymarket ran secret social media campaign with fake winning bets
+  headline: WSJ investigation finds Polymarket ran secret social media campaign with
+    fake winning bets
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6679
-- slug: 2026-06-08-kalshi-and-polymarket-bar-affiliates-from-spreading-election-misinformation
-  headline: Kalshi and Polymarket bar affiliates from spreading election misinformation
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6471
-- slug: 2026-06-24-meta-plans-ai-powered-prediction-market-app-internal-documents-show
-  headline: Meta plans AI-powered prediction market app, internal documents show
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6125
-- slug: 2026-06-03-market-research-firm-alphasense-clinches-7-5-billion-valuation-in-new-funding-ro
-  headline: Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New Funding Round
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6446
+  strength: 0.6672
 - slug: 2026-04-17-washington-tightens-scrutiny-of-prediction-markets-over-geopolitical-betting
   headline: Washington tightens scrutiny of prediction markets over geopolitical betting
   publish_date: '2026-04-17'
   relation: related
-  strength: 0.6733
-- slug: 2026-06-18-wall-street-grapples-with-ai-hiring-dilemma-as-tools-reshape-banking-jobs
-  headline: Wall Street grapples with AI hiring dilemma as tools reshape banking jobs
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6
-- slug: 2026-06-17-goldman-morgan-stanley-split-teams-for-openai-and-anthropic-ipo-races
-  headline: Goldman, Morgan Stanley split teams for OpenAI and Anthropic IPO races
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6008
+  strength: 0.6711
 - slug: 2026-04-11-polymarket-flagged-a-classified-info-trade-as-the-maduro-raid-bet-led-to-a-400-0
-  headline: Polymarket flagged a classified-info trade as the Maduro raid bet led to a $400,000 win
+  headline: Polymarket flagged a classified-info trade as the Maduro raid bet led
+    to a $400,000 win
   publish_date: '2026-04-11'
   relation: related
-  strength: 0.6661
+  strength: 0.6638
 - slug: 2026-04-11-lawmakers-seek-investigations-into-well-timed-polymarket-bets-on-iran-ceasefire
-  headline: Lawmakers seek investigations into well-timed Polymarket bets on Iran ceasefire
+  headline: Lawmakers seek investigations into well-timed Polymarket bets on Iran
+    ceasefire
   publish_date: '2026-04-11'
   relation: related
-  strength: 0.6549
-- slug: 2026-05-28-us-prosecutors-charge-google-engineer-with-insider-trading-on-polymarket
-  headline: US prosecutors charge Google engineer with insider trading on Polymarket
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6065
-- slug: 2026-04-09-newly-created-polymarket-accounts-bet-on-us-iran-ceasefire-before-trump-s-move
-  headline: Newly created Polymarket accounts bet on US-Iran ceasefire before Trump’s move
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6474
-- slug: 2026-04-27-prediction-markets-face-tighter-scrutiny-as-officials-target-insider-trading
-  headline: Prediction markets face tighter scrutiny as officials target insider trading
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6242
+  strength: 0.6532
 ---
-
 ## Polymarket names Warren Jenson as first chief financial officer
 
 **Subtype:** fact

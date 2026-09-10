@@ -2,8 +2,16 @@
 headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
 secondary_headline: Democrats press Epstein accountability at Dallas convention
 publish_date: '2026-09-10'
-lede: Democratic Senate candidate James Talarico accused Texas Attorney General Ken Paxton on Thursday of 'ignoring' survivors of Jeffrey Epstein's sexual abuse, appearing alongside survivors Annie Farmer and Sharlene Rochard at a Dallas exhibit of Justice Department Epstein files during the Republican midterm convention. Talarico said survivors had requested to meet with Paxton but he refused, calling on his Republican rival to use his office to pursue accountability.
-nut_graf: Dallas has become the staging ground for Democrats' midterm effort to keep President Donald Trump's longtime friendship with Epstein in the political foreground, with multiple party figures appearing at the exhibit this week while Republicans convene for their first midterm convention.
+lede: Democratic Senate candidate James Talarico accused Texas Attorney General Ken
+  Paxton on Thursday of 'ignoring' survivors of Jeffrey Epstein's sexual abuse, appearing
+  alongside survivors Annie Farmer and Sharlene Rochard at a Dallas exhibit of Justice
+  Department Epstein files during the Republican midterm convention. Talarico said
+  survivors had requested to meet with Paxton but he refused, calling on his Republican
+  rival to use his office to pursue accountability.
+nut_graf: Dallas has become the staging ground for Democrats' midterm effort to keep
+  President Donald Trump's longtime friendship with Epstein in the political foreground,
+  with multiple party figures appearing at the exhibit this week while Republicans
+  convene for their first midterm convention.
 primary_entities:
 - James Talarico
 - Ken Paxton
@@ -52,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -86,104 +95,45 @@ related_stories:
   headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.7144
+  strength: 0.7153
 - slug: 2026-08-31-talarico-leads-paxton-42-to-39-in-university-of-texas-senate-poll
   headline: Talarico leads Paxton 42% to 39% in University of Texas Senate poll
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6926
+  strength: 0.6928
 - slug: 2026-08-26-talarico-asks-court-to-release-paxton-s-depositions-ahead-of-texas-senate-race
-  headline: Talarico asks court to release Paxton's depositions ahead of Texas Senate race
+  headline: Talarico asks court to release Paxton's depositions ahead of Texas Senate
+    race
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7173
+  strength: 0.7164
 - slug: 2026-08-25-annenberg-finds-61-oppose-new-datacenters-as-paxton-unveils-texas-first-plan
-  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first plan
+  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first
+    plan
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6736
+  strength: 0.6741
 - slug: 2026-07-27-paxton-faces-talarico-in-texas-senate-race-after-defeating-prior-challengers
   headline: Paxton faces Talarico in Texas Senate race after defeating prior challengers
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7156
+  strength: 0.7153
 - slug: 2026-08-01-new-mexico-ag-says-doj-missed-deadline-for-epstein-ranch-files
   headline: New Mexico AG says DOJ missed deadline for Epstein ranch files
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.672
+  strength: 0.6725
 - slug: 2026-07-27-epstein-survivors-urge-senators-to-oppose-blanche-s-attorney-general-confirmatio
   headline: Epstein survivors urge senators to oppose Blanche's attorney general confirmation
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6669
+  strength: 0.6674
 - slug: 2026-06-01-texas-senate-general-election-pits-talarico-against-paxton-in-november
   headline: Texas Senate general election pits Talarico against Paxton in November
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.75
-- slug: 2026-06-19-texas-senate-race-turns-into-a-battle-over-who-is-more-of-a-man
-  headline: Texas Senate Race Turns Into a Battle Over Who Is More of a Man
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.705
-- slug: 2026-06-09-ex-paxton-lawyer-endorses-democrat-talarico-faults-trump-focus
-  headline: Ex-Paxton lawyer endorses Democrat Talarico, faults Trump focus
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6996
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6851
-- slug: 2026-06-01-congressional-inquiry-yields-no-criminal-referrals-a-year-after-epstein-hearings
-  headline: Congressional inquiry yields no criminal referrals a year after Epstein hearings began
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6734
-- slug: 2026-05-13-obama-lunches-with-texas-senate-hopeful-james-talarico-in-austin
-  headline: Obama lunches with Texas Senate hopeful James Talarico in Austin
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6899
-- slug: 2026-05-13-obama-meets-with-talarico-in-texas-ahead-of-may-runoff
-  headline: Obama meets with Talarico in Texas ahead of May runoff
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6763
-- slug: 2026-03-06-republicans-mine-talarico-s-social-media-history-after-texas-senate-primary-win
-  headline: Republicans mine Talarico's social media history after Texas Senate primary win
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6967
-- slug: 2026-03-04-talarico-wins-texas-senate-democratic-nomination-cornyn-paxton-face-off
-  headline: Talarico wins Texas Senate Democratic nomination; Cornyn, Paxton face off
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6962
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6834
-- slug: 2026-04-10-melania-trump-denies-epstein-ties-calls-for-survivor-centered-hearing
-  headline: Melania Trump denies Epstein ties, calls for survivor-centered hearing
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6717
-- slug: 2026-03-29-cpac-activists-rally-behind-ken-paxton-for-texas-senate-over-john-cornyn
-  headline: CPAC activists rally behind Ken Paxton for Texas Senate over John Cornyn
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.671
-- slug: 2026-03-05-democrat-james-talarico-wins-texas-senate-primary-faces-cornyn-or-paxton
-  headline: Democrat James Talarico wins Texas Senate primary; faces Cornyn or Paxton
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6773
+  strength: 0.7502
 ---
-
 ## Talarico challenges Paxton to act for Epstein survivors in Dallas
 
 **Subtype:** fact

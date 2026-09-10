@@ -1,9 +1,16 @@
 ---
 headline: Fetterman's video at GOP convention draws Democratic criticism
-secondary_headline: Fetterman says he will stay a Democrat as Republicans recruit him
+secondary_headline: Fetterman says he will stay a Democrat as Republicans recruit
+  him
 publish_date: '2026-09-10'
-lede: Democratic Sen. John Fetterman of Pennsylvania said he would not switch parties after addressing the Republican National Committee's midterm convention in Dallas by video on Wednesday. Senate Majority Leader John Thune said Republican senators had held conversations with Fetterman and would welcome him into the GOP.
-nut_graf: Fetterman described himself as a lifelong Democrat after praising Republican Sen. Dave McCormick in the convention video. Democrats need to gain four GOP-held Senate seats in November to regain the majority and would need another seat if Fetterman joined the Republican Party.
+lede: Democratic Sen. John Fetterman of Pennsylvania said he would not switch parties
+  after addressing the Republican National Committee's midterm convention in Dallas
+  by video on Wednesday. Senate Majority Leader John Thune said Republican senators
+  had held conversations with Fetterman and would welcome him into the GOP.
+nut_graf: Fetterman described himself as a lifelong Democrat after praising Republican
+  Sen. Dave McCormick in the convention video. Democrats need to gain four GOP-held
+  Senate seats in November to regain the majority and would need another seat if Fetterman
+  joined the Republican Party.
 primary_entities:
 - John Fetterman
 - Dave McCormick
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +152,42 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-09-10-fetterman-s-gop-convention-video-raises-democratic-loyalty-questions
+  headline: Fetterman's GOP convention video raises Democratic loyalty questions
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.9015
 - slug: 2026-09-10-fetterman-addresses-gop-convention-by-video-backs-mccormick-on-steel
   headline: Fetterman addresses GOP convention by video, backs McCormick on steel
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8032
+  strength: 0.8031
 - slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
   headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6749
+  strength: 0.6746
 - slug: 2026-09-09-fetterman-absent-from-campaign-trail-as-he-breaks-with-democrats
   headline: Fetterman absent from campaign trail as he breaks with Democrats
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6738
-- slug: 2026-09-10-vance-suggests-wealthy-americans-would-be-excluded-from-5-000-payments
-  headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6352
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6347
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6444
+  strength: 0.6736
 - slug: 2026-09-04-fetterman-cancels-meetings-skips-hearings-report-finds
   headline: Fetterman cancels meetings, skips hearings, report finds
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.6509
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6232
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6193
-- slug: 2026-08-25-trump-and-vance-to-headline-gop-midterm-convention-in-dallas
-  headline: Trump and Vance to headline GOP midterm convention in Dallas
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.608
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6088
-- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
-  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.611
+  strength: 0.6514
 - slug: 2026-07-10-fetterman-and-mccormick-form-joint-fundraising-committee
   headline: Fetterman and McCormick form joint fundraising committee
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6942
+  strength: 0.6939
 - slug: 2026-07-16-fetterman-ties-democratic-party-membership-to-israel-support
   headline: Fetterman ties Democratic Party membership to Israel support
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6682
-- slug: 2026-07-20-fetterman-urges-trump-to-focus-on-iran-war-not-2020-loss
-  headline: Fetterman urges Trump to focus on Iran war, not 2020 loss
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6311
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.611
-- slug: 2026-06-30-trump-announces-first-ever-gop-midterm-convention-in-dallas
-  headline: Trump announces first-ever GOP midterm convention in Dallas
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6151
-- slug: 2026-06-17-wasserman-schultz-primary-run-in-black-majority-district-roils-florida-democrats
-  headline: Wasserman Schultz primary run in Black majority district roils Florida Democrats
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6248
-- slug: 2026-05-14-dnc-chair-ken-martin-faces-internal-skepticism-ahead-of-2026-midterms
-  headline: DNC chair Ken Martin faces internal skepticism ahead of 2026 midterms
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6061
-- slug: 2026-01-14-democrats-see-narrow-path-to-regain-senate-majority-in-2026
-  headline: Democrats see narrow path to regain Senate majority in 2026
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6323
+  strength: 0.6678
 ---
-
 ## Fetterman's video at GOP convention draws Democratic criticism
 
 **Subtype:** fact

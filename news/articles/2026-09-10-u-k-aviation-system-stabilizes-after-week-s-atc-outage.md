@@ -2,8 +2,15 @@
 headline: U.K. aviation system stabilizes after week's ATC outage
 secondary_headline: Stronger won lifts Korean Air outlook, pressures Hanwha
 publish_date: '2026-09-10'
-lede: The U.K.'s aviation system has stabilized significantly after an air-traffic-control outage earlier in the week grounded hundreds of flights, aviation analytics firm Cirium reported Thursday. Of the 3,028 flight arrivals scheduled at U.K. airports on Thursday, 54 were canceled or not operating; 47 of 3,033 scheduled departures were affected, according to Cirium.
-nut_graf: 'Transport-sector analysts pointed to divergent fortunes across subsectors in a Thursday roundup: post-disruption recovery in U.K. aviation, currency-driven swings for Korean Air and Hanwha Ocean, and an infrastructure-led construction outlook in Malaysia ahead of a cross-border rail link.'
+lede: The U.K.'s aviation system has stabilized significantly after an air-traffic-control
+  outage earlier in the week grounded hundreds of flights, aviation analytics firm
+  Cirium reported Thursday. Of the 3,028 flight arrivals scheduled at U.K. airports
+  on Thursday, 54 were canceled or not operating; 47 of 3,033 scheduled departures
+  were affected, according to Cirium.
+nut_graf: 'Transport-sector analysts pointed to divergent fortunes across subsectors
+  in a Thursday roundup: post-disruption recovery in U.K. aviation, currency-driven
+  swings for Korean Air and Hanwha Ocean, and an infrastructure-led construction outlook
+  in Malaysia ahead of a cross-border rail link.'
 primary_entities:
 - Cirium
 - UK aviation system
@@ -34,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,116 +141,30 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-09-10-u-k-aviation-system-stabilizes-after-week-s-atc-outage.png
-  alt: 'Illustration accompanying article: U.K. aviation system stabilizes after week''s ATC outage'
+  alt: 'Illustration accompanying article: U.K. aviation system stabilizes after week''s
+    ATC outage'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-09-10-uk-air-traffic-shutdown-disrupts-many-thousands-of-passengers
   headline: UK air traffic shutdown disrupts many thousands of passengers
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7009
-- slug: 2026-08-17-analysts-cut-jetblue-raise-maersk-and-hapag-lloyd-as-iran-oil-risk-returns
-  headline: Analysts cut JetBlue, raise Maersk and Hapag-Lloyd as Iran oil risk returns
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6139
-- slug: 2026-08-07-apollo-easyjet-takeover-may-increase-airline-competition
-  headline: Apollo easyJet takeover may increase airline competition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6267
-- slug: 2026-07-21-alaska-air-posts-76m-loss-as-iran-war-drives-up-jet-fuel-costs
-  headline: Alaska Air posts $76M loss as Iran war drives up jet fuel costs
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6208
-- slug: 2026-07-14-european-airline-stocks-fall-as-middle-east-escalation-drives-oil-rally
-  headline: European airline stocks fall as Middle East escalation drives oil rally
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6327
-- slug: 2026-07-07-easyjet-board-backs-castlelake-s-6-90-share-takeover-bid
-  headline: easyJet board backs Castlelake's £6.90/share takeover bid
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6476
+  strength: 0.7005
 - slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
+  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East
+    war
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6747
-- slug: 2026-06-23-norwegian-acquisition-wins-backing-qantas-ultra-long-haul-panned
-  headline: Norwegian Acquisition Wins Backing; Qantas Ultra Long-Haul Panned
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6483
-- slug: 2026-06-19-korean-air-says-asiana-integration-costs-could-reach-1-trillion-won-offset-by-20
-  headline: Korean Air says Asiana integration costs could reach 1 trillion won, offset by 2028
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6466
-- slug: 2026-06-26-canada-rail-freight-jumps-14-7-zeekr-gains-in-australia-oil-falls-as-hormuz-traf
-  headline: Canada rail freight jumps 14.7%, Zeekr gains in Australia, oil falls as Hormuz traffic resumes
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6109
-- slug: 2026-06-12-global-air-travel-growth-to-slow-to-2-1-in-2026-as-middle-east-war-lifts-fuel-co
-  headline: Global air travel growth to slow to 2.1% in 2026 as Middle East war lifts fuel costs
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.632
-- slug: 2026-06-01-analysts-assess-easyjet-horizon-robotics-arb-virgin-australia-prospects
-  headline: Analysts Assess easyJet, Horizon Robotics, ARB, Virgin Australia Prospects
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6331
-- slug: 2026-06-01-castlelake-considers-3bn-easyjet-takeover-airline-calls-bid-opportunistic
-  headline: Castlelake considers £3bn easyJet takeover; airline calls bid opportunistic
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6307
-- slug: 2026-06-11-analysts-assess-thai-banks-wise-kkr-steadfast-spacex-ipo
-  headline: Analysts Assess Thai Banks, Wise, KKR, Steadfast, SpaceX IPO
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6153
-- slug: 2026-06-08-oil-ai-demand-and-geopolitics-shape-analyst-views-on-transport-sector
-  headline: Oil, AI Demand, and Geopolitics Shape Analyst Views on Transport Sector
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6192
-- slug: 2026-04-16-europe-faces-six-week-jet-fuel-supply-cliff-as-iran-war-chokes-hormuz
-  headline: Europe faces six-week jet fuel supply cliff as Iran war chokes Hormuz
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.642
-- slug: 2026-04-17-faa-orders-300-daily-flight-cuts-at-o-hare-to-curb-summer-delays
-  headline: FAA orders 300 daily flight cuts at O'Hare to curb summer delays
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6333
-- slug: 2026-03-18-strong-ticket-sales-help-offset-rising-jet-fuel-costs-us-airlines-say
-  headline: Strong ticket sales help offset rising jet fuel costs, US airlines say
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6404
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6345
-- slug: 2026-04-17-air-canada-suspends-jfk-flights-for-summer-as-iran-war-doubles-jet-fuel-price
-  headline: Air Canada suspends JFK flights for summer as Iran war doubles jet fuel price
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6149
+  strength: 0.6731
 ---
-
 ## U.K. aviation system stabilizes after week's ATC outage
 
 **Subtype:** fact

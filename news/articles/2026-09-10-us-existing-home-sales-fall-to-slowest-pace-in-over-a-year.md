@@ -2,8 +2,15 @@
 headline: US existing home sales fall to slowest pace in over a year
 secondary_headline: 30-year mortgage rate hits 6.76%, highest in more than 14 months
 publish_date: '2026-09-10'
-lede: Sales of previously occupied US homes fell 2% in August from July to a seasonally adjusted annual rate of 3.98 million units, the National Association of Realtors reported Thursday — the slowest annual pace in more than a year and the third straight monthly decline. The benchmark 30-year mortgage rate hit 6.76% this week, its highest level in more than 14 months, as long-term bond yields have climbed since the US-Iran war began in late February.
-nut_graf: The slowdown reflects the cumulative drag of mortgage rates that have roughly doubled from pandemic-era lows, leaving would-be buyers locked out of a market where the median home price has set an all-time record for August.
+lede: Sales of previously occupied US homes fell 2% in August from July to a seasonally
+  adjusted annual rate of 3.98 million units, the National Association of Realtors
+  reported Thursday — the slowest annual pace in more than a year and the third straight
+  monthly decline. The benchmark 30-year mortgage rate hit 6.76% this week, its highest
+  level in more than 14 months, as long-term bond yields have climbed since the US-Iran
+  war began in late February.
+nut_graf: The slowdown reflects the cumulative drag of mortgage rates that have roughly
+  doubled from pandemic-era lows, leaving would-be buyers locked out of a market where
+  the median home price has set an all-time record for August.
 primary_entities:
 - National Association of Realtors
 - Lawrence Yun
@@ -35,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -117,104 +125,45 @@ related_stories:
   headline: Existing home sales fall 1.7% in July as prices hit record
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.8635
+  strength: 0.8642
 - slug: 2026-08-20-u-s-mortgage-rates-ease-for-a-second-week-but-stay-elevated
   headline: U.S. mortgage rates ease for a second week but stay elevated
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7457
+  strength: 0.7456
 - slug: 2026-08-27-30-year-mortgage-rate-holds-at-6-65-near-2026-high
   headline: 30-year mortgage rate holds at 6.65%, near 2026 high
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7073
+  strength: 0.7059
 - slug: 2026-08-13-freddie-mac-reports-30-year-mortgage-rate-at-6-67-first-weekly-decline-in-six-we
-  headline: Freddie Mac reports 30-year mortgage rate at 6.67%, first weekly decline in six weeks
+  headline: Freddie Mac reports 30-year mortgage rate at 6.67%, first weekly decline
+    in six weeks
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7472
+  strength: 0.747
 - slug: 2026-08-17-uk-asking-prices-fall-2-in-august-rightmove-reports
   headline: UK asking prices fall 2% in August, Rightmove reports
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7115
+  strength: 0.7116
 - slug: 2026-07-09-nar-reports-existing-home-prices-reached-an-all-time-high-in-june
   headline: NAR reports existing home prices reached an all-time high in June
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.8252
+  strength: 0.8253
 - slug: 2026-04-14-existing-home-sales-sink-to-9-month-low-as-spring-buyers-stay-sidelined
   headline: Existing home sales sink to 9-month low as spring buyers stay sidelined
   publish_date: '2026-04-14'
   relation: related
-  strength: 0.815
+  strength: 0.8148
 - slug: 2026-05-10-us-existing-home-sales-flat-in-april-at-4-02-million-prices-hit-record-for-april
-  headline: US existing home sales flat in April at 4.02 million; prices hit record for April
+  headline: US existing home sales flat in April at 4.02 million; prices hit record
+    for April
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7683
-- slug: 2026-04-18-home-sales-fall-to-9-month-low-as-mortgage-relief-fails-to-spur-buyers
-  headline: Home sales fall to 9-month low as mortgage relief fails to spur buyers
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.7725
-- slug: 2026-01-13-2025-u-s-existing-home-sales-stay-near-30-year-low-as-prices-rise
-  headline: 2025 U.S. existing-home sales stay near 30-year low as prices rise
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7889
-- slug: 2026-05-10-us-existing-home-sales-stay-flat-in-april-as-inventory-remains-tight
-  headline: US existing home sales stay flat in April as inventory remains tight
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7396
-- slug: 2026-02-20-average-us-30-year-mortgage-rate-slips-to-6-01-still-near-6-range
-  headline: Average US 30-year mortgage rate slips to 6.01%, still near 6% range
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7799
-- slug: 2026-03-10-existing-home-sales-rise-in-february-as-easing-mortgage-rates-help-buyers
-  headline: Existing home sales rise in February as easing mortgage rates help buyers
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7692
-- slug: 2026-02-13-existing-home-sales-plunge-8-4-in-january-as-prices-stay-high-and-winter-bites
-  headline: Existing home sales plunge 8.4% in January as prices stay high and winter bites
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.776
-- slug: 2026-01-14-2025-home-sales-stuck-at-30-year-low-as-prices-rise-and-mortgages-stay-high
-  headline: 2025 home sales stuck at 30-year low as prices rise and mortgages stay high
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7747
-- slug: 2026-02-19-average-us-long-term-mortgage-rate-dips-to-6-01-lowest-in-more-than-3-years
-  headline: Average US long-term mortgage rate dips to 6.01%, lowest in more than 3 years
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7661
-- slug: 2026-03-11-existing-home-sales-rise-in-february-but-lag-2025-pace
-  headline: Existing home sales rise in February, but lag 2025 pace
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.7583
-- slug: 2026-04-24-mortgage-rates-slip-for-third-week-easing-pressure-on-spring-homebuyers
-  headline: Mortgage rates slip for third week, easing pressure on spring homebuyers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.7362
-- slug: 2026-06-01-uk-house-prices-fall-as-middle-east-crisis-dents-buyer-confidence
-  headline: UK house prices fall as Middle East crisis dents buyer confidence
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.696
-- slug: 2026-05-08-spring-homebuying-season-meets-a-stubborn-6-37-mortgage-rate
-  headline: Spring homebuying season meets a stubborn 6.37% mortgage rate
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7019
+  strength: 0.7679
 ---
-
 ## US existing home sales fall to slowest pace in over a year
 
 **Subtype:** fact

@@ -1,9 +1,16 @@
 ---
 headline: Saudi Arabia plans to seek Pakistan, Turkey aid under Mecca pact
-secondary_headline: UPI says Iran-aligned Red Sea control brings new U.S.-Iran war front
+secondary_headline: UPI says Iran-aligned Red Sea control brings new U.S.-Iran war
+  front
 publish_date: '2026-09-10'
-lede: Saudi Arabia plans to call on Pakistan and Turkey for aid under the Mecca defense agreement as its fighting with the Iran-backed Houthi militia intensifies, United Press International reported. Saudi Arabia carried out nearly 40 strikes on Houthi targets on Thursday. Yemeni officials said a Houthi ground offensive captured the Red Sea port of Mokha after days of fighting.
-nut_graf: UPI reported that Iran-aligned control of the Red Sea brings a new front to the U.S. war with Iran. The wire service described the Red Sea, like the Persian Gulf, as a critical Middle Eastern trade route, particularly for Saudi Arabia.
+lede: Saudi Arabia plans to call on Pakistan and Turkey for aid under the Mecca defense
+  agreement as its fighting with the Iran-backed Houthi militia intensifies, United
+  Press International reported. Saudi Arabia carried out nearly 40 strikes on Houthi
+  targets on Thursday. Yemeni officials said a Houthi ground offensive captured the
+  Red Sea port of Mokha after days of fighting.
+nut_graf: UPI reported that Iran-aligned control of the Red Sea brings a new front
+  to the U.S. war with Iran. The wire service described the Red Sea, like the Persian
+  Gulf, as a critical Middle Eastern trade route, particularly for Saudi Arabia.
 primary_entities:
 - Houthis
 - Saudi Arabia
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -173,7 +181,8 @@ related_stories:
   relation: related
   strength: 0.7436
 - slug: 2026-07-23-trump-threatens-major-military-punishment-on-iran-after-houthi-attack-on-saudi-t
-  headline: Trump threatens 'major military punishment' on Iran after Houthi attack on Saudi tankers
+  headline: Trump threatens 'major military punishment' on Iran after Houthi attack
+    on Saudi tankers
   publish_date: '2026-07-23'
   relation: related
   strength: 0.7526
@@ -182,68 +191,7 @@ related_stories:
   publish_date: '2026-07-21'
   relation: related
   strength: 0.7412
-- slug: 2026-08-11-pentagon-finds-2025-yemen-strikes-killed-153-civilians-wounded-243
-  headline: Pentagon finds 2025 Yemen strikes killed 153 civilians, wounded 243
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.664
-- slug: 2026-08-12-strait-of-hormuz-crossings-fall-to-14-as-trump-claims-u-s-control
-  headline: Strait of Hormuz crossings fall to 14 as Trump claims U.S. control
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6584
-- slug: 2026-07-25-houthi-red-sea-attacks-widen-us-iran-conflict-as-oil-tops-100
-  headline: Houthi Red Sea attacks widen US-Iran conflict as oil tops $100
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6944
-- slug: 2026-07-30-u-s-launches-heavy-strikes-on-iran-after-missile-attack-on-jordan-base
-  headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6712
-- slug: 2026-07-24-u-s-strikes-iran-for-two-weeks-mobilizes-forces-for-larger-operation
-  headline: U.S. strikes Iran for two weeks, mobilizes forces for larger operation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6876
-- slug: 2026-07-28-china-keeps-mideast-oil-flowing-despite-houthi-attacks-u-s-blockade
-  headline: China keeps Mideast oil flowing despite Houthi attacks, U.S. blockade
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6548
-- slug: 2026-07-24-bahrain-and-kuwait-secretly-struck-iranian-military-sites-in-retaliation
-  headline: Bahrain and Kuwait Secretly Struck Iranian Military Sites in Retaliation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6503
-- slug: 2026-07-20-qatar-proposes-10-day-ceasefire-as-us-iran-strikes-continue
-  headline: Qatar proposes 10-day ceasefire as US-Iran strikes continue
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6449
-- slug: 2026-07-18-u-s-iran-escalate-strikes-in-gulf-as-israel-bombs-lebanon
-  headline: U.S., Iran escalate strikes in Gulf as Israel bombs Lebanon
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6485
-- slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.647
-- slug: 2026-03-29-houthi-strikes-widen-iran-u-s--israel-war-as-marines-deploy-to-region
-  headline: Houthi strikes widen Iran-U.S.-Israel war as Marines deploy to region
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7653
-- slug: 2026-03-29-war-in-middle-east-intensifies-with-first-strike-from-yemen
-  headline: War in Middle East intensifies with first strike from Yemen
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7441
 ---
-
 ## Saudi Arabia plans to seek Pakistan, Turkey aid under Mecca pact
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Trump promises $500 Obamacare refunds to nearly 1 million enrollees
-secondary_headline: Checks would go to marketplace consumers in 30 states starting in October
+secondary_headline: Checks would go to marketplace consumers in 30 states starting
+  in October
 publish_date: '2026-09-10'
-lede: President Donald Trump has promised $500 (£370) refunds to nearly one million Americans who buy health insurance through the federal Affordable Care Act marketplace and do not receive income-based subsidies, the White House announced Thursday. The payments, framed by the administration as refunds for "Obamacare overcharges" collected during President Joe Biden's administration, are scheduled to begin going out in October and would reach enrollees in 30 states.
-nut_graf: The refund comes amid an 8 million drop in Medicaid and ACA marketplace enrollment since Trump returned to office, with the law's largest coverage-related changes under the One Big Beautiful Bill Act not yet in effect and expected to take several years to be fully implemented.
+lede: President Donald Trump has promised $500 (£370) refunds to nearly one million
+  Americans who buy health insurance through the federal Affordable Care Act marketplace
+  and do not receive income-based subsidies, the White House announced Thursday. The
+  payments, framed by the administration as refunds for "Obamacare overcharges" collected
+  during President Joe Biden's administration, are scheduled to begin going out in
+  October and would reach enrollees in 30 states.
+nut_graf: The refund comes amid an 8 million drop in Medicaid and ACA marketplace
+  enrollment since Trump returned to office, with the law's largest coverage-related
+  changes under the One Big Beautiful Bill Act not yet in effect and expected to take
+  several years to be fully implemented.
 primary_entities:
 - Donald Trump
 - White House
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -97,104 +107,43 @@ related_stories:
   headline: Experts offer different legal views of Trump's proposed $5,000 payments
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7322
+  strength: 0.7319
 - slug: 2026-09-10-trump-promises-5000-dividend-to-adult-citizens-if-republicans-keep-congress
   headline: Trump ties $5,000 adult dividend pledge to Republican control of Congress
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7161
+  strength: 0.7155
 - slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
   headline: Current tariff pace would take nearly five years to cover Trump payout
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6899
+  strength: 0.6896
 - slug: 2026-08-31-trump-announces-nine-more-drugmakers-join-medicaid-pricing-deal
   headline: Trump announces nine more drugmakers join Medicaid pricing deal
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6851
+  strength: 0.6857
 - slug: 2026-08-13-over-40-s-p-500-firms-report-9-6-billion-in-tariff-refunds
   headline: Over 40 S&P 500 firms report $9.6 billion in tariff refunds
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6839
+  strength: 0.6841
 - slug: 2026-07-28-trump-administration-to-end-medicare-drug-plan-subsidy-after-2026
   headline: Trump administration to end Medicare drug plan subsidy after 2026
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6728
+  strength: 0.6733
 - slug: 2026-06-26-aca-enrollment-drops-by-5-million-as-premiums-spike-after-subsidy-expiration
   headline: ACA enrollment drops by 5 million as premiums spike after subsidy expiration
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.7327
+  strength: 0.7331
 - slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
   headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.6832
-- slug: 2026-06-27-aca-enrollment-falls-to-19-2-million-as-premium-subsidies-end
-  headline: ACA enrollment falls to 19.2 million as premium subsidies end
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6887
-- slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
-  headline: Trump warns states to tighten unemployment fraud controls or lose funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6756
-- slug: 2026-05-20-aca-enrollment-projected-to-drop-sharply-amid-rising-costs
-  headline: ACA Enrollment Projected to Drop Sharply Amid Rising Costs
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6935
-- slug: 2026-01-15-trump-outlines-health-care-plan-built-on-savings-accounts-and-drug-price-cuts
-  headline: Trump outlines health care plan built on savings accounts and drug price cuts
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7497
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-spike
-  headline: ACA enrollment projected to drop by nearly 5 million as costs spike
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6909
-- slug: 2026-05-18-trump-adds-more-than-600-generic-drugs-to-trumprx-discount-site
-  headline: Trump adds more than 600 generic drugs to TrumpRx discount site
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6824
-- slug: 2026-05-19-trump-adds-more-than-600-generic-drugs-to-trumprx-discount-site
-  headline: Trump adds more than 600 generic drugs to TrumpRx discount site
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.674
-- slug: 2026-03-21-poll-finds-aca-enrollees-cutting-food-and-skipping-care-as-subsidies-end
-  headline: Poll finds ACA enrollees cutting food and skipping care as subsidies end
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7114
-- slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.697
-- slug: 2026-02-05-trump-administration-says-15-medicare-drugs-will-cost-less-starting-in-2027
-  headline: Trump administration says 15 Medicare drugs will cost less starting in 2027
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7138
-- slug: 2026-05-06-white-house-estimates-trump-drug-deals-would-cut-529b-in-10-years
-  headline: White House estimates Trump drug deals would cut $529B in 10 years
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6703
-- slug: 2026-01-13-aca-enrollment-falls-by-800-000-as-enhanced-subsidies-expire
-  headline: ACA enrollment falls by 800,000 as enhanced subsidies expire
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6983
+  strength: 0.6836
 ---
-
 ## Trump promises $500 Obamacare refunds to nearly 1 million enrollees
 
 **Subtype:** fact

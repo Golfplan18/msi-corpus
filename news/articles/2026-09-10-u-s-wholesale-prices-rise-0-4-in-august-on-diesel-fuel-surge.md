@@ -2,8 +2,13 @@
 headline: U.S. wholesale prices rise 0.4% in August on diesel fuel surge
 secondary_headline: Annual wholesale inflation accelerated to 5.4% from July's 4.8%
 publish_date: '2026-09-10'
-lede: The U.S. Bureau of Labor Statistics reported Thursday that wholesale prices rose a seasonally adjusted 0.4% in August, matching market expectations. The monthly increase pushed the 12-month change in final demand prices to 5.4%, up from a 4.8% annual gain for the 12 months ending in July.
-nut_graf: The August PPI report shows wholesale inflation continuing to accelerate, with energy-driven cost pressures — particularly in diesel fuel — pushing both monthly and annual measures higher ahead of Friday's consumer price index release.
+lede: The U.S. Bureau of Labor Statistics reported Thursday that wholesale prices
+  rose a seasonally adjusted 0.4% in August, matching market expectations. The monthly
+  increase pushed the 12-month change in final demand prices to 5.4%, up from a 4.8%
+  annual gain for the 12 months ending in July.
+nut_graf: The August PPI report shows wholesale inflation continuing to accelerate,
+  with energy-driven cost pressures — particularly in diesel fuel — pushing both monthly
+  and annual measures higher ahead of Friday's consumer price index release.
 primary_entities:
 - U.S. Bureau of Labor Statistics
 - West Texas Intermediate
@@ -39,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -55,7 +61,8 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-09-10'
-  caption: The 10-year Treasury yield reached its highest level since 2023, an indicator of elevated borrowing costs across the economy.
+  caption: The 10-year Treasury yield reached its highest level since 2023, an indicator
+    of elevated borrowing costs across the economy.
 figures_aggregate:
   count: 1
   series_ids:
@@ -151,7 +158,8 @@ related_stories:
   relation: related
   strength: 0.7464
 - slug: 2026-09-04-diesel-reaches-5-85-national-average-as-six-month-iran-war-lifts-fuel-costs
-  headline: Diesel reaches $5.85 national average as six-month Iran war lifts fuel costs
+  headline: Diesel reaches $5.85 national average as six-month Iran war lifts fuel
+    costs
   publish_date: '2026-09-04'
   relation: related
   strength: 0.7236
@@ -170,11 +178,6 @@ related_stories:
   publish_date: '2026-08-18'
   relation: related
   strength: 0.6957
-- slug: 2026-08-17-us-gas-climbs-to-4-06-a-gallon-as-60-day-iran-deadline-expires
-  headline: US gas climbs to $4.06 a gallon as 60-day Iran deadline expires
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6885
 - slug: 2026-07-15-wholesale-prices-fall-0-3-in-june-as-gas-prices-drop-12
   headline: Wholesale prices fall 0.3% in June as gas prices drop 12%
   publish_date: '2026-07-15'
@@ -186,67 +189,12 @@ related_stories:
   relation: related
   strength: 0.7118
 - slug: 2026-05-16-u-s-inflation-hits-3-8-as-iran-war-drives-gas-prices-and-retail-sales-slow
-  headline: U.S. inflation hits 3.8% as Iran war drives gas prices and retail sales slow
+  headline: U.S. inflation hits 3.8% as Iran war drives gas prices and retail sales
+    slow
   publish_date: '2026-05-16'
   relation: related
   strength: 0.7452
-- slug: 2026-02-27-us-wholesale-prices-run-hotter-core-rises-faster-lifting-inflation-worry
-  headline: US wholesale prices run hotter; core rises faster, lifting inflation worry
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7892
-- slug: 2026-05-28-key-inflation-gauge-accelerates-to-3-8-in-april-highest-in-three-years
-  headline: Key inflation gauge accelerates to 3.8% in April, highest in three years
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.7285
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7102
-- slug: 2026-05-16-hotter-inflation-fueled-by-iran-war-keeps-pressure-on-u-s-consumers
-  headline: Hotter inflation fueled by Iran war keeps pressure on U.S. consumers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7393
-- slug: 2026-06-11-lower-income-households-absorb-higher-effective-inflation-as-cpi-rises-4-2-in-ma
-  headline: Lower-income households absorb higher effective inflation as CPI rises 4.2% in May
-  publish_date: '2026-06-11T00:00:00Z'
-  relation: related
-  strength: 0.6984
-- slug: 2026-03-19-us-wholesale-prices-rose-3-4-in-february-fed-weighs-iran-energy-shock
-  headline: US wholesale prices rose 3.4% in February; Fed weighs Iran energy shock
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7689
-- slug: 2026-05-13-americans-feel-the-pinch-as-iran-war-fuels-u-s-inflation-via-gasoline
-  headline: Americans feel the pinch as Iran war fuels U.S. inflation via gasoline
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7254
-- slug: 2026-04-15-iran-war-drives-us-wholesale-prices-up-4-as-energy-costs-jump
-  headline: Iran war drives US wholesale prices up 4% as energy costs jump
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7454
-- slug: 2026-05-14-producer-prices-jump-as-iran-war-lifts-energy-pressuring-consumer-costs
-  headline: Producer prices jump as Iran war lifts energy, pressuring consumer costs
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7203
-- slug: 2026-01-14-november-wholesale-prices-up-0-2-in-report-delayed-by-federal-shutdown
-  headline: November wholesale prices up 0.2% in report delayed by federal shutdown
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7598
-- slug: 2026-05-13-iran-war-fuels-us-inflation-surge-as-consumer-prices-rise-3-8-in-april
-  headline: Iran war fuels US inflation surge as consumer prices rise 3.8% in April
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7048
 ---
-
 ## U.S. wholesale prices rise 0.4% in August on diesel fuel surge
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: ECB lifts rate to 2.5%, projects 3% inflation this year
-secondary_headline: Higher energy prices accompany multiyear highs in European bond yields
+secondary_headline: Higher energy prices accompany multiyear highs in European bond
+  yields
 publish_date: '2026-09-10'
-lede: The European Central Bank raised interest rates from 2.25% to 2.5% on Thursday and projected inflation would average 3% this year as renewed fighting in the Middle East increased the risk of higher inflation. Oil and gas prices rose after the latest US and Iranian attacks on ships in the Strait of Hormuz, while European government borrowing costs climbed.
-nut_graf: The Guardian reported that energy prices were the biggest driving force of inflation and that investors were spooked by the tone of the ECB report, which the newspaper described as hawkish. Brent crude passed $105 a barrel, the UK 10-year gilt yield reached 5.295%, and recent data showed EU gas stores were 67% full, below the five-year average of 84%.
+lede: The European Central Bank raised interest rates from 2.25% to 2.5% on Thursday
+  and projected inflation would average 3% this year as renewed fighting in the Middle
+  East increased the risk of higher inflation. Oil and gas prices rose after the latest
+  US and Iranian attacks on ships in the Strait of Hormuz, while European government
+  borrowing costs climbed.
+nut_graf: The Guardian reported that energy prices were the biggest driving force
+  of inflation and that investors were spooked by the tone of the ECB report, which
+  the newspaper described as hawkish. Brent crude passed $105 a barrel, the UK 10-year
+  gilt yield reached 5.295%, and recent data showed EU gas stores were 67% full, below
+  the five-year average of 84%.
 primary_entities:
 - European Central Bank
 - Christine Lagarde
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +69,8 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-09-10'
-  caption: The DGS10 series placed the 10-year US Treasury yield at 4.8% on September 10, 2026, as a bond-market sell-off put pressure on interest rates.
+  caption: The DGS10 series placed the 10-year US Treasury yield at 4.8% on September
+    10, 2026, as a bond-market sell-off put pressure on interest rates.
 figures_aggregate:
   count: 1
   series_ids:
@@ -153,113 +164,57 @@ related_stories:
   headline: Oil reaches $105 amid signs Middle East conflict will persist
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7139
-- slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
-  headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7005
+  strength: 0.7142
 - slug: 2026-08-28-french-inflation-accelerates-to-2-7-in-august-on-energy-costs
   headline: French inflation accelerates to 2.7% in August on energy costs
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7204
+  strength: 0.7198
 - slug: 2026-08-16-central-banks-face-inflation-risks-as-energy-prices-threaten-weak-growth
   headline: Central banks face inflation risks as energy prices threaten weak growth
   publish_date: '2026-08-16'
   relation: related
-  strength: 0.7605
+  strength: 0.7602
 - slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
   headline: UK inflation rises to 2.9% in July as energy bills climb
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7443
+  strength: 0.7445
 - slug: 2026-07-26-economists-warn-oil-surge-could-force-bank-of-england-rate-hikes
   headline: Economists warn oil surge could force Bank of England rate hikes
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.7541
+  strength: 0.7542
 - slug: 2026-07-23-ecb-holds-rates-steady-at-2-25-as-oil-volatility-clouds-inflation-outlook
   headline: ECB holds rates steady at 2.25% as oil volatility clouds inflation outlook
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7613
+  strength: 0.7606
 - slug: 2026-06-11-ecb-raises-benchmark-rate-to-2-25-as-iran-war-lifts-oil-prices
   headline: ECB raises benchmark rate to 2.25% as Iran war lifts oil prices
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.8529
+  strength: 0.8524
 - slug: 2026-07-23-brent-crude-tops-100-a-barrel-as-red-sea-attacks-threaten-saudi-export-route
-  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export route
+  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export
+    route
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7094
-- slug: 2026-06-18-bank-of-england-leaves-rates-unchanged-signals-caution-on-hormuz-opening
-  headline: Bank of England Leaves Rates Unchanged, Signals Caution on Hormuz Opening
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.759
-- slug: 2026-06-15-ecb-s-nagel-says-iran-war-energy-impact-to-persist-despite-deal
-  headline: ECB's Nagel says Iran war energy impact to persist despite deal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7614
-- slug: 2026-06-15-bank-of-england-expected-to-hold-key-rate-at-3-75-as-u-k-economy-weakens
-  headline: Bank of England expected to hold key rate at 3.75% as U.K. economy weakens
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7506
-- slug: 2026-07-06-canada-business-inflation-expectations-surged-during-iran-conflict-boc-survey-sh
-  headline: Canada business inflation expectations surged during Iran conflict, BoC survey shows
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7042
-- slug: 2026-06-12-ecb-rate-hike-supports-european-banks-geopolitical-risks-persist
-  headline: ECB rate hike supports European banks; geopolitical risks persist
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7457
-- slug: 2026-06-01-eurozone-household-inflation-expectations-steady-at-4-well-above-prewar-levels
-  headline: Eurozone household inflation expectations steady at 4%, well above prewar levels
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.753
-- slug: 2026-06-17-uk-inflation-holds-steady-at-2-8-in-may-below-forecasts
-  headline: UK Inflation Holds Steady at 2.8% in May, Below Forecasts
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.728
-- slug: 2026-05-22-europe-energy-prices-to-stay-high-through-2027-eu-officials-say
-  headline: Europe energy prices to stay high through 2027, EU officials say
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7541
-- slug: 2026-05-23-europe-energy-prices-to-stay-high-through-2027-eurozone-officials-say
-  headline: Europe energy prices to stay high through 2027, eurozone officials say
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7451
-- slug: 2026-05-21-europe-energy-prices-to-stay-above-pre-iran-war-levels-until-end-of-2027
-  headline: Europe energy prices to stay above pre-Iran-war levels until end of 2027
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7409
-- slug: 2026-04-29-bank-of-england-other-central-banks-pause-rates-as-iran-war-reshapes-outlook
-  headline: Bank of England, other central banks pause rates as Iran war reshapes outlook
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7448
+  strength: 0.7101
 image:
   url: /articles/2026-09-10-ecb-lifts-rate-to-2-5-projects-3-inflation-this-year.png
-  alt: "Illustration accompanying article: ECB lifts rate to 2.5%, projects 3% inflation this year"
+  alt: 'Illustration accompanying article: ECB lifts rate to 2.5%, projects 3% inflation
+    this year'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## ECB lifts rate to 2.5%, projects 3% inflation this year
 
 **Subtype:** fact

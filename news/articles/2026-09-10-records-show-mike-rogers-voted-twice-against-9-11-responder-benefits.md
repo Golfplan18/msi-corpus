@@ -1,9 +1,19 @@
 ---
 headline: Records show Mike Rogers voted twice against 9/11 responder benefits
-secondary_headline: Feal says Rogers called responders' health issues a 'New York problem'
+secondary_headline: Feal says Rogers called responders' health issues a 'New York
+  problem'
 publish_date: '2026-09-10'
-lede: Mike Rogers, the Republican candidate for Michigan's open US Senate seat, voted twice against healthcare and other benefits for 9/11 first responders and survivors during his time in Congress, congressional records show. The Guardian reported the voting record after Rogers criticized his Democratic opponent, Abdul El-Sayed, over his 9/11 comments and falsely suggested El-Sayed, who is Muslim, said the US deserved the attack.
-nut_graf: Rogers and El-Sayed are competing in a tight race that could decide control of Congress during the next session, The Guardian reported. Rogers also voted on legislation affecting first responder funding between 2002 and 2014, drawing criticism from 9/11 first responder John Feal and retired Michigan firefighter Henry Yanez. The Rogers campaign did not respond to requests for comment.
+lede: Mike Rogers, the Republican candidate for Michigan's open US Senate seat, voted
+  twice against healthcare and other benefits for 9/11 first responders and survivors
+  during his time in Congress, congressional records show. The Guardian reported the
+  voting record after Rogers criticized his Democratic opponent, Abdul El-Sayed, over
+  his 9/11 comments and falsely suggested El-Sayed, who is Muslim, said the US deserved
+  the attack.
+nut_graf: Rogers and El-Sayed are competing in a tight race that could decide control
+  of Congress during the next session, The Guardian reported. Rogers also voted on
+  legislation affecting first responder funding between 2002 and 2014, drawing criticism
+  from 9/11 first responder John Feal and retired Michigan firefighter Henry Yanez.
+  The Rogers campaign did not respond to requests for comment.
 primary_entities:
 - Mike Rogers
 - Abdul El-Sayed
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -120,107 +131,17 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-08-29-mike-rogers-fundraising-email-says-he-saw-bin-laden-s-body-with-own-eyes
-  headline: Mike Rogers' fundraising email says he saw Bin Laden's body with 'own eyes'
+  headline: Mike Rogers' fundraising email says he saw Bin Laden's body with 'own
+    eyes'
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7206
-- slug: 2026-09-01-vance-tells-rogers-rally-el-sayed-is-very-very-evil-over-usha-vance-remarks
-  headline: Vance tells Rogers rally El-Sayed is 'very, very evil' over Usha Vance remarks
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6422
-- slug: 2026-08-31-vance-attacks-el-sayed-at-michigan-rally-over-usha-vance-comments
-  headline: Vance attacks El-Sayed at Michigan rally over Usha Vance comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6095
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6254
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6025
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6175
+  strength: 0.72
 - slug: 2026-08-09-el-sayed-maintains-medicare-for-all-support-in-michigan-senate-race
   headline: El-Sayed maintains Medicare for All support in Michigan Senate race
   publish_date: '2026-08-09'
   relation: related
-  strength: 0.6914
-- slug: 2026-08-06-abdul-el-sayed-wins-michigan-primary-will-face-mike-rogers
-  headline: Abdul El-Sayed wins Michigan primary, will face Mike Rogers
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.622
-- slug: 2026-08-10-el-sayed-primary-win-intensifies-democrats-debate-over-2028
-  headline: El-Sayed primary win intensifies Democrats’ debate over 2028
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5949
-- slug: 2026-07-26-progressive-and-moderate-democrats-locked-in-tight-michigan-senate-primary
-  headline: Progressive and moderate Democrats locked in tight Michigan Senate primary
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6205
-- slug: 2026-08-01-michigan-senate-primary-tests-democratic-party-s-direction
-  headline: Michigan Senate primary tests Democratic Party's direction
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.5974
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6302
-- slug: 2026-07-22-progressive-democrats-hold-medicare-for-all-hearing-as-uninsured-ranks-grow
-  headline: Progressive Democrats hold Medicare for All hearing as uninsured ranks grow
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5974
-- slug: 2026-07-12-united-democracy-project-spends-11-million-in-michigan-senate-primary
-  headline: United Democracy Project spends $11 million in Michigan Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6077
-- slug: 2026-07-02-el-sayed-earns-ocasio-cortez-endorsement-in-michigan-senate-primary
-  headline: El-Sayed earns Ocasio-Cortez endorsement in Michigan Senate primary
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6136
-- slug: 2026-06-19-rfk-jr-s-healthy-eating-tour-meets-voter-ire-over-health-costs
-  headline: RFK Jr.’s Healthy-Eating Tour Meets Voter Ire Over Health Costs
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6093
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5995
-- slug: 2026-05-23-republicans-defy-trump-on-proposed-1-776b-jan-6-compensation-fund
-  headline: Republicans defy Trump on proposed $1.776B Jan. 6 compensation fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5926
-- slug: 2026-04-23-rfk-jr-tells-congress-vaccines-medicaid-cuts-affordability-are-linked-to-budget
-  headline: RFK Jr. tells Congress vaccines, Medicaid cuts, affordability are linked to budget
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6155
-- slug: 2026-04-22-rfk-jr-deflects-blame-on-vaccines-as-hhs-budget-cuts-draw-scrutiny
-  headline: RFK Jr. deflects blame on vaccines as HHS budget cuts draw scrutiny
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6076
+  strength: 0.6938
 ---
-
 ## Records show Mike Rogers voted twice against 9/11 responder benefits
 
 **Subtype:** fact

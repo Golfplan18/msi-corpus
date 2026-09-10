@@ -2,8 +2,12 @@
 headline: First Circuit leaves USPS mail-ballot injunction in place
 secondary_headline: Supreme Court separately blocks Trump's mail-in voting push
 publish_date: '2026-09-10'
-lede: The Boston-based First US Circuit Court of Appeals declined on September 10, 2026, to stay a lower-court injunction preventing the US Postal Service from tightening rules around mail-in voting, The Guardian reported. The ruling leaves the order in effect ahead of November's midterm elections.
-nut_graf: Separately, the US Supreme Court also moved to block Trump's efforts to introduce new mail-in voting requirements, according to The Guardian.
+lede: The Boston-based First US Circuit Court of Appeals declined on September 10,
+  2026, to stay a lower-court injunction preventing the US Postal Service from tightening
+  rules around mail-in voting, The Guardian reported. The ruling leaves the order
+  in effect ahead of November's midterm elections.
+nut_graf: Separately, the US Supreme Court also moved to block Trump's efforts to
+  introduce new mail-in voting requirements, according to The Guardian.
 primary_entities:
 - First US Circuit Court of Appeals
 - US Supreme Court
@@ -37,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,7 +161,8 @@ related_stories:
   relation: related
   strength: 0.7402
 - slug: 2026-08-22-usps-mail-in-voting-rule-set-for-wednesday-publication-as-two-court-injunctions-
-  headline: USPS mail-in voting rule set for Wednesday publication as two court injunctions stand
+  headline: USPS mail-in voting rule set for Wednesday publication as two court injunctions
+    stand
   publish_date: '2026-08-22'
   relation: related
   strength: 0.7883
@@ -175,68 +181,7 @@ related_stories:
   publish_date: '2026-09-10'
   relation: related
   strength: 0.6637
-- slug: 2026-08-28-judge-talwani-issues-14-day-hold-on-trump-mail-ballot-order
-  headline: Judge Talwani issues 14-day hold on Trump mail ballot order
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7472
-- slug: 2026-09-01-whistleblower-report-warns-usps-portal-may-disrupt-midterm-voting
-  headline: Whistleblower report warns USPS portal may disrupt midterm voting
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7178
-- slug: 2026-09-04-election-expert-weighs-trump-supreme-court-appeal-on-mail-ballots
-  headline: Election expert weighs Trump Supreme Court appeal on mail ballots
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6984
-- slug: 2026-08-26-24-attorneys-general-pennsylvania-governor-sue-usps-over-mail-voting-rule
-  headline: 24 attorneys general, Pennsylvania governor sue USPS over mail voting rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7278
-- slug: 2026-08-11-federal-judge-widens-block-on-trump-mail-voting-order-to-all-states
-  headline: Federal judge widens block on Trump mail voting order to all states
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7613
-- slug: 2026-07-25-appeals-court-upholds-injunction-blocking-trump-mail-in-voting-rules
-  headline: Appeals court upholds injunction blocking Trump mail-in voting rules
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.8181
-- slug: 2026-07-28-appeals-court-rules-challenge-to-trump-mail-voting-order-premature
-  headline: Appeals court rules challenge to Trump mail voting order premature
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7789
-- slug: 2026-08-07-supreme-court-weighs-trump-bid-to-restrict-mail-in-voting
-  headline: Supreme Court weighs Trump bid to restrict mail-in voting
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7376
-- slug: 2026-07-01-federal-judge-blocks-usps-plan-to-refuse-mail-ballots-over-voter-rolls
-  headline: Federal judge blocks USPS plan to refuse mail ballots over voter rolls
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7803
-- slug: 2026-06-25-federal-judge-in-boston-blocks-parts-of-trump-s-mail-voting-order
-  headline: Federal judge in Boston blocks parts of Trump's mail voting order
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7637
-- slug: 2026-07-29-postal-service-emerges-as-pivotal-player-in-midterm-election
-  headline: Postal Service emerges as pivotal player in midterm election
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6602
-- slug: 2026-05-28-federal-judge-refuses-to-block-trump-executive-order-limiting-mail-voting
-  headline: Federal judge refuses to block Trump executive order limiting mail voting
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.7784
 ---
-
 ## First Circuit leaves USPS mail-ballot injunction in place
 
 **Subtype:** fact

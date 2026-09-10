@@ -1,9 +1,20 @@
 ---
 headline: Some Gander residents seek withdrawal of US envoy's 9/11 invitation
-secondary_headline: Pew finds Canadian confidence in US partner fell below half, from 83% in 2022
+secondary_headline: Pew finds Canadian confidence in US partner fell below half, from
+  83% in 2022
 publish_date: '2026-09-10'
-lede: Some residents of Gander, Newfoundland, are demanding that US Ambassador to Canada Pete Hoekstra's invitation to Friday's commemoration of the 25th anniversary of the September 11 attacks be rescinded. BBC News described residents of the Atlantic coast community as less enthusiastic about hosting Hoekstra than they had been about welcoming stranded Americans in 2001, while the Gander town council said inviting US dignitaries is appropriate protocol.
-nut_graf: BBC News described the backlash against Hoekstra's visit as a sign that the US-Canada relationship is at its lowest point in decades and as a measure of Canadian sentiment toward the United States. The countries have been in a trade war since President Donald Trump's return to the White House, trade negotiations remain on ice after collapsing in late August, and each side has imposed tit-for-tat tariffs.
+lede: Some residents of Gander, Newfoundland, are demanding that US Ambassador to
+  Canada Pete Hoekstra's invitation to Friday's commemoration of the 25th anniversary
+  of the September 11 attacks be rescinded. BBC News described residents of the Atlantic
+  coast community as less enthusiastic about hosting Hoekstra than they had been about
+  welcoming stranded Americans in 2001, while the Gander town council said inviting
+  US dignitaries is appropriate protocol.
+nut_graf: BBC News described the backlash against Hoekstra's visit as a sign that
+  the US-Canada relationship is at its lowest point in decades and as a measure of
+  Canadian sentiment toward the United States. The countries have been in a trade
+  war since President Donald Trump's return to the White House, trade negotiations
+  remain on ice after collapsing in late August, and each side has imposed tit-for-tat
+  tariffs.
 primary_entities:
 - Pete Hoekstra
 - Gander, Newfoundland
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +158,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-10-visitors-gather-at-ground-zero-memorial-ahead-of-9-11-s-25th-anniversary
-  headline: Visitors gather at Ground Zero memorial ahead of 9/11's 25th anniversary
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6142
-- slug: 2026-09-06-trade-war-keeps-canadian-tourists-away-from-u-s-destinations
-  headline: Trade war keeps Canadian tourists away from U.S. destinations
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.5984
-- slug: 2026-09-08-iceland-summons-us-ambassador-over-trump-s-north-america-flag-image
-  headline: Iceland summons US ambassador over Trump's North America flag image
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5796
 - slug: 2026-08-12-more-than-60-000-canadians-sign-petition-to-expel-us-ambassador
   headline: More than 60,000 Canadians sign petition to expel US ambassador
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.7231
-- slug: 2026-09-07-mamdani-to-attend-9-11-ceremony-giuliani-said-he-should-skip
-  headline: Mamdani to attend 9/11 ceremony; Giuliani said he should skip
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5789
-- slug: 2026-08-31-bessent-blames-carney-for-collapse-of-us-canada-trade-talks-at-g-20
-  headline: Bessent blames Carney for collapse of US-Canada trade talks at G-20
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5796
-- slug: 2026-08-28-trump-to-observe-9-11-anniversary-at-pentagon-vance-to-attend-nyc-ceremony
-  headline: Trump to observe 9/11 anniversary at Pentagon; Vance to attend NYC ceremony
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5896
-- slug: 2026-08-28-trump-s-50-canada-tariff-threat-rattles-detroit-economy
-  headline: Trump's 50% Canada tariff threat rattles Detroit economy
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5744
-- slug: 2026-08-25-carney-says-canada-was-attacked-as-trade-talks-collapse
-  headline: Carney says Canada was 'attacked' as trade talks collapse
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5791
-- slug: 2026-08-26-carney-announces-20bn-retaliation-as-us-tariffs-on-canada-take-effect
-  headline: Carney announces $20bn retaliation as US tariffs on Canada take effect
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5727
-- slug: 2026-08-22-carney-orders-dollar-for-dollar-counter-tariffs-as-us-canada-talks-collapse
-  headline: Carney orders dollar-for-dollar counter-tariffs as US-Canada talks collapse
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5868
+  strength: 0.723
 - slug: 2026-07-16-trump-s-envoy-in-canada-practices-blunt-diplomacy-drawing-backlash
   headline: Trump's envoy in Canada practices blunt diplomacy, drawing backlash
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7249
-- slug: 2026-08-21-manitoba-premier-urges-canada-to-fight-us-trade-deal-as-deadline-looms
-  headline: Manitoba premier urges Canada to fight US trade deal as deadline looms
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5786
-- slug: 2026-08-18-50-us-tariff-on-canadian-goods-prompts-bilateral-trade-talks
-  headline: 50% US tariff on Canadian goods prompts bilateral trade talks
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5882
-- slug: 2026-08-14-guardian-opens-reader-callout-on-9-11-legacy-ahead-of-25th-anniversary
-  headline: Guardian opens reader callout on 9/11 legacy ahead of 25th anniversary
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6008
-- slug: 2026-08-12-white-house-declines-to-intervene-in-tate-brothers-u-k-extradition
-  headline: White House declines to intervene in Tate brothers' U.K. extradition
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.573
-- slug: 2026-08-08-us-embassy-seeks-applicants-for-500-000-uk-public-education-grants
-  headline: US embassy seeks applicants for $500,000 UK public education grants
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5752
-- slug: 2026-07-03-great-american-state-fair-draws-thin-crowds-heat-related-illnesses
-  headline: Great American State Fair draws thin crowds, heat-related illnesses
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5776
-- slug: 2026-06-09-u-s-trade-official-says-canada-tariffs-blocking-progress-on-usmca-talks
-  headline: U.S. trade official says Canada tariffs blocking progress on USMCA talks
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6063
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5826
+  strength: 0.7246
 ---
-
 ## Some Gander residents seek withdrawal of US envoy's 9/11 invitation
 
 **Subtype:** fact

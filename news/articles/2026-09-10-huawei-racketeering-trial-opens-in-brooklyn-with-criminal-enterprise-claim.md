@@ -2,8 +2,13 @@
 headline: Huawei racketeering trial opens in Brooklyn with 'criminal enterprise' claim
 secondary_headline: Defense argues Huawei 'earned its success' through innovation
 publish_date: '2026-09-10'
-lede: Federal prosecutors described China's Huawei as a criminal enterprise that stole from US companies to build its telecommunications empire, as a bank fraud and racketeering trial against the company opened in Brooklyn federal court on Wednesday.
-nut_graf: The case, which began with a 2018 indictment, has expanded into a racketeering prosecution expected to last three months. Admissions made by Huawei's chief financial officer in a 2022 deferred prosecution agreement are set to enter as evidence, and Beijing has condemned the prosecution as 'suppression' of Chinese enterprise.
+lede: Federal prosecutors described China's Huawei as a criminal enterprise that stole
+  from US companies to build its telecommunications empire, as a bank fraud and racketeering
+  trial against the company opened in Brooklyn federal court on Wednesday.
+nut_graf: The case, which began with a 2018 indictment, has expanded into a racketeering
+  prosecution expected to last three months. Admissions made by Huawei's chief financial
+  officer in a 2022 deferred prosecution agreement are set to enter as evidence, and
+  Beijing has condemned the prosecution as 'suppression' of Chinese enterprise.
 primary_entities:
 - Huawei Technologies
 - US Department of Justice
@@ -40,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -75,107 +81,23 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-08-huawei-technologies-criminal-racketeering-trial-opens-jury-selection-in-new-york
-  headline: Huawei Technologies criminal racketeering trial opens jury selection in New York
+  headline: Huawei Technologies criminal racketeering trial opens jury selection in
+    New York
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.8195
-- slug: 2026-09-09-u-s-agencies-accuse-six-chinese-ai-firms-of-industrial-scale-distillation
-  headline: U.S. agencies accuse six Chinese AI firms of industrial-scale distillation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6375
-- slug: 2026-09-10-duffy-publicly-criticizes-ford-s-business-with-chinese-automotive-firms
-  headline: Duffy publicly criticizes Ford's business with Chinese automotive firms
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.624
-- slug: 2026-09-08-malone-lam-pleads-guilty-to-federal-racketeering-charge
-  headline: Malone Lam pleads guilty to federal racketeering charge
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.611
-- slug: 2026-08-26-doj-and-fbi-seize-qscan-and-qtrouter-platforms-linked-to-chinese-group
-  headline: DOJ and FBI seize QScan and QTRouter platforms linked to Chinese group
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6101
-- slug: 2026-08-24-taiwan-charges-nine-in-alleged-ai-server-shipments-to-china
-  headline: Taiwan prosecutors charge nine in alleged AI server shipments to China
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6103
-- slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
-  headline: China warns AI users they are ‘traitors’ if they resist domestic chips
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6217
-- slug: 2026-07-23-white-house-adviser-accuses-china-s-moonshot-ai-of-stealing-from-anthropic
-  headline: White House adviser accuses China's Moonshot AI of stealing from Anthropic
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.608
-- slug: 2026-07-21-trump-accuses-china-of-voter-file-hack-as-both-sides-keep-summit-plans
-  headline: Trump accuses China of voter file hack as both sides keep summit plans
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6122
-- slug: 2026-07-15-federal-trial-opens-for-israeli-investigator-accused-of-hacking-climate-activist
-  headline: Federal trial opens for Israeli investigator accused of hacking climate activists
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6113
-- slug: 2026-06-18-bosch-pays-36m-fine-doj-declines-prosecution-in-huawei-export-case
-  headline: Bosch pays $36M fine, DOJ declines prosecution in Huawei export case
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6325
+  strength: 0.8187
 - slug: 2026-06-02-huawei-s-own-paper-shows-chip-gap-persists-despite-tau-law-claim-analysts-say
-  headline: Huawei’s own paper shows chip gap persists despite Tau Law claim, analysts say
+  headline: Huawei’s own paper shows chip gap persists despite Tau Law claim, analysts
+    say
   publish_date: '2026-06-02'
   relation: related
-  strength: 0.6508
-- slug: 2026-06-29-judge-orders-guo-wengui-to-forfeit-889-million-sentences-him-to-30-years
-  headline: Judge orders Guo Wengui to forfeit $889 million, sentences him to 30 years
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6047
-- slug: 2026-06-26-china-readies-law-empowering-prosecutors-to-sue-foreign-entities
-  headline: China readies law empowering prosecutors to sue foreign entities
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6027
+  strength: 0.6518
 - slug: 2026-05-07-man-accused-of-running-chinese-spy-outpost-in-nyc-goes-on-trial
   headline: Man accused of running Chinese spy outpost in NYC goes on trial
   publish_date: '2026-05-07'
   relation: related
   strength: 0.658
-- slug: 2026-06-08-pentagon-adds-alibaba-baidu-byd-to-list-of-chinese-military-linked-companies
-  headline: Pentagon adds Alibaba, Baidu, BYD to list of Chinese military-linked companies
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6053
-- slug: 2026-05-05-beijing-hunts-exiled-official-overseas-using-u-s-surveillance-tech-ap-finds
-  headline: Beijing hunts exiled official overseas using U.S. surveillance tech, AP finds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6432
-- slug: 2026-05-14-jury-convicts-man-of-running-secret-chinese-police-outpost-in-new-york-city
-  headline: Jury convicts man of running secret Chinese police outpost in New York City
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6222
-- slug: 2026-05-06-man-accused-of-running-chinese-spy-outpost-in-nyc-goes-on-trial
-  headline: Man accused of running Chinese spy outpost in NYC goes on trial
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6269
-- slug: 2026-04-20-weinstein-rape-retrial-opens-in-new-york-for-third-time-in-pared-down-case
-  headline: Weinstein rape retrial opens in New York for third time in pared-down case
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6227
 ---
-
 ## Huawei racketeering trial opens in Brooklyn with 'criminal enterprise' claim
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
-headline: Hurricane Lowell damages Kauai; forecaster says Hawaii storm season not over
-secondary_headline: Lala hit Big Island and Oahu with first hurricane-force gusts in 155 years
+headline: Hurricane Lowell damages Kauai; forecaster says Hawaii storm season not
+  over
+secondary_headline: Lala hit Big Island and Oahu with first hurricane-force gusts
+  in 155 years
 publish_date: '2026-09-10'
-lede: Hurricane Lowell surged near the Hawaiian Islands this week, leaving downed trees and power lines, crumbled roads, sunken boats and destroyed piers on Kauai, according to The Guardian. Lowell was the second named storm to brush the islands this year, after Hurricane Lala hit the Big Island and Oahu with damaging winds in August — the first time hurricane-force gusts had been recorded there in 155 years.
-nut_graf: El Niño has developed and is expected to strengthen through the coming months, with forecasters warning it could reach a historic intensity. Unusually warm waters along Lowell's path helped fuel the storm, and Pacific storms during El Niño years typically carry more moisture and produce stronger winds.
+lede: Hurricane Lowell surged near the Hawaiian Islands this week, leaving downed
+  trees and power lines, crumbled roads, sunken boats and destroyed piers on Kauai,
+  according to The Guardian. Lowell was the second named storm to brush the islands
+  this year, after Hurricane Lala hit the Big Island and Oahu with damaging winds
+  in August — the first time hurricane-force gusts had been recorded there in 155
+  years.
+nut_graf: El Niño has developed and is expected to strengthen through the coming months,
+  with forecasters warning it could reach a historic intensity. Unusually warm waters
+  along Lowell's path helped fuel the storm, and Pacific storms during El Niño years
+  typically carry more moisture and produce stronger winds.
 primary_entities:
 - Hurricane Lowell
 - Hurricane Lala
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,12 +159,14 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-06-pacific-logs-first-triple-hurricane-stretch-in-a-decade-as-hawaii-braces-for-low
-  headline: Pacific logs first triple-hurricane stretch in a decade as Hawaii braces for Lowell
+  headline: Pacific logs first triple-hurricane stretch in a decade as Hawaii braces
+    for Lowell
   publish_date: '2026-09-06'
   relation: related
-  strength: 0.8193
+  strength: 0.8194
 - slug: 2026-08-14-tropical-storm-lala-forecast-to-hit-hawaii-s-big-island-with-hurricane-force
-  headline: Tropical Storm Lala forecast to hit Hawaii's Big Island with hurricane force
+  headline: Tropical Storm Lala forecast to hit Hawaii's Big Island with hurricane
+    force
   publish_date: '2026-08-14'
   relation: related
   strength: 0.7865
@@ -161,103 +174,48 @@ related_stories:
   headline: Storm Lala sweeps 100 Big Island homes off foundations
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7717
+  strength: 0.7723
 - slug: 2026-09-01-tropical-storm-edouard-approaches-texas-coast-with-heavy-rain-forecast
   headline: Tropical Storm Edouard approaches Texas coast with heavy rain forecast
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6509
-- slug: 2026-09-03-un-says-this-year-s-el-ni-o-is-strongest-in-70-years-set-to-persist-into-2027
-  headline: UN says this year's El Niño is strongest in 70 years, set to persist into 2027
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6375
+  strength: 0.6511
 - slug: 2026-08-20-central-pacific-hurricane-center-warns-depression-could-become-tropical-storm
-  headline: Central Pacific Hurricane Center warns depression could become tropical storm
+  headline: Central Pacific Hurricane Center warns depression could become tropical
+    storm
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.6898
+  strength: 0.6904
 - slug: 2026-08-19-hurricane-lala-strengthens-to-category-3-over-central-pacific
   headline: Hurricane Lala strengthens to Category 3 over Central Pacific
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6913
+  strength: 0.6914
 - slug: 2026-08-22-tropical-storm-moke-advances-on-hawaii-s-big-island-still-recovering-from-lala
-  headline: Tropical Storm Moke advances on Hawaii's Big Island still recovering from Lala
+  headline: Tropical Storm Moke advances on Hawaii's Big Island still recovering from
+    Lala
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.6759
-- slug: 2026-08-25-tropical-storm-julio-forms-in-pacific-not-threatening-land
-  headline: Tropical Storm Julio forms in Pacific, not threatening land
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6452
+  strength: 0.6758
 - slug: 2026-05-21-el-ni-o-dampens-atlantic-hurricane-risk-but-increases-it-in-pacific
   headline: El Niño dampens Atlantic hurricane risk, but increases it in Pacific
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.71
-- slug: 2026-05-22-el-ni-o-may-curb-atlantic-hurricanes-noaa-still-warns-of-damaging-storms
-  headline: El Niño may curb Atlantic hurricanes, NOAA still warns of damaging storms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7068
-- slug: 2026-05-23-el-nino-dampens-atlantic-hurricane-risk-but-raises-pacific-storm-threat
-  headline: El Nino dampens Atlantic hurricane risk, but raises Pacific storm threat
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6934
-- slug: 2026-06-11-el-ni-o-forms-in-pacific-forecast-to-reach-historic-strength
-  headline: El Niño forms in Pacific, forecast to reach historic strength
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6471
-- slug: 2026-03-25-hawaii-digs-out-after-kona-low-downpour-causes-flash-flooding
-  headline: Hawaii digs out after Kona low downpour causes flash flooding
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6885
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-could-bring-heat-drought-and-heavier-rain
-  headline: Forecasters warn strong El Niño could bring heat, drought and heavier rain
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6583
-- slug: 2026-03-24-worst-hawaii-floods-in-20-years-leave-homes-damaged-and-dozens-rescued-on-oahu
-  headline: Worst Hawaii floods in 20 years leave homes damaged and dozens rescued on Oahu
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6832
-- slug: 2026-05-16-hawaii-s-small-farmers-face-50-million-in-damage-after-worst-floods-in-20-years
-  headline: Hawaii's small farmers face $50 million in damage after worst floods in 20 years
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6419
-- slug: 2026-03-24-hawaii-digging-out-after-surprise-downpour-floods-parts-of-honolulu
-  headline: Hawaii digging out after surprise downpour floods parts of Honolulu
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6727
-- slug: 2026-03-22-hawaii-faces-worst-flooding-in-20-years-as-officials-warn-of-dam-risk
-  headline: Hawaii faces worst flooding in 20 years as officials warn of dam risk
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6534
-- slug: 2026-04-15-super-typhoon-sinlaku-batters-remote-u-s-islands-officials-warn
-  headline: Super Typhoon Sinlaku batters remote U.S. islands, officials warn
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6405
+  strength: 0.7104
 image:
   url: /articles/2026-09-10-hurricane-lowell-damages-kauai-forecaster-says-hawaii-storm-season-not-over.png
-  alt: "Illustration accompanying article: Hurricane Lowell damages Kauai; forecaster says Hawaii storm season not over"
+  alt: 'Illustration accompanying article: Hurricane Lowell damages Kauai; forecaster
+    says Hawaii storm season not over'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Hurricane Lowell damages Kauai; forecaster says Hawaii storm season not over
 
 **Subtype:** fact

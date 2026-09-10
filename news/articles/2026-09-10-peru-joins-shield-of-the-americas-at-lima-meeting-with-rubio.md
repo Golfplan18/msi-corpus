@@ -2,8 +2,15 @@
 headline: Peru joins Shield of the Americas at Lima meeting with Rubio
 secondary_headline: Rubio tour produced Colombia minerals pact, Ecuador terror designation
 publish_date: '2026-09-10'
-lede: Peru will join the U.S.-led Shield of the Americas security coalition, President Keiko Fujimori announced Thursday after meeting with Secretary of State Marco Rubio in Lima. The coalition expands regional coordination against transnational criminal organizations and grants members faster access to intelligence.
-nut_graf: The Shield of the Americas was established during a March 7 summit hosted by President Donald Trump at his Doral, Florida golf resort. A White House proclamation calls for participating countries to coordinate efforts to deprive cartels of territory, financing and resources and commits the United States to train and mobilize partner militaries.
+lede: Peru will join the U.S.-led Shield of the Americas security coalition, President
+  Keiko Fujimori announced Thursday after meeting with Secretary of State Marco Rubio
+  in Lima. The coalition expands regional coordination against transnational criminal
+  organizations and grants members faster access to intelligence.
+nut_graf: The Shield of the Americas was established during a March 7 summit hosted
+  by President Donald Trump at his Doral, Florida golf resort. A White House proclamation
+  calls for participating countries to coordinate efforts to deprive cartels of territory,
+  financing and resources and commits the United States to train and mobilize partner
+  militaries.
 primary_entities:
 - Keiko Fujimori
 - Marco Rubio
@@ -35,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -112,9 +120,48 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories: []
+related_stories:
+- slug: 2026-09-10-us-pursues-regional-drug-interdiction-agreements-while-retaining-strikes
+  headline: US pursues regional drug-interdiction agreements while retaining strikes
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.6719
+- slug: 2026-09-10-rubio-designates-ecuadorean-gang-as-terrorist-group-sanctions-officials
+  headline: Rubio designates Ecuadorean gang as terrorist group, sanctions officials
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.6713
+- slug: 2026-08-28-peru-s-council-of-ministers-sends-66-proposal-decree-request-to-congress
+  headline: Peru's Council of Ministers sends 66-proposal decree request to Congress
+  publish_date: '2026-08-28'
+  relation: related
+  strength: 0.6875
+- slug: 2026-08-21-u-s-ecuador-conduct-joint-operations-against-drug-cartels-in-esmeraldas
+  headline: U.S., Ecuador conduct joint operations against drug cartels in Esmeraldas
+  publish_date: '2026-08-21'
+  relation: related
+  strength: 0.6563
+- slug: 2026-07-28-keiko-fujimori-is-sworn-in-as-peru-s-president-after-tight-runoff
+  headline: Keiko Fujimori is sworn in as Peru's president after tight runoff
+  publish_date: '2026-07-28'
+  relation: related
+  strength: 0.7128
+- slug: 2026-06-12-keiko-fujimori-wins-peru-presidency-by-razor-thin-margin
+  headline: Keiko Fujimori wins Peru presidency by razor-thin margin
+  publish_date: '2026-06-12'
+  relation: related
+  strength: 0.6714
+- slug: 2026-05-16-fujimori-s-nchez-face-off-in-peru-presidential-runoff-after-april-election
+  headline: Fujimori, Sánchez face off in Peru presidential runoff after April election
+  publish_date: '2026-05-16'
+  relation: related
+  strength: 0.6987
+- slug: 2026-05-16-keiko-fujimori-and-roberto-s-nchez-to-face-off-in-peru-runoff-june-7
+  headline: Keiko Fujimori and Roberto Sánchez to face off in Peru runoff June 7
+  publish_date: '2026-05-16'
+  relation: related
+  strength: 0.6629
 ---
-
 ## Peru joins Shield of the Americas at Lima meeting with Rubio
 
 **Subtype:** fact

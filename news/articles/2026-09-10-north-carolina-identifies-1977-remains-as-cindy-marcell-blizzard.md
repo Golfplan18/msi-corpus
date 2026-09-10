@@ -1,9 +1,17 @@
 ---
 headline: North Carolina identifies 1977 remains as Cindy Marcell Blizzard
-secondary_headline: Investigators continue homicide inquiry into Blizzard's unsolved death
+secondary_headline: Investigators continue homicide inquiry into Blizzard's unsolved
+  death
 publish_date: '2026-09-10'
-lede: The North Carolina State Bureau of Investigation has identified skeletal remains discovered near Wilson on December 29, 1977, as those of Cindy Marcell Blizzard, a 15-year-old who had run away from her home in Monkton, Maryland, in the spring of 1977. A forensic lab created a DNA profile from a bone sample, enabling a search for potential relatives that ultimately led investigators to identify Blizzard with help from Maryland State Police and Raleigh police.
-nut_graf: The DNA investigation resolved the identity of the remains, but Blizzard's death remains unsolved. Investigators are treating the case as a homicide and continue to seek information.
+lede: The North Carolina State Bureau of Investigation has identified skeletal remains
+  discovered near Wilson on December 29, 1977, as those of Cindy Marcell Blizzard,
+  a 15-year-old who had run away from her home in Monkton, Maryland, in the spring
+  of 1977. A forensic lab created a DNA profile from a bone sample, enabling a search
+  for potential relatives that ultimately led investigators to identify Blizzard with
+  help from Maryland State Police and Raleigh police.
+nut_graf: The DNA investigation resolved the identity of the remains, but Blizzard's
+  death remains unsolved. Investigators are treating the case as a homicide and continue
+  to seek information.
 primary_entities:
 - Cindy Marcell Blizzard
 - North Carolina State Bureau of Investigation
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +147,8 @@ cross_article_links:
   strength: 0.5807
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-07-mother-says-police-failures-preceded-killing-of-trafficked-houston-teen
-  headline: Mother says police failures preceded killing of trafficked Houston teen
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5745
-- slug: 2026-07-22-independent-autopsy-finds-nolan-wells-cause-of-death-undetermined
-  headline: Independent autopsy finds Nolan Wells' cause of death undetermined
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6064
-- slug: 2026-07-20-525-000-foreclosure-buyer-finds-3-skeletal-remains-inside-connecticut-home
-  headline: $525,000 foreclosure buyer finds 3 skeletal remains inside Connecticut home
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.569
-- slug: 2026-07-08-georgia-cracker-barrel-evidence-leads-to-arrest-in-1985-ohio-killing
-  headline: Georgia Cracker Barrel evidence leads to arrest in 1985 Ohio killing
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5711
-- slug: 2026-04-16-dna-identifies-oregon-family-missing-since-1958-in-columbia-river-car
-  headline: DNA identifies Oregon family missing since 1958 in Columbia River car
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6345
-- slug: 2026-05-07-scientists-take-soil-samples-outside-home-tied-to-kristin-smart-case
-  headline: Scientists take soil samples outside home tied to Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5867
-- slug: 2026-05-07-search-warrant-executed-at-mother-s-home-in-arroyo-grande-in-ongoing-kristin-sma
-  headline: Search warrant executed at mother’s home in Arroyo Grande in ongoing Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5867
-- slug: 2026-05-06-search-continues-outside-a-home-tied-to-kristin-smart-s-killer
-  headline: Search continues outside a home tied to Kristin Smart's killer
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5862
-- slug: 2026-05-08-sheriff-says-evidence-suggests-human-remains-at-susan-flores-property
-  headline: Sheriff says evidence suggests human remains at Susan Flores property
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5834
-- slug: 2026-05-10-california-authorities-have-not-found-kristin-smart-s-remains-after-home-search
-  headline: California authorities have not found Kristin Smart’s remains after home search
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5812
-- slug: 2026-05-06-search-warrant-served-at-home-tied-to-paul-flores-in-kristin-smart-case
-  headline: Search warrant served at home tied to Paul Flores in Kristin Smart case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5841
-- slug: 2026-04-02-decades-later-ted-bundy-s-victim-count-rises-with-new-dna-link
-  headline: Decades later, Ted Bundy’s victim count rises with new DNA link
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5955
-- slug: 2026-04-07-report-of-girl-killed-in-1986-placed-in-used-body-bag-prompts-mistrial
-  headline: Report of girl killed in 1986 placed in used body bag prompts mistrial
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5914
-- slug: 2026-05-10-sheriff-completes-kristin-smart-home-search-without-finding-her-remains
-  headline: Sheriff completes Kristin Smart home search without finding her remains
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.567
-- slug: 2026-03-05-cleveland-police-seek-to-identify-two-half-sisters-found-in-suitcases
-  headline: Cleveland police seek to identify two half-sisters found in suitcases
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6028
-- slug: 2026-04-01-new-dna-link-boosts-ted-bundy-s-confirmed-victim-count-utah-sheriff-says
-  headline: New DNA link boosts Ted Bundy’s confirmed victim count, Utah sheriff says
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5854
-- slug: 2026-04-02-new-dna-testing-links-laura-ann-aime-s-1974-death-to-ted-bundy
-  headline: New DNA testing links Laura Ann Aime’s 1974 death to Ted Bundy
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5845
-- slug: 2026-02-12-few-leads-in-nancy-guthrie-case-after-11-days-investigators-seek-tips
-  headline: Few leads in Nancy Guthrie case after 11 days; investigators seek tips
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5912
-- slug: 2026-03-05-mother-charged-with-aggravated-murder-in-cleveland-suitcase-deaths
-  headline: Mother charged with aggravated murder in Cleveland suitcase deaths
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5741
-- slug: 2026-02-16-fbi-says-dna-glove-near-nancy-guthrie-home-matches-suspect-s-glove
-  headline: FBI says DNA glove near Nancy Guthrie home matches suspect’s glove
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5716
+related_stories: []
 ---
-
 ## North Carolina identifies 1977 remains as Cindy Marcell Blizzard
 
 **Subtype:** fact

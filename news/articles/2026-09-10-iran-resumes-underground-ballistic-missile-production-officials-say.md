@@ -1,9 +1,19 @@
 ---
 headline: Iran resumes underground ballistic missile production, officials say
-secondary_headline: Potential output depends on stockpile depth and operative underground sites
+secondary_headline: Potential output depends on stockpile depth and operative underground
+  sites
 publish_date: '2026-09-10'
-lede: Iran has resumed assembling ballistic missiles in underground facilities using stockpiled components, according to U.S. and Middle East officials familiar with the matter. The reported activity erodes what the U.S. and Israel have touted as a major achievement of the war they launched on Feb. 28. Officials said output remains below prewar levels because strikes damaged industrial facilities and a naval blockade complicated imports of parts and solid-fuel ingredients.
-nut_graf: The Wall Street Journal reported that renewed production underscores the difficulty of fully dismantling Iran's missile program and extends Iran's ability to hold on in a war of attrition that pits its missile supplies against shrinking U.S. and Gulf interceptor stockpiles. Officials said damaged facilities and import constraints continue to limit Iran's return to full-scale manufacturing.
+lede: Iran has resumed assembling ballistic missiles in underground facilities using
+  stockpiled components, according to U.S. and Middle East officials familiar with
+  the matter. The reported activity erodes what the U.S. and Israel have touted as
+  a major achievement of the war they launched on Feb. 28. Officials said output remains
+  below prewar levels because strikes damaged industrial facilities and a naval blockade
+  complicated imports of parts and solid-fuel ingredients.
+nut_graf: The Wall Street Journal reported that renewed production underscores the
+  difficulty of fully dismantling Iran's missile program and extends Iran's ability
+  to hold on in a war of attrition that pits its missile supplies against shrinking
+  U.S. and Gulf interceptor stockpiles. Officials said damaged facilities and import
+  constraints continue to limit Iran's return to full-scale manufacturing.
 primary_entities:
 - Iran
 - United States
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,113 +152,57 @@ related_stories:
   headline: U.S. forces strike Iranian mine-launch sites near Strait of Hormuz
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6973
+  strength: 0.6991
 - slug: 2026-07-23-satellite-imagery-shows-iran-rebuilding-sites-damaged-in-u-s--israeli-strikes
-  headline: Satellite imagery shows Iran rebuilding sites damaged in U.S.-Israeli strikes
+  headline: Satellite imagery shows Iran rebuilding sites damaged in U.S.-Israeli
+    strikes
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.794
+  strength: 0.7945
 - slug: 2026-07-17-blockade-resumption-threatens-to-grind-iran-s-oil-revenue-to-near-zero
   headline: Blockade resumption threatens to grind Iran's oil revenue to near zero
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.697
+  strength: 0.6983
 - slug: 2026-07-15-us-and-iran-face-dueling-time-pressures-as-hormuz-conflict-resumes
   headline: US and Iran face dueling time pressures as Hormuz conflict resumes
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6999
+  strength: 0.7018
 - slug: 2026-06-17-emboldened-iran-returns-to-nuclear-talks-after-failed-us-bombing-campaign
   headline: Emboldened Iran returns to nuclear talks after failed US bombing campaign
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.747
+  strength: 0.7476
 - slug: 2026-06-22-vance-says-iran-agreed-to-allow-un-nuclear-inspectors-back-into-the-country
   headline: Vance says Iran agreed to allow UN nuclear inspectors back into the country
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.7048
+  strength: 0.705
 - slug: 2026-04-01-militarily-degraded-iran-is-still-a-stubborn-foe-after-u-s--israeli-strikes
   headline: Militarily degraded Iran is still a stubborn foe after U.S.-Israeli strikes
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.7846
+  strength: 0.786
 - slug: 2026-06-11-us-and-iran-trade-strikes-for-second-day-as-ceasefire-rhetoric-fades
   headline: US and Iran trade strikes for second day as ceasefire rhetoric fades
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.6991
-- slug: 2026-05-26-iran-condemns-u-s-strikes-as-ceasefire-talks-proceed-internet-resumes
-  headline: Iran condemns U.S. strikes as ceasefire talks proceed; internet resumes
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7096
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7068
-- slug: 2026-05-26-us-conducts-new-defensive-strikes-on-iran-as-trump-says-deal-near
-  headline: US conducts new defensive strikes on Iran as Trump says deal near
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7049
-- slug: 2026-05-27-iran-calls-u-s-strikes-bad-faith-as-ceasefire-talks-proceed
-  headline: Iran calls U.S. strikes 'bad faith' as ceasefire talks proceed
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6978
-- slug: 2026-05-01-analysis-us-blockade-threatens-iran-s-oil-production-and-global-fuel-supplies
-  headline: 'Analysis: US blockade threatens Iran’s oil production and global fuel supplies'
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7161
-- slug: 2026-04-09-us-officials-say-they-hit-iran-air-defenses-navy-and-factories-but-some-remain
-  headline: US officials say they hit Iran air defenses, navy and factories — but some remain
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7279
-- slug: 2026-03-30-china-factory-activity-rebounds-in-march-as-iran-war-looms-over-growth
-  headline: China factory activity rebounds in March as Iran war looms over growth
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.7145
-- slug: 2026-04-10-us-counts-13-000-iran-targets-but-officials-concede-some-air-naval-ability-remai
-  headline: US counts 13,000 Iran targets, but officials concede some air, naval ability remains
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7085
-- slug: 2026-02-27-iran-has-options-if-america-attacks-experts-say-despite-u-s-edge
-  headline: Iran has options if America attacks, experts say, despite U.S. edge
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7237
-- slug: 2026-03-05-iran-launches-missiles-at-israel-as-israeli-strikes-hit-lebanon
-  headline: Iran launches missiles at Israel as Israeli strikes hit Lebanon
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.718
-- slug: 2026-03-10-iran-war-s-big-questions-remain-as-u-s-israel-fight-enters-week-two
-  headline: Iran war's big questions remain as U.S., Israel fight enters week two
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7141
-- slug: 2026-04-09-what-the-iran-war-ceasefire-deal-means-depends-on-who-you-ask
-  headline: What the Iran war ceasefire deal means depends on who you ask
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6989
+  strength: 0.7006
 image:
   url: /articles/2026-09-10-iran-resumes-underground-ballistic-missile-production-officials-say.png
-  alt: "Illustration accompanying article: Iran resumes underground ballistic missile production, officials say"
+  alt: 'Illustration accompanying article: Iran resumes underground ballistic missile
+    production, officials say'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Iran resumes underground ballistic missile production, officials say
 
 **Subtype:** fact

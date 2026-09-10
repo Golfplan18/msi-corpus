@@ -1,7 +1,12 @@
 ---
 headline: Missouri court weighs contempt for election official over map directive
 publish_date: '2026-09-10'
-lede: The Missouri Supreme Court convened proceedings Thursday to consider holding Republican Secretary of State Denny Hoskins in contempt over his directive telling local election officials to use a redrawn congressional map the state court had already ruled invalid. The contempt proceedings came the same day the U.S. Supreme Court, for a second time, blocked Missouri from using the map in the November midterm elections.
+lede: The Missouri Supreme Court convened proceedings Thursday to consider holding
+  Republican Secretary of State Denny Hoskins in contempt over his directive telling
+  local election officials to use a redrawn congressional map the state court had
+  already ruled invalid. The contempt proceedings came the same day the U.S. Supreme
+  Court, for a second time, blocked Missouri from using the map in the November midterm
+  elections.
 primary_entities: []
 primary_themes: []
 topic_tags:
@@ -29,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -48,13 +54,17 @@ cross_article_links: []
 draft: false
 image:
   url: /articles/2026-09-10-missouri-court-weighs-contempt-for-election-official-over-map-directive.png
-  alt: 'Illustration accompanying article: Missouri court weighs contempt for election official over map directive'
+  alt: 'Illustration accompanying article: Missouri court weighs contempt for election
+    official over map directive'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-09-09-missouri-supreme-court-orders-hoskins-to-contempt-hearing-over-redistricting
   headline: Missouri Supreme Court orders Hoskins to contempt hearing over redistricting
@@ -65,27 +75,27 @@ related_stories:
   headline: Missouri map challengers ask Supreme Court to block new districts
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.8505
+  strength: 0.8508
 - slug: 2026-09-10-supreme-court-suspends-order-requiring-missouri-s-revised-districts
   headline: Supreme Court suspends order requiring Missouri's revised districts
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8245
+  strength: 0.8246
 - slug: 2026-09-09-missouri-without-a-congressional-map-after-two-conflicting-court-orders
   headline: Missouri without a congressional map after two conflicting court orders
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.8274
+  strength: 0.8277
 - slug: 2026-09-08-supreme-court-declines-to-revive-missouri-s-trump-backed-house-map
   headline: Supreme Court declines to revive Missouri's Trump-backed House map
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7734
+  strength: 0.7735
 - slug: 2026-09-03-missouri-supreme-court-orders-referendum-on-trump-backed-house-map
   headline: Missouri Supreme Court orders referendum on Trump-backed House map
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7774
+  strength: 0.7776
 - slug: 2026-08-19-missouri-judge-allows-trump-backed-house-districts-for-november-election
   headline: Missouri judge allows Trump-backed House districts for November election
   publish_date: '2026-08-19'
@@ -96,68 +106,7 @@ related_stories:
   publish_date: '2026-08-05'
   relation: related
   strength: 0.8048
-- slug: 2026-07-23-federal-judges-allow-tennessee-map-splitting-majority-black-district
-  headline: Federal judges allow Tennessee map splitting majority-Black district
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6999
-- slug: 2026-05-13-trump-s-redistricting-push-hits-roadblocks-in-s-c-succeeds-in-missouri
-  headline: Trump’s redistricting push hits roadblocks in S.C., succeeds in Missouri
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7771
-- slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7697
-- slug: 2026-03-28-missouri-judge-rules-trump-backed-house-districts-take-effect
-  headline: Missouri judge rules Trump-backed House districts take effect
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.7888
-- slug: 2026-03-24-missouri-supreme-court-upholds-mid-decade-congressional-redistricting-urged-by-t
-  headline: Missouri Supreme Court upholds mid-decade congressional redistricting urged by Trump
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7692
-- slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7167
-- slug: 2026-03-25-missouri-supreme-court-upholds-trump-backed-mid-decade-congressional-map
-  headline: Missouri Supreme Court upholds Trump-backed mid-decade congressional map
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7581
-- slug: 2026-06-10-florida-supreme-court-allows-republican-drawn-house-districts-for-midterm-electi
-  headline: Florida Supreme Court allows Republican-drawn House districts for midterm elections
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6874
-- slug: 2026-06-02-supreme-court-reinstates-republican-favored-alabama-congressional-districts
-  headline: Supreme Court reinstates Republican-favored Alabama congressional districts
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6973
-- slug: 2026-05-27-alabama-asks-supreme-court-to-allow-use-of-congressional-map-helping-gop
-  headline: Alabama asks Supreme Court to allow use of congressional map helping GOP
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.698
-- slug: 2026-05-05-states-redraw-u-s-house-districts-mid-decade-as-gop-seeks-seat-gains
-  headline: States redraw U.S. House districts mid-decade as GOP seeks seat gains
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7009
-- slug: 2026-05-16-florida-s-new-us-house-map-faces-court-test-over-partisan-gerrymandering-ban
-  headline: Florida's new US House map faces court test over partisan gerrymandering ban
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6895
 ---
-
 ## Missouri court weighs contempt for election official over map directive
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
-headline: Andreessen Horowitz plans West Palm Beach regional headquarters for defense investments
-secondary_headline: American Dynamism has raised $1.18 billion for national-security and industrial startups
+headline: Andreessen Horowitz plans West Palm Beach regional headquarters for defense
+  investments
+secondary_headline: American Dynamism has raised $1.18 billion for national-security
+  and industrial startups
 publish_date: '2026-09-10'
-lede: Andreessen Horowitz plans to open a regional headquarters in West Palm Beach, Florida, next year to focus on defense investments, the firm said. The regional headquarters will oversee its American Dynamism fund, which has raised $1.18 billion for national-security and industrial startups. The Wall Street Journal reported that Florida is emerging as a defense-technology financing center supported by military operations, wealthy investors and a $102.6 billion defense industry.
-nut_graf: The Journal reported that Florida is becoming a major hub for companies financing the defense business, which is increasingly turning to startups as artificial intelligence and drone warfare reshape the battlefield. Defense companies are coming to the state to raise money, make connections and meet military and national-security officials, though Florida still trails the larger defense-technology startup hubs in Northern and Southern California.
+lede: Andreessen Horowitz plans to open a regional headquarters in West Palm Beach,
+  Florida, next year to focus on defense investments, the firm said. The regional
+  headquarters will oversee its American Dynamism fund, which has raised $1.18 billion
+  for national-security and industrial startups. The Wall Street Journal reported
+  that Florida is emerging as a defense-technology financing center supported by military
+  operations, wealthy investors and a $102.6 billion defense industry.
+nut_graf: The Journal reported that Florida is becoming a major hub for companies
+  financing the defense business, which is increasingly turning to startups as artificial
+  intelligence and drone warfare reshape the battlefield. Defense companies are coming
+  to the state to raise money, make connections and meet military and national-security
+  officials, though Florida still trails the larger defense-technology startup hubs
+  in Northern and Southern California.
 primary_entities:
 - Andreessen Horowitz
 - American Dynamism
@@ -55,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,109 +165,8 @@ cross_article_links:
   strength: 0.599
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-03-bannon-joins-sanders-ocasio-cortez-in-opposing-new-data-centers
-  headline: Bannon joins Sanders, Ocasio-Cortez in opposing new data centers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5779
-- slug: 2026-08-20-california-ai-investment-draws-366-billion-more-than-triple-other-states
-  headline: California AI Investment Draws $366 Billion, More Than Triple Other States
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5688
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5752
-- slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
-  headline: SpaceX plans natural gas plant to power Texas AI chip facility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5805
-- slug: 2026-08-10-trump-announces-more-than-2-billion-in-battery-and-critical-minerals-funding
-  headline: Trump announces more than $2 billion in battery and critical minerals funding
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5743
-- slug: 2026-08-07-trump-administration-commits-2-billion-to-battery-mineral-firms
-  headline: Trump administration commits $2 billion to battery, mineral firms
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.578
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6066
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5915
-- slug: 2026-07-20-pentagon-startup-spending-triples-yet-remains-under-1-of-budget
-  headline: Pentagon startup spending triples yet remains under 1% of budget
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5942
-- slug: 2026-07-22-us-surges-forces-to-middle-east-as-trump-weighs-expanding-iran-war
-  headline: US surges forces to Middle East as Trump weighs expanding Iran war
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5706
-- slug: 2026-07-17-pentagon-offers-438-000-salaries-to-recruit-wall-street-bankers-for-lending-push
-  headline: Pentagon offers $438,000 salaries to recruit Wall Street bankers for lending push
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.579
-- slug: 2026-07-04-businesses-face-rising-security-costs-as-wars-target-civilian-infrastructure
-  headline: Businesses face rising security costs as wars target civilian infrastructure
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.5832
-- slug: 2026-06-23-senate-democrats-seek-hearings-into-500-million-trump-emirati-crypto-deal
-  headline: Senate Democrats Seek Hearings Into $500 Million Trump-Emirati Crypto Deal
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5835
-- slug: 2026-06-18-billionaire-feinberg-wields-hidden-power-over-pentagon-officials-say
-  headline: Billionaire Feinberg wields hidden power over Pentagon, officials say
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5852
-- slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5987
-- slug: 2026-06-15-general-motors-in-talks-to-manufacture-weapons-parts-for-lockheed-martin
-  headline: General Motors in Talks to Manufacture Weapons Parts for Lockheed Martin
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5735
-- slug: 2026-06-08-schiff-bill-would-restrict-pentagon-ai-use-as-democrats-flood-congress-with-prop
-  headline: Schiff bill would restrict Pentagon AI use as Democrats flood Congress with proposals
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5747
-- slug: 2026-04-21-pentagon-seeks-major-2027-boost-for-drones-air-defenses-used-in-iran-war
-  headline: Pentagon seeks major 2027 boost for drones, air defenses used in Iran war
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.5809
-- slug: 2026-04-15-trump-budget-director-defends-plan-to-lift-defense-spending-to-nearly-1-5-trilli
-  headline: Trump budget director defends plan to lift defense spending to nearly $1.5 trillion
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5807
-- slug: 2026-01-08-defense-stocks-surge-on-trump-military-spending-pledge-as-wall-street-drifts
-  headline: Defense stocks surge on Trump military spending pledge as Wall Street drifts
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6086
+related_stories: []
 ---
-
 ## Andreessen Horowitz plans West Palm Beach regional headquarters for defense investments
 
 **Subtype:** fact

@@ -1,9 +1,17 @@
 ---
 headline: Anthropic alleges Chinese AI firms routed millions of user queries to Claude
-secondary_headline: Moonshot logged 23 million Claude exchanges via fake accounts from May to July
+secondary_headline: Moonshot logged 23 million Claude exchanges via fake accounts
+  from May to July
 publish_date: '2026-09-10'
-lede: Anthropic accused Moonshot AI and DeepSeek on Thursday of routing millions of Chinese users' queries to its Claude model through intermediary platforms to clone the model's capabilities, in an alleged scheme U.S. officials have likened to industrial-scale theft. The accusation came in an Anthropic report that also documented what the company described as growing misuse of Claude for hacking, surveillance, weapons development, and potentially dangerous biological research.
-nut_graf: The allegations come as the Trump administration weighs restrictions on Chinese AI developers, with Treasury Secretary Scott Bessent warning that sanctions and blacklists could be used against companies engaged in such attacks.
+lede: Anthropic accused Moonshot AI and DeepSeek on Thursday of routing millions of
+  Chinese users' queries to its Claude model through intermediary platforms to clone
+  the model's capabilities, in an alleged scheme U.S. officials have likened to industrial-scale
+  theft. The accusation came in an Anthropic report that also documented what the
+  company described as growing misuse of Claude for hacking, surveillance, weapons
+  development, and potentially dangerous biological research.
+nut_graf: The allegations come as the Trump administration weighs restrictions on
+  Chinese AI developers, with Treasury Secretary Scott Bessent warning that sanctions
+  and blacklists could be used against companies engaged in such attacks.
 primary_entities:
 - Anthropic
 - Moonshot AI
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -125,104 +134,43 @@ related_stories:
   headline: U.S. agencies accuse six Chinese AI firms of industrial-scale distillation
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7853
+  strength: 0.7851
 - slug: 2026-09-09-china-rejects-us-accusation-that-chinese-ai-firms-distilled-american-models
   headline: China rejects US accusation that Chinese AI firms distilled American models
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7391
+  strength: 0.7402
 - slug: 2026-07-23-white-house-adviser-accuses-china-s-moonshot-ai-of-stealing-from-anthropic
   headline: White House adviser accuses China's Moonshot AI of stealing from Anthropic
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7814
+  strength: 0.7813
 - slug: 2026-06-25-anthropic-accuses-alibaba-of-largest-known-ai-distillation-attack
   headline: Anthropic accuses Alibaba of 'largest known' AI distillation attack
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.8311
-- slug: 2026-07-30-trump-signals-shift-toward-ai-controls-after-openai-hacking-incidents
-  headline: Trump signals shift toward AI controls after OpenAI hacking incidents
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.685
+  strength: 0.8309
 - slug: 2026-07-02-court-filings-detail-anthropic-pentagon-ai-negotiation-breakdown
   headline: Court filings detail Anthropic–Pentagon AI negotiation breakdown
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7095
+  strength: 0.7092
 - slug: 2026-06-15-anthropic-sued-over-usage-limits-on-premium-ai-subscription-plans
   headline: Anthropic sued over usage limits on premium AI subscription plans
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.7404
+  strength: 0.74
 - slug: 2026-06-28-chinese-ai-matches-anthropic-in-cybersecurity-narrowing-u-s-lead
   headline: Chinese AI matches Anthropic in cybersecurity, narrowing U.S. lead
   publish_date: '2026-06-28'
   relation: related
-  strength: 0.687
+  strength: 0.6875
 - slug: 2026-06-18-anthropic-opens-seoul-office-amid-new-u-s-ai-export-controls
   headline: Anthropic opens Seoul office amid new U.S. AI export controls
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.7042
-- slug: 2026-06-17-as-white-house-restricts-anthropic-ai-researcher-warns-of-chernobyl-scale-risk
-  headline: As White House restricts Anthropic AI, researcher warns of 'Chernobyl-scale' risk
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6869
-- slug: 2026-04-22-anthropic-tells-appeals-court-it-can-t-control-claude-in-classified-pentagon-net
-  headline: Anthropic tells appeals court it can’t control Claude in classified Pentagon networks
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7489
-- slug: 2026-06-05-anthropic-urges-industry-coordination-to-pause-advanced-ai-development
-  headline: Anthropic urges industry coordination to pause advanced AI development
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6994
-- slug: 2026-06-11-anthropic-launches-150m-claude-corps-to-embed-ai-fellows-at-nonprofits
-  headline: Anthropic launches $150M Claude Corps to embed AI fellows at nonprofits
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6887
-- slug: 2026-06-09-anthropic-releases-claude-fable-5-an-ai-tool-it-had-called-too-powerful-for-the-
-  headline: Anthropic releases Claude Fable 5, an AI tool it had called too powerful for the public
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6915
-- slug: 2026-06-09-anthropic-releases-claude-fable-5-to-general-public-with-safety-guardrails
-  headline: Anthropic releases Claude Fable 5 to general public with safety guardrails
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6897
-- slug: 2026-03-10-anthropic-sues-trump-administration-to-undo-supply-chain-risk-label
-  headline: Anthropic sues Trump administration to undo “supply chain risk” label
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7593
-- slug: 2026-04-23-anthropic-tells-appeals-court-it-can-t-alter-claude-in-classified-networks
-  headline: Anthropic tells appeals court it can’t alter Claude in classified networks
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.731
-- slug: 2026-05-29-anthropic-vaults-to-965b-valuation-on-65b-funding-as-claude-demand-surges
-  headline: Anthropic vaults to $965B valuation on $65B funding as Claude demand surges
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6964
-- slug: 2026-04-09-appeals-court-rebuffs-anthropic-in-pentagon-ai-supply-chain-fight
-  headline: Appeals court rebuffs Anthropic in Pentagon AI supply-chain fight
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.709
-- slug: 2026-04-24-trump-administration-targets-foreign-exploitation-of-u-s-ai-models
-  headline: Trump administration targets foreign exploitation of U.S. AI models
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6965
+  strength: 0.7034
 ---
-
 ## Anthropic alleges Chinese AI firms routed millions of user queries to Claude
 
 **Subtype:** fact
