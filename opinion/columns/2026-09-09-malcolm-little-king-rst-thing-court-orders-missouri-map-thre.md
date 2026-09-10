@@ -1,7 +1,9 @@
 ---
 headline: A Coup by Cartography in Missouri
 publish_date: '2026-09-09'
-lede: Missouri's Republican legislature drew the Fifth Congressional District to dissolve Emanuel Cleaver's voting base, and the president of the United States is now demanding the courts deliver the cancellation.
+lede: Missouri's Republican legislature drew the Fifth Congressional District to dissolve
+  Emanuel Cleaver's voting base, and the president of the United States is now demanding
+  the courts deliver the cancellation.
 pen_name: malcolm-little-king
 primary_entities:
 - Missouri
@@ -39,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +63,27 @@ cross_article_links:
   strength: 0.7124
   confidence: high
 draft: false
+image:
+  url: /cartoons/a-coup-by-cartography-in-missouri.png
+  alt: 'Editorial cartoon by Hector Rentier: A Coup by Cartography in Missouri'
+  caption: The voters did not move. The line did.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-09T22:34:26-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel, 1:1, heavy cross-hatch wood-engraving in the Nast tradition.
+    Center frame: Donald Trump, fully individuated and rendered with the moral-disgust
+    register of a man at peace with his own ch'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-09-hector-paired-with-2026-09-09-malcolm-little-king-rst-thing-court-orders-missouri-map-thre
 ---
+
+![Editorial cartoon by Hector Rentier: A Coup by Cartography in Missouri](/cartoons/a-coup-by-cartography-in-missouri.png)
+*The voters did not move. The line did.*
 
 Missouri's Republican legislature drew the Fifth Congressional District to dissolve Emanuel Cleaver's voting base, and the president of the United States is now demanding the courts deliver the cancellation. Less than two months before voters go to the polls, the state has no congressional map it can legally use — and the drafters have only themselves to thank for it.
 

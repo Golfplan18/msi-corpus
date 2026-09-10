@@ -36,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,7 +59,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-disclosure-did-its-job-thats-the-problem.png
+  alt: 'Editorial cartoon by Hector Rentier: The Disclosure Did Its Job. That''s the
+    Problem.'
+  caption: He signed the disclosure. The wiring stayed. The negotiations continued.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-09T22:28:19-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy wood-engraving cross-hatch throughout. Center
+    frame: Steve Witkoff, fully individuated and recognizable — broad face, white
+    hair, spectacles, composed expression — seated at a '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-09-hector-paired-with-2026-09-09-carla-marks-earned-more-than-100-million-from-entity
 ---
+
+![Editorial cartoon by Hector Rentier: The Disclosure Did Its Job. That's the Problem.](/cartoons/the-disclosure-did-its-job-thats-the-problem.png)
+*He signed the disclosure. The wiring stayed. The negotiations continued.*
 
 The disclosure was filed. The White House says he divested. The *Wall Street Journal* [reported this week](https://www.wsj.com/politics/policy/steve-witkoff-earned-more-than-100-million-from-entity-tied-to-trump-crypto-9798b03d) that Steve Witkoff's filing showed more than $107 million in income last year from the entity that owns his stake in World Liberty Financial, the Trump family crypto venture he co-founded in the weeks before the 2024 election. The form did what the form was designed to do. That is the problem.
 

@@ -1,7 +1,8 @@
 ---
 headline: The Family Farm Is Their Patriotic Costume
 publish_date: '2026-09-09'
-lede: The administration that is killing the family farm has decided to celebrate it.
+lede: The administration that is killing the family farm has decided to celebrate
+  it.
 pen_name: wendell-burke
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: wendell-burke-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-family-farm-is-their-patriotic-costume.png
+  alt: 'Editorial cartoon by Hector Rentier: The Family Farm Is Their Patriotic Costume'
+  caption: They tied the bow. They shut the gate.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-09T22:35:42-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single-panel, 1:1, heavy cross-hatch in the wood-engraving tradition.
+    At center, two fully rendered figures — Secretary Brooke Rollins and Ambassador
+    Monica Crowley, faces individuated, eyes downcast '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-09-hector-paired-with-2026-09-09-wendell-the-family-farm-is-their-patriotic-costume
 ---
+
+![Editorial cartoon by Hector Rentier: The Family Farm Is Their Patriotic Costume](/cartoons/the-family-farm-is-their-patriotic-costume.png)
+*They tied the bow. They shut the gate.*
 
 The administration that is killing the family farm has decided to celebrate it. Secretary of Agriculture Brooke Rollins and Ambassador Monica Crowley, writing in [America's Family Farms Have Kept Us Strong for 250 Years](https://www.foxnews.com/opinion/brooke-rollins-monica-crowley-americas-family-farms-kept-us-strong-250-years), want to put a bow on the thing they are signing the death certificate for. Their new American Family Farm Legacy 250 Program publicly recognizes multigenerational farms from 100 to 250 years of continuous operation — Round Swamp Farm in East Hampton, nine generations of Lesters, Carolyn Snyder still growing and selling on the original parcel — and places these families at the wellspring of American virtue: faith, family, patriotism, civic responsibility, the long view of the country. They quote Jefferson on the cultivator of the earth as the most valuable citizen. I will not grant them — and no conservative with a memory and a county behind him can grant them — the right to wave that flag while their own administration's policies put the family farm in the ground.
 
