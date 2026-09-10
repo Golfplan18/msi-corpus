@@ -2,8 +2,18 @@
 headline: Turning Point USA reports 'unprecedented expansion' year after Kirk's killing
 secondary_headline: Approval among Trump voters under 35 fell from 92% to 57%
 publish_date: '2026-09-10'
-lede: One year after Charlie Kirk was fatally shot at Utah Valley University, Turning Point USA says it saw "unprecedented expansion" during the 2025-2026 school year, with more than a million involved students across 3,500 high school clubs and 1,500 college chapters. Some young supporters told NPR they see an organization that has yet to fully coalesce around a new leader and is grappling with the same issue divides causing friction within the Republican Party more broadly.
-nut_graf: Kirk founded Turning Point a little more than a decade before his death at age 31 with the goal of getting more young people involved in conservative politics. His widow, Erika Kirk, has taken over as CEO while young organizers describe challenges including the absence of Kirk's direct connection with young people, intraparty policy rifts, and declining approval of President Donald Trump among his voters under 35.
+lede: One year after Charlie Kirk was fatally shot at Utah Valley University, Turning
+  Point USA says it saw "unprecedented expansion" during the 2025-2026 school year,
+  with more than a million involved students across 3,500 high school clubs and 1,500
+  college chapters. Some young supporters told NPR they see an organization that has
+  yet to fully coalesce around a new leader and is grappling with the same issue divides
+  causing friction within the Republican Party more broadly.
+nut_graf: Kirk founded Turning Point a little more than a decade before his death
+  at age 31 with the goal of getting more young people involved in conservative politics.
+  His widow, Erika Kirk, has taken over as CEO while young organizers describe challenges
+  including the absence of Kirk's direct connection with young people, intraparty
+  policy rifts, and declining approval of President Donald Trump among his voters
+  under 35.
 primary_entities:
 - Charlie Kirk
 - Erika Kirk
@@ -58,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,30 +168,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-05-iowa-state-fair-voter-drive-signals-turning-point-action-s-2028-caucus-play
-  headline: Iowa State Fair voter drive signals Turning Point Action's 2028 caucus play
+  headline: Iowa State Fair voter drive signals Turning Point Action's 2028 caucus
+    play
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6876
-- slug: 2026-09-09-guardian-publishes-grief-fury-conspiracy-on-turning-point-usa
-  headline: Guardian publishes 'Grief, fury, conspiracy' on Turning Point USA
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6464
-- slug: 2026-09-02-utah-judge-sends-tyler-robinson-to-trial-on-aggravated-murder
-  headline: Utah judge sends Tyler Robinson to trial on aggravated murder
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6484
-- slug: 2026-09-01-utah-judge-to-weigh-aggravated-murder-trial-for-tyler-robinson
-  headline: Utah judge to weigh aggravated murder trial for Tyler Robinson
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6219
-- slug: 2026-08-12-defense-in-kirk-killing-argues-shooter-didn-t-endanger-others
-  headline: Defense in Kirk killing argues shooter didn't endanger others
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.642
+  strength: 0.6877
 - slug: 2026-07-05-prosecutors-argue-tyler-robinson-should-stand-trial-in-charlie-kirk-killing
   headline: Prosecutors argue Tyler Robinson should stand trial in Charlie Kirk killing
   publish_date: '2026-07-05'
@@ -190,74 +182,35 @@ related_stories:
   headline: Charlie Kirk's online legacy overtaken by ironic memes and mockery
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.7241
+  strength: 0.7239
 - slug: 2026-06-11-erika-kirk-leads-turning-point-usa-women-s-summit-with-faith-focused-message
   headline: Erika Kirk leads Turning Point USA women's summit with faith-focused message
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.7659
+  strength: 0.7655
 - slug: 2026-07-10-dna-evidence-roommate-testimony-presented-in-charlie-kirk-preliminary-hearing
-  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary hearing
+  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary
+    hearing
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.667
+  strength: 0.6672
 - slug: 2026-05-17-eight-gop-governors-push-turning-point-clubs-into-all-public-high-schools
   headline: Eight GOP governors push Turning Point clubs into all public high schools
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.7531
+  strength: 0.7536
 - slug: 2026-06-22-judge-denies-witness-subpoena-in-charlie-kirk-murder-case
   headline: Judge denies witness subpoena in Charlie Kirk murder case
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6985
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6478
-- slug: 2026-06-30-charlie-kirk-s-family-to-attend-preliminary-hearing-in-murder-case
-  headline: Charlie Kirk's family to attend preliminary hearing in murder case
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6202
-- slug: 2026-06-12-lawyers-seek-to-block-death-penalty-in-charlie-kirk-killing-case
-  headline: Lawyers seek to block death penalty in Charlie Kirk killing case
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6418
+  strength: 0.6986
 - slug: 2026-04-18-states-pass-laws-honoring-charlie-kirk-stirring-debate-on-religion-and-speech
-  headline: States pass laws honoring Charlie Kirk, stirring debate on religion and speech
+  headline: States pass laws honoring Charlie Kirk, stirring debate on religion and
+    speech
   publish_date: '2026-04-18'
   relation: related
-  strength: 0.6821
-- slug: 2026-01-06-texas-teachers-union-sues-over-alleged-crackdown-on-posts-about-charlie-kirk
-  headline: Texas teachers union sues over alleged crackdown on posts about Charlie Kirk
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.7034
-- slug: 2026-05-23-young-republicans-wrestle-with-disappointment-in-trump-in-kentucky
-  headline: Young Republicans wrestle with disappointment in Trump in Kentucky
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6244
-- slug: 2026-05-20-tennessee-man-jailed-over-charlie-kirk-facebook-post-wins-835-000-settlement
-  headline: Tennessee man jailed over Charlie Kirk Facebook post wins $835,000 settlement
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6242
-- slug: 2026-05-09-judge-rejects-bid-to-ban-courtroom-cameras-from-charlie-kirk-murder-case
-  headline: Judge rejects bid to ban courtroom cameras from Charlie Kirk murder case
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6256
-- slug: 2026-01-16-defense-seeks-to-disqualify-utah-prosecutors-in-charlie-kirk-killing-case
-  headline: Defense seeks to disqualify Utah prosecutors in Charlie Kirk killing case
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6617
+  strength: 0.6835
 ---
-
 ## Turning Point USA reports 'unprecedented expansion' year after Kirk's killing
 
 **Subtype:** fact
