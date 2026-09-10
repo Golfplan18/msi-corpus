@@ -204,6 +204,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-10-south-korean-state-capital-moves-through-sequential-filter-toward-us-projects'
 ---
 ## South Korea nears U.S. energy deal potentially worth more than $100 billion
 
@@ -254,3 +256,8 @@ The Wall Street Journal reported that Trump "has been eager to jump-start constr
 **Publication date:** 2026-09-10
 **Title:** South Korea Nears Agreement on Billions in U.S. Investments, a Win for Trump
 **URL:** https://www.wsj.com/world/asia/south-korea-nears-agreement-on-billions-in-u-s-investments-a-win-for-trump-2b58dc4a
+
+---
+
+<!-- analysis-link:2026-09-10-south-korean-state-capital-moves-through-sequential-filter-toward-us-projects -->
+**Going deeper:** [Read MSI's analysis of South Korea's $100B U.S. energy deal →](/analyses/2026-09-10-south-korean-state-capital-moves-through-sequential-filter-toward-us-projects)

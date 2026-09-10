@@ -2,8 +2,16 @@
 headline: Dan J. Sullivan advances to November ballot above incumbent namesake
 secondary_headline: Alaska Republican Party sought the retired teacher's removal
 publish_date: '2026-09-10'
-lede: A 69-year-old retired elementary school teacher from Petersburg, Alaska, advanced from the Aug. 18 open primary to the November U.S. Senate ballot, where his name will appear above that of Republican Sen. Dan S. Sullivan. Dan J. Sullivan Jr. finished third with 4,107 votes, behind Democratic challenger Mary Peltola and the incumbent. The Alaska Republican Party sought Dan J.'s removal and labeled the recently registered Republican a Democratic plant.
-nut_graf: Dan J.'s candidacy places two Republicans with the same first and last names on the November ballot as the incumbent wages a close contest with Peltola. A Republican strategist said the shared name could confuse voters, while the Peltola campaign disavowed involvement in Dan J.'s candidacy.
+lede: A 69-year-old retired elementary school teacher from Petersburg, Alaska, advanced
+  from the Aug. 18 open primary to the November U.S. Senate ballot, where his name
+  will appear above that of Republican Sen. Dan S. Sullivan. Dan J. Sullivan Jr. finished
+  third with 4,107 votes, behind Democratic challenger Mary Peltola and the incumbent.
+  The Alaska Republican Party sought Dan J.'s removal and labeled the recently registered
+  Republican a Democratic plant.
+nut_graf: Dan J.'s candidacy places two Republicans with the same first and last names
+  on the November ballot as the incumbent wages a close contest with Peltola. A Republican
+  strategist said the shared name could confuse voters, while the Peltola campaign
+  disavowed involvement in Dan J.'s candidacy.
 primary_entities:
 - Dan J. Sullivan Jr.
 - Dan S. Sullivan
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,113 +151,58 @@ related_stories:
   headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.7668
+  strength: 0.7673
 - slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
   headline: Peltola challenges Sullivan as Alaska Senate primary nears
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7294
-- slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
-  headline: Florida and Alaska primaries test GOP redistricting push
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6501
+  strength: 0.7297
 - slug: 2026-07-11-alaska-senate-challenger-dan-j-sullivan-keeps-low-profile-on-july-fourth
   headline: Alaska Senate challenger Dan J. Sullivan keeps low profile on July Fourth
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.7748
-- slug: 2026-08-15-sullivan-campaign-links-peltola-to-harris-after-fundraising-email-rejection
-  headline: Sullivan campaign links Peltola to Harris after fundraising-email rejection
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5918
+  strength: 0.7753
 - slug: 2026-06-30-alaska-supreme-court-rules-challenger-dan-sullivan-can-stay-on-primary-ballot
-  headline: Alaska Supreme Court rules challenger Dan Sullivan can stay on primary ballot
+  headline: Alaska Supreme Court rules challenger Dan Sullivan can stay on primary
+    ballot
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7399
-- slug: 2026-08-14-pccc-endorses-elijah-manley-over-wasserman-schultz-in-florida-primary
-  headline: PCCC endorses Elijah Manley over Wasserman Schultz in Florida primary
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5751
+  strength: 0.7393
 - slug: 2026-06-15-alaska-disqualifies-challenger-dan-sullivan-from-senate-primary-citing-voter-con
-  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing voter confusion
+  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing
+    voter confusion
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.736
+  strength: 0.7364
 - slug: 2026-06-03-two-dan-sullivans-appear-on-alaska-senate-primary-ballot
   headline: Two Dan Sullivans appear on Alaska Senate primary ballot
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.7474
-- slug: 2026-08-06-pia-dandiya-moves-florida-house-campaign-after-map-redraw
-  headline: Pia Dandiya moves Florida House campaign after map redraw
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5854
+  strength: 0.7468
 - slug: 2026-06-22-alaska-senate-challenger-dan-sullivan-sues-to-get-on-primary-ballot
   headline: Alaska Senate challenger Dan Sullivan sues to get on primary ballot
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.7073
+  strength: 0.7079
 - slug: 2026-06-27-alaska-judge-rules-challenger-dan-sullivan-can-appear-on-primary-ballot
   headline: Alaska judge rules challenger Dan Sullivan can appear on primary ballot
   publish_date: '2026-06-27'
   relation: related
-  strength: 0.694
-- slug: 2026-06-09-challenger-dan-sullivan-says-alaska-senate-run-is-his-choice-not-a-democratic-sc
-  headline: Challenger Dan Sullivan says Alaska Senate run is his choice, not a Democratic scheme
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7201
-- slug: 2026-06-12-alaska-election-official-threatens-to-disqualify-candidate-dan-sullivan-from-sen
-  headline: Alaska election official threatens to disqualify candidate Dan Sullivan from Senate primary
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6646
-- slug: 2026-06-28-julia-letlow-wins-louisiana-republican-senate-runoff-defeating-john-fleming
-  headline: Julia Letlow wins Louisiana Republican Senate runoff, defeating John Fleming
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.5824
-- slug: 2026-05-19-georgia-republicans-head-to-runoffs-for-senate-and-governor-after-tuesday-primar
-  headline: Georgia Republicans head to runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6191
-- slug: 2026-01-12-peltola-enters-alaska-senate-race-challenging-gop-incumbent-sullivan
-  headline: Peltola enters Alaska Senate race, challenging GOP incumbent Sullivan
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6671
-- slug: 2026-05-22-georgia-gop-sets-senate-runoff-with-dooley-vs-collins-bottoms-wins-dems
-  headline: Georgia GOP sets Senate runoff with Dooley vs. Collins; Bottoms wins Dems
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5926
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5874
-- slug: 2026-05-19-georgia-republicans-set-runoffs-for-senate-and-governor-after-tuesday-primary
-  headline: Georgia Republicans set runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5846
+  strength: 0.6942
 image:
   url: /articles/2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake.png
-  alt: "Illustration accompanying article: Dan J. Sullivan advances to November ballot above incumbent namesake"
+  alt: 'Illustration accompanying article: Dan J. Sullivan advances to November ballot
+    above incumbent namesake'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Dan J. Sullivan advances to November ballot above incumbent namesake
 
 **Subtype:** fact
