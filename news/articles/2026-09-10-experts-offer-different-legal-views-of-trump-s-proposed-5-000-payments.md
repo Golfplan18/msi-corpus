@@ -206,6 +206,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-10-trump-s-5-000-dividend-proposal-spans-election-law-tax-pledge-and-first-amendmen'
 ---
 ## Experts offer different legal views of Trump's proposed $5,000 payments
 
@@ -249,3 +251,8 @@ On Wednesday, Trump warned supporters that the war would not end until after the
 **Publication date:** 2026-09-10
 **Title:** Trump says every adult American would get $5,000 if Republicans win midterms
 **URL:** https://www.bbc.co.uk/news/articles/c62kzr1jg0jo
+
+---
+
+<!-- analysis-link:2026-09-10-trump-s-5-000-dividend-proposal-spans-election-law-tax-pledge-and-first-amendmen -->
+**Going deeper:** [Read MSI's analysis of legal frames shaping Trump's $5,000 pledge →](/analyses/2026-09-10-trump-s-5-000-dividend-proposal-spans-election-law-tax-pledge-and-first-amendmen)
