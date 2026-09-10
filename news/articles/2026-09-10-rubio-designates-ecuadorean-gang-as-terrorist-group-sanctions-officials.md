@@ -208,6 +208,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-10-sept-9-actions-pair-los-tiguerones-terror-designation-with-classified-caribbean-'
 ---
 ## Rubio designates Ecuadorean gang as terrorist group, sanctions officials
 
@@ -267,3 +269,8 @@ Asked whether there was concern that fishermen had been killed in the strikes, R
 **Publication date:** 2026-09-10
 **Title:** U.S. kills 3 in strike on suspected Caribbean drug-smuggling boat
 **URL:** https://www.upi.com/Top_News/World-News/2026/09/10/latam-SOUTHCOM-drug-smuggling-boat-attack/3641789013482/
+
+---
+
+<!-- analysis-link:2026-09-10-sept-9-actions-pair-los-tiguerones-terror-designation-with-classified-caribbean- -->
+**Going deeper:** [Read MSI's analysis of Sept. 9 dual-track action →](/analyses/2026-09-10-sept-9-actions-pair-los-tiguerones-terror-designation-with-classified-caribbean-)

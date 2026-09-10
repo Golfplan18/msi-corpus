@@ -202,6 +202,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-10-alaska-ballot-order-not-coordination-puts-dan-j-sullivan-jr-above-sen-dan-s-sull'
 ---
 ## Dan J. Sullivan advances to November ballot above incumbent namesake
 
@@ -280,3 +282,8 @@ Dan J. said he is pressing ahead with his campaign.
 **Publication date:** 2026-09-10
 **Title:** Alaska Senate Race Pits Dan Sullivan Against… Dan Sullivan
 **URL:** https://www.wsj.com/us-news/alaska-senate-race-pits-dan-sullivan-against-dan-sullivan-23eb5bd5
+
+---
+
+<!-- analysis-link:2026-09-10-alaska-ballot-order-not-coordination-puts-dan-j-sullivan-jr-above-sen-dan-s-sull -->
+**Going deeper:** [Read MSI's analysis of the Alaska same-name Senate candidacy →](/analyses/2026-09-10-alaska-ballot-order-not-coordination-puts-dan-j-sullivan-jr-above-sen-dan-s-sull)
