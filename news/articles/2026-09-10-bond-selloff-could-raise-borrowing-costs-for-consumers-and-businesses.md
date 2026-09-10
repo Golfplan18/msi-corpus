@@ -252,6 +252,8 @@ related_stories:
   publish_date: '2026-04-29'
   relation: related
   strength: 0.7095
+analyses:
+- '2026-09-10-treasury-buyback-fails-to-anchor-yields-as-investors-price-inflation-conflict-de'
 ---
 
 ## Bond selloff could raise borrowing costs for consumers and businesses
@@ -315,3 +317,8 @@ The Guardian accompanied its report with a photograph by Lori Van Buren of the A
 **Publication date:** 2026-09-10
 **Title:** Trouble in US bond market could mean higher prices are here to stay
 **URL:** https://www.theguardian.com/business/2026/sep/10/bond-market-higher-costs
+
+---
+
+<!-- analysis-link:2026-09-10-treasury-buyback-fails-to-anchor-yields-as-investors-price-inflation-conflict-de -->
+**Going deeper:** [Read MSI's analysis of Treasury yields and intervention limits →](/analyses/2026-09-10-treasury-buyback-fails-to-anchor-yields-as-investors-price-inflation-conflict-de)
