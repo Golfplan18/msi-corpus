@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6687
+analyses:
+- '2026-09-10-august-2026-record-narrows-transition-window-for-opposing-climate-interests'
 ---
 ## August 2026 ties July 2023 as hottest month on record, Copernicus reports
 
@@ -251,3 +253,8 @@ United Nations climate chief Simon Stiell attributed the continuing records to c
 **Publication date:** 2026-09-10
 **Title:** Scientists say August was Earth's hottest month they've measured
 **URL:** https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest
+
+---
+
+<!-- analysis-link:2026-09-10-august-2026-record-narrows-transition-window-for-opposing-climate-interests -->
+**Going deeper:** [Read MSI's analysis of August 2026 record's redistributive stakes →](/analyses/2026-09-10-august-2026-record-narrows-transition-window-for-opposing-climate-interests)
