@@ -198,6 +198,8 @@ related_stories:
   publish_date: '2026-07-13'
   relation: related
   strength: 0.782
+analyses:
+- '2026-09-10-spot-premiums-freight-records-and-eia-data-frame-gulf-oil-disruption-as-structur'
 ---
 ## Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
 
@@ -242,3 +244,8 @@ Separately, a coalition led by Saudi Arabia pledged a response after another rou
 **Publication date:** 2026-09-10
 **Title:** Brent Holds Above $100 Amid Gulf Supply Risks
 **URL:** https://www.wsj.com/business/energy-oil/brent-holds-above-100-amid-gulf-supply-risks-65db20ba
+
+---
+
+<!-- analysis-link:2026-09-10-spot-premiums-freight-records-and-eia-data-frame-gulf-oil-disruption-as-structur -->
+**Going deeper:** [Read MSI's analysis of structural Gulf oil supply disruption →](/analyses/2026-09-10-spot-premiums-freight-records-and-eia-data-frame-gulf-oil-disruption-as-structur)
