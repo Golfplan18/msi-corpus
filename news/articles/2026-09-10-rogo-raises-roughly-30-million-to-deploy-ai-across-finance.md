@@ -2,8 +2,13 @@
 headline: Rogo raises roughly $30 million to deploy AI across finance
 secondary_headline: Big-bank advisers already use the platform in wealth management
 publish_date: '2026-09-10'
-lede: AI startup Rogo Technologies said it secured roughly $30 million in strategic investments from Citi, Barclays, BNP Paribas, MUFG, Société Générale and individual investors. Rogo plans to deploy its artificial-intelligence agents across finance, with wealth management among its next areas.
-nut_graf: The investments follow a $160 million Series D that Rogo announced earlier in 2026 at a $2 billion valuation. Banks are expanding their use of AI while weighing its effects on staffing and responding to cybersecurity, fraud and token-cost concerns.
+lede: AI startup Rogo Technologies said it secured roughly $30 million in strategic
+  investments from Citi, Barclays, BNP Paribas, MUFG, Société Générale and individual
+  investors. Rogo plans to deploy its artificial-intelligence agents across finance,
+  with wealth management among its next areas.
+nut_graf: The investments follow a $160 million Series D that Rogo announced earlier
+  in 2026 at a $2 billion valuation. Banks are expanding their use of AI while weighing
+  its effects on staffing and responding to cybersecurity, fraud and token-cost concerns.
 primary_entities:
 - Rogo Technologies
 - Citi
@@ -52,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +160,19 @@ related_stories:
   headline: Moody's warns banks' AI reliance on few providers poses systemic risk
   publish_date: '2026-08-09'
   relation: related
-  strength: 0.6766
-- slug: 2026-08-21-blackstone-h-f-and-anthropic-form-ode-to-deploy-ai-at-portfolio-companies
-  headline: Blackstone, H&F and Anthropic form Ode to deploy AI at portfolio companies
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6041
+  strength: 0.6797
 - slug: 2026-06-18-wall-street-grapples-with-ai-hiring-dilemma-as-tools-reshape-banking-jobs
   headline: Wall Street grapples with AI hiring dilemma as tools reshape banking jobs
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.743
-- slug: 2026-08-06-datadog-cites-lower-usage-from-major-ai-customer-in-2026-outlook
-  headline: Datadog cites lower usage from major AI customer in 2026 outlook
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6012
-- slug: 2026-08-01-cloud-revenue-surge-gives-wall-street-answer-on-ai-returns
-  headline: Cloud revenue surge gives Wall Street answer on AI returns
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6151
-- slug: 2026-07-24-intel-raises-capex-outlook-to-20-billion-nokia-ai-orders-surge-to-2-8-billion-eu
-  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8 billion euros
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6051
-- slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6024
-- slug: 2026-07-15-deepseek-prepares-for-shanghai-ipo-as-soon-as-q2-2027
-  headline: DeepSeek prepares for Shanghai IPO as soon as Q2 2027
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6039
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6105
-- slug: 2026-07-08-ai-financial-in-talks-to-sell-core-payments-business-for-up-to-15-million
-  headline: AI Financial in talks to sell core payments business for up to $15 million
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6055
-- slug: 2026-07-07-bank-of-england-warns-hedge-fund-leverage-poses-financial-stability-risk
-  headline: Bank of England warns hedge fund leverage poses financial stability risk
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.602
-- slug: 2026-06-27-ai-bubble-warnings-mount-as-dot-com-parallels-spread
-  headline: AI bubble warnings mount as dot-com parallels spread
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6175
+  strength: 0.7483
 - slug: 2026-06-03-market-research-firm-alphasense-clinches-7-5-billion-valuation-in-new-funding-ro
-  headline: Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New Funding Round
+  headline: Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New
+    Funding Round
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6545
-- slug: 2026-06-17-financial-services-roundup-ai-debt-boom-boj-european-bank-consolidation
-  headline: 'Financial Services Roundup: AI Debt Boom, BOJ, European Bank Consolidation'
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6209
-- slug: 2026-06-25-new-bipartisan-coalition-aims-to-prepare-u-s-workers-for-ai-upheaval
-  headline: New bipartisan coalition aims to prepare U.S. workers for AI upheaval
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6039
-- slug: 2026-06-11-ai-wealth-boom-drives-san-francisco-home-prices-to-new-highs
-  headline: AI wealth boom drives San Francisco home prices to new highs
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6218
-- slug: 2026-06-20-secretive-wall-street-powerhouse-jane-street-seizes-the-ai-spotlight
-  headline: Secretive Wall Street powerhouse Jane Street seizes the AI spotlight
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6041
-- slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.622
-- slug: 2026-06-01-alphabet-plans-80-billion-equity-raise-to-fund-ai-infrastructure-expansion
-  headline: Alphabet plans $80 billion equity raise to fund AI infrastructure expansion
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6243
-- slug: 2026-06-02-fomo-drives-wall-street-pros-into-ai-rally-as-career-risk-outweighs-caution
-  headline: FOMO drives Wall Street pros into AI rally as career risk outweighs caution
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6227
+  strength: 0.6506
 ---
-
 ## Rogo raises roughly $30 million to deploy AI across finance
 
 **Subtype:** fact

@@ -2,8 +2,13 @@
 headline: Florida moves toward 15th execution as Conahan's final appeal remains pending
 secondary_headline: Case arose from the Hog Trail Murders investigation
 publish_date: '2026-09-10'
-lede: Daniel Owen Conahan Jr, 72, was scheduled for execution by lethal injection in Florida on Thursday for the 1996 kidnapping and strangling of Richard Allen Montgomery. A final appeal remained pending before the US Supreme Court after the Florida Supreme Court denied Conahan's final appeals last week.
-nut_graf: If carried out, Conahan's execution would be Florida's 15th of the year. Florida had already conducted more than half of the 24 executions in the US this year under Ron DeSantis, the Republican governor who leaves office in January.
+lede: Daniel Owen Conahan Jr, 72, was scheduled for execution by lethal injection
+  in Florida on Thursday for the 1996 kidnapping and strangling of Richard Allen Montgomery.
+  A final appeal remained pending before the US Supreme Court after the Florida Supreme
+  Court denied Conahan's final appeals last week.
+nut_graf: If carried out, Conahan's execution would be Florida's 15th of the year.
+  Florida had already conducted more than half of the 24 executions in the US this
+  year under Ron DeSantis, the Republican governor who leaves office in January.
 primary_entities:
 - Daniel Owen Conahan Jr
 - Richard Allen Montgomery
@@ -47,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +151,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-01-florida-set-to-execute-harold-gene-lucas-14th-death-of-2026
-  headline: Florida set to execute Harold Gene Lucas, 14th death of 2026
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6281
-- slug: 2026-08-18-william-silvia-scheduled-for-execution-tuesday-as-final-appeal-remains-pending
-  headline: William Silvia scheduled for execution Tuesday as final appeal remains pending
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6328
-- slug: 2026-08-05-family-awaits-answers-a-month-after-mississippi-teen-found-dead-on-horn-island
-  headline: Family awaits answers a month after Mississippi teen found dead on Horn Island
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5846
-- slug: 2026-07-14-florida-set-to-execute-74-year-old-state-s-oldest-inmate
-  headline: Florida set to execute 74-year-old, state's oldest inmate
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6279
-- slug: 2026-07-13-florida-to-execute-elderly-inmates-in-july-as-death-row-ages
-  headline: Florida to execute elderly inmates in July as death row ages
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6231
-- slug: 2026-07-16-desantis-signs-death-warrant-for-july-28-double-execution
-  headline: DeSantis signs death warrant for July 28 double execution
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5936
-- slug: 2026-06-25-florida-executes-74-year-old-state-s-oldest-inmate-in-modern-history
-  headline: Florida executes 74-year-old, state's oldest inmate in modern history
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6201
-- slug: 2026-06-02-florida-executes-andrew-richard-lukehart-for-1996-murder-of-infant
-  headline: Florida executes Andrew Richard Lukehart for 1996 murder of infant
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6252
-- slug: 2026-05-20-florida-executes-richard-knight-for-2002-killing-of-woman-and-her-4-year-old-dau
-  headline: Florida executes Richard Knight for 2002 killing of woman and her 4-year-old daughter
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6383
 - slug: 2026-01-10-florida-schedules-first-2026-execution-for-man-convicted-in-1989-salesman-killin
-  headline: Florida schedules first 2026 execution for man convicted in 1989 salesman killing
+  headline: Florida schedules first 2026 execution for man convicted in 1989 salesman
+    killing
   publish_date: '2026-01-10'
   relation: related
   strength: 0.6918
-- slug: 2026-05-21-florida-executes-richard-knight-for-2002-killings-of-woman-and-child
-  headline: Florida executes Richard Knight for 2002 killings of woman and child
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.631
-- slug: 2026-05-22-florida-executes-richard-knight-for-2002-killing-of-woman-and-child
-  headline: Florida executes Richard Knight for 2002 killing of woman and child
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6277
-- slug: 2026-05-23-florida-executes-richard-knight-for-2002-killing-of-woman-and-her-child
-  headline: Florida executes Richard Knight for 2002 killing of woman and her child
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.62
 - slug: 2026-02-24-florida-executes-second-inmate-this-year-for-1986-grocery-store-killing
   headline: Florida executes second inmate this year for 1986 grocery store killing
   publish_date: '2026-02-24'
   relation: related
-  strength: 0.6714
+  strength: 0.6729
 - slug: 2026-01-23-florida-sets-execution-date-for-man-convicted-of-1986-grocery-store-killing
   headline: Florida sets execution date for man convicted of 1986 grocery store killing
   publish_date: '2026-01-23'
   relation: related
-  strength: 0.6772
-- slug: 2026-05-01-florida-man-executed-for-1976-killing-of-brother-s-13-year-old-stepdaughter
-  headline: Florida man executed for 1976 killing of brother’s 13-year-old stepdaughter
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6273
-- slug: 2026-03-27-florida-supreme-court-stays-execution-of-man-convicted-of-child-rape-murder
-  headline: Florida Supreme Court stays execution of man convicted of child rape, murder
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6454
-- slug: 2026-05-20-tennessee-death-row-inmate-s-lawyers-fear-expired-lethal-injection-drugs-ahead-o
-  headline: Tennessee death row inmate’s lawyers fear expired lethal injection drugs ahead of execution
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.605
-- slug: 2026-05-22-tennessee-halts-execution-after-failed-iv-insertion-reprieve-granted
-  headline: Tennessee Halts Execution After Failed IV Insertion; Reprieve Granted
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5966
-- slug: 2026-05-20-tennessee-halts-execution-of-tony-carruthers-after-failing-to-find-vein-for-iv-l
-  headline: Tennessee halts execution of Tony Carruthers after failing to find vein for IV line
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5958
+  strength: 0.6784
 ---
-
 ## Florida moves toward 15th execution as Conahan's final appeal remains pending
 
 **Subtype:** fact

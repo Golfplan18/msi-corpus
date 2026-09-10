@@ -2,8 +2,14 @@
 headline: Saudi output falls 23% as OPEC cuts oil-demand growth forecast
 secondary_headline: Houthi attacks put west-coast export route under pressure
 publish_date: '2026-09-10'
-lede: Saudi Arabia's oil production fell 23% in August to 6.24 million barrels a day, according to OPEC data, as Houthi threats disrupted exports from the kingdom's west coast. OPEC also lowered its forecast for global oil-demand growth this year to 380,000 barrels a day from 580,000 barrels a day.
-nut_graf: The production and demand figures came as attacks and blockades constrained shipping routes through Bab al-Mandeb and the Strait of Hormuz. Brent rose to $105.06 a barrel in early U.S. trading Thursday, while West Texas Intermediate reached $99.60 after topping $100 earlier in the session.
+lede: Saudi Arabia's oil production fell 23% in August to 6.24 million barrels a day,
+  according to OPEC data, as Houthi threats disrupted exports from the kingdom's west
+  coast. OPEC also lowered its forecast for global oil-demand growth this year to
+  380,000 barrels a day from 580,000 barrels a day.
+nut_graf: The production and demand figures came as attacks and blockades constrained
+  shipping routes through Bab al-Mandeb and the Strait of Hormuz. Brent rose to $105.06
+  a barrel in early U.S. trading Thursday, while West Texas Intermediate reached $99.60
+  after topping $100 earlier in the session.
 primary_entities:
 - Saudi Arabia
 - OPEC
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,113 +151,56 @@ related_stories:
   headline: Houthi attacks on Saudi energy sites push oil toward $100
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7602
+  strength: 0.7597
+- slug: 2026-09-10-oil-reaches-105-amid-signs-middle-east-conflict-will-persist
+  headline: Oil reaches $105 amid signs Middle East conflict will persist
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.7359
 - slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
   headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
   publish_date: '2026-09-10'
   relation: related
   strength: 0.7276
-- slug: 2026-09-06-opec-pauses-october-oil-output-increases-amid-us-iran-war
-  headline: OPEC+ pauses October oil output increases amid US-Iran war
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7094
 - slug: 2026-08-13-oil-prices-fall-as-iea-cuts-2026-demand-forecast-below-july-projection
   headline: Oil prices fall as IEA cuts 2026 demand forecast below July projection
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7121
+  strength: 0.7132
 - slug: 2026-08-11-hormuz-oil-flows-fall-as-reopening-negotiations-remain-stalled
   headline: Hormuz oil flows fall as reopening negotiations remain stalled
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.7131
+  strength: 0.713
 - slug: 2026-07-24-brent-crude-slips-to-99-8-but-stays-elevated-on-supply-fears
   headline: Brent crude slips to $99.8 but stays elevated on supply fears
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7735
+  strength: 0.7737
 - slug: 2026-07-28-oil-prices-extend-losses-as-u-s--iran-lull-spurs-strait-of-hormuz-diplomacy
   headline: Oil prices extend losses as U.S.-Iran lull spurs Strait of Hormuz diplomacy
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7196
+  strength: 0.7194
 - slug: 2026-07-24-houthi-attacks-on-tankers-push-brent-above-100
   headline: Houthi attacks on tankers push Brent above $100
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.731
-- slug: 2026-07-23-brent-crude-tops-100-a-barrel-as-red-sea-attacks-threaten-saudi-export-route
-  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export route
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7288
-- slug: 2026-06-11-opec-cuts-2026-oil-demand-growth-forecast-as-u-s-blockade-curbs-iran-output
-  headline: OPEC cuts 2026 oil-demand growth forecast as U.S. blockade curbs Iran output
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8003
-- slug: 2026-07-13-oil-prices-surge-9-6-after-trump-reimposes-hormuz-blockade
-  headline: Oil prices surge 9.6% after Trump reimposes Hormuz blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7197
-- slug: 2026-06-25-oil-falls-to-prewar-levels-as-gulf-flows-through-hormuz-pick-up
-  headline: Oil falls to prewar levels as Gulf flows through Hormuz pick up
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7225
-- slug: 2026-06-18-opec-sees-oil-demand-growing-with-no-peak-in-sight
-  headline: OPEC sees oil demand growing with no peak in sight
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7345
-- slug: 2026-06-07-opec-boosts-output-for-fourth-month-as-hormuz-closure-blocks-shipments
-  headline: OPEC boosts output for fourth month as Hormuz closure blocks shipments
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.7471
-- slug: 2026-06-17-iea-oil-demand-to-fall-1-1-million-barrels-a-day-this-year-supply-rebound-seen-i
-  headline: 'IEA: Oil demand to fall 1.1 million barrels a day this year; supply rebound seen in 2027'
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7184
-- slug: 2026-06-04-oil-falls-on-israel-lebanon-ceasefire-but-analysts-warn-of-lasting-strait-of-hor
-  headline: Oil prices fall 3% on Israel-Lebanon ceasefire, Hezbollah not part of deal
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7184
-- slug: 2026-05-09-aramco-s-q1-profit-jumps-25-as-it-shifts-oil-exports-to-red-sea-pipeline
-  headline: Aramco’s Q1 profit jumps 25% as it shifts oil exports to Red Sea pipeline
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7264
-- slug: 2026-05-04-opec-agrees-modest-june-oil-output-rise-as-iran-keeps-hormuz-chokepoint
-  headline: OPEC+ agrees modest June oil output rise as Iran keeps Hormuz chokepoint
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7235
-- slug: 2026-04-29-uae-to-leave-opec-effective-may-1-weakening-cartel-leverage
-  headline: UAE to leave OPEC effective May 1, weakening cartel leverage
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7258
-- slug: 2026-05-09-aramco-s-q1-profit-jumps-25-after-rerouting-exports-via-pipeline
-  headline: Aramco’s Q1 profit jumps 25% after rerouting exports via pipeline
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7169
+  strength: 0.7308
 image:
   url: /articles/2026-09-10-saudi-output-falls-23-as-opec-cuts-oil-demand-growth-forecast.png
-  alt: "Illustration accompanying article: Saudi output falls 23% as OPEC cuts oil-demand growth forecast"
+  alt: 'Illustration accompanying article: Saudi output falls 23% as OPEC cuts oil-demand
+    growth forecast'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Saudi output falls 23% as OPEC cuts oil-demand growth forecast
 
 **Subtype:** fact

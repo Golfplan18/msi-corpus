@@ -2,8 +2,16 @@
 headline: Olivia Rodrigo's festival raises $20 million for women and girls
 secondary_headline: Trump pledges $5,000 dividend per adult citizen if GOP keeps Congress
 publish_date: '2026-09-10'
-lede: Olivia Rodrigo's inaugural Daisy Chain Fields music festival, held the previous month with an all-women lineup, raised $20 million for 10 organizations supporting women and girls, NPR reported in its Up First newsletter. NPR described Rodrigo as one of pop music's biggest stars and said she was using her fame to speak out about political rights.
-nut_graf: The newsletter's publication on September 10 also covered President Trump's $5,000 dividend proposal at the Republican midterm convention, Missouri Secretary of State Denny Hoskins's scheduled appearance before the state Supreme Court over a redistricting dispute and Apple's unveiling of a foldable phone under new CEO John Ternus.
+lede: Olivia Rodrigo's inaugural Daisy Chain Fields music festival, held the previous
+  month with an all-women lineup, raised $20 million for 10 organizations supporting
+  women and girls, NPR reported in its Up First newsletter. NPR described Rodrigo
+  as one of pop music's biggest stars and said she was using her fame to speak out
+  about political rights.
+nut_graf: The newsletter's publication on September 10 also covered President Trump's
+  $5,000 dividend proposal at the Republican midterm convention, Missouri Secretary
+  of State Denny Hoskins's scheduled appearance before the state Supreme Court over
+  a redistricting dispute and Apple's unveiling of a foldable phone under new CEO
+  John Ternus.
 primary_entities:
 - Olivia Rodrigo
 - President Trump
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,113 +159,26 @@ related_stories:
   headline: Olivia Rodrigo's Daisy Chain Fields raises $20 million for women
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.8001
+  strength: 0.7996
 - slug: 2026-09-10-apple-unveils-first-foldable-iphone-as-john-ternus-takes-over
   headline: Apple unveils first foldable iPhone as John Ternus takes over
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.669
-- slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
-  headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6069
-- slug: 2026-09-09-ternus-prepares-first-apple-event-as-ceo-foldable-iphone-widely-expected
-  headline: Ternus prepares first Apple event as CEO, foldable iPhone widely expected
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5889
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5796
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5871
-- slug: 2026-09-09-democratic-aligned-groups-court-gen-z-voters-with-donuts-and-block-parties
-  headline: Democratic-aligned groups court Gen Z voters with donuts and block parties
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5655
-- slug: 2026-09-08-dsa-grows-young-membership-through-social-events-not-policy-pitches
-  headline: DSA grows young membership through social events, not policy pitches
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5675
-- slug: 2026-08-24-google-s-raga-donations-climbed-from-50-000-to-325-000-this-cycle
-  headline: Google's Raga donations climbed from $50,000 to $325,000 this cycle
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5654
-- slug: 2026-08-13-most-nevada-swing-voters-say-they-won-t-dismiss-socialist-candidates
-  headline: Most Nevada swing voters say they won't dismiss socialist candidates
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5604
-- slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5689
-- slug: 2026-06-10-olivia-rodrigo-on-new-album-hearing-loss-and-choosing-her-wedding-song
-  headline: Olivia Rodrigo on new album, hearing loss, and choosing her wedding song
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6162
-- slug: 2026-06-10-artists-withdraw-from-250th-events-administration-accused-of-politicizing-celebr
-  headline: Artists withdraw from 250th events; administration accused of politicizing celebrations
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5692
-- slug: 2026-06-08-apple-unveils-overhauled-siri-ai-as-tim-cook-bids-farewell-at-wwdc
-  headline: Apple unveils overhauled Siri AI as Tim Cook bids farewell at WWDC
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5625
-- slug: 2026-06-03-gender-reveal-fireworks-companies-to-pay-4m-over-deadly-california-wildfire
-  headline: Gender-reveal fireworks companies to pay $4M over deadly California wildfire
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5696
-- slug: 2026-06-02-pride-groups-plan-for-future-without-biggest-corporate-sponsors
-  headline: Pride groups plan for future without biggest corporate sponsors
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5619
-- slug: 2026-05-20-soros-open-society-foundations-pledges-300-million-for-u-s-democracy
-  headline: Soros Open Society Foundations pledges $300 million for U.S. democracy
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.564
-- slug: 2026-05-21-soros-backed-open-society-foundations-pledges-300-million-for-u-s-democracy
-  headline: Soros-backed Open Society Foundations pledges $300 million for U.S. democracy
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5621
-- slug: 2026-05-05-disney-profits-jump-as-streaming-and-u-s-parks-offset-weaker-overseas-travel
-  headline: Disney profits jump as streaming and U.S. parks offset weaker overseas travel
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5755
-- slug: 2026-04-14-trump-tips-doordash-driver-100-for-oval-office-mcdonald-s-delivery
-  headline: Trump tips DoorDash driver $100 for Oval Office McDonald’s delivery
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5783
+  strength: 0.6679
 image:
   url: /articles/2026-09-10-olivia-rodrigo-s-festival-raises-20-million-for-women-and-girls.png
-  alt: "Illustration accompanying article: Olivia Rodrigo's festival raises $20 million for women and girls"
+  alt: 'Illustration accompanying article: Olivia Rodrigo''s festival raises $20 million
+    for women and girls'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Olivia Rodrigo's festival raises $20 million for women and girls
 
 **Subtype:** fact

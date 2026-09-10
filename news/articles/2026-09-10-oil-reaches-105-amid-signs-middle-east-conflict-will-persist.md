@@ -1,9 +1,20 @@
 ---
 headline: Oil reaches $105 amid signs Middle East conflict will persist
-secondary_headline: UK wholesale gas tops 200p a therm for first time since end of 2022
+secondary_headline: UK wholesale gas tops 200p a therm for first time since end of
+  2022
 publish_date: '2026-09-10'
-lede: Oil reached $105 a barrel amid signs the conflict between the United States and Iran in the Gulf would not be resolved quickly, BBC News reported. The fighting has effectively closed the Strait of Hormuz, preventing Gulf oil and gas supplies from reaching global markets. Iran-aligned Houthi forces were reported to have seized Yemen's port of Mocha, a key Red Sea facility, a development the BBC said could elevate fears of further shipping disruption. UK wholesale gas rose above 200p a therm for the first time since the end of 2022, and UK government bond yields touched multi-decade highs.
-nut_graf: For UK households, sustained wholesale gas prices could mean steeper bills despite Ofgem's price cap, which is scheduled to rise 3.6% in October before its next adjustment in January. Higher UK government bond yields could affect rates on some consumer financial products, including fixed-rate mortgages.
+lede: Oil reached $105 a barrel amid signs the conflict between the United States
+  and Iran in the Gulf would not be resolved quickly, BBC News reported. The fighting
+  has effectively closed the Strait of Hormuz, preventing Gulf oil and gas supplies
+  from reaching global markets. Iran-aligned Houthi forces were reported to have seized
+  Yemen's port of Mocha, a key Red Sea facility, a development the BBC said could
+  elevate fears of further shipping disruption. UK wholesale gas rose above 200p a
+  therm for the first time since the end of 2022, and UK government bond yields touched
+  multi-decade highs.
+nut_graf: For UK households, sustained wholesale gas prices could mean steeper bills
+  despite Ofgem's price cap, which is scheduled to rise 3.6% in October before its
+  next adjustment in January. Higher UK government bond yields could affect rates
+  on some consumer financial products, including fixed-rate mortgages.
 primary_entities:
 - BBC News
 - Iran
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +162,45 @@ related_stories:
   headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8031
+  strength: 0.8033
 - slug: 2026-09-09-brent-crude-tops-100-as-us-iran-fighting-flares-in-the-gulf
   headline: Brent crude tops $100 as US-Iran fighting flares in the Gulf
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.8055
+  strength: 0.8053
 - slug: 2026-09-08-houthi-attacks-on-saudi-energy-sites-push-oil-toward-100
   headline: Houthi attacks on Saudi energy sites push oil toward $100
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.8013
+  strength: 0.8021
 - slug: 2026-09-10-oil-and-diesel-futures-hit-multi-month-highs-as-us-iran-conflict-escalates
   headline: Oil and diesel futures hit multi-month highs as US-Iran conflict escalates
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.78
+  strength: 0.7805
 - slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
+  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk
+    elevated
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7885
+  strength: 0.7888
 - slug: 2026-08-10-oil-rises-as-iran-demands-u-s-withdrawal-to-reopen-strait-of-hormuz
   headline: Oil rises as Iran demands U.S. withdrawal to reopen Strait of Hormuz
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7837
+  strength: 0.7833
 - slug: 2026-07-23-brent-crude-tops-100-a-barrel-as-red-sea-attacks-threaten-saudi-export-route
-  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export route
+  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export
+    route
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.8374
+  strength: 0.8378
 - slug: 2026-07-24-houthi-attacks-on-tankers-push-brent-above-100
   headline: Houthi attacks on tankers push Brent above $100
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7869
-- slug: 2026-07-13-oil-prices-surge-9-6-after-trump-reimposes-hormuz-blockade
-  headline: Oil prices surge 9.6% after Trump reimposes Hormuz blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7952
-- slug: 2026-07-09-oil-jumps-as-u-s-iran-trade-strikes-over-strait-of-hormuz-control
-  headline: Oil jumps as U.S., Iran trade strikes over Strait of Hormuz control
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7905
-- slug: 2026-06-01-uk-pump-prices-climb-as-strait-of-hormuz-closure-pushes-crude-past-120
-  headline: UK pump prices climb as Strait of Hormuz closure pushes crude past $120
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8482
-- slug: 2026-06-01-oil-bond-yields-surge-on-new-iran-clashes-as-stocks-edge-to-records
-  headline: Oil, bond yields surge on new Iran clashes as stocks edge to records
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8095
-- slug: 2026-06-01-oil-rises-over-3-on-fresh-u-s--iran-strikes-deal-uncertainty
-  headline: Oil rises over 3% on fresh U.S.-Iran strikes, deal uncertainty
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7815
-- slug: 2026-05-08-gasoline-prices-rise-again-after-iran-war-strains-strait-of-hormuz
-  headline: Gasoline prices rise again after Iran war strains Strait of Hormuz
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7883
-- slug: 2026-03-09-oil-and-gas-prices-surge-as-iran-war-expands
-  headline: Oil and gas prices surge as Iran war expands
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.8178
-- slug: 2026-03-10-oil-prices-swing-wildly-as-iran-war-threatens-supplies-then-ease-briefly
-  headline: Oil prices swing wildly as Iran war threatens supplies, then ease briefly
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.8157
-- slug: 2026-03-10-iran-war-squeezes-global-economy-as-strait-of-hormuz-closure-cuts-oil-supply
-  headline: Iran war squeezes global economy as Strait of Hormuz closure cuts oil supply
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.812
-- slug: 2026-05-06-gasoline-jumps-as-strait-of-hormuz-constraints-keep-oil-supply-tight
-  headline: Gasoline jumps as Strait of Hormuz constraints keep oil supply tight
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7796
-- slug: 2026-04-19-oil-prices-climb-6-after-iran-reverses-strait-of-hormuz-reopening
-  headline: Oil prices climb 6% after Iran reverses Strait of Hormuz reopening
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.7911
-- slug: 2026-03-10-iran-war-closure-of-strait-of-hormuz-drives-oil-to-120-threatening-global-econom
-  headline: Iran war closure of Strait of Hormuz drives oil to $120, threatening global economy
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.805
+  strength: 0.788
 ---
-
 ## Oil reaches $105 amid signs Middle East conflict will persist
 
 **Subtype:** fact

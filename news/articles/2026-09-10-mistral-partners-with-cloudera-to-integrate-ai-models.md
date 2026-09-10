@@ -2,8 +2,15 @@
 headline: Mistral partners with Cloudera to integrate AI models
 secondary_headline: Cloudera links most recurring revenue to regulated industries
 publish_date: '2026-09-10'
-lede: French AI startup Mistral is partnering with American data and software company Cloudera to integrate its models with Cloudera's hybrid data platform over the coming weeks. Mistral said enterprises will be able to deploy and train the models with proprietary data in controlled environments, expanding its access to customers in highly regulated industries.
-nut_graf: The partnership gives Mistral another route to enterprise customers seeking sovereign AI tools that keep data under their control. It follows a funding round led by South Korea's Samsung Electronics that lifted Mistral's valuation above $24 billion, as well as earlier alliances with Microsoft and Harvey AI.
+lede: French AI startup Mistral is partnering with American data and software company
+  Cloudera to integrate its models with Cloudera's hybrid data platform over the coming
+  weeks. Mistral said enterprises will be able to deploy and train the models with
+  proprietary data in controlled environments, expanding its access to customers in
+  highly regulated industries.
+nut_graf: The partnership gives Mistral another route to enterprise customers seeking
+  sovereign AI tools that keep data under their control. It follows a funding round
+  led by South Korea's Samsung Electronics that lifted Mistral's valuation above $24
+  billion, as well as earlier alliances with Microsoft and Harvey AI.
 primary_entities:
 - Mistral
 - Cloudera
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +147,8 @@ cross_article_links:
   strength: 0.5827
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-10-rogo-raises-roughly-30-million-to-deploy-ai-across-finance
-  headline: Rogo raises roughly $30 million to deploy AI across finance
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5911
-- slug: 2026-09-09-u-s-agencies-accuse-six-chinese-ai-firms-of-industrial-scale-distillation
-  headline: U.S. agencies accuse six Chinese AI firms of industrial-scale distillation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5879
-- slug: 2026-09-04-moonshot-ai-files-for-hong-kong-ipo-at-reported-50-billion-valuation
-  headline: Moonshot AI files for Hong Kong IPO at reported $50 billion valuation
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5986
-- slug: 2026-09-01-mediatek-nvidia-partnership-draws-analyst-upgrades-amid-custom-ai-chip-push
-  headline: MediaTek-Nvidia partnership draws analyst upgrades amid custom AI chip push
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5833
-- slug: 2026-08-20-california-ai-investment-draws-366-billion-more-than-triple-other-states
-  headline: California AI Investment Draws $366 Billion, More Than Triple Other States
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5892
-- slug: 2026-08-03-citi-analysts-say-taiwan-tech-earnings-confirm-early-stage-ai-expansion-with-ben
-  headline: Citi analysts say Taiwan tech earnings confirm early-stage AI expansion, with benefits broadening
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5933
-- slug: 2026-08-01-cloud-revenue-surge-gives-wall-street-answer-on-ai-returns
-  headline: Cloud revenue surge gives Wall Street answer on AI returns
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.592
-- slug: 2026-07-26-chinese-ai-models-gain-u-s-users-as-companies-trim-costs
-  headline: Chinese AI models gain U.S. users as companies trim costs
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.5967
-- slug: 2026-07-23-stripe-in-talks-to-buy-ai-marketplace-openrouter-for-about-10b
-  headline: Stripe in talks to buy AI marketplace OpenRouter for about $10B
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.59
-- slug: 2026-07-21-altana-acquires-ai-platform-to-automate-customs-entries
-  headline: Altana acquires AI platform to automate customs entries
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5855
-- slug: 2026-07-20-chinese-ai-models-top-u-s-rivals-at-shanghai-conference
-  headline: Chinese AI models top U.S. rivals at Shanghai conference
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5849
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5863
-- slug: 2026-07-07-nscale-lands-900-million-revolving-facility-to-expand-ai-data-centers-in-three-r
-  headline: Nscale lands $900 million revolving facility to expand AI data centers in three regions
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6106
-- slug: 2026-07-11-palantir-ceo-karp-channels-enterprise-anger-at-ai-lab-business-model
-  headline: Palantir CEO Karp channels enterprise anger at AI lab business model
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5907
-- slug: 2026-07-09-china-weighs-limits-on-overseas-access-to-its-ai-models
-  headline: China weighs limits on overseas access to its AI models
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5837
-- slug: 2026-06-25-eu-moves-to-designate-aws-microsoft-azure-as-dma-gatekeepers
-  headline: EU moves to designate AWS, Microsoft Azure as DMA gatekeepers
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5825
-- slug: 2026-06-17-spacex-cursor-fox-roku-deals-highlight-ai-driven-tech-market-moves
-  headline: SpaceX-Cursor, Fox-Roku Deals Highlight AI-Driven Tech Market Moves
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5914
-- slug: 2026-06-16-market-roundup-fox-roku-spacex-cursor-and-new-ai-restrictions
-  headline: 'Market Roundup: Fox-Roku, SpaceX-Cursor, and New AI Restrictions'
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.591
-- slug: 2026-06-15-schneider-electric-and-foxconn-to-partner-on-ai-data-centers
-  headline: Schneider Electric and Foxconn to Partner on AI Data Centers
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5917
-- slug: 2026-06-01-mps-press-uk-regulator-to-prove-palantir-deal-won-t-expose-data-to-us
-  headline: MPs press UK regulator to prove Palantir deal won't expose data to US
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5917
+related_stories: []
 ---
-
 ## Mistral partners with Cloudera to integrate AI models
 
 **Subtype:** fact

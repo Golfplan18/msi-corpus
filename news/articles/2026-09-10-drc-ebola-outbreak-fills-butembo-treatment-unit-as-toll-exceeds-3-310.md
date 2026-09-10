@@ -2,8 +2,16 @@
 headline: DRC Ebola outbreak fills Butembo treatment unit as toll exceeds 3,310
 secondary_headline: Children represent 1 in 3 deaths, 1 in 4 confirmed cases
 publish_date: '2026-09-10'
-lede: The Ebola outbreak in the Democratic Republic of the Congo has hit children disproportionately, who account for 1 in 4 confirmed cases but 1 in 3 deaths. All 30 beds at a Doctors Without Borders treatment unit in Butembo are full, and Dr. Rupa Narra said the unit lost eight patients under age 5 last week.
-nut_graf: The Bundibugyo strain driving the outbreak has no approved antiviral or vaccine. Clinicians at the unit provide supportive care, including IV fluids, oxygen, blood transfusions, and treatment of secondary infections. Conflict between the Congolese army and Rwandan-backed paramilitary forces, along with cuts to foreign aid, has disrupted routine vaccinations and other assistance in the eastern border region.
+lede: The Ebola outbreak in the Democratic Republic of the Congo has hit children
+  disproportionately, who account for 1 in 4 confirmed cases but 1 in 3 deaths. All
+  30 beds at a Doctors Without Borders treatment unit in Butembo are full, and Dr.
+  Rupa Narra said the unit lost eight patients under age 5 last week.
+nut_graf: The Bundibugyo strain driving the outbreak has no approved antiviral or
+  vaccine. Clinicians at the unit provide supportive care, including IV fluids, oxygen,
+  blood transfusions, and treatment of secondary infections. Conflict between the
+  Congolese army and Rwandan-backed paramilitary forces, along with cuts to foreign
+  aid, has disrupted routine vaccinations and other assistance in the eastern border
+  region.
 primary_entities:
 - Democratic Republic of the Congo
 - Butembo
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,113 +149,58 @@ related_stories:
   headline: Unpaid DRC Ebola workers violate burial protocols, video shows
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7277
+  strength: 0.7298
 - slug: 2026-08-23-ebola-infections-in-drc-exceed-5-290-deaths-reach-2-516
   headline: Ebola infections in DRC exceed 5,290, deaths reach 2,516
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.7933
+  strength: 0.7944
 - slug: 2026-08-01-who-dr-congo-ebola-outbreak-surpasses-2018-2020-record
   headline: 'WHO: DR Congo Ebola outbreak surpasses 2018-2020 record'
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.8034
+  strength: 0.8038
 - slug: 2026-07-20-at-least-930-dead-in-congo-ebola-outbreak-as-37-deaths-recorded-in-single-day
-  headline: At least 930 dead in Congo Ebola outbreak as 37 deaths recorded in single day
+  headline: At least 930 dead in Congo Ebola outbreak as 37 deaths recorded in single
+    day
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7609
+  strength: 0.7629
 - slug: 2026-07-02-ebola-treatment-trial-begins-in-congo-as-bundibugyo-outbreak-grows
   headline: Ebola treatment trial begins in Congo as Bundibugyo outbreak grows
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.775
+  strength: 0.776
 - slug: 2026-06-26-cdc-raises-ebola-outbreak-response-to-highest-level
   headline: CDC raises Ebola outbreak response to highest level
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.7626
-- slug: 2026-05-17-who-declares-global-health-emergency-as-ebola-outbreak-spreads-in-congo-and-ugan
-  headline: WHO Declares Global Health Emergency as Ebola Outbreak Spreads in Congo and Uganda
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7875
+  strength: 0.7632
 - slug: 2026-05-16-congo-ebola-outbreak-prompts-who-emergency-as-cases-cross-into-uganda
   headline: Congo Ebola outbreak prompts WHO emergency as cases cross into Uganda
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.7882
-- slug: 2026-05-16-new-ebola-outbreak-in-congo-declared-pheic-a-quick-guide-to-the-virus
-  headline: New Ebola outbreak in Congo declared PHEIC; a quick guide to the virus
-  publish_date: '2026-05-16'
+  strength: 0.7892
+- slug: 2026-05-17-who-declares-global-health-emergency-as-ebola-outbreak-spreads-in-congo-and-ugan
+  headline: WHO Declares Global Health Emergency as Ebola Outbreak Spreads in Congo
+    and Uganda
+  publish_date: '2026-05-17'
   relation: related
-  strength: 0.7747
-- slug: 2026-05-16-new-ebola-outbreak-confirmed-in-eastern-congo-65-deaths-recorded
-  headline: New Ebola outbreak confirmed in eastern Congo, 65 deaths recorded
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7718
-- slug: 2026-05-16-who-declares-congo-and-uganda-ebola-outbreak-a-global-health-emergency
-  headline: WHO declares Congo and Uganda Ebola outbreak a global health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7678
-- slug: 2026-05-16-who-declares-global-health-emergency-over-rare-ebola-outbreak-in-congo-and-ugand
-  headline: WHO declares global health emergency over rare Ebola outbreak in Congo and Uganda
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7618
-- slug: 2026-05-24-suspected-ebola-cases-top-900-in-eastern-congo-as-aid-cuts-and-rebel-violence-ha
-  headline: Suspected Ebola cases top 900 in eastern Congo as aid cuts and rebel violence hamper response
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.7525
-- slug: 2026-05-16-who-declares-ebola-outbreak-in-congo-and-uganda-a-global-health-emergency
-  headline: WHO declares Ebola outbreak in Congo and Uganda a global health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7605
-- slug: 2026-05-16-death-toll-in-congo-s-new-ebola-outbreak-reaches-87-africa-cdc-says
-  headline: Death toll in Congo’s new Ebola outbreak reaches 87, Africa CDC says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7586
-- slug: 2026-05-25-challenges-in-congo-as-it-fights-to-rein-in-an-ebola-outbreak
-  headline: Challenges in Congo as it fights to rein in an Ebola outbreak
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7419
-- slug: 2026-05-16-deaths-in-eastern-congo-s-new-ebola-outbreak-climb-to-87
-  headline: Deaths in eastern Congo’s new Ebola outbreak climb to 87
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7516
-- slug: 2026-05-24-dr-congo-ebola-cases-rise-as-who-warns-risk-is-very-high
-  headline: DR Congo Ebola cases rise as WHO warns risk is “very high”
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.7425
-- slug: 2026-05-16-who-declares-congo-uganda-ebola-outbreak-public-health-emergency
-  headline: WHO declares Congo, Uganda Ebola outbreak public health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7483
-- slug: 2026-05-24-attacks-on-ebola-treatment-centers-hamper-outbreak-response-in-eastern-congo
-  headline: Attacks on Ebola treatment centers hamper outbreak response in eastern Congo
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.7345
+  strength: 0.7877
 image:
   url: /articles/2026-09-10-drc-ebola-outbreak-fills-butembo-treatment-unit-as-toll-exceeds-3-310.png
-  alt: "Illustration accompanying article: DRC Ebola outbreak fills Butembo treatment unit as toll exceeds 3,310"
+  alt: 'Illustration accompanying article: DRC Ebola outbreak fills Butembo treatment
+    unit as toll exceeds 3,310'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## DRC Ebola outbreak fills Butembo treatment unit as toll exceeds 3,310
 
 **Subtype:** fact

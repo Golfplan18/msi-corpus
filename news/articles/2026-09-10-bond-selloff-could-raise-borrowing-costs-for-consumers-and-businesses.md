@@ -2,8 +2,16 @@
 headline: Bond selloff could raise borrowing costs for consumers and businesses
 secondary_headline: Mortgage rates double pandemic levels as higher rates hit housebuilding
 publish_date: '2026-09-10'
-lede: The 10-year US Treasury note hit its highest yield since 2023 on Tuesday and registered 4.8 percent on Wednesday, up from 3.95 percent at the end of February. If the bond selloff continues, borrowing for homes, cars, credit cards and business operations could become more expensive.
-nut_graf: Americans who have faced several years of higher living costs now confront bond-market trouble that could keep costs elevated. Mortgage rates were already twice their pandemic-era levels, and higher rates had already hit housebuilding. Credit-card interest rates could also be affected, while Alex Jacquez said balances and defaults had started creeping up and more people were using credit for basic expenses.
+lede: The 10-year US Treasury note hit its highest yield since 2023 on Tuesday and
+  registered 4.8 percent on Wednesday, up from 3.95 percent at the end of February.
+  If the bond selloff continues, borrowing for homes, cars, credit cards and business
+  operations could become more expensive.
+nut_graf: Americans who have faced several years of higher living costs now confront
+  bond-market trouble that could keep costs elevated. Mortgage rates were already
+  twice their pandemic-era levels, and higher rates had already hit housebuilding.
+  Credit-card interest rates could also be affected, while Alex Jacquez said balances
+  and defaults had started creeping up and more people were using credit for basic
+  expenses.
 primary_entities:
 - US Treasury
 - Federal Reserve
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,7 +71,9 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-09-10'
-  caption: The 10-year US Treasury yield registered 4.8 percent as of September 10. The Guardian reported that the yield was 3.95 percent at the end of February and reached its highest level since 2023 on Tuesday.
+  caption: The 10-year US Treasury yield registered 4.8 percent as of September 10.
+    The Guardian reported that the yield was 3.95 percent at the end of February and
+    reached its highest level since 2023 on Tuesday.
 figures_aggregate:
   count: 1
   series_ids:
@@ -156,22 +167,23 @@ related_stories:
   headline: US 10-year Treasury yield hits 4.79% amid renewed Middle East strikes
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.8052
+  strength: 0.8048
 - slug: 2026-09-09-treasury-to-buy-back-6bn-in-bonds-as-30-year-yields-keep-climbing
   headline: Treasury to buy back $6bn in bonds as 30-year yields keep climbing
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7408
+  strength: 0.7405
 - slug: 2026-08-20-bond-sell-off-pushes-30-year-treasury-yield-to-highest-since-2007
   headline: Bond sell-off pushes 30-year Treasury yield to highest since 2007
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.8293
+  strength: 0.8294
 - slug: 2026-08-18-bond-selloff-lifts-30-year-treasury-yield-past-5-3-for-first-time-since-2007
-  headline: Bond selloff lifts 30-year Treasury yield past 5.3% for first time since 2007
+  headline: Bond selloff lifts 30-year Treasury yield past 5.3% for first time since
+    2007
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.8376
+  strength: 0.8373
 - slug: 2026-09-08-treasury-auctions-30-year-gilts-at-5-82-highest-yield-since-1998
   headline: Treasury auctions 30-year gilts at 5.82%, highest yield since 1998
   publish_date: '2026-09-08'
@@ -181,7 +193,7 @@ related_stories:
   headline: Treasury doubles bond buybacks to ease 30-year yields near 20-year high
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7895
+  strength: 0.7894
 - slug: 2026-08-17-bond-yields-rise-to-multi-year-or-multi-decade-highs-across-major-economies
   headline: Bond yields rise to multi-year or multi-decade highs across major economies
   publish_date: '2026-08-17'
@@ -191,71 +203,10 @@ related_stories:
   headline: Treasury yields rebound after Bessent announces more bond purchases
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.7165
-- slug: 2026-08-19-treasury-to-more-than-double-bond-buybacks-as-yields-hit-multi-year-highs
-  headline: Treasury to more than double bond buybacks as yields hit multi-year highs
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7339
-- slug: 2026-08-19-global-bond-selloff-drives-up-borrowing-costs-little-relief-in-sight
-  headline: Global bond selloff drives up borrowing costs, little relief in sight
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7237
-- slug: 2026-08-18-u-s-stocks-drop-across-major-indices-as-treasury-yields-and-oil-prices-climb
-  headline: U.S. stocks drop across major indices as Treasury yields and oil prices climb
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.718
-- slug: 2026-07-16-30-year-mortgage-rate-rises-to-6-55-as-iran-war-pushes-up-bond-yields
-  headline: 30-year mortgage rate rises to 6.55% as Iran war pushes up bond yields
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7138
-- slug: 2026-05-20-bond-market-sends-warning-signals-as-yields-jump-and-stocks-slump
-  headline: Bond market sends warning signals as yields jump and stocks slump
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7997
-- slug: 2026-05-19-bond-market-warning-signals-rattle-stocks-and-reshape-trump-s-risk-calculus
-  headline: Bond market warning signals rattle stocks and reshape Trump’s risk calculus
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7871
-- slug: 2026-05-23-rising-bond-yields-could-lift-mortgages-and-strain-the-economy
-  headline: Rising bond yields could lift mortgages and strain the economy
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7761
-- slug: 2026-05-19-bond-yields-surge-to-multi-year-highs-as-investors-weigh-oil-and-debt-risks
-  headline: Bond yields surge to multi-year highs as investors weigh oil and debt risks
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7524
-- slug: 2026-06-22-jgb-yields-rise-as-middle-east-uncertainty-boj-rate-hike-weigh-on-sentiment
-  headline: JGB Yields Rise as Middle East Uncertainty, BOJ Rate Hike Weigh on Sentiment
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6819
-- slug: 2026-06-05-30-year-mortgage-rate-holds-at-6-48-as-fed-s-limited-influence-frustrates-homebu
-  headline: 30-year mortgage rate holds at 6.48% as Fed's limited influence frustrates homebuyers
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6768
-- slug: 2026-05-08-spring-homebuying-season-meets-a-stubborn-6-37-mortgage-rate
-  headline: Spring homebuying season meets a stubborn 6.37% mortgage rate
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7045
-- slug: 2026-04-29-average-30-year-mortgage-rate-edges-up-to-6-3-as-housing-outlook-softens
-  headline: Average 30-year mortgage rate edges up to 6.3% as housing outlook softens
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7095
+  strength: 0.7159
 analyses:
-- '2026-09-10-treasury-buyback-fails-to-anchor-yields-as-investors-price-inflation-conflict-de'
+- 2026-09-10-treasury-buyback-fails-to-anchor-yields-as-investors-price-inflation-conflict-de
 ---
-
 ## Bond selloff could raise borrowing costs for consumers and businesses
 
 **Subtype:** fact

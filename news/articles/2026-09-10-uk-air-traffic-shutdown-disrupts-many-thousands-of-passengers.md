@@ -1,12 +1,23 @@
 ---
 headline: UK air traffic shutdown disrupts many thousands of passengers
-secondary_headline: Regulator plans review as Thursday flight data show lingering cancellations
+secondary_headline: Regulator plans review as Thursday flight data show lingering
+  cancellations
 publish_date: '2026-09-10'
-lede: 'A four-hour shutdown of the UK''s air traffic control system on Tuesday disrupted many thousands of passengers. Flight data firm Cirium said the aviation system had "stabilised significantly" by Thursday, although 54 scheduled arrivals and 47 scheduled departures remained affected.
+lede: 'A four-hour shutdown of the UK''s air traffic control system on Tuesday disrupted
+  many thousands of passengers. Flight data firm Cirium said the aviation system had
+  "stabilised significantly" by Thursday, although 54 scheduled arrivals and 47 scheduled
+  departures remained affected.
 
 
-  Aviation Minister Keir Mather called the disruption "unacceptable," and the Civil Aviation Authority will conduct an independent review. Airlines faced a bill of millions of pounds, while passengers whose separate bookings were not refundable could face additional losses.'
-nut_graf: UK and EU rules require airlines to offer rerouting or refunds after cancellations, but additional compensation does not apply when air traffic control problems are beyond an airline's control. The experience of British Airways passengers Catie and Phil Allen illustrates how separately booked accommodation, excursions and other travel arrangements can carry different terms from the cancelled flight.
+  Aviation Minister Keir Mather called the disruption "unacceptable," and the Civil
+  Aviation Authority will conduct an independent review. Airlines faced a bill of
+  millions of pounds, while passengers whose separate bookings were not refundable
+  could face additional losses.'
+nut_graf: UK and EU rules require airlines to offer rerouting or refunds after cancellations,
+  but additional compensation does not apply when air traffic control problems are
+  beyond an airline's control. The experience of British Airways passengers Catie
+  and Phil Allen illustrates how separately booked accommodation, excursions and other
+  travel arrangements can carry different terms from the cancelled flight.
 primary_entities:
 - British Airways
 - Nats
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +156,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-07-power-outage-leaves-rail-passengers-facing-further-disruption-in-england
-  headline: Power outage leaves rail passengers facing further disruption in England
-  publish_date: '2026-08-07'
+- slug: 2026-09-10-u-k-aviation-system-stabilizes-after-week-s-atc-outage
+  headline: U.K. aviation system stabilizes after week's ATC outage
+  publish_date: '2026-09-10'
   relation: related
-  strength: 0.651
+  strength: 0.693
 - slug: 2026-08-01-westjet-flight-attendants-set-to-strike-sunday-airline-cancels-flights
   headline: WestJet flight attendants set to strike Sunday, airline cancels flights
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.6597
+  strength: 0.6592
 - slug: 2026-06-01-uk-government-proposes-national-airline-blacklist-for-abusive-passengers
   headline: UK government proposes national airline blacklist for abusive passengers
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.6911
+  strength: 0.6906
 - slug: 2026-06-03-uk-bill-would-fine-airlines-that-fail-disabled-passengers
   headline: UK bill would fine airlines that fail disabled passengers
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.682
+  strength: 0.6812
 - slug: 2026-04-25-flight-canceled-amid-jet-fuel-shock-what-travelers-should-know
   headline: Flight canceled amid jet fuel shock? What travelers should know
   publish_date: '2026-04-25'
   relation: related
-  strength: 0.6888
+  strength: 0.6886
 - slug: 2026-03-15-storms-add-to-thousands-of-canceled-u-s-flights-during-shutdown
   headline: Storms add to thousands of canceled U.S. flights during shutdown
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.6935
-- slug: 2026-05-03-what-to-do-after-spirit-airlines-cancels-flights-and-shuts-down
-  headline: What to do after Spirit Airlines cancels flights and shuts down
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6447
+  strength: 0.6922
 - slug: 2026-03-01-military-strikes-on-iran-disrupt-airline-flights-across-middle-east
   headline: Military strikes on Iran disrupt airline flights across Middle East
   publish_date: '2026-03-01'
   relation: related
-  strength: 0.6733
-- slug: 2026-05-03-spirit-airlines-says-it-is-going-out-of-business-after-34-years
-  headline: Spirit Airlines says it is going out of business after 34 years
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6352
+  strength: 0.6727
 - slug: 2026-03-18-more-flight-cancellations-delays-due-to-us-storms
   headline: More flight cancellations, delays due to US storms
   publish_date: '2026-03-18'
   relation: related
-  strength: 0.6579
-- slug: 2026-03-02-attack-on-iran-closes-middle-east-airports-strands-travelers-worldwide
-  headline: Attack on Iran closes Middle East airports, strands travelers worldwide
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6552
-- slug: 2026-01-24-winter-storm-cancels-12-200-flights-here-s-what-airlines-owe-you
-  headline: Winter storm cancels 12,200+ flights; here's what airlines owe you
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6596
-- slug: 2026-01-26-winter-storm-cancels-11-400-flights-across-us
-  headline: Winter storm cancels 11,400 flights across US
-  publish_date: '2026-01-26'
-  relation: related
   strength: 0.6562
-- slug: 2026-01-25-winter-storm-cancels-11-400-flights-across-u-s
-  headline: Winter storm cancels 11,400 flights across U.S.
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.655
-- slug: 2026-03-04-iran-war-disrupts-middle-east-flights-experts-urge-travelers-to-monitor-advisori
-  headline: Iran war disrupts Middle East flights; experts urge travelers to monitor advisories
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6457
-- slug: 2026-02-17-strike-at-kenya-s-main-airport-delays-flights-as-workers-demand-pay
-  headline: Strike at Kenya’s main airport delays flights as workers demand pay
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6488
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6366
-- slug: 2026-03-19-how-to-check-airport-security-wait-times-as-tsa-goes-unpaid
-  headline: How to check airport security wait times as TSA goes unpaid
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6334
-- slug: 2026-03-31-airports-security-lines-lengthen-in-shutdown-travelers-turn-to-amtrak
-  headline: Airports security lines lengthen in shutdown, travelers turn to Amtrak
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6278
-- slug: 2026-03-20-tsa-wait-times-a-wild-card-during-dhs-shutdown-as-staffing-varies
-  headline: TSA wait times a wild card during DHS shutdown as staffing varies
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6324
 ---
-
 ## UK air traffic shutdown disrupts many thousands of passengers
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: EIA estimates U.S. oil output at record 13.9 million barrels a day
 secondary_headline: Commercial crude draw trails Wall Street Journal survey forecast
 publish_date: '2026-09-10'
-lede: The U.S. Energy Information Administration reported Thursday that commercial crude oil inventories fell by 391,000 barrels to 424.1 million barrels in the week ended Sept. 4, a smaller decline than the 1.4 million-barrel draw forecast by analysts surveyed by the Wall Street Journal. The EIA estimated that U.S. crude oil production reached a record 13.9 million barrels a day during the same week, up 85,000 barrels a day from the previous week.
-nut_graf: The EIA report also showed lower crude exports, higher imports and refinery capacity use near full capacity. Gasoline and distillate inventories increased despite forecasts for declines.
+lede: The U.S. Energy Information Administration reported Thursday that commercial
+  crude oil inventories fell by 391,000 barrels to 424.1 million barrels in the week
+  ended Sept. 4, a smaller decline than the 1.4 million-barrel draw forecast by analysts
+  surveyed by the Wall Street Journal. The EIA estimated that U.S. crude oil production
+  reached a record 13.9 million barrels a day during the same week, up 85,000 barrels
+  a day from the previous week.
+nut_graf: The EIA report also showed lower crude exports, higher imports and refinery
+  capacity use near full capacity. Gasoline and distillate inventories increased despite
+  forecasts for declines.
 primary_entities:
 - U.S. Energy Information Administration
 - Strategic Petroleum Reserve
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,7 +161,8 @@ related_stories:
   relation: related
   strength: 0.8898
 - slug: 2026-08-19-u-s-crude-stockpiles-rise-4-4-million-barrels-in-third-straight-weekly-build
-  headline: U.S. crude stockpiles rise 4.4 million barrels in third straight weekly build
+  headline: U.S. crude stockpiles rise 4.4 million barrels in third straight weekly
+    build
   publish_date: '2026-08-19'
   relation: related
   strength: 0.8822
@@ -182,68 +191,7 @@ related_stories:
   publish_date: '2026-07-01'
   relation: related
   strength: 0.8952
-- slug: 2026-08-13-oil-prices-fall-as-iea-cuts-2026-demand-forecast-below-july-projection
-  headline: Oil prices fall as IEA cuts 2026 demand forecast below July projection
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7475
-- slug: 2026-06-24-u-s-crude-inventories-fall-for-ninth-consecutive-week
-  headline: U.S. Crude Inventories Fall for Ninth Consecutive Week
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.8897
-- slug: 2026-06-17-u-s-crude-inventories-fall-8-3-million-barrels-exceeding-expectations
-  headline: U.S. Crude Inventories Fall 8.3 Million Barrels, Exceeding Expectations
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.8881
-- slug: 2026-06-10-u-s-crude-inventories-fall-for-seventh-straight-week-eia-says
-  headline: U.S. crude inventories fall for seventh straight week, EIA says
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.8891
-- slug: 2026-08-13-oil-settles-flat-as-traders-weigh-eia-data-against-hormuz-tensions
-  headline: Oil settles flat as traders weigh EIA data against Hormuz tensions
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6779
-- slug: 2026-07-09-u-s-oil-stockpiles-stay-near-operational-limits-as-trump-ends-iran-ceasefire
-  headline: U.S. oil stockpiles stay near operational limits as Trump ends Iran ceasefire
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7274
-- slug: 2026-07-28-big-oil-expected-to-earn-31-billion-in-q2-as-iran-war-boosts-crude-prices
-  headline: Big Oil Expected to Earn $31 Billion in Q2 as Iran War Boosts Crude Prices
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6658
-- slug: 2026-07-13-aging-infrastructure-and-repeated-draws-cut-strategic-petroleum-reserve-pumping-
-  headline: Aging infrastructure and repeated draws cut Strategic Petroleum Reserve pumping capacity, GAO finds
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6821
-- slug: 2026-07-17-refining-constraints-widen-gap-between-crude-oil-and-u-s-gasoline-prices
-  headline: Refining constraints widen gap between crude oil and U.S. gasoline prices
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6679
-- slug: 2026-06-17-iea-oil-demand-to-fall-1-1-million-barrels-a-day-this-year-supply-rebound-seen-i
-  headline: 'IEA: Oil demand to fall 1.1 million barrels a day this year; supply rebound seen in 2027'
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7309
-- slug: 2026-06-02-u-s-crude-exports-hit-record-5-6-million-bpd-in-may-on-asian-demand
-  headline: U.S. crude exports hit record 5.6 million bpd in May on Asian demand
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7382
-- slug: 2026-07-05-oecd-crude-stockpiles-sink-to-1990-low-as-tanker-traffic-recovers
-  headline: OECD crude stockpiles sink to 1990 low as tanker traffic recovers
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6698
 ---
-
 ## EIA estimates U.S. oil output at record 13.9 million barrels a day
 
 **Subtype:** fact

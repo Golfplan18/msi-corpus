@@ -2,8 +2,13 @@
 headline: North Carolina and 11 local entities reach $455 million PFAS settlement
 secondary_headline: Payments will span 15 years under the agreement
 publish_date: '2026-09-10'
-lede: North Carolina and 11 local entities reached a $455 million settlement with Chemours, DuPont and Corteva on Thursday over PFAS contamination claims, the Guardian reported. The claims involve Chemours' Fayetteville Works plant and other historical discharges.
-nut_graf: Lawsuits accusing major chemical companies of polluting US drinking water with PFAS have led to settlements worth billions of dollars, including one reached by Chemours, DuPont and Corteva in New Jersey last year, the Guardian reported.
+lede: North Carolina and 11 local entities reached a $455 million settlement with
+  Chemours, DuPont and Corteva on Thursday over PFAS contamination claims, the Guardian
+  reported. The claims involve Chemours' Fayetteville Works plant and other historical
+  discharges.
+nut_graf: Lawsuits accusing major chemical companies of polluting US drinking water
+  with PFAS have led to settlements worth billions of dollars, including one reached
+  by Chemours, DuPont and Corteva in New Jersey last year, the Guardian reported.
 primary_entities:
 - Chemours
 - DuPont
@@ -37,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -115,36 +121,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-26-earthjustice-sues-epa-over-approval-of-chemicals-it-found-pose-unreasonable-risk
-  headline: Earthjustice sues EPA over approval of chemicals it found pose 'unreasonable risk'
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6448
-- slug: 2026-09-03-trump-administration-stalls-first-of-its-kind-pfas-wastewater-survey
-  headline: Trump administration stalls first-of-its-kind PFAS wastewater survey
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5848
 - slug: 2026-06-24-chemours-agrees-to-450m-settlement-over-forever-chemicals-discharges
   headline: Chemours agrees to $450M settlement over 'forever chemicals' discharges
   publish_date: '2026-06-24'
   relation: related
   strength: 0.8489
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.615
-- slug: 2026-08-25-deloitte-to-pay-21-5-million-to-settle-doj-fraud-probe-over-dei-practices
-  headline: Deloitte to pay $21.5 million to settle DOJ fraud probe over DEI practices
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5814
-- slug: 2026-07-28-johnson-johnson-pays-5-5-billion-to-settle-talc-cancer-lawsuits
-  headline: Johnson & Johnson pays $5.5 billion to settle talc cancer lawsuits
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6384
 - slug: 2026-07-09-letitia-james-files-pfas-suit-against-3m-dupont-chemours-corteva
   headline: Letitia James files PFAS suit against 3M, DuPont, Chemours, Corteva
   publish_date: '2026-07-09'
@@ -155,68 +136,13 @@ related_stories:
   publish_date: '2026-07-10'
   relation: related
   strength: 0.6506
-- slug: 2026-07-08-fda-rejects-petition-to-set-pfas-limits-in-food-group-plans-lawsuit
-  headline: FDA rejects petition to set PFAS limits in food, group plans lawsuit
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.618
-- slug: 2026-07-20-epa-scraps-proposed-pfas-limits-on-sewage-sludge-used-as-farm-fertilizer
-  headline: EPA scraps proposed PFAS limits on sewage sludge used as farm fertilizer
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5843
-- slug: 2026-06-11-federal-government-to-pay-north-dakota-28m-in-dakota-access-lawsuit
-  headline: Federal government to pay North Dakota $28M in Dakota Access lawsuit
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5954
 - slug: 2026-03-05-vermont-bill-would-bar-landfill-leachate-from-lake-memphremagog-over-pfas-fears
-  headline: Vermont bill would bar landfill leachate from Lake Memphremagog over PFAS fears
+  headline: Vermont bill would bar landfill leachate from Lake Memphremagog over PFAS
+    fears
   publish_date: '2026-03-05'
   relation: related
   strength: 0.652
-- slug: 2026-03-18-wisconsin-senate-sends-133m-pfas-package-to-gov-tony-evers
-  headline: Wisconsin Senate sends $133M PFAS package to Gov. Tony Evers
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6449
-- slug: 2026-05-08-investigation-finds-georgia-knew-carpet-mill-chemicals-were-polluting-water
-  headline: Investigation finds Georgia knew carpet mill chemicals were polluting water
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.61
-- slug: 2026-02-21-pacificorp-settles-federal-wildfire-claims-for-575-million
-  headline: PacifiCorp settles federal wildfire claims for $575 million
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6413
-- slug: 2026-02-05-forever-chemicals-expose-private-well-owners-as-testing-remains-spotty
-  headline: Forever chemicals expose private well owners as testing remains spotty
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6441
-- slug: 2026-04-17-supreme-court-sends-louisiana-environmental-lawsuit-to-federal-court
-  headline: Supreme Court sends Louisiana environmental lawsuit to federal court
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.617
-- slug: 2026-05-18-sheridan-oregon-tests-river-after-wood-treater-released-toxic-chemicals
-  headline: Sheridan, Oregon tests river after wood treater released toxic chemicals
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5805
-- slug: 2026-02-01-south-s-carpet-industry-has-a-toxic-forever-chemical-legacy
-  headline: South’s carpet industry has a toxic forever chemical legacy
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6293
-- slug: 2026-05-08-epa-to-propose-rolling-back-some-biden-era-pfas-limits-in-drinking-water
-  headline: EPA to propose rolling back some Biden-era PFAS limits in drinking water
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5834
 ---
-
 ## North Carolina and 11 local entities reach $455 million PFAS settlement
 
 **Subtype:** fact

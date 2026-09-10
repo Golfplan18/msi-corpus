@@ -1,9 +1,19 @@
 ---
 headline: Latin America projected to grow 2.2% in 2026, ECLAC says
-secondary_headline: If forecast holds, five-year growth pace will remain insufficient, ECLAC says
+secondary_headline: If forecast holds, five-year growth pace will remain insufficient,
+  ECLAC says
 publish_date: '2026-09-10'
-lede: The U.N. Economic Commission for Latin America and the Caribbean projects Latin America and the Caribbean will grow 2.2% in 2026, down from 2.4% in 2025, economist César Addario Soljancic wrote in a United Press International analysis published Sept. 10. If the forecast holds, the region will have averaged roughly 2.3% growth across five consecutive years — a pace ECLAC considers insufficient to produce sustained increases in per capita income or close development gaps.
-nut_graf: Soljancic characterized the modest forecast and deeper structural constraints as placing Latin America at an economic crossroads in 2026, with the region's history of commodity dependence, industrialization experiments and market-oriented reforms offering cautionary lessons alongside remaining opportunities in nearshoring and the global energy transition.
+lede: The U.N. Economic Commission for Latin America and the Caribbean projects Latin
+  America and the Caribbean will grow 2.2% in 2026, down from 2.4% in 2025, economist
+  César Addario Soljancic wrote in a United Press International analysis published
+  Sept. 10. If the forecast holds, the region will have averaged roughly 2.3% growth
+  across five consecutive years — a pace ECLAC considers insufficient to produce sustained
+  increases in per capita income or close development gaps.
+nut_graf: Soljancic characterized the modest forecast and deeper structural constraints
+  as placing Latin America at an economic crossroads in 2026, with the region's history
+  of commodity dependence, industrialization experiments and market-oriented reforms
+  offering cautionary lessons alongside remaining opportunities in nearshoring and
+  the global energy transition.
 primary_entities:
 - César Addario Soljancic
 - Economic Commission for Latin America and the Caribbean
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +155,46 @@ related_stories:
   headline: Latin America stuck in low-growth trap, ECLAC projects 2.2% for 2026
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8772
+  strength: 0.8778
 - slug: 2026-08-13-latin-america-projected-to-grow-2-4-in-2026-amid-commodity-volatility
   headline: Latin America projected to grow 2.4% in 2026 amid commodity volatility
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.8361
+  strength: 0.8357
 - slug: 2026-09-08-latin-america-s-pisa-scores-decline-further-in-2025-results
   headline: Latin America's PISA scores decline further in 2025 results
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6656
+  strength: 0.6639
 - slug: 2026-07-16-latin-america-stuck-at-low-growth-as-region-enters-fourth-straight-weak-year
-  headline: Latin America stuck at low growth as region enters fourth straight weak year
+  headline: Latin America stuck at low growth as region enters fourth straight weak
+    year
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.8686
-- slug: 2026-09-01-latin-american-marriage-and-birth-rates-decline-official-data-show
-  headline: Latin American marriage and birth rates decline, official data show
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6394
-- slug: 2026-09-01-twelve-economists-project-bank-of-canada-will-hold-rate-at-2-25-on-wednesday
-  headline: Twelve economists project Bank of Canada will hold rate at 2.25% on Wednesday
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6241
+  strength: 0.8674
 - slug: 2026-06-24-us-investment-in-latin-america-fell-11-in-2025-eclac-says
   headline: US investment in Latin America fell 11% in 2025, ECLAC says
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.7939
-- slug: 2026-07-30-us-economy-slows-to-1-5-annual-growth-in-second-quarter
-  headline: US economy slows to 1.5% annual growth in second quarter
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6334
-- slug: 2026-07-28-mondelez-lifts-organic-revenue-growth-outlook-to-at-least-2-on-latin-america-str
-  headline: Mondelez lifts organic revenue growth outlook to at least 2% on Latin America strength
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6177
-- slug: 2026-07-15-china-s-q2-growth-cools-to-4-3-missing-forecasts
-  headline: China's Q2 growth cools to 4.3%, missing forecasts
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6172
-- slug: 2026-07-09-arocena-argues-globalization-lifted-global-poor-departing-from-dependency-theory
-  headline: Arocena argues globalization lifted global poor, departing from dependency theory
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.633
+  strength: 0.7944
 - slug: 2026-06-25-argentina-posts-second-annual-surplus-as-reform-credibility-tested
   headline: Argentina posts second annual surplus as reform credibility tested
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6592
+  strength: 0.6599
 - slug: 2026-06-26-latin-america-s-informal-economy-weakens-democratic-institutions-analyst-says
-  headline: Latin America's informal economy weakens democratic institutions, analyst says
+  headline: Latin America's informal economy weakens democratic institutions, analyst
+    says
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6571
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6194
+  strength: 0.656
 - slug: 2026-06-14-us-economy-resilient-through-trade-turmoil-and-energy-shocks-economists-say
-  headline: US economy resilient through trade turmoil and energy shocks, economists say
+  headline: US economy resilient through trade turmoil and energy shocks, economists
+    say
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.6636
-- slug: 2026-06-09-imf-warns-costa-rica-on-pension-reserves-security-risks-in-favorable-review
-  headline: IMF warns Costa Rica on pension reserves, security risks in favorable review
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6657
-- slug: 2026-06-27-canada-slips-into-technical-recession-as-carney-urges-patience
-  headline: Canada slips into technical recession as Carney urges patience
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6177
-- slug: 2026-06-04-paraguay-emerges-as-investment-alternative-amid-global-trade-uncertainty
-  headline: Paraguay emerges as investment alternative amid global trade uncertainty
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6314
-- slug: 2026-02-26-imf-says-u-s-growth-is-set-to-accelerate-but-warns-tariffs-and-debt-add-risk
-  headline: IMF says U.S. growth is set to accelerate, but warns tariffs and debt add risk
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.649
-- slug: 2026-02-25-imf-says-u-s-economy-is-buoyant-but-tariffs-and-debt-raise-risks
-  headline: IMF says U.S. economy is buoyant, but tariffs and debt raise risks
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6391
+  strength: 0.6629
 ---
-
 ## Latin America projected to grow 2.2% in 2026, ECLAC says
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: Visitors gather at Ground Zero memorial ahead of 9/11's 25th anniversary
 secondary_headline: Twin tower footprints hold 2,977 victim names on bronze panels
 publish_date: '2026-09-10'
-lede: Last week, visitors from across the United States and around the world gathered at the National September 11 Memorial and Museum in lower Manhattan ahead of the 25th anniversary of the September 11, 2001 attacks. Many said they felt compelled to pay their respects, while one visitor said the memorial was part of a cruise ship itinerary.
-nut_graf: Visitors reflected on those who died, their memories of learning about the attacks and the memorial's significance. The site has served for 15 years as a place of remembrance and, for some visitors, a secular pilgrimage, though others rejected that description of their trips.
+lede: Last week, visitors from across the United States and around the world gathered
+  at the National September 11 Memorial and Museum in lower Manhattan ahead of the
+  25th anniversary of the September 11, 2001 attacks. Many said they felt compelled
+  to pay their respects, while one visitor said the memorial was part of a cruise
+  ship itinerary.
+nut_graf: Visitors reflected on those who died, their memories of learning about the
+  attacks and the memorial's significance. The site has served for 15 years as a place
+  of remembrance and, for some visitors, a secular pilgrimage, though others rejected
+  that description of their trips.
 primary_entities:
 - National September 11 Memorial and Museum
 - Ground Zero
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -121,104 +129,13 @@ related_stories:
   headline: 25 years after 9/11, grief and meaning still vary across America
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.665
-- slug: 2026-09-09-sal-argano-last-2001-firefighter-at-nyc-9-11-firehouse-still-on-duty
-  headline: Sal Argano, last 2001 firefighter at NYC 9/11 firehouse, still on duty
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6419
-- slug: 2026-09-08-tunnel-to-towers-brings-south-tower-beam-to-ellipse-for-9-11-tribute
-  headline: Tunnel to Towers brings South Tower beam to Ellipse for 9/11 tribute
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6228
-- slug: 2026-09-08-teachers-gather-at-flight-93-memorial-to-plan-9-11-lessons
-  headline: Teachers gather at Flight 93 memorial to plan 9/11 lessons
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6177
-- slug: 2026-09-07-mamdani-to-attend-9-11-ceremony-giuliani-said-he-should-skip
-  headline: Mamdani to attend 9/11 ceremony; Giuliani said he should skip
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6211
+  strength: 0.6656
 - slug: 2026-08-28-trump-to-observe-9-11-anniversary-at-pentagon-vance-to-attend-nyc-ceremony
   headline: Trump to observe 9/11 anniversary at Pentagon; Vance to attend NYC ceremony
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6789
-- slug: 2026-09-04-mamdani-to-designate-sept-11-as-nyc-day-of-remembrance-and-service
-  headline: Mamdani to designate Sept. 11 as NYC Day of Remembrance and Service
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6311
-- slug: 2026-09-09-guardian-lists-six-trump-9-11-claims-it-says-lack-supporting-evidence
-  headline: Guardian lists six Trump 9/11 claims it says lack supporting evidence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5809
-- slug: 2026-08-14-guardian-opens-reader-callout-on-9-11-legacy-ahead-of-25th-anniversary
-  headline: Guardian opens reader callout on 9/11 legacy ahead of 25th anniversary
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6185
-- slug: 2026-08-13-u-s-park-police-investigate-world-war-ii-memorial-vandalism-on-national-mall
-  headline: U.S. Park Police investigate World War II Memorial vandalism on National Mall
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5759
-- slug: 2026-07-04-nation-marks-250th-birthday-with-coast-to-coast-celebrations-heat-cancellations
-  headline: Nation marks 250th birthday with coast-to-coast celebrations, heat cancellations
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.5765
-- slug: 2026-07-05-thunderstorms-force-evacuation-of-national-mall-before-trump-speech
-  headline: Thunderstorms force evacuation of National Mall before Trump speech
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5698
-- slug: 2026-07-03-as-us-marks-250-years-communities-and-historians-broaden-accounts-of-the-nation-
-  headline: As US marks 250 years, communities and historians broaden accounts of the nation's founding
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5696
-- slug: 2026-07-02-1976-bicentennial-brought-parades-tall-ships-nationwide-bell-ringing
-  headline: 1976 Bicentennial brought parades, tall ships, nationwide bell ringing
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5623
-- slug: 2026-04-28-king-charles-iii-and-camilla-visit-new-york-s-9-11-memorial-during-us-trip
-  headline: King Charles III and Camilla visit New York’s 9/11 memorial during US trip
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6413
-- slug: 2026-06-03-america-prepares-for-250th-birthday-celebrations-amid-politicization-concerns
-  headline: America prepares for 250th birthday celebrations amid politicization concerns
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.566
-- slug: 2026-05-20-11-sites-join-list-of-america-s-most-endangered-historic-places
-  headline: 11 sites join list of America’s most endangered historic places
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.568
-- slug: 2026-01-09-new-sept-11-visitor-center-planned-near-pentagon-for-mid-2029
-  headline: New Sept. 11 visitor center planned near Pentagon for mid-2029
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6251
-- slug: 2026-05-21-11-most-endangered-u-s-historic-places-include-stonewall-and-women-s-rights-park
-  headline: 11 most endangered U.S. historic places include Stonewall and Women’s rights park
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5655
-- slug: 2026-05-15-black-divers-honor-ancestors-at-underwater-memorial-to-sunken-slave-ship
-  headline: Black divers honor ancestors at underwater memorial to sunken slave ship
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5689
+  strength: 0.6787
 ---
-
 ## Visitors gather at Ground Zero memorial ahead of 9/11's 25th anniversary
 
 **Subtype:** fact

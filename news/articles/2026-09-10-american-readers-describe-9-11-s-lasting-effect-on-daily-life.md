@@ -2,8 +2,13 @@
 headline: American readers describe 9/11's lasting effect on daily life
 secondary_headline: Surveillance, wars and Islamophobia named as lasting impacts
 publish_date: '2026-09-10'
-lede: The Guardian has published American readers' accounts of how the September 11, 2001 terrorist attacks affected their day-to-day lives and the country at large as the United States commemorates the attacks' 25th anniversary. The attacks killed nearly 3,000 people in New York City, Washington, DC, and Pennsylvania.
-nut_graf: Readers identified the Patriot Act and the Aviation and Transportation Security Act as tangible daily-life legacies of the attacks and described a brief surge of patriotism that gave way to anger and division over the Iraq and Afghanistan wars.
+lede: The Guardian has published American readers' accounts of how the September 11,
+  2001 terrorist attacks affected their day-to-day lives and the country at large
+  as the United States commemorates the attacks' 25th anniversary. The attacks killed
+  nearly 3,000 people in New York City, Washington, DC, and Pennsylvania.
+nut_graf: Readers identified the Patriot Act and the Aviation and Transportation Security
+  Act as tangible daily-life legacies of the attacks and described a brief surge of
+  patriotism that gave way to anger and division over the Iraq and Afghanistan wars.
 primary_entities:
 - The Guardian
 - United States
@@ -41,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +149,23 @@ related_stories:
   headline: 25 years after 9/11, grief and meaning still vary across America
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.6934
+  strength: 0.6927
 - slug: 2026-09-10-visitors-gather-at-ground-zero-memorial-ahead-of-9-11-s-25th-anniversary
   headline: Visitors gather at Ground Zero memorial ahead of 9/11's 25th anniversary
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6706
+  strength: 0.6697
 - slug: 2026-09-08-teachers-gather-at-flight-93-memorial-to-plan-9-11-lessons
   headline: Teachers gather at Flight 93 memorial to plan 9/11 lessons
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6563
-- slug: 2026-09-08-confidence-in-presidency-falls-to-27-from-55-in-2003
-  headline: Confidence in presidency falls to 27% from 55% in 2003
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6425
-- slug: 2026-09-09-guardian-lists-six-trump-9-11-claims-it-says-lack-supporting-evidence
-  headline: Guardian lists six Trump 9/11 claims it says lack supporting evidence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6081
+  strength: 0.6557
 - slug: 2026-08-14-guardian-opens-reader-callout-on-9-11-legacy-ahead-of-25th-anniversary
   headline: Guardian opens reader callout on 9/11 legacy ahead of 25th anniversary
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7159
-- slug: 2026-09-04-mamdani-to-designate-sept-11-as-nyc-day-of-remembrance-and-service
-  headline: Mamdani to designate Sept. 11 as NYC Day of Remembrance and Service
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5779
-- slug: 2026-08-28-trump-to-observe-9-11-anniversary-at-pentagon-vance-to-attend-nyc-ceremony
-  headline: Trump to observe 9/11 anniversary at Pentagon; Vance to attend NYC ceremony
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5717
-- slug: 2026-07-28-war-s-costs-ripple-through-american-households-as-campaign-enters-sixth-month
-  headline: War's costs ripple through American households as campaign enters sixth month
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5742
-- slug: 2026-07-18-american-jews-divide-sharply-on-israel-identity-and-politics
-  headline: American Jews divide sharply on Israel, identity, and politics
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5753
-- slug: 2026-05-18-fear-of-flying-increases-after-washington-collision-kills-67
-  headline: Fear of flying increases after Washington collision kills 67
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5904
-- slug: 2026-05-21-as-america-hits-250-many-brits-say-one-man-defines-it-trump
-  headline: 'As America hits 250, many Brits say one man defines it: Trump'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5699
-- slug: 2026-05-06-ap-norc-poll-finds-many-americans-changed-routines-as-trump-ramps-immigration-en
-  headline: AP-NORC poll finds many Americans changed routines as Trump ramps immigration enforcement
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5796
-- slug: 2026-05-05-many-know-someone-affected-by-trump-immigration-push-new-ap-norc-poll
-  headline: 'Many know someone affected by Trump immigration push: new AP-NORC poll'
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5786
-- slug: 2026-05-07-many-americans-say-trump-s-immigration-crackdown-makes-u-s-unwelcoming-poll
-  headline: 'Many Americans say Trump’s immigration crackdown makes U.S. unwelcoming: poll'
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5762
-- slug: 2026-03-31-airports-security-lines-lengthen-in-shutdown-travelers-turn-to-amtrak
-  headline: Airports security lines lengthen in shutdown, travelers turn to Amtrak
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5982
-- slug: 2026-04-15-america-at-250-visitors-reflect-as-declaration-stirs-hope-and-doubt
-  headline: 'America at 250: visitors reflect as Declaration stirs hope and doubt'
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5735
-- slug: 2026-03-06-americans-stranded-in-middle-east-find-little-u-s-help-as-war-disrupts-regional-
-  headline: Americans stranded in Middle East find little U.S. help as war disrupts regional flights
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.5879
-- slug: 2026-01-25-ntsb-details-yearlong-aftermath-of-army-helicopter-american-jet-crash
-  headline: NTSB details yearlong aftermath of Army helicopter, American jet crash
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.5967
-- slug: 2026-03-29-iran-faces-bombs-and-uncertainty-a-month-into-the-war
-  headline: Iran faces bombs and uncertainty a month into the war
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.5724
+  strength: 0.7168
 ---
-
 ## American readers describe 9/11's lasting effect on daily life
 
 **Subtype:** fact

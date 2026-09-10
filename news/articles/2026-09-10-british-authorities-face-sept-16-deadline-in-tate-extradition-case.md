@@ -1,9 +1,16 @@
 ---
 headline: British authorities face Sept. 16 deadline in Tate extradition case
-secondary_headline: Romania indicts brothers on sex trafficking and money laundering charges
+secondary_headline: Romania indicts brothers on sex trafficking and money laundering
+  charges
 publish_date: '2026-09-10'
-lede: British authorities have until Sept. 16 to file a formal request to extradite Andrew and Tristan Tate, who face 59 criminal charges including rape, human trafficking and sexual exploitation. The deadline falls 60 days after the brothers were arrested in Miami on July 18 following the filing of new British charges.
-nut_graf: Romania also indicted the brothers on sex trafficking and money laundering charges on Sept. 4. The brothers have denied the allegations against them, while four British women are bringing civil suits against Andrew Tate alleging rape and assault.
+lede: British authorities have until Sept. 16 to file a formal request to extradite
+  Andrew and Tristan Tate, who face 59 criminal charges including rape, human trafficking
+  and sexual exploitation. The deadline falls 60 days after the brothers were arrested
+  in Miami on July 18 following the filing of new British charges.
+nut_graf: Romania also indicted the brothers on sex trafficking and money laundering
+  charges on Sept. 4. The brothers have denied the allegations against them, while
+  four British women are bringing civil suits against Andrew Tate alleging rape and
+  assault.
 primary_entities:
 - Andrew Tate
 - Tristan Tate
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +151,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-09-federal-judge-denies-bail-to-andrew-and-tristan-tate-in-u-k-extradition-case
-  headline: Federal judge denies bail to Andrew and Tristan Tate in U.K. extradition case
+  headline: Federal judge denies bail to Andrew and Tristan Tate in U.K. extradition
+    case
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.8178
+  strength: 0.8184
 - slug: 2026-08-27-federal-judge-weighs-tate-brothers-detention-in-uk-extradition-case
   headline: Federal judge weighs Tate brothers' detention in UK extradition case
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8061
+  strength: 0.8064
 - slug: 2026-08-13-miami-detention-hearing-set-for-tate-brothers-in-uk-extradition-case
   headline: Miami detention hearing set for Tate brothers in UK extradition case
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.8213
+  strength: 0.8211
 - slug: 2026-08-25-tate-brothers-lawyers-say-andrew-exaggerated-wealth-in-social-media-posts
   headline: Tate brothers' lawyers say Andrew exaggerated wealth in social media posts
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7282
+  strength: 0.7283
 - slug: 2026-07-27-tate-brothers-attorneys-to-meet-prosecutors-on-uk-extradition-schedule
   headline: Tate brothers' attorneys to meet prosecutors on UK extradition schedule
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.8181
+  strength: 0.8173
 - slug: 2026-07-19-uk-prosecutors-file-new-sex-offence-charges-against-tate-brothers
   headline: UK prosecutors file new sex offence charges against Tate brothers
   publish_date: '2026-07-19'
   relation: related
-  strength: 0.8347
+  strength: 0.834
 - slug: 2026-07-20-tate-brothers-to-fight-uk-extradition-on-trafficking-charges
   headline: Tate brothers to fight UK extradition on trafficking charges
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.8014
+  strength: 0.8013
 - slug: 2026-07-18-andrew-and-tristan-tate-arrested-in-miami-on-us-warrant
   headline: Andrew and Tristan Tate arrested in Miami on US warrant
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7996
-- slug: 2026-08-12-white-house-declines-to-intervene-in-tate-brothers-u-k-extradition
-  headline: White House declines to intervene in Tate brothers' U.K. extradition
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6949
-- slug: 2026-09-03-lawyers-mobilize-to-free-migrant-children-held-in-us-custody
-  headline: Lawyers mobilize to free migrant children held in US custody
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5646
-- slug: 2026-08-12-more-than-60-000-canadians-sign-petition-to-expel-us-ambassador
-  headline: More than 60,000 Canadians sign petition to expel US ambassador
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5715
-- slug: 2026-07-02-alleged-scattered-spider-hacker-extradited-to-us-from-finland
-  headline: Alleged Scattered Spider hacker extradited to US from Finland
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5646
-- slug: 2026-06-25-wyden-accuses-hhs-of-preparing-to-deport-more-than-500-migrant-children
-  headline: Wyden accuses HHS of preparing to deport more than 500 migrant children
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.561
-- slug: 2026-05-20-us-indicts-former-cuban-president-ra-l-castro-over-1996-aircraft-downing
-  headline: US indicts former Cuban President Raúl Castro over 1996 aircraft downing
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5759
-- slug: 2026-05-18-u-s-indicts-former-cuban-president-ra-l-castro-over-1996-plane-shootdown
-  headline: U.S. indicts former Cuban President Raúl Castro over 1996 plane shootdown
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5735
-- slug: 2026-05-19-u-s-justice-department-seeks-ra-l-castro-indictment-over-1996-exile-plane-shootd
-  headline: U.S. Justice Department seeks Raúl Castro indictment over 1996 exile plane shootdown
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5712
-- slug: 2026-05-22-us-indicts-former-cuban-president-ra-l-castro-over-1996-plane-shootdown
-  headline: US indicts former Cuban president Raúl Castro over 1996 plane shootdown
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5621
-- slug: 2026-05-20-u-s-indicts-ra-l-castro-over-1996-shootdown-of-exile-planes
-  headline: U.S. indicts Raúl Castro over 1996 shootdown of exile planes
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5628
-- slug: 2026-03-09-alexander-brothers-convicted-of-sex-trafficking-in-manhattan-federal-court
-  headline: Alexander brothers convicted of sex trafficking in Manhattan federal court
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6065
-- slug: 2026-03-05-jury-begins-deliberating-in-alexander-brothers-sex-trafficking-trial
-  headline: Jury begins deliberating in Alexander brothers sex trafficking trial
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.605
+  strength: 0.7987
 ---
-
 ## British authorities face Sept. 16 deadline in Tate extradition case
 
 **Subtype:** fact

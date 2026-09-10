@@ -1,9 +1,20 @@
 ---
 headline: O'Leary says no part of passenger's body passed through broken window
-secondary_headline: Shareholders approve potential €150m package tied to targets and tenure
+secondary_headline: Shareholders approve potential €150m package tied to targets and
+  tenure
 publish_date: '2026-09-10'
-lede: Ryanair chief executive Michael O'Leary said Thursday that the airline will dispute claims that any part of passenger Ljubisa Karović's body was sucked outside when a window shattered during a July flight from Greece to Germany. Karović's lawyer said the 61-year-old Serbian businessman's head and right arm went through the opening, while O'Leary said Karović was pulled toward it but remained inside the aircraft. The aircraft landed in Greece after the incident.
-nut_graf: Karović was severely injured in the incident. The US National Transportation Safety Board is leading the accident investigation, with Boeing's 737 aircraft, engine manufacturer GE and Ryanair involved. O'Leary made the comments around the airline's annual meeting in Dublin, where about a third of shareholders opposed a package potentially worth €150m (£129m) if he meets profit and share-price targets and stays at the airline until 2032.
+lede: Ryanair chief executive Michael O'Leary said Thursday that the airline will
+  dispute claims that any part of passenger Ljubisa Karović's body was sucked outside
+  when a window shattered during a July flight from Greece to Germany. Karović's lawyer
+  said the 61-year-old Serbian businessman's head and right arm went through the opening,
+  while O'Leary said Karović was pulled toward it but remained inside the aircraft.
+  The aircraft landed in Greece after the incident.
+nut_graf: Karović was severely injured in the incident. The US National Transportation
+  Safety Board is leading the accident investigation, with Boeing's 737 aircraft,
+  engine manufacturer GE and Ryanair involved. O'Leary made the comments around the
+  airline's annual meeting in Dublin, where about a third of shareholders opposed
+  a package potentially worth €150m (£129m) if he meets profit and share-price targets
+  and stays at the airline until 2032.
 primary_entities:
 - Michael O'Leary
 - Ryanair
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +159,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-10-uk-air-traffic-shutdown-disrupts-many-thousands-of-passengers
-  headline: UK air traffic shutdown disrupts many thousands of passengers
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5778
 - slug: 2026-07-20-cfo-says-ryanair-fleet-safe-after-window-nearly-pulls-passenger-from-plane
   headline: CFO says Ryanair fleet safe after window nearly pulls passenger from plane
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7962
-- slug: 2026-09-08-jaguar-land-rover-cuts-4-000-jobs-gas-hits-labor-day-record
-  headline: Jaguar Land Rover cuts 4,000 jobs; gas hits Labor Day record
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5486
+  strength: 0.7955
 - slug: 2026-08-13-ntsb-finds-bird-remains-in-ryanair-engine-that-failed-over-greece
   headline: NTSB finds bird remains in Ryanair engine that failed over Greece
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6741
-- slug: 2026-08-14-italian-fighter-downs-drone-in-latvian-airspace-nato-investigates
-  headline: Italian fighter downs drone in Latvian airspace, NATO investigates
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5564
+  strength: 0.6739
 - slug: 2026-05-18-ryanair-ceo-dismisses-musk-s-offer-to-buy-airline-amid-starlink-feud
   headline: Ryanair CEO dismisses Musk's offer to buy airline amid Starlink feud
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.658
-- slug: 2026-07-07-judge-allows-contract-claims-in-united-airlines-windowless-seat-lawsuit-to-proce
-  headline: Judge allows contract claims in United Airlines windowless-seat lawsuit to proceed
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5682
-- slug: 2026-06-23-rory-kennedy-s-new-film-freefall-revisits-boeing-after-whistleblower-s-death
-  headline: Rory Kennedy’s new film ‘Freefall’ revisits Boeing after whistleblower’s death
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5782
-- slug: 2026-06-03-uk-bill-would-fine-airlines-that-fail-disabled-passengers
-  headline: UK bill would fine airlines that fail disabled passengers
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6002
-- slug: 2026-05-05-united-plane-avoids-catastrophe-after-hitting-truck-light-pole-in-newark
-  headline: United plane avoids catastrophe after hitting truck, light pole in Newark
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5876
-- slug: 2026-06-01-uk-government-proposes-national-airline-blacklist-for-abusive-passengers
-  headline: UK government proposes national airline blacklist for abusive passengers
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5556
-- slug: 2026-05-31-united-flight-to-spain-returns-to-newark-after-possible-security-threat
-  headline: United flight to Spain returns to Newark after possible security threat
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5546
-- slug: 2026-05-21-relaxed-inspections-may-have-contributed-to-engine-falling-off-ups-plane
-  headline: Relaxed inspections may have contributed to engine falling off UPS plane
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5494
-- slug: 2026-04-28-united-ceo-scott-kirby-confirms-he-approached-american-about-merger
-  headline: United CEO Scott Kirby confirms he approached American about merger
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5651
-- slug: 2026-05-15-greece-rejects-uk-biometric-check-exemption-but-airports-can-suspend-scans-durin
-  headline: Greece rejects UK biometric-check exemption, but airports can suspend scans during peak travel
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5489
-- slug: 2026-05-03-spirit-airlines-says-it-is-going-out-of-business-after-34-years
-  headline: Spirit Airlines says it is going out of business after 34 years
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5554
-- slug: 2026-05-02-trump-says-a-spirit-airlines-bailout-deal-still-is-possible
-  headline: Trump says a Spirit Airlines bailout deal still is possible
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5537
-- slug: 2026-05-06-with-its-planes-grounded-spirit-secures-court-approval-to-sell-assets
-  headline: With its planes grounded, Spirit secures court approval to sell assets
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5475
-- slug: 2026-05-03-from-rock-bottom-fares-to-final-flight-spirit-airlines-ends-34-year-run
-  headline: 'From rock-bottom fares to final flight: Spirit Airlines ends 34-year run'
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5485
-- slug: 2026-02-27-convicted-stowaway-svetlana-dali-arrested-again-after-newark-to-milan-trip
-  headline: Convicted stowaway Svetlana Dali arrested again after Newark-to-Milan trip
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.5736
+  strength: 0.6572
 ---
-
 ## O'Leary says no part of passenger's body passed through broken window
 
 **Subtype:** fact

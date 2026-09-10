@@ -2,8 +2,15 @@
 headline: Apple launches $1,999 foldable iPhone Duo; Meta debuts Muse AI agent
 secondary_headline: SoftBank repays $25.9 billion OpenAI bridge loan early
 publish_date: '2026-09-10'
-lede: Apple launched its long-awaited foldable iPhone Duo at $1,999 at its fall product showcase, while Meta Platforms unveiled Muse, a personal AI agent designed to handle tasks from booking appointments to monitoring home security cameras. The announcements from two of tech's largest companies came as analysts circulated notes on a range of other names, from SoftBank's $25.9 billion OpenAI bridge-loan repayment to an emerging supply bottleneck in optical components underpinning AI data centers.
-nut_graf: The product launches and analyst notes illustrated the breadth of investor focus across the technology sector, from consumer devices and AI agents to the physical materials underpinning data-center build-outs.
+lede: Apple launched its long-awaited foldable iPhone Duo at $1,999 at its fall product
+  showcase, while Meta Platforms unveiled Muse, a personal AI agent designed to handle
+  tasks from booking appointments to monitoring home security cameras. The announcements
+  from two of tech's largest companies came as analysts circulated notes on a range
+  of other names, from SoftBank's $25.9 billion OpenAI bridge-loan repayment to an
+  emerging supply bottleneck in optical components underpinning AI data centers.
+nut_graf: The product launches and analyst notes illustrated the breadth of investor
+  focus across the technology sector, from consumer devices and AI agents to the physical
+  materials underpinning data-center build-outs.
 primary_entities:
 - Apple
 - Meta Platforms
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -80,108 +88,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-09-10-apple-unveils-first-foldable-iphone-as-john-ternus-takes-over
+  headline: Apple unveils first foldable iPhone as John Ternus takes over
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.7473
 - slug: 2026-09-09-ternus-prepares-first-apple-event-as-ceo-foldable-iphone-widely-expected
   headline: Ternus prepares first Apple event as CEO, foldable iPhone widely expected
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6808
+  strength: 0.6827
 - slug: 2026-09-08-meta-launches-muse-personal-ai-agent-for-us-adults-18-and-older
   headline: Meta launches Muse personal AI agent for US adults 18 and older
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6717
-- slug: 2026-08-31-tech-analyst-notes-span-tencent-ai-release-fed-capex-comments
-  headline: Tech analyst notes span Tencent AI release, Fed capex comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6131
+  strength: 0.6724
 - slug: 2026-07-12-analysts-expect-200-iphone-18-pro-price-hike-this-fall
   headline: Analysts expect $200 iPhone 18 Pro price hike this fall
   publish_date: '2026-07-12'
   relation: related
-  strength: 0.6679
-- slug: 2026-07-25-u-s-companies-ditch-pricey-ai-models-for-cheaper-alternatives
-  headline: U.S. companies ditch pricey AI models for cheaper alternatives
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6162
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6238
-- slug: 2026-06-21-apple-faces-unavoidable-price-increases-as-ai-demand-drives-up-memory-chip-costs
-  headline: Apple faces unavoidable price increases as AI demand drives up memory chip costs
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6487
-- slug: 2026-06-08-apple-unveils-overhauled-siri-ai-as-tim-cook-bids-farewell-at-wwdc
-  headline: Apple unveils overhauled Siri AI as Tim Cook bids farewell at WWDC
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6496
-- slug: 2026-06-09-apple-unveils-ai-revamp-tencent-positions-weixin-as-ai-gateway
-  headline: Apple unveils AI revamp, Tencent positions Weixin as AI gateway
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6475
-- slug: 2026-06-17-iphone-18-pro-price-could-rise-to-1-299-as-memory-chip-costs-quadruple
-  headline: iPhone 18 Pro price could rise to $1,299 as memory chip costs quadruple
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6339
-- slug: 2026-05-06-wwdc-apple-enters-ai-race-with-new-iphone-features-and-chatgpt-deal
-  headline: 'WWDC: Apple enters AI race with new iPhone features and ChatGPT deal'
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6454
-- slug: 2026-06-02-microsoft-tests-wearable-ai-badge-and-desktop-cube-for-office-workers
-  headline: Microsoft tests wearable AI badge and desktop cube for office workers
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6158
-- slug: 2026-05-08-apple-s-glowtime-event-unveils-iphone-16-new-airpods-and-watch-series-10
-  headline: Apple’s Glowtime event unveils iPhone 16, new AirPods and Watch Series 10
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6433
-- slug: 2026-05-23-musk-altman-trial-exposes-ai-s-deep-funding-needs-raising-profit-vs-purpose-ques
-  headline: Musk-Altman trial exposes AI's deep funding needs, raising profit vs. purpose question
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6199
-- slug: 2026-06-01-anthropic-files-for-ipo-as-ai-memory-crunch-extends-to-2028-in-tech-roundups
-  headline: Anthropic files for IPO as AI memory crunch extends to 2028 in tech roundups
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6081
-- slug: 2026-05-02-apple-beats-revenue-expectations-as-iphone-sales-stay-strong
-  headline: Apple beats revenue expectations as iPhone sales stay strong
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6355
-- slug: 2026-05-07-apple-enters-ai-race-with-apple-intelligence-siri-chatgpt-deal-at-wwdc
-  headline: Apple enters AI race with “Apple Intelligence,” Siri-ChatGPT deal at WWDC
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6237
+  strength: 0.6688
 - slug: 2026-03-05-apple-s-big-week-unveils-599-iphone-17e-and-updates-ipad-air-macs
   headline: Apple’s “Big Week” unveils $599 iPhone 17e and updates iPad Air, Macs
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6544
+  strength: 0.6554
 - slug: 2026-01-12-apple-turns-to-google-s-gemini-to-power-siri-upgrade-and-iphone-ai-features
   headline: Apple turns to Google's Gemini to power Siri upgrade and iPhone AI features
   publish_date: '2026-01-12'
   relation: related
-  strength: 0.6613
-- slug: 2026-03-05-apple-unveils-big-week-of-budget-iphone-macbook-ipad-air-updates
-  headline: Apple unveils “big week” of budget iPhone, MacBook, iPad Air updates
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6471
+  strength: 0.6617
 ---
-
 ## Apple launches $1,999 foldable iPhone Duo; Meta debuts Muse AI agent
 
 **Subtype:** fact

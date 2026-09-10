@@ -2,8 +2,17 @@
 headline: Duffy publicly criticizes Ford's business with Chinese automotive firms
 secondary_headline: Huawei prosecution heads to trial after nearly eight-year wait
 publish_date: '2026-09-10'
-lede: Transportation Secretary Sean Duffy publicly criticized Ford Motor's business with Chinese automotive firms in a letter to Chief Executive Jim Farley that was made public Tuesday, The Wall Street Journal's Morning Risk Report newsletter reported. The same newsletter covered a Tenth Circuit ruling letting Utah enforce its anti-gambling laws against the Kalshi prediction-markets platform, an approaching Huawei Technologies trial, an Ohio data-center sales-tax exemption that exceeded $1.5 billion last year, a planned Treasury bond buyback and a Justice Department review of Fox Corp.'s roughly $25 billion deal with Roku.
-nut_graf: The newsletter, a roundup of risk and compliance developments, also carried analyst commentary on the conflict in the Middle East and a promotion for the Dow Jones Global Horizons conference scheduled for September at Christ Church in Oxford.
+lede: Transportation Secretary Sean Duffy publicly criticized Ford Motor's business
+  with Chinese automotive firms in a letter to Chief Executive Jim Farley that was
+  made public Tuesday, The Wall Street Journal's Morning Risk Report newsletter reported.
+  The same newsletter covered a Tenth Circuit ruling letting Utah enforce its anti-gambling
+  laws against the Kalshi prediction-markets platform, an approaching Huawei Technologies
+  trial, an Ohio data-center sales-tax exemption that exceeded $1.5 billion last year,
+  a planned Treasury bond buyback and a Justice Department review of Fox Corp.'s roughly
+  $25 billion deal with Roku.
+nut_graf: The newsletter, a roundup of risk and compliance developments, also carried
+  analyst commentary on the conflict in the Middle East and a promotion for the Dow
+  Jones Global Horizons conference scheduled for September at Christ Church in Oxford.
 primary_entities:
 - Transportation Department
 - Sean Duffy
@@ -60,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,104 +172,13 @@ related_stories:
   headline: Transportation secretary criticizes Ford over Chinese tech reliance
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7806
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6285
-- slug: 2026-09-08-huawei-technologies-criminal-racketeering-trial-opens-jury-selection-in-new-york
-  headline: Huawei Technologies criminal racketeering trial opens jury selection in New York
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6199
-- slug: 2026-09-02-split-appeals-rulings-put-kalshi-oversight-before-supreme-court
-  headline: Split appeals rulings put Kalshi oversight before Supreme Court
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6327
-- slug: 2026-08-31-us-says-it-will-cut-off-banque-misr-uae-arm-under-operation-economic-outcast
-  headline: US says it will cut off Banque Misr UAE arm under Operation Economic Outcast
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6176
-- slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
-  headline: DOJ fraud chief highlights old case at 'record' enforcement event
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6389
-- slug: 2026-08-14-doj-fraud-division-memo-names-trade-violations-among-enforcement-priorities
-  headline: DOJ fraud division memo names trade violations among enforcement priorities
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6311
+  strength: 0.7812
 - slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
   headline: Ford executive chair says US must prepare for Chinese cars to enter market
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.662
-- slug: 2026-07-21-trump-accuses-china-of-voter-file-hack-as-both-sides-keep-summit-plans
-  headline: Trump accuses China of voter file hack as both sides keep summit plans
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6295
-- slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
-  headline: China warns AI users they are ‘traitors’ if they resist domestic chips
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6197
-- slug: 2026-07-20-polestar-won-t-appeal-u-s-ban-will-exit-american-market
-  headline: Polestar won't appeal U.S. ban, will exit American market
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6158
-- slug: 2026-06-08-pentagon-adds-alibaba-baidu-byd-to-list-of-chinese-military-linked-companies
-  headline: Pentagon adds Alibaba, Baidu, BYD to list of Chinese military-linked companies
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6356
-- slug: 2026-06-14-o-leary-blames-china-for-utah-data-center-opposition
-  headline: O'Leary blames China for Utah data center opposition
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6243
-- slug: 2026-06-02-huawei-s-own-paper-shows-chip-gap-persists-despite-tau-law-claim-analysts-say
-  headline: Huawei’s own paper shows chip gap persists despite Tau Law claim, analysts say
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.634
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  headline: New York to lose $73.5M in federal funds over unrevoked immigrant CDLs
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6373
-- slug: 2026-04-25-new-york-sues-to-keep-73-5m-in-federal-highway-funds-tied-to-cdls
-  headline: New York sues to keep $73.5M in federal highway funds tied to CDLs
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.6189
-- slug: 2026-02-21-us-commercial-driver-s-license-tests-must-be-taken-in-english
-  headline: US commercial driver’s license tests must be taken in English
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6425
-- slug: 2026-03-11-utah-plans-law-to-curb-prediction-markets-kalshi-and-polymarket-set-for-court
-  headline: Utah plans law to curb prediction markets Kalshi and Polymarket, set for court
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.6363
-- slug: 2025-12-30-california-delays-revoking-17-000-commercial-driver-licenses-until-march
-  headline: California delays revoking 17,000 commercial driver licenses until March
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6487
-- slug: 2025-12-31-california-delays-revocation-of-17-000-commercial-licenses-after-migrant-lawsuit
-  headline: California delays revocation of 17,000 commercial licenses after migrant lawsuit
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.645
+  strength: 0.6634
 ---
-
 ## Duffy publicly criticizes Ford's business with Chinese automotive firms
 
 **Subtype:** fact

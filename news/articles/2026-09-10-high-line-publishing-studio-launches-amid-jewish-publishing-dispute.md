@@ -1,9 +1,19 @@
 ---
 headline: High Line Publishing Studio launches amid Jewish publishing dispute
-secondary_headline: PEN America president resigns as compendium presents writers' accounts of isolation
+secondary_headline: PEN America president resigns as compendium presents writers'
+  accounts of isolation
 publish_date: '2026-09-10'
-lede: High Line Publishing Studio launched Sept. 10 with two imprints and a goal, attributed to founder Neil Blair, of publishing writers whose ideas and subject matter he believes have been shut out of mainstream publishing. Jewish authors, agents, scouts and editors described rejected projects, severed relationships and requests to remove Jewish or Israeli elements from books, while several Jewish authors and editors disputed the suggestion that publishing has become antisemitic.
-nut_graf: High Line joins Canary Publishing and Meg Keene Books among ventures serving Jewish and Israeli writers amid disputes over antisemitism, anti-Zionism and cultural boycotts. The Jewish Book Council had received 350 independently verified responses through a hotline it opened in 2024, as of July, while PEN America published a compendium of Israeli and Jewish writers' accounts on July 9, the day its president resigned.
+lede: High Line Publishing Studio launched Sept. 10 with two imprints and a goal,
+  attributed to founder Neil Blair, of publishing writers whose ideas and subject
+  matter he believes have been shut out of mainstream publishing. Jewish authors,
+  agents, scouts and editors described rejected projects, severed relationships and
+  requests to remove Jewish or Israeli elements from books, while several Jewish authors
+  and editors disputed the suggestion that publishing has become antisemitic.
+nut_graf: High Line joins Canary Publishing and Meg Keene Books among ventures serving
+  Jewish and Israeli writers amid disputes over antisemitism, anti-Zionism and cultural
+  boycotts. The Jewish Book Council had received 350 independently verified responses
+  through a hotline it opened in 2024, as of July, while PEN America published a compendium
+  of Israeli and Jewish writers' accounts on July 9, the day its president resigned.
 primary_entities:
 - High Line Publishing Studio
 - Neil Blair
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,118 +157,21 @@ cross_article_links:
   strength: 0.5339
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-31-lander-stays-at-anti-rss-rally-after-heckling-says-he-won-t-stop-joining-rallies
-  headline: Lander stays at anti-RSS rally after heckling, says he won't stop joining rallies against hate
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5631
-- slug: 2026-09-01-pen-america-finds-us-public-libraries-at-breaking-point-amid-censorship-push
-  headline: PEN America finds US public libraries 'at breaking point' amid censorship push
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5498
-- slug: 2026-07-31-literary-agency-pulls-support-for-debut-novelist-amid-ai-use-questions
-  headline: Literary agency pulls support for debut novelist amid AI-use questions
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5766
-- slug: 2026-07-14-mahmoud-khalil-sues-trump-officials-pro-israel-groups-over-alleged-conspiracy
-  headline: Mahmoud Khalil sues Trump officials, pro-Israel groups over alleged conspiracy
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5374
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5316
-- slug: 2026-06-23-ny-lawmaker-calls-cafe-ban-over-israel-views-sad-doj-investigates
-  headline: NY lawmaker calls cafe ban over Israel views 'sad'; DOJ investigates
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5413
-- slug: 2026-06-25-ex-facebook-policy-executive-sues-meta-over-arbitration-gag-order
-  headline: Ex-Facebook policy executive sues Meta over arbitration gag order
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5361
-- slug: 2026-06-03-rutgers-grad-speaker-cancellation-draws-free-speech-warnings
-  headline: Rutgers grad speaker cancellation draws free speech warnings
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.551
-- slug: 2026-06-03-nhs-staff-face-ban-on-political-badges-under-new-antisemitism-report
-  headline: NHS staff face ban on political badges under new antisemitism report
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5478
-- slug: 2026-06-03-columbia-jewish-faculty-file-claims-against-21m-antisemitism-fund-they-say-targe
-  headline: Columbia Jewish faculty file claims against $21m antisemitism fund they say targets dissent
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5393
-- slug: 2026-06-01-uk-bars-us-left-wing-commentators-hasan-piker-and-cenk-uygur-from-entry
-  headline: UK bars US left-wing commentators Hasan Piker and Cenk Uygur from entry
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5361
-- slug: 2026-05-12-open-society-foundations-pledge-30m-to-combat-antisemitism-and-anti-muslim-hate
-  headline: Open Society Foundations pledge $30M to combat antisemitism and anti-Muslim hate
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5462
-- slug: 2026-05-12-open-society-foundations-commits-30m-to-counter-antisemitism-and-anti-muslim-hat
-  headline: Open Society Foundations commits $30M to counter antisemitism and anti-Muslim hate
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5425
-- slug: 2026-04-20-after-its-dominant-newspaper-is-saved-pittsburgh-s-media-looks-ahead
-  headline: After its dominant newspaper is saved, Pittsburgh’s media looks ahead
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.537
-- slug: 2026-02-26-propublica-talks-ai-contract-terms-as-journalists-debate-disclosure-rules
-  headline: ProPublica talks AI contract terms as journalists debate disclosure rules
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5559
-- slug: 2026-03-19-joe-kent-resignation-over-iran-war-reignites-antisemitism-fears
-  headline: Joe Kent resignation over Iran war reignites antisemitism fears
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.5486
-- slug: 2026-03-09-judge-to-decide-if-penn-must-produce-records-in-antisemitism-probe
-  headline: Judge to decide if Penn must produce records in antisemitism probe
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.5465
-- slug: 2026-03-20-us-jews-weigh-threats-and-internal-rifts-over-israel-s-gaza-war
-  headline: US Jews weigh threats and internal rifts over Israel’s Gaza war
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5413
-- slug: 2026-03-13-white-house-criticizes-cnn-for-airing-iranian-supreme-leader-message
-  headline: White House criticizes CNN for airing Iranian supreme leader message
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.5395
-- slug: 2026-02-12-religious-liberty-commission-member-ousted-after-antisemitism-dispute
-  headline: Religious Liberty Commission member ousted after antisemitism dispute
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5465
+related_stories: []
 image:
   url: /articles/2026-09-10-high-line-publishing-studio-launches-amid-jewish-publishing-dispute.png
-  alt: "Illustration accompanying article: High Line Publishing Studio launches amid Jewish publishing dispute"
+  alt: 'Illustration accompanying article: High Line Publishing Studio launches amid
+    Jewish publishing dispute'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## High Line Publishing Studio launches amid Jewish publishing dispute
 
 **Subtype:** fact

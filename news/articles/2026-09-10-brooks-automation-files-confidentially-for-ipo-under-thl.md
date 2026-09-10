@@ -1,9 +1,15 @@
 ---
 headline: Brooks Automation files confidentially for IPO under THL
-secondary_headline: THL bought the chip-automation business and brand for $3 billion in 2022
+secondary_headline: THL bought the chip-automation business and brand for $3 billion
+  in 2022
 publish_date: '2026-09-10'
-lede: Brooks Automation Holdings, a semiconductor automation company owned by private-equity firm THL, has confidentially filed a draft registration statement with the Securities and Exchange Commission for a proposed initial public offering, the company said Thursday.
-nut_graf: The filing is part of Brooks Automation's planned return to public markets after THL acquired the company's semiconductor automation business, name and brand for $3 billion in 2022. The remaining life-sciences business now operates as Azenta.
+lede: Brooks Automation Holdings, a semiconductor automation company owned by private-equity
+  firm THL, has confidentially filed a draft registration statement with the Securities
+  and Exchange Commission for a proposed initial public offering, the company said
+  Thursday.
+nut_graf: The filing is part of Brooks Automation's planned return to public markets
+  after THL acquired the company's semiconductor automation business, name and brand
+  for $3 billion in 2022. The remaining life-sciences business now operates as Azenta.
 primary_entities:
 - Brooks Automation Holdings
 - THL
@@ -40,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -117,109 +124,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-31-westinghouse-confidentially-files-for-ipo-amid-us-backed-nuclear-revival
-  headline: Westinghouse confidentially files for IPO amid US-backed nuclear revival
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5788
-- slug: 2026-09-01-pentagon-s-top-ai-official-sold-perplexity-stock-for-up-to-25-million
-  headline: Pentagon's top AI official sold Perplexity stock for up to $25 million
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5498
-- slug: 2026-09-01-sb-energy-registers-for-nasdaq-ipo-with-nvidia-s-3-billion-commitment
-  headline: SB Energy registers for Nasdaq IPO with Nvidia's $3 billion commitment
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5428
-- slug: 2026-08-25-oura-inspire-brands-among-companies-targeting-fall-ipos
-  headline: Oura, Inspire Brands Among Companies Targeting Fall IPOs
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.552
-- slug: 2026-08-21-blackstone-h-f-and-anthropic-form-ode-to-deploy-ai-at-portfolio-companies
-  headline: Blackstone, H&F and Anthropic form Ode to deploy AI at portfolio companies
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5544
-- slug: 2026-08-17-general-atlantic-revives-ipo-plans-with-fresh-sec-filing
-  headline: General Atlantic revives IPO plans with fresh SEC filing
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5589
-- slug: 2026-08-14-berkshire-hathaway-adds-to-alphabet-opens-d-r-horton-position-in-q2-13f
-  headline: Berkshire Hathaway adds to Alphabet, opens D.R. Horton position in Q2 13F
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5482
-- slug: 2026-07-31-kkr-nears-127-a-share-deal-to-take-integer-holdings-private
-  headline: KKR nears $127-a-share deal to take Integer Holdings private
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5446
-- slug: 2026-07-11-texas-stock-exchange-begins-trading-as-state-challenges-nyse-nasdaq-duopoly
-  headline: Texas Stock Exchange begins trading as state challenges NYSE-Nasdaq duopoly
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5533
-- slug: 2026-07-08-ai-financial-in-talks-to-sell-core-payments-business-for-up-to-15-million
-  headline: AI Financial in talks to sell core payments business for up to $15 million
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.54
-- slug: 2026-06-24-agility-robotics-heads-to-wall-street-in-2-5b-bet-on-warehouse-humanoids
-  headline: Agility Robotics heads to Wall Street in $2.5B bet on warehouse humanoids
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5703
-- slug: 2026-06-23-hyundai-motor-group-moves-to-acquire-full-control-of-boston-dynamics
-  headline: Hyundai Motor Group moves to acquire full control of Boston Dynamics
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5676
-- slug: 2026-06-08-openai-files-for-ipo-testing-investor-appetite-for-top-ai-lab
-  headline: OpenAI files for IPO, testing investor appetite for top AI lab
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.578
-- slug: 2026-06-24-sk-hynix-seeks-29-65-billion-u-s-listing-to-fund-ai-expansion
-  headline: SK Hynix Seeks $29.65 Billion U.S. Listing to Fund AI Expansion
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5469
-- slug: 2026-06-17-arcline-to-take-astronova-private-in-272m-deal
-  headline: Arcline to take AstroNova private in $272M deal
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5514
-- slug: 2026-06-17-silicon-valley-group-spends-7-million-targeting-ai-regulating-candidate-in-new-y
-  headline: Silicon Valley group spends $7 million targeting AI-regulating candidate in New York primary
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5433
-- slug: 2026-06-11-tech-market-roundup-oracle-ai-push-tsmc-leadership-crypto-slump-super-micro-dilu
-  headline: 'Tech Market Roundup: Oracle AI Push, TSMC Leadership, Crypto Slump, Super Micro Dilution'
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5473
-- slug: 2026-06-01-alphabet-plans-80-billion-equity-raise-to-fund-ai-infrastructure-expansion
-  headline: Alphabet plans $80 billion equity raise to fund AI infrastructure expansion
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5501
-- slug: 2026-06-03-market-research-firm-alphasense-clinches-7-5-billion-valuation-in-new-funding-ro
-  headline: Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New Funding Round
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5407
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5513
+related_stories: []
 ---
-
 ## Brooks Automation files confidentially for IPO under THL
 
 **Subtype:** fact

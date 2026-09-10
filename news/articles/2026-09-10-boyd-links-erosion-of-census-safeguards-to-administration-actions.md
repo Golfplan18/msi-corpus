@@ -2,8 +2,17 @@
 headline: Boyd links erosion of census safeguards to administration actions
 secondary_headline: Boyd says Congress faces census choices before 2028 lock-in
 publish_date: '2026-09-10'
-lede: In a September 10 Guardian opinion column, Cornell University professor danah boyd linked a June confidentiality order, an August bureau-branded voting report and a subsequent Commerce Department policy change to what she described as an erosion of safeguards against partisan interference at the U.S. Census Bureau. Boyd said the Congress elected in November will face decisions about the next census before its operational plan, questions and staffing capacity are set by 2028.
-nut_graf: Boyd distinguished political use of rigorously produced census data in redistricting from interference with the infrastructure used to produce the data. She argued that the recent actions harm census data, confidentiality and institutional legitimacy, while a separate proposal for the 2030 census would impede enforcement of census-dependent anti-discrimination laws such as the Voting Rights Act.
+lede: In a September 10 Guardian opinion column, Cornell University professor danah
+  boyd linked a June confidentiality order, an August bureau-branded voting report
+  and a subsequent Commerce Department policy change to what she described as an erosion
+  of safeguards against partisan interference at the U.S. Census Bureau. Boyd said
+  the Congress elected in November will face decisions about the next census before
+  its operational plan, questions and staffing capacity are set by 2028.
+nut_graf: Boyd distinguished political use of rigorously produced census data in redistricting
+  from interference with the infrastructure used to produce the data. She argued that
+  the recent actions harm census data, confidentiality and institutional legitimacy,
+  while a separate proposal for the 2030 census would impede enforcement of census-dependent
+  anti-discrimination laws such as the Voting Rights Act.
 primary_entities:
 - danah boyd
 - Cornell University
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -125,104 +135,46 @@ related_stories:
   headline: Trump officials propose major 2030 census overhaul excluding noncitizens
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6805
+  strength: 0.6796
 - slug: 2026-08-31-commerce-department-removes-political-interference-language-from-scientific-inte
-  headline: Commerce Department removes political interference language from scientific integrity policy
+  headline: Commerce Department removes political interference language from scientific
+    integrity policy
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7125
-- slug: 2026-09-10-2030-census-proposal-seeks-input-on-immigrants-with-temporary-status
-  headline: 2030 census proposal seeks input on immigrants with temporary status
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6456
+  strength: 0.7119
 - slug: 2026-09-04-education-department-releases-student-civil-rights-data-six-months-late
   headline: Education Department releases student civil rights data six months late
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.654
+  strength: 0.6544
 - slug: 2026-08-19-census-noncitizen-voting-report-tied-to-trump-aligned-think-tank
   headline: Census noncitizen voting report tied to Trump-aligned think tank
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6794
-- slug: 2026-08-18-data-tracker-finds-366-federal-datasets-deleted-or-altered-under-trump
-  headline: Data tracker finds 366 federal datasets deleted or altered under Trump
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6457
+  strength: 0.6789
 - slug: 2026-06-12-trump-order-banning-statistical-noise-threatens-census-bureau-data
   headline: Trump order banning statistical noise threatens Census Bureau data
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7787
-- slug: 2026-07-02-federal-civil-rights-data-for-schools-6-months-overdue
-  headline: Federal civil rights data for schools 6 months overdue
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6399
+  strength: 0.778
 - slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
+  headline: Trump administration uses DOJ, FBI, executive order to tighten voting
+    rules
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.6519
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6431
+  strength: 0.6511
 - slug: 2026-05-21-democrats-warn-data-broker-rules-miss-key-washington-sites-including-cia
-  headline: Democrats warn data-broker rules miss key Washington sites, including CIA
+  headline: Democrats warn data-broker rules miss key Washington sites, including
+    CIA
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6674
-- slug: 2026-05-22-democrats-warn-u-s-cell-location-data-rules-miss-white-house-cia-sites
-  headline: Democrats warn U.S. cell-location data rules miss White House, CIA sites
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6464
-- slug: 2026-05-21-democratic-lawmakers-warn-data-rules-leave-white-house-cia-unprotected
-  headline: Democratic lawmakers warn data rules leave White House, CIA unprotected
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6423
-- slug: 2026-02-20-democrats-urge-census-to-drop-citizenship-question-from-2026-practice
-  headline: Democrats urge Census to drop citizenship question from 2026 practice
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6759
+  strength: 0.6665
 - slug: 2026-04-06-judge-blocks-trump-admin-college-race-data-collection
   headline: Judge Blocks Trump Admin. College Race Data Collection
   publish_date: '2026-04-06'
   relation: related
-  strength: 0.6582
-- slug: 2026-04-05-judge-blocks-trump-admin-effort-to-collect-college-race-data
-  headline: Judge Blocks Trump Admin. Effort to Collect College Race Data
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6578
-- slug: 2026-02-19-democrats-urge-removal-of-citizenship-question-from-2026-census-test
-  headline: Democrats urge removal of citizenship question from 2026 census test
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6671
-- slug: 2026-01-11-trump-allied-lawsuits-could-reshape-who-counts-in-the-2030-census
-  headline: Trump-allied lawsuits could reshape who counts in the 2030 census
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6609
-- slug: 2026-03-13-17-state-attorneys-general-sue-trump-administration-over-race-data-rule
-  headline: 17 state attorneys general sue Trump administration over race data rule
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6385
-- slug: 2026-03-14-trump-administration-stops-releasing-key-immigration-data-researchers-say
-  headline: Trump administration stops releasing key immigration data, researchers say
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6345
+  strength: 0.6593
 ---
-
 ## Boyd links erosion of census safeguards to administration actions
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
 secondary_headline: Proposal would exceed tariff revenue, The Guardian reports
 publish_date: '2026-09-10'
-lede: Vice President JD Vance suggested that wealthy Americans would not receive the $5,000 payments President Donald Trump pledged to every adult US citizen if Republicans retain the House and Senate in the midterm elections. Vance also suggested that tariff revenue could fund the payments, which The Guardian reported would far exceed the revenue collected.
-nut_graf: Congress would need to approve or otherwise acquiesce to the proposed payments, and the White House has not released details of Trump's announcement. The pledge came during the first night of a two-day Republican midterm convention in Dallas, where Trump urged Republicans to campaign as though he were on the ballot.
+lede: Vice President JD Vance suggested that wealthy Americans would not receive the
+  $5,000 payments President Donald Trump pledged to every adult US citizen if Republicans
+  retain the House and Senate in the midterm elections. Vance also suggested that
+  tariff revenue could fund the payments, which The Guardian reported would far exceed
+  the revenue collected.
+nut_graf: Congress would need to approve or otherwise acquiesce to the proposed payments,
+  and the White House has not released details of Trump's announcement. The pledge
+  came during the first night of a two-day Republican midterm convention in Dallas,
+  where Trump urged Republicans to campaign as though he were on the ballot.
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,110 +148,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-10-trump-promises-5000-dividend-to-adult-citizens-if-republicans-keep-congress
-  headline: Trump ties $5,000 adult dividend pledge to Republican control of Congress
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7896
 - slug: 2026-09-10-the-guardian-says-trump-s-5-000-proposal-immediately-raised-ethical-concerns
   headline: The Guardian says Trump’s $5,000 proposal immediately raised ethical concerns
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7893
+  strength: 0.7891
+- slug: 2026-09-10-trump-promises-5000-dividend-to-adult-citizens-if-republicans-keep-congress
+  headline: Trump ties $5,000 adult dividend pledge to Republican control of Congress
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.7885
 - slug: 2026-09-10-experts-offer-different-legal-views-of-trump-s-proposed-5-000-payments
   headline: Experts offer different legal views of Trump's proposed $5,000 payments
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7759
+  strength: 0.7756
 - slug: 2026-09-10-convention-goers-name-vance-and-rubio-as-top-2028-contenders
   headline: Convention-goers name Vance and Rubio as top 2028 contenders
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7718
+  strength: 0.7725
 - slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
   headline: Empty seats and instant ticket approvals mark GOP midterm convention
   publish_date: '2026-09-10'
   relation: related
   strength: 0.7661
+- slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
+  headline: Current tariff pace would take nearly five years to cover Trump payout
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.7556
 - slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
   headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.749
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
+  strength: 0.748
+- slug: 2026-09-10-guardian-column-frames-trump-dallas-speech-as-desperate-last-pitch-to-voters
+  headline: Guardian column frames Trump Dallas speech as 'desperate last pitch' to
+    voters
+  publish_date: '2026-09-10'
   relation: related
-  strength: 0.7002
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7196
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6876
-- slug: 2026-08-25-trump-and-vance-to-headline-gop-midterm-convention-in-dallas
-  headline: Trump and Vance to headline GOP midterm convention in Dallas
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7379
-- slug: 2026-09-01-rnc-prices-trump-photo-at-88-600-for-dallas-midterm-convention-fundraisers
-  headline: RNC prices Trump photo at $88,600 for Dallas midterm convention fundraisers
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6946
-- slug: 2026-08-21-leaked-audio-vance-tells-donors-carney-tries-to-out-tough-trump
-  headline: 'Leaked audio: Vance tells donors Carney tries to ''out-tough'' Trump'
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6725
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6651
-- slug: 2026-07-16-trump-presses-congress-for-save-act-after-doubt-seeding-address
-  headline: Trump presses Congress for SAVE Act after doubt-seeding address
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6666
-- slug: 2026-06-30-trump-announces-first-ever-gop-midterm-convention-in-dallas
-  headline: Trump announces first-ever GOP midterm convention in Dallas
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6692
-- slug: 2026-06-03-trump-says-vance-rubio-ticket-for-2028-would-be-unbeatable
-  headline: Trump says Vance-Rubio ticket for 2028 would be 'unbeatable'
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6865
-- slug: 2026-03-12-trump-presses-save-america-act-for-midterms-as-house-gop-highlights-costs
-  headline: Trump presses SAVE America Act for midterms as House GOP highlights costs
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.7271
-- slug: 2026-05-23-republicans-defy-trump-on-proposed-1-776b-jan-6-compensation-fund
-  headline: Republicans defy Trump on proposed $1.776B Jan. 6 compensation fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6657
-- slug: 2026-03-25-trump-promises-bigger-gop-majorities-as-warning-signs-flash-for-party
-  headline: Trump promises bigger GOP majorities as warning signs flash for party
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7029
-- slug: 2026-04-15-trump-bets-tax-cuts-for-tips-on-message-help-in-las-vegas-midterms
-  headline: Trump bets tax cuts for tips on message help in Las Vegas midterms
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6811
+  strength: 0.7352
 analyses:
-- '2026-09-10-vance-narrows-trump-s-5-000-pledge-by-adding-wealthy-exclusion-frame-on-announce'
+- 2026-09-10-vance-narrows-trump-s-5-000-pledge-by-adding-wealthy-exclusion-frame-on-announce
 ---
-
 ## Vance suggests wealthy Americans would be excluded from $5,000 payments
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Widmer links Trump's Falklands comments to strains in UK-US ties
-secondary_headline: Milei hints US would back Argentina if it renewed territorial ambitions
+secondary_headline: Milei hints US would back Argentina if it renewed territorial
+  ambitions
 publish_date: '2026-09-10'
-lede: Guardian opinion writer Ted Widmer argued in a September 10 column that Donald Trump's suggestion that he might not help the UK if Argentina again tried to seize the Falkland Islands reflects worsening UK-US relations. Widmer linked Trump's remarks to a speech by Argentine President Javier Milei and to Israeli threats to recognize Argentine sovereignty over the islands.
-nut_graf: Widmer said the UK-US relationship is fading despite a history in which each country often supported the other. He connected the dispute to Trump's complaints about the UK's initial reluctance to support the Iran war, Milei's hint that the United States would back Argentina if it renewed its territorial ambitions, and the islanders' 2013 vote to remain connected to the UK.
+lede: Guardian opinion writer Ted Widmer argued in a September 10 column that Donald
+  Trump's suggestion that he might not help the UK if Argentina again tried to seize
+  the Falkland Islands reflects worsening UK-US relations. Widmer linked Trump's remarks
+  to a speech by Argentine President Javier Milei and to Israeli threats to recognize
+  Argentine sovereignty over the islands.
+nut_graf: Widmer said the UK-US relationship is fading despite a history in which
+  each country often supported the other. He connected the dispute to Trump's complaints
+  about the UK's initial reluctance to support the Iran war, Milei's hint that the
+  United States would back Argentina if it renewed its territorial ambitions, and
+  the islanders' 2013 vote to remain connected to the UK.
 primary_entities:
 - Ted Widmer
 - Donald Trump
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +160,28 @@ related_stories:
   headline: Trump signals US would not back UK in future Falklands conflict
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7837
+  strength: 0.7836
 - slug: 2026-09-03-milei-revives-argentina-s-falklands-claim-as-approval-rating-slides
   headline: Milei revives Argentina's Falklands claim as approval rating slides
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7684
+  strength: 0.7677
 - slug: 2026-08-31-trump-leaves-us-falklands-position-unresolved
   headline: Trump leaves US Falklands position unresolved
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7196
-- slug: 2026-07-08-carney-built-allied-network-to-reduce-dependence-on-us
-  headline: Carney built allied network to reduce dependence on US
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.634
-- slug: 2026-07-03-rubio-says-trump-s-criticism-of-nato-allies-will-be-central-to-ankara-summit
-  headline: Rubio says Trump's criticism of NATO allies will be central to Ankara summit
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6132
-- slug: 2026-06-01-trump-demands-arab-states-join-abraham-accords-as-part-of-iran-deal
-  headline: Trump demands Arab states join Abraham Accords as part of Iran deal
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6158
+  strength: 0.7191
 - slug: 2026-03-04-starmer-trump-relationship-tested-amid-iran-strike-disagreement
   headline: Starmer-Trump relationship tested amid Iran strike disagreement
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.6636
-- slug: 2026-04-10-nato-s-mark-rutte-dodges-question-on-trump-leaving-over-iran-war
-  headline: NATO’s Mark Rutte dodges question on Trump leaving over Iran war
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6418
+  strength: 0.6637
 - slug: 2026-01-22-trump-s-greenland-demands-prompt-european-allies-to-seek-independent-strategies
   headline: Trump's Greenland demands prompt European allies to seek independent strategies
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.6624
-- slug: 2026-04-09-trump-renews-nato-criticism-after-meeting-with-mark-rutte
-  headline: Trump renews NATO criticism after meeting with Mark Rutte
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6373
-- slug: 2026-04-01-trump-escalates-criticism-of-europe-over-iran-war-strait-of-hormuz
-  headline: Trump escalates criticism of Europe over Iran war, Strait of Hormuz
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.638
-- slug: 2026-03-15-how-mixed-messaging-on-iran-may-have-trump-reeling-politically
-  headline: How mixed messaging on Iran may have Trump reeling politically
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6341
-- slug: 2026-04-25-spain-s-s-nchez-sidesteps-nato-dispute-over-reported-pentagon-iran-war-plan
-  headline: Spain’s Sánchez sidesteps NATO dispute over reported Pentagon Iran war plan
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.6111
-- slug: 2026-01-08-trump-s-tough-talk-after-maduro-capture-evokes-american-imperialism
-  headline: Trump’s tough talk after Maduro capture evokes American imperialism
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6455
-- slug: 2026-04-02-trump-floats-nato-exit-amid-iran-war-tensions-with-europe-over-strait
-  headline: Trump floats NATO exit amid Iran war tensions with Europe over Strait
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.623
-- slug: 2026-04-10-trump-s-iran-war-widens-rift-with-europeans-once-seen-as-maga-allies
-  headline: Trump’s Iran war widens rift with Europeans once seen as MAGA allies
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6186
-- slug: 2026-04-08-trump-complains-about-nato-after-meeting-with-rutte-over-iran-war
-  headline: Trump complains about NATO after meeting with Rutte over Iran war
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6187
-- slug: 2026-01-05-trump-targets-greenland-cuba-and-colombia-after-venezuela-operation
-  headline: Trump targets Greenland, Cuba and Colombia after Venezuela operation
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6439
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  headline: Trump renews Greenland push, warns Cuba and Colombia after Venezuela operation
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6243
-- slug: 2026-01-23-trump-ties-foreign-policy-to-personal-whim-as-alarmed-allies-organize
-  headline: Trump ties foreign policy to personal whim as alarmed allies organize
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6193
+  strength: 0.662
 ---
-
 ## Widmer links Trump's Falklands comments to strains in UK-US ties
 
 **Subtype:** fact

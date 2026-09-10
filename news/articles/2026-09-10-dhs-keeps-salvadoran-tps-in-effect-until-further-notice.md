@@ -2,8 +2,14 @@
 headline: DHS keeps Salvadoran TPS in effect until further notice
 secondary_headline: About 200,000 holders retain protection and work authorization
 publish_date: '2026-09-10'
-lede: The Department of Homeland Security said Temporary Protected Status for Salvadorans will remain in effect until further notice rather than expire Wednesday. Approximately 200,000 Salvadorans living in the United States will remain protected until the government issues a final decision.
-nut_graf: Salvadoran TPS holders retain protection and work authorization while awaiting a final Department of Homeland Security decision, with several possible outcomes still open. The announcement comes as the Trump administration has ended or begun terminating TPS for 13 countries since January 2025.
+lede: The Department of Homeland Security said Temporary Protected Status for Salvadorans
+  will remain in effect until further notice rather than expire Wednesday. Approximately
+  200,000 Salvadorans living in the United States will remain protected until the
+  government issues a final decision.
+nut_graf: Salvadoran TPS holders retain protection and work authorization while awaiting
+  a final Department of Homeland Security decision, with several possible outcomes
+  still open. The announcement comes as the Trump administration has ended or begun
+  terminating TPS for 13 countries since January 2025.
 primary_entities:
 - Department of Homeland Security
 - El Salvador
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,17 +152,17 @@ related_stories:
   headline: Federal judge allows termination of TPS for 5,000 Ethiopians
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7119
+  strength: 0.7121
 - slug: 2026-08-18-federal-judge-denies-request-to-delay-end-of-ethiopian-tps-protections
   headline: Federal judge denies request to delay end of Ethiopian TPS protections
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6953
+  strength: 0.6952
 - slug: 2026-08-05-federal-judge-says-haitian-tps-protections-can-be-terminated
   headline: Federal judge says Haitian TPS protections can be terminated
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7294
+  strength: 0.7295
 - slug: 2026-07-23-appeals-court-temporarily-blocks-end-of-haitian-tps
   headline: Appeals court temporarily blocks end of Haitian TPS
   publish_date: '2026-07-23'
@@ -165,84 +172,24 @@ related_stories:
   headline: Haitians losing TPS fear deportation to violence, family separation
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.7215
+  strength: 0.7217
 - slug: 2026-07-10-supreme-court-rules-trump-may-end-tps-for-haitians-syrians-affecting-1-3-million
-  headline: Supreme Court rules Trump may end TPS for Haitians, Syrians, affecting 1.3 million
+  headline: Supreme Court rules Trump may end TPS for Haitians, Syrians, affecting
+    1.3 million
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7228
+  strength: 0.7227
 - slug: 2026-04-28-salvadorans-watch-as-supreme-court-weighs-temporary-protected-status
   headline: Salvadorans watch as Supreme Court weighs Temporary Protected Status
   publish_date: '2026-04-28'
   relation: related
-  strength: 0.8237
+  strength: 0.8235
 - slug: 2026-07-07-supreme-court-tps-ruling-puts-1-3-million-immigrants-at-risk-of-deportation
   headline: Supreme Court TPS ruling puts 1.3 million immigrants at risk of deportation
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.7003
-- slug: 2026-06-29-supreme-court-rules-6-3-to-allow-end-of-tps-for-haitian-and-syrian-immigrants
-  headline: Supreme Court rules 6-3 to allow end of TPS for Haitian and Syrian immigrants
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7141
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7097
-- slug: 2026-06-25-supreme-court-allows-trump-to-end-tps-protections-for-haitians-syrians
-  headline: Supreme Court allows Trump to end TPS protections for Haitians, Syrians
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6974
-- slug: 2026-06-28-mullin-tells-tps-holders-to-seek-permanent-status-or-accept-return-ticket
-  headline: Mullin tells TPS holders to seek permanent status or accept return ticket
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6843
-- slug: 2026-05-30-deadline-missed-triggering-automatic-tps-extension-for-11-000-lebanese
-  headline: Deadline missed, triggering automatic TPS extension for 11,000 Lebanese
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.728
-- slug: 2026-06-23-tps-revocations-leave-hospitals-short-of-nursing-assistants-employers-say
-  headline: TPS revocations leave hospitals short of nursing assistants, employers say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6855
-- slug: 2026-03-15-us-judge-pauses-end-of-protected-status-for-somali-immigrants
-  headline: US judge pauses end of protected status for Somali immigrants
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7398
-- slug: 2026-04-10-massachusetts-judge-blocks-trump-move-to-end-tps-for-ethiopians
-  headline: Massachusetts judge blocks Trump move to end TPS for Ethiopians
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7173
-- slug: 2026-05-02-federal-judge-extends-temporary-protected-status-for-3-000-yemen-refugees
-  headline: Federal judge extends Temporary Protected Status for ~3,000 Yemen refugees
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6984
-- slug: 2026-03-07-appeals-court-blocks-trump-bid-to-end-tps-for-350-000-haitians
-  headline: Appeals court blocks Trump bid to end TPS for 350,000 Haitians
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.7275
-- slug: 2026-04-30-supreme-court-weighs-trump-bid-to-end-protections-for-haitian-syrian-tps
-  headline: Supreme Court weighs Trump bid to end protections for Haitian, Syrian TPS
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6955
-- slug: 2026-01-13-trump-administration-ends-temporary-protected-status-for-somali-immigrants
-  headline: Trump administration ends Temporary Protected Status for Somali immigrants
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7341
+  strength: 0.7001
 ---
-
 ## DHS keeps Salvadoran TPS in effect until further notice
 
 **Subtype:** fact

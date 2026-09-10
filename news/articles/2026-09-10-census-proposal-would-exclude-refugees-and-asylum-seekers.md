@@ -2,8 +2,17 @@
 headline: Census proposal would exclude refugees and asylum seekers
 secondary_headline: New York considers legal action over proposed counting rule
 publish_date: '2026-09-10'
-lede: Refugees and asylum seekers would be excluded from the decennial U.S. census under a Trump administration rule proposed in the Federal Register on Wednesday, United Press International reported. The proposal would also exclude undocumented immigrants, expand the types of race and ethnicity data the government collects and leave millions of U.S. residents out of the count. New York Attorney General Letitia James said the state is considering legal action.
-nut_graf: The census plays a key role in the distribution of federal funds to states and informs congressional maps, federal policy and government services. The proposed exclusions also raise a constitutional question because the 14th Amendment requires apportionment based on the whole number of persons in each state without referring to legal status.
+lede: Refugees and asylum seekers would be excluded from the decennial U.S. census
+  under a Trump administration rule proposed in the Federal Register on Wednesday,
+  United Press International reported. The proposal would also exclude undocumented
+  immigrants, expand the types of race and ethnicity data the government collects
+  and leave millions of U.S. residents out of the count. New York Attorney General
+  Letitia James said the state is considering legal action.
+nut_graf: The census plays a key role in the distribution of federal funds to states
+  and informs congressional maps, federal policy and government services. The proposed
+  exclusions also raise a constitutional question because the 14th Amendment requires
+  apportionment based on the whole number of persons in each state without referring
+  to legal status.
 primary_entities:
 - Donald Trump
 - U.S. Census Bureau
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,113 +155,57 @@ related_stories:
   headline: 2030 census proposal seeks input on immigrants with temporary status
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8094
+  strength: 0.8099
 - slug: 2026-09-09-trump-officials-propose-major-2030-census-overhaul-excluding-noncitizens
   headline: Trump officials propose major 2030 census overhaul excluding noncitizens
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.8155
+  strength: 0.8145
 - slug: 2026-09-08-solicitor-general-files-appeal-to-revive-blocked-immigration-voter-database
   headline: Solicitor general files appeal to revive blocked immigration-voter database
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6846
+  strength: 0.6853
 - slug: 2026-09-01-state-department-proposes-parental-citizenship-proof-for-child-passports
   headline: State Department proposes parental citizenship proof for child passports
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6917
-- slug: 2026-08-26-state-department-pauses-immigrant-visas-prepares-200-000-revocations
-  headline: State Department pauses immigrant visas, prepares 200,000 revocations
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6833
+  strength: 0.6918
 - slug: 2026-08-19-census-noncitizen-voting-report-tied-to-trump-aligned-think-tank
   headline: Census noncitizen voting report tied to Trump-aligned think tank
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7025
+  strength: 0.7033
 - slug: 2026-08-06-trump-signs-orders-narrowing-birthright-citizenship-eligibility
   headline: Trump signs orders narrowing birthright citizenship eligibility
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6862
+  strength: 0.6842
 - slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
+  headline: Trump administration immigration changes reach spouses of U.S. citizens,
+    lawyers say
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.7183
+  strength: 0.7162
 - slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
   headline: Trump administration discusses data-driven deportations after court wins
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.6898
-- slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6903
-- slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
-  headline: Trump administration asks Supreme Court to back no-bond detention policy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6925
-- slug: 2026-05-22-trump-administration-requires-green-card-applicants-to-apply-from-abroad
-  headline: Trump administration requires green card applicants to apply from abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7128
-- slug: 2026-05-27-uscis-requires-green-card-applicants-to-leave-u-s-apply-abroad
-  headline: USCIS requires green card applicants to leave U.S., apply abroad
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6961
-- slug: 2026-02-11-immigrant-groups-seek-to-dismiss-missouri-bid-to-exclude-noncitizens-from-census
-  headline: Immigrant groups seek to dismiss Missouri bid to exclude noncitizens from census
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.752
-- slug: 2026-01-11-trump-allied-lawsuits-could-reshape-who-counts-in-the-2030-census
-  headline: Trump-allied lawsuits could reshape who counts in the 2030 census
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.7474
-- slug: 2026-05-23-trump-s-green-card-change-would-send-some-applicants-abroad-to-apply
-  headline: Trump’s green-card change would send some applicants abroad to apply
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6862
-- slug: 2026-05-05-many-know-someone-affected-by-trump-immigration-push-new-ap-norc-poll
-  headline: 'Many know someone affected by Trump immigration push: new AP-NORC poll'
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6879
-- slug: 2026-03-31-supreme-court-hears-trump-bid-to-end-birthright-citizenship
-  headline: Supreme Court hears Trump bid to end birthright citizenship
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7083
-- slug: 2026-05-07-many-americans-say-trump-s-immigration-crackdown-makes-u-s-unwelcoming-poll
-  headline: 'Many Americans say Trump’s immigration crackdown makes U.S. unwelcoming: poll'
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6834
-- slug: 2026-02-20-democrats-urge-census-to-drop-citizenship-question-from-2026-practice
-  headline: Democrats urge Census to drop citizenship question from 2026 practice
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7209
+  strength: 0.6901
 image:
   url: /articles/2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers.png
-  alt: "Illustration accompanying article: Census proposal would exclude refugees and asylum seekers"
+  alt: 'Illustration accompanying article: Census proposal would exclude refugees
+    and asylum seekers'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Census proposal would exclude refugees and asylum seekers
 
 **Subtype:** fact

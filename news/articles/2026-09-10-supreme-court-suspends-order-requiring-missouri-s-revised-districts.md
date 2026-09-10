@@ -2,8 +2,15 @@
 headline: Supreme Court suspends order requiring Missouri's revised districts
 secondary_headline: Decision appears to set stage for use of old maps
 publish_date: '2026-09-10'
-lede: The US Supreme Court on Thursday again rejected a push backed by Donald Trump to overhaul Missouri's congressional maps ahead of November's midterm elections. The Guardian described the overhaul as a bid to give Republicans an edge, while the court's decision appears to set the stage for Missouri to use its old electoral maps this year.
-nut_graf: The ruling followed days of confusion after conflicting decisions. The court granted a request by challengers of the proposed maps to suspend a federal judge's decision that had allowed only reconfigured boundaries to be used in the November 3 elections.
+lede: The US Supreme Court on Thursday again rejected a push backed by Donald Trump
+  to overhaul Missouri's congressional maps ahead of November's midterm elections.
+  The Guardian described the overhaul as a bid to give Republicans an edge, while
+  the court's decision appears to set the stage for Missouri to use its old electoral
+  maps this year.
+nut_graf: The ruling followed days of confusion after conflicting decisions. The court
+  granted a request by challengers of the proposed maps to suspend a federal judge's
+  decision that had allowed only reconfigured boundaries to be used in the November
+  3 elections.
 primary_entities:
 - US Supreme Court
 - Missouri
@@ -35,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,6 +156,11 @@ related_stories:
   publish_date: '2026-09-09'
   relation: related
   strength: 0.8515
+- slug: 2026-09-10-missouri-court-weighs-contempt-for-election-official-over-map-directive
+  headline: Missouri court weighs contempt for election official over map directive
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.8201
 - slug: 2026-09-03-missouri-supreme-court-orders-referendum-on-trump-backed-house-map
   headline: Missouri Supreme Court orders referendum on Trump-backed House map
   publish_date: '2026-09-03'
@@ -168,82 +181,20 @@ related_stories:
   publish_date: '2026-08-05'
   relation: related
   strength: 0.7564
-- slug: 2026-07-23-federal-judges-allow-tennessee-map-splitting-majority-black-district
-  headline: Federal judges allow Tennessee map splitting majority-Black district
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7418
-- slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.828
-- slug: 2026-05-13-trump-s-redistricting-push-hits-roadblocks-in-s-c-succeeds-in-missouri
-  headline: Trump’s redistricting push hits roadblocks in S.C., succeeds in Missouri
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.8216
-- slug: 2026-03-24-missouri-supreme-court-upholds-mid-decade-congressional-redistricting-urged-by-t
-  headline: Missouri Supreme Court upholds mid-decade congressional redistricting urged by Trump
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.8353
-- slug: 2026-06-10-florida-supreme-court-allows-republican-drawn-house-districts-for-midterm-electi
-  headline: Florida Supreme Court allows Republican-drawn House districts for midterm elections
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7412
-- slug: 2026-03-25-missouri-supreme-court-upholds-trump-backed-mid-decade-congressional-map
-  headline: Missouri Supreme Court upholds Trump-backed mid-decade congressional map
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.8071
-- slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7577
-- slug: 2026-03-28-missouri-judge-rules-trump-backed-house-districts-take-effect
-  headline: Missouri judge rules Trump-backed House districts take effect
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.7951
-- slug: 2026-05-16-supreme-court-rejects-virginia-s-bid-to-restore-democratic-leaning-house-map
-  headline: Supreme Court rejects Virginia’s bid to restore Democratic-leaning House map
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7495
-- slug: 2026-05-05-states-redraw-u-s-house-districts-mid-decade-as-gop-seeks-seat-gains
-  headline: States redraw U.S. House districts mid-decade as GOP seeks seat gains
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7478
-- slug: 2026-05-16-supreme-court-rejects-virginia-bid-to-restore-democrats-congressional-map
-  headline: Supreme Court rejects Virginia bid to restore Democrats’ congressional map
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7372
-- slug: 2026-05-10-new-u-s-congressional-map-changes-favor-republicans-in-courts-states
-  headline: New U.S. congressional map changes favor Republicans in courts, states
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7357
-- slug: 2026-02-05-supreme-court-allows-california-to-use-new-democratic-congressional-map
-  headline: Supreme Court allows California to use new Democratic congressional map
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7716
 image:
   url: /articles/2026-09-10-supreme-court-suspends-order-requiring-missouri-s-revised-districts.png
-  alt: "Illustration accompanying article: Supreme Court suspends order requiring Missouri's revised districts"
+  alt: 'Illustration accompanying article: Supreme Court suspends order requiring
+    Missouri''s revised districts'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Supreme Court suspends order requiring Missouri's revised districts
 
 **Subtype:** fact

@@ -2,8 +2,13 @@
 headline: Apple unveils first foldable iPhone as John Ternus takes over
 secondary_headline: Nearly $2,000 iPhone Duo will be available on 23 October
 publish_date: '2026-09-10'
-lede: Apple unveiled the iPhone Duo, its first foldable phone, as newly installed CEO John Ternus led the company’s annual showcase for the first time. The nearly $2,000 device will be available on 23 October.
-nut_graf: The launch moves Apple into a category competitors have occupied since the late 2010s and gives Ternus his first major test after taking over from Tim Cook last week. The Guardian described the device as the most significant change to the iPhone since its 2007 introduction.
+lede: Apple unveiled the iPhone Duo, its first foldable phone, as newly installed
+  CEO John Ternus led the company’s annual showcase for the first time. The nearly
+  $2,000 device will be available on 23 October.
+nut_graf: The launch moves Apple into a category competitors have occupied since the
+  late 2010s and gives Ternus his first major test after taking over from Tim Cook
+  last week. The Guardian described the device as the most significant change to the
+  iPhone since its 2007 introduction.
 primary_entities:
 - Apple
 - John Ternus
@@ -63,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -165,104 +171,38 @@ related_stories:
   headline: Ternus prepares first Apple event as CEO, foldable iPhone widely expected
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7992
+  strength: 0.8011
 - slug: 2026-09-10-apple-launches-1-999-foldable-iphone-duo-meta-debuts-muse-ai-agent
   headline: Apple launches $1,999 foldable iPhone Duo; Meta debuts Muse AI agent
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7279
+  strength: 0.7303
 - slug: 2026-09-01-john-ternus-takes-over-as-apple-ceo-from-tim-cook
   headline: John Ternus takes over as Apple CEO from Tim Cook
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6832
-- slug: 2026-09-10-rubio-designates-ecuadorean-gang-as-terrorist-group-sanctions-officials
-  headline: Rubio designates Ecuadorean gang as terrorist group, sanctions officials
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5885
-- slug: 2026-09-10-us-pursues-regional-drug-interdiction-agreements-while-retaining-strikes
-  headline: US pursues regional drug-interdiction agreements while retaining strikes
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5885
-- slug: 2026-08-13-cook-lutnick-tour-apple-mac-mini-factory-in-texas-ahead-of-production
-  headline: Cook, Lutnick tour Apple Mac Mini factory in Texas ahead of production
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5931
-- slug: 2026-07-25-apple-pushes-trump-to-allow-chinese-memory-chips-micron-opposes
-  headline: Apple pushes Trump to allow Chinese memory chips; Micron opposes
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5872
+  strength: 0.6833
 - slug: 2026-06-08-apple-unveils-overhauled-siri-ai-as-tim-cook-bids-farewell-at-wwdc
   headline: Apple unveils overhauled Siri AI as Tim Cook bids farewell at WWDC
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.6766
-- slug: 2026-07-12-analysts-expect-200-iphone-18-pro-price-hike-this-fall
-  headline: Analysts expect $200 iPhone 18 Pro price hike this fall
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6063
+  strength: 0.6786
 - slug: 2026-05-17-apple-appoints-hardware-veteran-john-ternus-as-next-ceo
   headline: Apple appoints hardware veteran John Ternus as next CEO
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.6979
+  strength: 0.6968
 - slug: 2026-04-22-apple-ceo-tim-cook-to-step-down-as-hardware-leader-john-ternus-takes-over
   headline: Apple CEO Tim Cook to step down as hardware leader John Ternus takes over
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.7169
-- slug: 2026-07-11-trump-administration-takes-10-stake-in-intel-apple-nvidia-sign-deals
-  headline: Trump administration takes 10% stake in Intel; Apple, Nvidia sign deals
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5872
+  strength: 0.7162
 - slug: 2026-05-02-apple-beats-revenue-expectations-as-iphone-sales-stay-strong
   headline: Apple beats revenue expectations as iPhone sales stay strong
   publish_date: '2026-05-02'
   relation: related
-  strength: 0.6736
-- slug: 2026-06-20-apple-s-iphone-holds-near-monopoly-on-world-s-wealthiest-buyers
-  headline: Apple's iPhone holds near-monopoly on world's wealthiest buyers
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6016
-- slug: 2026-06-18-trump-apple-intel-partnering-on-u-s--made-computer-chips
-  headline: 'Trump: Apple, Intel Partnering on U.S.-Made Computer Chips'
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6001
-- slug: 2026-06-21-apple-faces-unavoidable-price-increases-as-ai-demand-drives-up-memory-chip-costs
-  headline: Apple faces unavoidable price increases as AI demand drives up memory chip costs
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.5873
-- slug: 2026-06-09-apple-unveils-ai-revamp-tencent-positions-weixin-as-ai-gateway
-  headline: Apple unveils AI revamp, Tencent positions Weixin as AI gateway
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5846
-- slug: 2026-05-08-apple-s-glowtime-event-unveils-iphone-16-new-airpods-and-watch-series-10
-  headline: Apple’s Glowtime event unveils iPhone 16, new AirPods and Watch Series 10
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6049
-- slug: 2026-05-22-rubio-doubts-diplomacy-with-cuba-as-trump-threatens-possible-intervention
-  headline: Rubio doubts diplomacy with Cuba as Trump threatens possible intervention
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5846
-- slug: 2026-05-06-wwdc-apple-enters-ai-race-with-new-iphone-features-and-chatgpt-deal
-  headline: 'WWDC: Apple enters AI race with new iPhone features and ChatGPT deal'
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5985
+  strength: 0.6755
 ---
-
 ## Apple unveils first foldable iPhone as John Ternus takes over
 
 **Subtype:** fact

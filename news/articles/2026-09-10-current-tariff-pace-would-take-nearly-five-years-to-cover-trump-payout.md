@@ -2,8 +2,19 @@
 headline: Current tariff pace would take nearly five years to cover Trump payout
 secondary_headline: Goldwein puts one-year cost at about $1.2 trillion
 publish_date: '2026-09-10'
-lede: Data tracked by the Bipartisan Policy Center show the United States collected about $210 billion in tariff and excise tax revenue in 2026 through September 8. At a rate of $21 billion per month, nearly five years of collections would be needed to cover Donald Trump's proposed $5,000 payment, assuming every dollar went toward the payout and excluding tariff payments refunded to retailers in legal challenges. Trump announced the proposal Wednesday at the Republican national midterm convention in Dallas, Texas.
-nut_graf: Marc Goldwein of the Committee for a Responsible Federal Budget estimated that the proposal would cost about $1.2 trillion in one year, potentially adding that amount to a national debt that exceeded $40 trillion for the first time in August. Peter Schiff of Euro Pacific Asset Management said the pledge was already affecting the bond market, while Republicans offered divergent responses and Democrats characterized the proposal as an attempt to buy votes.
+lede: Data tracked by the Bipartisan Policy Center show the United States collected
+  about $210 billion in tariff and excise tax revenue in 2026 through September 8.
+  At a rate of $21 billion per month, nearly five years of collections would be needed
+  to cover Donald Trump's proposed $5,000 payment, assuming every dollar went toward
+  the payout and excluding tariff payments refunded to retailers in legal challenges.
+  Trump announced the proposal Wednesday at the Republican national midterm convention
+  in Dallas, Texas.
+nut_graf: Marc Goldwein of the Committee for a Responsible Federal Budget estimated
+  that the proposal would cost about $1.2 trillion in one year, potentially adding
+  that amount to a national debt that exceeded $40 trillion for the first time in
+  August. Peter Schiff of Euro Pacific Asset Management said the pledge was already
+  affecting the bond market, while Republicans offered divergent responses and Democrats
+  characterized the proposal as an attempt to buy votes.
 primary_entities:
 - Donald Trump
 - Marc Goldwein
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,12 +160,12 @@ related_stories:
   headline: Experts offer different legal views of Trump's proposed $5,000 payments
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7747
+  strength: 0.775
 - slug: 2026-09-10-trump-promises-5000-dividend-to-adult-citizens-if-republicans-keep-congress
   headline: Trump ties $5,000 adult dividend pledge to Republican control of Congress
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7698
+  strength: 0.7703
 - slug: 2026-09-10-the-guardian-says-trump-s-5-000-proposal-immediately-raised-ethical-concerns
   headline: The Guardian says Trump’s $5,000 proposal immediately raised ethical concerns
   publish_date: '2026-09-10'
@@ -163,89 +175,28 @@ related_stories:
   headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6984
+  strength: 0.6988
 - slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
   headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6867
+  strength: 0.6874
 - slug: 2026-08-26-trump-announces-90-day-tariff-cut-on-imported-ground-beef
   headline: Trump announces 90-day tariff cut on imported ground beef
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6802
+  strength: 0.6806
 - slug: 2026-08-13-trump-s-businesses-earned-2-2bn-in-2025-ethics-experts-say
   headline: Trump's businesses earned $2.2bn in 2025, ethics experts say
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6811
+  strength: 0.6819
 - slug: 2026-08-13-cbo-sees-deficits-past-2-trillion-as-parties-skip-spending-cuts
   headline: CBO sees deficits past $2 trillion as parties skip spending cuts
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6738
-- slug: 2026-06-28-trump-seeks-11-billion-in-new-farm-aid-as-government-payments-hit-record
-  headline: Trump seeks $11 billion in new farm aid as government payments hit record
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7167
-- slug: 2026-05-14-trump-pushes-federal-gas-tax-suspension-as-pump-prices-hover-near-4-50
-  headline: Trump pushes federal gas tax suspension as pump prices hover near $4.50
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6962
-- slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.707
-- slug: 2026-05-10-trump-says-he-ll-move-to-suspend-federal-gas-tax-needs-congress
-  headline: Trump says he’ll move to suspend federal gas tax, needs Congress
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.679
-- slug: 2026-05-14-amid-war-with-iran-trump-pushes-for-federal-gas-tax-suspension
-  headline: Amid war with Iran, Trump pushes for federal gas tax suspension
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.675
-- slug: 2026-05-06-white-house-estimates-trump-drug-deals-would-cut-529b-in-10-years
-  headline: White House estimates Trump drug deals would cut $529B in 10 years
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6817
-- slug: 2026-05-06-white-house-says-trump-drug-deals-could-cut-529b-in-10-years
-  headline: White House says Trump drug deals could cut $529B in 10 years
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6785
-- slug: 2026-04-04-trump-proposes-2027-budget-boosts-pentagon-spending-to-1-5t
-  headline: Trump proposes 2027 budget boosts Pentagon spending to $1.5T
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6988
-- slug: 2026-04-10-tax-refunds-rise-24-as-trump-administration-cites-new-deductions
-  headline: Tax refunds rise 24% as Trump administration cites new deductions
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6953
-- slug: 2026-05-05-white-house-says-trump-drug-deals-could-cut-529b-in-10-years
-  headline: White House says Trump drug deals could cut $529B in 10 years
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6764
-- slug: 2026-01-08-trump-proposes-1-5t-2027-defense-spending-amid-pentagon-contractor-pressure
-  headline: Trump proposes $1.5T 2027 defense spending amid Pentagon contractor pressure
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7187
-- slug: 2026-04-29-gm-expects-500-million-refund-from-trump-tariffs-struck-down-by-supreme-court
-  headline: GM expects $500 million refund from Trump tariffs struck down by Supreme Court
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6739
+  strength: 0.6744
 ---
-
 ## Current tariff pace would take nearly five years to cover Trump payout
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Canada supplied juvenile eagles for US bald eagle restoration
 secondary_headline: White House eagle-goose post drew millions amid trade tensions
 publish_date: '2026-09-10'
-lede: In late August, the White House posted a photograph on social media of a bald eagle standing atop a Canada goose, drawing millions of views as US-Canada trade talks failed and tensions rose. Experts said Canada played a critical role in restoring bald eagle populations in the United States, including by supplying juvenile birds for state recovery programs.
-nut_graf: Hunting bounties and reproductive collapse linked to DDT put sustained pressure on bald eagles, according to wildlife biologist David Bird. Only 417 breeding pairs remained in the lower 48 states in 1963, before restoration programs moved eagles from Canada and other parts of the United States into states where breeding populations had fallen sharply.
+lede: In late August, the White House posted a photograph on social media of a bald
+  eagle standing atop a Canada goose, drawing millions of views as US-Canada trade
+  talks failed and tensions rose. Experts said Canada played a critical role in restoring
+  bald eagle populations in the United States, including by supplying juvenile birds
+  for state recovery programs.
+nut_graf: Hunting bounties and reproductive collapse linked to DDT put sustained pressure
+  on bald eagles, according to wildlife biologist David Bird. Only 417 breeding pairs
+  remained in the lower 48 states in 1963, before restoration programs moved eagles
+  from Canada and other parts of the United States into states where breeding populations
+  had fallen sharply.
 primary_entities:
 - White House
 - United States
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,117 +147,41 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-08-california-confirms-gray-wolf-sighting-in-mendocino-national-forest
-  headline: California confirms gray wolf sighting in Mendocino national forest
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.579
-- slug: 2026-09-02-hegseth-s-social-media-post-on-canadian-cadets-sparks-bipartisan-backlash
-  headline: Hegseth's social media post on Canadian cadets sparks bipartisan backlash
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5743
-- slug: 2026-08-28-canada-selects-48-us-researchers-for-c-504m-relocation-program
-  headline: Canada selects 48 US researchers for C$504m relocation program
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5855
-- slug: 2026-08-26-maine-puffin-watching-cruises-sell-out-as-restored-colonies-draw-thousands
-  headline: Maine puffin-watching cruises sell out as restored colonies draw thousands
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5967
-- slug: 2026-08-21-blm-captures-about-1-000-wild-mustangs-in-western-colorado
-  headline: BLM captures about 1,000 wild mustangs in western Colorado
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.609
-- slug: 2026-07-24-carney-defends-bridge-deal-as-canada-opens-gordie-howe-span-solo
-  headline: Carney defends bridge deal as Canada opens Gordie Howe span solo
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5727
 - slug: 2026-05-14-usps-unveils-special-bald-eagle-stamps-for-america-s-250th-birthday
   headline: USPS unveils special bald eagle stamps for America’s 250th birthday
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7045
-- slug: 2026-07-17-canada-battles-nearly-900-wildfires-as-trump-threatens-tariffs-over-smoke
-  headline: Canada battles nearly 900 wildfires as Trump threatens tariffs over smoke
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5869
+  strength: 0.7055
 - slug: 2026-05-14-bald-eagle-hatchlings-spotted-in-chicago-park-for-first-time-in-over-a-century
-  headline: Bald eagle hatchlings spotted in Chicago park for first time in over a century
+  headline: Bald eagle hatchlings spotted in Chicago park for first time in over a
+    century
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6856
+  strength: 0.6859
 - slug: 2026-05-13-usps-unveils-special-bald-eagle-stamps-for-america-s-250th-birthday
   headline: USPS unveils special bald eagle stamps for America’s 250th birthday
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6733
+  strength: 0.6742
 - slug: 2026-05-14-birders-spot-bald-eagle-hatchlings-in-chicago-park-first-in-100-years
   headline: Birders spot bald eagle hatchlings in Chicago park, first in 100+ years
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.669
-- slug: 2026-07-08-carney-built-allied-network-to-reduce-dependence-on-us
-  headline: Carney built allied network to reduce dependence on US
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5741
-- slug: 2026-06-15-alabama-hoa-plan-to-gas-226-canada-geese-draws-protests-legal-questions
-  headline: Alabama HOA plan to gas 226 Canada geese draws protests, legal questions
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5711
-- slug: 2026-05-22-study-finds-coexistence-on-jackson-hole-trails-not-a-wildlife-sacrifice-zone
-  headline: Study finds coexistence on Jackson Hole trails, not a wildlife sacrifice zone
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5695
-- slug: 2026-05-18-us-pauses-canada-joint-defense-board-dating-to-wwii-citing-defense-gaps
-  headline: US pauses Canada joint defense board dating to WWII, citing defense gaps
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5732
-- slug: 2026-04-30-rare-mountain-bongos-return-to-kenya-from-czech-zoo-for-wild-release
-  headline: Rare mountain bongos return to Kenya from Czech zoo for wild release
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5816
-- slug: 2026-05-14-elk-refuge-cwd-discovery-prompts-calls-to-reduce-jackson-herd
-  headline: Elk Refuge CWD discovery prompts calls to reduce Jackson herd
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5691
-- slug: 2026-05-10-critically-endangered-mountain-bongo-returns-to-kenya-s-wild
-  headline: Critically endangered mountain bongo returns to Kenya’s wild
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5708
-- slug: 2026-04-26-china-to-send-giant-pandas-ping-ping-and-fu-shuang-to-atlanta
-  headline: China to send giant pandas Ping Ping and Fu Shuang to Atlanta
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5702
-- slug: 2026-01-14-california-halts-search-for-last-two-wolves-in-pack-that-killed-92-cattle
-  headline: California halts search for last two wolves in pack that killed 92 cattle
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.5951
+  strength: 0.6693
 image:
   url: /articles/2026-09-10-canada-supplied-juvenile-eagles-for-us-bald-eagle-restoration.png
-  alt: "Illustration accompanying article: Canada supplied juvenile eagles for US bald eagle restoration"
+  alt: 'Illustration accompanying article: Canada supplied juvenile eagles for US
+    bald eagle restoration'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Canada supplied juvenile eagles for US bald eagle restoration
 
 **Subtype:** fact

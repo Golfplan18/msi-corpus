@@ -1,9 +1,21 @@
 ---
 headline: Three states limit community air data under industry-backed laws
-secondary_headline: At 71 of 100 facilities, no in-state government monitor tracks highest-volume chemical
+secondary_headline: At 71 of 100 facilities, no in-state government monitor tracks
+  highest-volume chemical
 publish_date: '2026-09-10'
-lede: A Floodlight investigation published by The Guardian found that lawmakers in Louisiana, Kentucky and Ohio have enacted laws over the past two years restricting regulators' use of air-quality data collected by communities unless that data comes from Environmental Protection Agency-approved equipment, which typically costs tens of thousands of dollars.
-nut_graf: The Floodlight investigation found that the chemical industry supported the three state laws, while similar legislation has been repeatedly introduced in West Virginia. Communities have turned to low-cost sensors as the public air-monitoring network has contracted, but the state laws bar regulators from acting on community data unless it comes from EPA-approved equipment. Federal grants supporting the public network have fallen more than 35% over the past two decades, adjusted for inflation, and the number of government air monitors nationwide has fallen by nearly half over the same period, according to EPA data.
+lede: A Floodlight investigation published by The Guardian found that lawmakers in
+  Louisiana, Kentucky and Ohio have enacted laws over the past two years restricting
+  regulators' use of air-quality data collected by communities unless that data comes
+  from Environmental Protection Agency-approved equipment, which typically costs tens
+  of thousands of dollars.
+nut_graf: The Floodlight investigation found that the chemical industry supported
+  the three state laws, while similar legislation has been repeatedly introduced in
+  West Virginia. Communities have turned to low-cost sensors as the public air-monitoring
+  network has contracted, but the state laws bar regulators from acting on community
+  data unless it comes from EPA-approved equipment. Federal grants supporting the
+  public network have fallen more than 35% over the past two decades, adjusted for
+  inflation, and the number of government air monitors nationwide has fallen by nearly
+  half over the same period, according to EPA data.
 primary_entities:
 - American Chemistry Council
 - American Petroleum Institute
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +158,45 @@ related_stories:
   headline: EPA proposes ending public-comment mandate for data center air permits
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6515
+  strength: 0.6505
 - slug: 2026-08-25-epa-proposes-making-air-pollution-disclosure-voluntary-for-datacenter-permits
-  headline: EPA proposes making air-pollution disclosure voluntary for datacenter permits
+  headline: EPA proposes making air-pollution disclosure voluntary for datacenter
+    permits
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6628
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.623
+  strength: 0.6627
 - slug: 2026-07-20-louisiana-communities-lack-public-air-monitoring-near-industrial-plants
   headline: Louisiana communities lack public air monitoring near industrial plants
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7243
+  strength: 0.7231
 - slug: 2026-07-24-virginia-study-calls-for-stricter-data-center-water-regulations
   headline: Virginia study calls for stricter data center water regulations
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6572
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6277
-- slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
-  headline: Blue states weaken climate rules as red states lead renewable energy growth
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6453
+  strength: 0.6567
 - slug: 2026-04-30-epa-and-conservation-groups-challenge-wyoming-s-impaired-water-sample-limits
-  headline: EPA and conservation groups challenge Wyoming’s “impaired” water sample limits
+  headline: EPA and conservation groups challenge Wyoming’s “impaired” water sample
+    limits
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.6755
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6244
-- slug: 2026-06-09-pacoima-residents-fight-hazardous-air-with-hyperlocal-sensor-network
-  headline: Pacoima residents fight hazardous air with hyperlocal sensor network
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6263
-- slug: 2026-05-30-california-air-regulators-approve-cap-and-trade-changes-drawing-fire-from-all-si
-  headline: California air regulators approve cap-and-trade changes, drawing fire from all sides
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.638
+  strength: 0.6749
 - slug: 2026-03-23-trump-s-epa-moves-to-weaken-regional-haze-rule-for-national-parks
   headline: Trump's EPA moves to weaken regional haze rule for national parks
   publish_date: '2026-03-23'
   relation: related
-  strength: 0.69
+  strength: 0.6895
 - slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
   headline: Trump EPA proposes rolling back limits on toxic coal wastewater
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6538
-- slug: 2026-05-15-epa-proposes-rollback-of-coal-plant-wastewater-limits-citing-ai-driven-energy-de
-  headline: EPA proposes rollback of coal plant wastewater limits, citing AI-driven energy demand
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6396
+  strength: 0.6535
 - slug: 2026-01-28-epa-proposes-easing-air-pollution-rule-on-interstate-emissions
   headline: EPA proposes easing air pollution rule on interstate emissions
   publish_date: '2026-01-28'
   relation: related
-  strength: 0.676
-- slug: 2026-02-20-epa-loosens-mercury-emission-standards-for-coal-fired-power-plants
-  headline: EPA loosens mercury emission standards for coal-fired power plants
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6582
-- slug: 2026-02-05-california-revises-calenviroscreen-to-steer-cleanup-funds-to-more-areas
-  headline: California revises CalEnviroScreen to steer cleanup funds to more areas
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6508
-- slug: 2026-01-21-epa-eases-pollution-rules-under-trump-texas-air-quality-at-risk
-  headline: EPA eases pollution rules under Trump; Texas air quality at risk
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6485
-- slug: 2026-01-28-california-pollution-rules-years-late-still-insufficient-for-vulnerable-towns
-  headline: California pollution rules, years late, still insufficient for vulnerable towns
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6457
-- slug: 2026-03-27-epa-temporarily-allows-wider-e15-sales-in-bid-to-lower-gas-prices
-  headline: EPA temporarily allows wider E15 sales in bid to lower gas prices
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6252
+  strength: 0.6755
 ---
-
 ## Three states limit community air data under industry-backed laws
 
 **Subtype:** fact

@@ -1,12 +1,20 @@
 ---
 headline: Oil and diesel futures hit multi-month highs as US-Iran conflict escalates
-secondary_headline: Nuclear fuel supply chain unprepared for rising demand, analyst warns
+secondary_headline: Nuclear fuel supply chain unprepared for rising demand, analyst
+  warns
 publish_date: '2026-09-10'
-lede: 'Oil and diesel futures settled at their highest levels in months on Wednesday as strikes between the U.S. and Iran escalated and Houthi attacks on Saudi Arabian oil infrastructure intensified, according to The Wall Street Journal''s energy and utilities roundup of market analyst notes. Brent crude settled up 3.4% at $101.21 a barrel and West Texas Intermediate rose 3.2% to $96.05.
+lede: 'Oil and diesel futures settled at their highest levels in months on Wednesday
+  as strikes between the U.S. and Iran escalated and Houthi attacks on Saudi Arabian
+  oil infrastructure intensified, according to The Wall Street Journal''s energy and
+  utilities roundup of market analyst notes. Brent crude settled up 3.4% at $101.21
+  a barrel and West Texas Intermediate rose 3.2% to $96.05.
 
 
-  The Nymex diesel benchmark climbed 5.1% to $4.8010 a gallon — its highest close since April 28, 2022, and the second-highest on record — as Ukrainian attacks on Russian refineries and Persian Gulf disruptions tightened supply.'
-nut_graf: Oil inventories are drawing down as the conflict continues, leaving prices exposed to further supply shocks from any escalation.
+  The Nymex diesel benchmark climbed 5.1% to $4.8010 a gallon — its highest close
+  since April 28, 2022, and the second-highest on record — as Ukrainian attacks on
+  Russian refineries and Persian Gulf disruptions tightened supply.'
+nut_graf: Oil inventories are drawing down as the conflict continues, leaving prices
+  exposed to further supply shocks from any escalation.
 primary_entities:
 - United States
 - Iran
@@ -49,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,113 +160,58 @@ related_stories:
   headline: Oil futures rise as Middle East conflict escalates
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.811
+  strength: 0.8102
+- slug: 2026-09-10-oil-reaches-105-amid-signs-middle-east-conflict-will-persist
+  headline: Oil reaches $105 amid signs Middle East conflict will persist
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.7865
 - slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
   headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7781
+  strength: 0.7765
 - slug: 2026-09-09-brent-crude-tops-100-as-us-iran-fighting-flares-in-the-gulf
   headline: Brent crude tops $100 as US-Iran fighting flares in the Gulf
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.785
+  strength: 0.783
 - slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
+  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk
+    elevated
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7676
+  strength: 0.7668
 - slug: 2026-07-24-houthi-attacks-on-tankers-push-brent-above-100
   headline: Houthi attacks on tankers push Brent above $100
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7719
+  strength: 0.7707
 - slug: 2026-07-23-brent-crude-tops-100-a-barrel-as-red-sea-attacks-threaten-saudi-export-route
-  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export route
+  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export
+    route
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7669
+  strength: 0.7645
 - slug: 2026-07-20-oil-surges-above-90-as-u-s--iran-hostilities-escalate
   headline: Oil surges above $90 as U.S.-Iran hostilities escalate
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7722
-- slug: 2026-07-09-u-s-oil-stockpiles-stay-near-operational-limits-as-trump-ends-iran-ceasefire
-  headline: U.S. oil stockpiles stay near operational limits as Trump ends Iran ceasefire
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7859
-- slug: 2026-07-13-oil-prices-surge-9-6-after-trump-reimposes-hormuz-blockade
-  headline: Oil prices surge 9.6% after Trump reimposes Hormuz blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7632
-- slug: 2026-07-10-oil-heads-for-weekly-gain-as-u-s--iran-strikes-keep-strait-of-hormuz-quiet
-  headline: Oil heads for weekly gain as U.S.-Iran strikes keep Strait of Hormuz quiet
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7669
-- slug: 2026-06-11-oil-prices-rise-as-u-s-launches-new-strikes-on-iran-near-strait-of-hormuz
-  headline: Oil Prices Rise as U.S. Launches New Strikes on Iran Near Strait of Hormuz
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7873
-- slug: 2026-06-01-oil-bond-yields-surge-on-new-iran-clashes-as-stocks-edge-to-records
-  headline: Oil, bond yields surge on new Iran clashes as stocks edge to records
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7968
-- slug: 2026-06-09-oil-rises-as-iran-israel-trade-strikes-strait-of-hormuz-remains-closed
-  headline: Oil rises as Iran, Israel trade strikes; Strait of Hormuz remains closed
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7841
-- slug: 2026-06-01-stock-futures-rise-as-oil-jumps-on-renewed-u-s--iran-strikes
-  headline: Stock futures rise as oil jumps on renewed U.S.-Iran strikes
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7867
-- slug: 2026-06-03-oil-rises-as-u-s--iran-talks-stall-analysts-warn-of-summer-supply-crunch
-  headline: Oil rises as U.S.-Iran talks stall, analysts warn of summer supply crunch
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7759
-- slug: 2026-06-11-oil-prices-rise-as-trump-pledges-more-iran-strikes-energy-roundup-shows
-  headline: Oil Prices Rise as Trump Pledges More Iran Strikes, Energy Roundup Shows
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7641
-- slug: 2026-06-01-oil-rises-over-3-on-fresh-u-s--iran-strikes-deal-uncertainty
-  headline: Oil rises over 3% on fresh U.S.-Iran strikes, deal uncertainty
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.773
-- slug: 2026-06-01-uk-pump-prices-climb-as-strait-of-hormuz-closure-pushes-crude-past-120
-  headline: UK pump prices climb as Strait of Hormuz closure pushes crude past $120
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7674
-- slug: 2026-03-09-crude-prices-top-100-a-barrel-as-iran-war-disrupts-oil-flows
-  headline: Crude prices top $100 a barrel as Iran war disrupts oil flows
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.7943
-- slug: 2026-03-09-oil-and-gas-prices-surge-as-iran-war-expands
-  headline: Oil and gas prices surge as Iran war expands
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.7828
+  strength: 0.7704
 image:
   url: /articles/2026-09-10-oil-and-diesel-futures-hit-multi-month-highs-as-us-iran-conflict-escalates.png
-  alt: "Illustration accompanying article: Oil and diesel futures hit multi-month highs as US-Iran conflict escalates"
+  alt: 'Illustration accompanying article: Oil and diesel futures hit multi-month
+    highs as US-Iran conflict escalates'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Oil and diesel futures hit multi-month highs as US-Iran conflict escalates
 
 **Subtype:** fact

@@ -2,10 +2,19 @@
 headline: Global Port Tracker forecasts 2.31 million 20-foot-equivalent import units
 secondary_headline: Sentiment surveys remain negative despite growth indicators
 publish_date: '2026-09-10'
-lede: 'The Global Port Tracker from the National Retail Federation and Hackett Associates forecasts September U.S. imports at 2.31 million loaded containers, measured in 20-foot-equivalent units, about 10% above 2025. The total would exceed the 2.3 million boxes that arrived in July, and September could be the busiest import month of 2026.
+lede: 'The Global Port Tracker from the National Retail Federation and Hackett Associates
+  forecasts September U.S. imports at 2.31 million loaded containers, measured in
+  20-foot-equivalent units, about 10% above 2025. The total would exceed the 2.3 million
+  boxes that arrived in July, and September could be the busiest import month of 2026.
 
-  Jonathan Gold, the NRF''s vice president for supply chain and customs policy, said some shipments arriving in September were delayed by extreme weather in China or rerouted away from the Panama Canal because of low water levels.'
-nut_graf: The import forecast comes as several surveys show negative views of the U.S. economy despite indicators showing GDP growth, decent job growth and low unemployment. The University of Michigan consumer-sentiment measure is near the lowest levels in its decadeslong history, while the Wall Street Journal reported that possible explanations for the mismatch include survey flaws and greater partisanship.
+  Jonathan Gold, the NRF''s vice president for supply chain and customs policy, said
+  some shipments arriving in September were delayed by extreme weather in China or
+  rerouted away from the Panama Canal because of low water levels.'
+nut_graf: The import forecast comes as several surveys show negative views of the
+  U.S. economy despite indicators showing GDP growth, decent job growth and low unemployment.
+  The University of Michigan consumer-sentiment measure is near the lowest levels
+  in its decadeslong history, while the Wall Street Journal reported that possible
+  explanations for the mismatch include survey flaws and greater partisanship.
 primary_entities:
 - National Retail Federation
 - Hackett Associates
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,7 +71,8 @@ figures:
   series_id: UMCSENT
   transformation: raw
   as_of: '2026-09-10'
-  caption: The University of Michigan Consumer Sentiment index stood at 55.2 as of Sept. 10, near the lowest levels in the measure's decadeslong history.
+  caption: The University of Michigan Consumer Sentiment index stood at 55.2 as of
+    Sept. 10, near the lowest levels in the measure's decadeslong history.
 figures_aggregate:
   count: 1
   series_ids:
@@ -131,108 +142,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-09-retailers-tighten-return-policies-as-shoppers-face-new-fees-and-shorter-windows
-  headline: Retailers tighten return policies as shoppers face new fees and shorter windows
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.626
-- slug: 2026-09-04-u-s-employers-are-expected-to-add-65-000-jobs-in-august
-  headline: U.S. employers are expected to add 65,000 jobs in August
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6408
-- slug: 2026-08-26-trump-announces-90-day-tariff-cut-on-imported-ground-beef
-  headline: Trump announces 90-day tariff cut on imported ground beef
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6289
-- slug: 2026-08-26-us-economy-grows-1-5-in-q2-as-import-surge-offsets-consumer-spending
-  headline: US economy grows 1.5% in Q2 as import surge offsets consumer spending
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6234
-- slug: 2026-08-22-wall-street-awaits-consumer-confidence-and-pce-inflation-reports-next-week
-  headline: Wall Street awaits consumer confidence and PCE inflation reports next week
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6327
-- slug: 2026-08-19-white-house-unveils-ai-border-tool-against-chinese-transhipment
-  headline: White House unveils AI border tool against Chinese transhipment
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6422
 - slug: 2026-08-07-port-of-los-angeles-peak-shipping-season-extends-as-retailers-keep-importing
   headline: Port of Los Angeles peak shipping season extends as retailers keep importing
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6835
-- slug: 2026-08-14-china-s-auto-exports-strain-global-shipping-capacity
-  headline: China's auto exports strain global shipping capacity
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6276
+  strength: 0.6822
 - slug: 2026-06-26-retailers-rush-holiday-imports-early-to-avoid-looming-costs
   headline: Retailers rush holiday imports early to avoid looming costs
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6775
-- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6259
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6405
+  strength: 0.6774
 - slug: 2026-06-16-u-s-companies-stop-waiting-for-supply-chains-to-return-to-normal
   headline: U.S. Companies Stop Waiting for Supply Chains to Return to Normal
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.6574
-- slug: 2026-06-30-consumer-confidence-edges-up-to-91-2-in-june-as-gas-prices-ease
-  headline: Consumer confidence edges up to 91.2 in June as gas prices ease
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6234
-- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
-  headline: Record profits, terrible service leave US consumers with few options
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6223
-- slug: 2026-06-22-rising-trucking-rates-push-u-s-companies-back-to-intermodal-rail
-  headline: Rising trucking rates push U.S. companies back to intermodal rail
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6242
-- slug: 2026-06-10-america-s-four-year-trucking-slump-ends-as-rates-surge
-  headline: America's four-year trucking slump ends as rates surge
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6279
-- slug: 2026-06-05-fedex-freight-spinoff-poised-to-benefit-as-ism-manufacturing-expands
-  headline: FedEx Freight spinoff poised to benefit as ISM manufacturing expands
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6256
-- slug: 2026-06-04-consumer-rage-rises-as-americans-face-corporate-frustrations-survey-finds
-  headline: Consumer rage rises as Americans face corporate frustrations, survey finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6246
-- slug: 2026-05-22-us-stocks-close-out-8th-straight-winning-week-as-consumer-mood-worsens
-  headline: US stocks close out 8th straight winning week as consumer mood worsens
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6247
-- slug: 2026-05-21-wall-street-rises-for-eighth-straight-week-as-consumer-sentiment-hits-record-low
-  headline: Wall Street rises for eighth straight week as consumer sentiment hits record low
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6217
+  strength: 0.6571
 ---
-
 ## Global Port Tracker forecasts 2.31 million 20-foot-equivalent import units
 
 **Subtype:** fact

@@ -114,6 +114,107 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
+related_stories:
+- slug: 2026-09-10-fetterman-s-video-at-gop-convention-draws-democratic-criticism
+  headline: Fetterman's video at GOP convention draws Democratic criticism
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.8773
+- slug: 2026-09-10-fetterman-addresses-gop-convention-by-video-backs-mccormick-on-steel
+  headline: Fetterman addresses GOP convention by video, backs McCormick on steel
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.7896
+- slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
+  headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
+  publish_date: '2026-09-09'
+  relation: related
+  strength: 0.681
+- slug: 2026-09-09-fetterman-absent-from-campaign-trail-as-he-breaks-with-democrats
+  headline: Fetterman absent from campaign trail as he breaks with Democrats
+  publish_date: '2026-09-09'
+  relation: related
+  strength: 0.672
+- slug: 2026-09-10-vance-suggests-wealthy-americans-would-be-excluded-from-5-000-payments
+  headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.6536
+- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
+  headline: Empty seats and instant ticket approvals mark GOP midterm convention
+  publish_date: '2026-09-10'
+  relation: related
+  strength: 0.6427
+- slug: 2026-09-04-fetterman-cancels-meetings-skips-hearings-report-finds
+  headline: Fetterman cancels meetings, skips hearings, report finds
+  publish_date: '2026-09-04'
+  relation: related
+  strength: 0.6721
+- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
+  headline: Trump headlines first Republican midterm convention in Dallas
+  publish_date: '2026-09-07'
+  relation: related
+  strength: 0.6499
+- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
+  headline: Democrats hold polling edge as midterm campaign enters final stretch
+  publish_date: '2026-09-06'
+  relation: related
+  strength: 0.6467
+- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
+  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
+  publish_date: '2026-09-03'
+  relation: related
+  strength: 0.6384
+- slug: 2026-08-25-trump-and-vance-to-headline-gop-midterm-convention-in-dallas
+  headline: Trump and Vance to headline GOP midterm convention in Dallas
+  publish_date: '2026-08-25'
+  relation: related
+  strength: 0.6357
+- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
+  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
+  publish_date: '2026-08-23'
+  relation: related
+  strength: 0.6434
+- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
+  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
+  publish_date: '2026-08-13'
+  relation: related
+  strength: 0.6338
+- slug: 2026-08-09-senate-democrats-test-responses-to-possible-election-disruptions
+  headline: Senate Democrats test responses to possible election disruptions
+  publish_date: '2026-08-09'
+  relation: related
+  strength: 0.6401
+- slug: 2026-07-10-fetterman-and-mccormick-form-joint-fundraising-committee
+  headline: Fetterman and McCormick form joint fundraising committee
+  publish_date: '2026-07-10'
+  relation: related
+  strength: 0.7037
+- slug: 2026-07-16-fetterman-ties-democratic-party-membership-to-israel-support
+  headline: Fetterman ties Democratic Party membership to Israel support
+  publish_date: '2026-07-16'
+  relation: related
+  strength: 0.6725
+- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
+  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
+  publish_date: '2026-07-27'
+  relation: related
+  strength: 0.6269
+- slug: 2026-06-05-democrats-need-four-senate-seats-as-2026-races-show-unpredictability
+  headline: Democrats need four Senate seats as 2026 races show unpredictability
+  publish_date: '2026-06-05'
+  relation: related
+  strength: 0.6405
+- slug: 2026-05-14-dnc-chair-ken-martin-faces-internal-skepticism-ahead-of-2026-midterms
+  headline: DNC chair Ken Martin faces internal skepticism ahead of 2026 midterms
+  publish_date: '2026-05-14'
+  relation: related
+  strength: 0.6314
+- slug: 2026-05-14-jeffries-faces-harder-path-to-house-control-after-court-resets-maps
+  headline: Jeffries faces harder path to House control after court resets maps
+  publish_date: '2026-05-14'
+  relation: related
+  strength: 0.6275
 ---
 
 ## Fetterman's GOP convention video raises Democratic loyalty questions
