@@ -240,6 +240,8 @@ related_stories:
   publish_date: '2026-04-15'
   relation: related
   strength: 0.6811
+analyses:
+- '2026-09-10-vance-narrows-trump-s-5-000-pledge-by-adding-wealthy-exclusion-frame-on-announce'
 ---
 
 ## Vance suggests wealthy Americans would be excluded from $5,000 payments
@@ -288,3 +290,8 @@ The Guardian also reported that Trump devoted much of his speech to warnings abo
 **Publication date:** 2026-09-10
 **Title:** Vance appears to walk back Trump’s offer of $5,000 ‘dividend’ if Republicans win midterms – US politics live
 **URL:** https://www.theguardian.com/us-news/live/2026/sep/10/donald-trump-republican-midterm-convention-dividend-offer-5000-vance-latest-news-updates
+
+---
+
+<!-- analysis-link:2026-09-10-vance-narrows-trump-s-5-000-pledge-by-adding-wealthy-exclusion-frame-on-announce -->
+**Going deeper:** [Read MSI's analysis of Trump's $5,000 dividend pledge →](/analyses/2026-09-10-vance-narrows-trump-s-5-000-pledge-by-adding-wealthy-exclusion-frame-on-announce)
