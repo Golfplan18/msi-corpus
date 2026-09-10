@@ -54,8 +54,9 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - The Guardian
   - The Wall Street Journal
   outlet_classes:
   - national_daily
@@ -170,3 +171,9 @@ The brothers have been held in federal detention since their arrests in Miami in
 **Publication date:** 2026-09-09
 **Title:** Tate Brothers Denied Bail as They Fight U.K. Extradition
 **URL:** https://www.wsj.com/us-news/law/andrew-tristan-tate-bail-denied-miami-judge-f96a5833
+
+### src_late_203866f5a79144e5 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-09-09
+**Title:** Andrew and Tristan Tate denied US bail as brothers fight extradition to UK
+**URL:** https://www.theguardian.com/news/2026/sep/09/andrew-tristan-tate-judge
+**Added after publication:** true
