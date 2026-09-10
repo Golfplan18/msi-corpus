@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-09-06'
   relation: related
   strength: 0.6645
+analyses:
+- '2026-09-10-trump-s-grip-his-approval-drag-the-coordination-problem-at-the-republican-party-'
 ---
 ## Convention-goers name Vance and Rubio as top 2028 contenders
 
@@ -248,3 +250,8 @@ The BBC reported that the U.S. has nearly 270 million adults and that paying eac
 **Publication date:** 2026-09-10
 **Title:** Four takeaways from Republican midterms convention
 **URL:** https://www.bbc.co.uk/news/articles/cg7kjlzlev1o
+
+---
+
+<!-- analysis-link:2026-09-10-trump-s-grip-his-approval-drag-the-coordination-problem-at-the-republican-party- -->
+**Going deeper:** [Read MSI's analysis of Republican Party midterm convention and 2028 succession dynamics →](/analyses/2026-09-10-trump-s-grip-his-approval-drag-the-coordination-problem-at-the-republican-party-)
