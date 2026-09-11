@@ -1,7 +1,9 @@
 ---
-headline: They Know Nothing About the Superintelligence. The Kill Switch Won't Save You.
+headline: They Know Nothing About the Superintelligence. The Kill Switch Won't Save
+  You.
 publish_date: '2026-09-10'
-lede: A cartoon general formulated American artificial intelligence policy a quarter-century ago, and last week it was ratified by acclamation.
+lede: A cartoon general formulated American artificial intelligence policy a quarter-century
+  ago, and last week it was ratified by acclamation.
 pen_name: stewart-letterkenski
 primary_entities:
 - Jacob Coxon
@@ -37,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,7 +61,28 @@ cross_article_links:
   strength: 0.8785
   confidence: high
 draft: false
+image:
+  url: /cartoons/they-know-nothing-about-the-superintelligence-the-kill.png
+  alt: 'Editorial cartoon by Hector Rentier: They Know Nothing About the Superintelligence.
+    The Kill Switch Won''t Save You.'
+  caption: He knelt at the lever and called it stewardship.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-10T22:08:21-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A single central figure kneels at a stone altar in heavy cross-hatch
+    wood-engraving, head bowed in apparent devout prayer. The figure carries a recognizable
+    caricature likeness to Elon Musk — strong b
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-10-hector-paired-with-2026-09-10-stewart-letterkenski-technology-2026-sep-09-lawmakers-blast-a
 ---
+
+![Editorial cartoon by Hector Rentier: They Know Nothing About the Superintelligence. The Kill Switch Won't Save You.](/cartoons/they-know-nothing-about-the-superintelligence-the-kill.png)
+*He knelt at the lever and called it stewardship.*
 
 A cartoon general formulated American artificial intelligence policy a quarter-century ago, and last week it was ratified by acclamation. "We know nothing about their language, their history, or what they look like," Zapp Brannigan said of an alien species he was preparing to attack. "But we can assume this: they stand for everything we don't stand for."
 

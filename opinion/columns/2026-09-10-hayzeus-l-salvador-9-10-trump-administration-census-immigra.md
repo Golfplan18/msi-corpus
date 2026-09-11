@@ -1,7 +1,8 @@
 ---
 headline: Trump Is Trying to Erase Millions From the U.S. Census
 publish_date: '2026-09-10'
-lede: Donald Trump is trying to erase millions of human beings from the United States census.
+lede: Donald Trump is trying to erase millions of human beings from the United States
+  census.
 pen_name: hayzeus-l-salvador
 primary_entities:
 - Donald Trump
@@ -37,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,9 +55,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers.png
-  alt: 'Illustration accompanying article: Census proposal would exclude refugees and asylum seekers'
+  url: /cartoons/trump-is-trying-to-erase-millions-from-the-us-census.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Trying to Erase Millions From
+    the U.S. Census'
+  caption: He crossed out persons. The Bureau called it policy.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-09-10T22:05:40-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical scene, 1:1, heavy cross-hatch wood-engraving
+    in the Nast/Daumier/Tenniel tradition. A composed, fully individuated human figure
+    (recognizable as Donald Trump in his public r
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers
   relation: extends
@@ -63,7 +76,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-10-hector-paired-with-2026-09-10-hayzeus-l-salvador-9-10-trump-administration-census-immigra
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Trying to Erase Millions From the U.S. Census](/cartoons/trump-is-trying-to-erase-millions-from-the-us-census.png)
+*He crossed out persons. The Bureau called it policy.*
 
 Donald Trump is trying to erase millions of human beings from the United States census.
 
