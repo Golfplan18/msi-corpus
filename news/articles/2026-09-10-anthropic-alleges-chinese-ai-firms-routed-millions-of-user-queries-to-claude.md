@@ -55,7 +55,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -214,3 +214,10 @@ Administration officials have considered restrictions on Chinese AI developers f
 **Publication date:** 2026-09-10
 **Title:** Chinese AI Giants Accused of Sending Millions of User Queries to U.S. Models
 **URL:** https://www.wsj.com/tech/ai/chinese-ai-giants-accused-of-sending-millions-of-user-queries-to-u-s-models-768c9d26
+
+### src_late_85ca9131422bec62 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Richard Vanderford
+**Publication date:** 2026-09-11
+**Title:** The Morning Risk Report: How Chinese AI Firms Tried to Clone U.S. AI Models
+**URL:** https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-chinese-ai-firms-tried-to-clone-u-s-ai-models-32b77c8f
+**Added after publication:** true
