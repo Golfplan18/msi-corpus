@@ -30,7 +30,8 @@ topic_tags:
 - law
 - law enforcement
 - political process
-storyline_nexus: []
+storyline_nexus:
+- fcc-regulatory-pressure-on-broadcasters-under-the-trump-administration
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -179,6 +180,7 @@ related_stories:
   relation: related
   strength: 0.718
 ---
+
 ## Disney's ABC sues FCC over license challenges, 'The View' probe
 
 **Subtype:** fact

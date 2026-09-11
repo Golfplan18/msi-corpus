@@ -27,7 +27,8 @@ primary_themes:
 - Presidential-media relations
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- fcc-regulatory-pressure-on-broadcasters-under-the-trump-administration
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.6897
 ---
+
 ## Trump urges FCC to rebuke NBC's Welker over 'mixed-record' remark
 
 **Subtype:** fact
