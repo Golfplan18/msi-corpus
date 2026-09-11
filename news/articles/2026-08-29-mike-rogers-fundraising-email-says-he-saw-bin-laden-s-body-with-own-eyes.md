@@ -29,6 +29,7 @@ topic_tags:
 - government
 storyline_nexus:
 - abdul-el-sayed-wins-michigan-democratic-senate-primary
+- disputed-claims-by-politicians-about-counterterrorism-events
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -156,14 +157,19 @@ draft: false
 related_stories: []
 image:
   url: /articles/2026-08-29-mike-rogers-fundraising-email-says-he-saw-bin-laden-s-body-with-own-eyes.png
-  alt: "Illustration accompanying article: Mike Rogers' fundraising email says he saw Bin Laden's body with 'own eyes'"
+  alt: 'Illustration accompanying article: Mike Rogers'' fundraising email says he
+    saw Bin Laden''s body with ''own eyes'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Mike Rogers' fundraising email says he saw Bin Laden's body with 'own eyes'
 
 **Subtype:** fact

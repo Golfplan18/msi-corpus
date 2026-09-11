@@ -1,9 +1,19 @@
 ---
 headline: Xi is visiting New Delhi for BRICS summit, signaling China-India thaw
-secondary_headline: Analysts link warming ties to uncertainty in each country's US relations
+secondary_headline: Analysts link warming ties to uncertainty in each country's US
+  relations
 publish_date: '2026-09-11'
-lede: Six years after a deadly clash on their mountainous border sent relations between India and China into a deep freeze, Chinese leader Xi Jinping is visiting New Delhi this weekend for a two-day summit of the BRICS nations, marking his first visit to India since 2019 and delivering the strongest sign yet of a thaw between the two nuclear-armed neighbors. Behind the tentative steps by Xi and Indian Prime Minister Narendra Modi to ease tensions, analysts say, is uncertainty in each country's relationship with the United States under President Trump's second term.
-nut_graf: The visit and the wider warming between China and India reflect how Trump's second-term tariffs and the deterioration of India's relationship with Washington have pushed two rival powers into tentative cooperation at a moment when both face uncertainty about their dealings with the United States.
+lede: Six years after a deadly clash on their mountainous border sent relations between
+  India and China into a deep freeze, Chinese leader Xi Jinping is visiting New Delhi
+  this weekend for a two-day summit of the BRICS nations, marking his first visit
+  to India since 2019 and delivering the strongest sign yet of a thaw between the
+  two nuclear-armed neighbors. Behind the tentative steps by Xi and Indian Prime Minister
+  Narendra Modi to ease tensions, analysts say, is uncertainty in each country's relationship
+  with the United States under President Trump's second term.
+nut_graf: The visit and the wider warming between China and India reflect how Trump's
+  second-term tariffs and the deterioration of India's relationship with Washington
+  have pushed two rival powers into tentative cooperation at a moment when both face
+  uncertainty about their dealings with the United States.
 primary_entities:
 - Xi Jinping
 - Narendra Modi
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,24 +152,25 @@ related_stories:
   headline: Xi arrives in Egypt for state visit, meets with Sisi
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7256
+  strength: 0.7259
 - slug: 2026-09-03-xi-meets-el-sissi-in-cairo-as-china-deepens-egypt-partnership
   headline: Xi meets el-Sissi in Cairo as China deepens Egypt partnership
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6899
+  strength: 0.6903
 - slug: 2026-07-21-trump-accuses-china-of-voter-file-hack-as-both-sides-keep-summit-plans
   headline: Trump accuses China of voter file hack as both sides keep summit plans
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6961
+  strength: 0.6976
 - slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
   headline: Trump and Xi seek to stabilize trade ties at Beijing summit
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7648
+  strength: 0.7653
 - slug: 2026-06-08-xi-arrives-in-pyongyang-for-summit-with-kim-as-both-leaders-seek-to-strengthen-a
-  headline: Xi arrives in Pyongyang for summit with Kim as both leaders seek to strengthen alliance
+  headline: Xi arrives in Pyongyang for summit with Kim as both leaders seek to strengthen
+    alliance
   publish_date: '2026-06-08'
   relation: related
   strength: 0.7267
@@ -166,79 +178,18 @@ related_stories:
   headline: What to know about Trump-Xi summit in Beijing
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7493
+  strength: 0.7503
 - slug: 2026-06-05-xi-jinping-to-visit-north-korea-next-week-in-first-trip-since-2019
   headline: Xi Jinping to visit North Korea next week in first trip since 2019
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.7139
+  strength: 0.714
 - slug: 2026-05-14-us-and-china-seek-to-stabilize-trade-ahead-of-summit-in-beijing
   headline: US and China seek to stabilize trade ahead of summit in Beijing
   publish_date: '2026-05-14'
   relation: related
   strength: 0.736
-- slug: 2026-05-09-trump-heads-to-beijing-for-state-visit-as-iran-war-trade-tensions-loom
-  headline: Trump heads to Beijing for state visit as Iran war, trade tensions loom
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7389
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7346
-- slug: 2026-05-14-trump-and-xi-meet-in-beijing-to-stabilize-us-china-trade-after-tariff-war
-  headline: Trump and Xi meet in Beijing to stabilize US-China trade after tariff war
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.731
-- slug: 2026-05-09-trump-heads-to-beijing-for-talks-with-xi-as-iran-war-adds-trip-tension
-  headline: Trump heads to Beijing for talks with Xi as Iran war adds trip tension
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7346
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-and-taiwan-arms-sales
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, and Taiwan arms sales
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7213
-- slug: 2026-05-14-trump-arrives-in-beijing-for-high-stakes-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for high-stakes talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7206
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7201
-- slug: 2026-05-13-trump-heads-to-beijing-for-talks-with-xi-as-iran-war-looms
-  headline: Trump heads to Beijing for talks with Xi as Iran war looms
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7135
-- slug: 2026-05-13-trump-xi-summit-preview-trade-truce-possible-but-taiwan-iran-remain-flashpoints
-  headline: 'Trump-Xi summit preview: trade truce possible, but Taiwan, Iran remain flashpoints'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7103
-- slug: 2026-05-14-trump-arrives-in-beijing-for-high-stakes-summit-with-xi-as-china-signals-cautiou
-  headline: Trump arrives in Beijing for high-stakes summit with Xi as China signals cautious welcome
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7091
-- slug: 2026-05-14-trump-heads-to-beijing-for-summit-with-xi-as-protocol-takes-center-stage
-  headline: Trump heads to Beijing for summit with Xi as protocol takes center stage
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.708
-- slug: 2026-05-23-rubio-arrives-in-india-ahead-of-quad-talks-as-u-s-seeks-reset
-  headline: Rubio arrives in India ahead of Quad talks as U.S. seeks reset
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6933
 ---
-
 ## Xi is visiting New Delhi for BRICS summit, signaling China-India thaw
 
 **Subtype:** fact

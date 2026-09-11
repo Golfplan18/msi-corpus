@@ -24,7 +24,8 @@ primary_themes:
 - 9/11 commemoration
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- disputed-claims-by-politicians-about-counterterrorism-events
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -172,6 +173,7 @@ related_stories:
   relation: related
   strength: 0.6547
 ---
+
 ## Guardian lists six Trump 9/11 claims it says lack supporting evidence
 
 **Subtype:** fact

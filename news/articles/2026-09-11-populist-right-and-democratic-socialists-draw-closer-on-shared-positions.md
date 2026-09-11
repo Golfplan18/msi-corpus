@@ -2,8 +2,15 @@
 headline: Populist right and democratic socialists draw closer on shared positions
 secondary_headline: Mamdani cites Hayek critique, Vance dismisses Friedman as irrelevant
 publish_date: '2026-09-11'
-lede: Wall Street Journal chief economics commentator Greg Ip argues that populist Republicans led by Vice President JD Vance and Democratic socialists led by New York City Mayor Zohran Mamdani are converging on shared positions while moving away from their parties' traditional centers, sharing disdain for free markets and embracing big, coercive government.
-nut_graf: 'Ip dates the trend to two parallel realignments: Donald Trump''s 2016 takeover of the Republican Party and Sen. Bernie Sanders''s 2016 and 2020 presidential bids, which he says dragged Democrats leftward and laid the groundwork for this year''s socialist insurgency.'
+lede: Wall Street Journal chief economics commentator Greg Ip argues that populist
+  Republicans led by Vice President JD Vance and Democratic socialists led by New
+  York City Mayor Zohran Mamdani are converging on shared positions while moving away
+  from their parties' traditional centers, sharing disdain for free markets and embracing
+  big, coercive government.
+nut_graf: 'Ip dates the trend to two parallel realignments: Donald Trump''s 2016 takeover
+  of the Republican Party and Sen. Bernie Sanders''s 2016 and 2020 presidential bids,
+  which he says dragged Democrats leftward and laid the groundwork for this year''s
+  socialist insurgency.'
 primary_entities:
 - JD Vance
 - Zohran Mamdani
@@ -48,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +154,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
-  headline: Johnson says some election-year forces are out of GOP control
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.5941
-- slug: 2026-09-03-bannon-joins-sanders-ocasio-cortez-in-opposing-new-data-centers
-  headline: Bannon joins Sanders, Ocasio-Cortez in opposing new data centers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6131
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5984
 - slug: 2026-06-29-mamdani-says-socialist-primary-wins-carry-national-message-across-us
   headline: Mamdani says socialist primary wins carry ‘national message’ across US
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6568
-- slug: 2026-07-21-occupy-wall-street-organizer-traces-movement-s-legacy-to-mamdani-era
-  headline: Occupy Wall Street organizer traces movement’s legacy to Mamdani era
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.597
-- slug: 2026-06-25-socialist-candidates-sweep-new-york-primaries-as-uk-labour-tilts-left
-  headline: Socialist candidates sweep New York primaries as UK Labour tilts left
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6452
-- slug: 2026-07-12-mamdani-holds-58-approval-as-post-runs-29-stories-on-him-in-three-days
-  headline: Mamdani holds 58% approval as Post runs 29 stories on him in three days
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6026
-- slug: 2026-06-28-democratic-socialists-take-office-in-three-major-us-cities
-  headline: Democratic socialists take office in three major US cities
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6336
-- slug: 2026-06-27-far-left-gains-in-new-york-primaries-deepen-democratic-civil-war
-  headline: Far-left gains in New York primaries deepen Democratic civil war
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.628
-- slug: 2026-07-07-after-left-wing-primary-wins-trump-and-gop-label-democrats-as-communists
-  headline: After left-wing primary wins, Trump and GOP label Democrats as 'communists'
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5976
-- slug: 2026-06-29-centrist-democrats-push-for-formal-break-after-socialist-primary-wins
-  headline: Centrist Democrats push for formal break after socialist primary wins
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6086
-- slug: 2026-06-26-trump-paints-democrats-as-godless-communists-in-midterm-preview
-  headline: Trump paints Democrats as 'godless communists' in midterm preview
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6059
-- slug: 2026-06-24-mamdani-backed-candidates-sweep-new-york-democratic-primaries
-  headline: Mamdani-backed candidates sweep New York Democratic primaries
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6097
-- slug: 2026-06-23-new-yorkers-vote-in-democratic-primaries-testing-left-flank
-  headline: New Yorkers vote in Democratic primaries testing left flank
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5954
-- slug: 2026-06-27-trump-tests-red-scare-message-ahead-of-midterms-at-religious-conference
-  headline: Trump tests ‘red scare’ message ahead of midterms at religious conference
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.5876
-- slug: 2026-06-24-leftist-wave-hits-democratic-primaries-dsa-backed-candidates-win-big
-  headline: Leftist wave hits Democratic primaries, DSA-backed candidates win big
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5934
-- slug: 2026-06-22-new-york-house-candidates-close-campaigns-as-primaries-test-mamdani-s-clout
-  headline: New York House candidates close campaigns as primaries test Mamdani's clout
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5965
-- slug: 2026-06-14-mamdani-wades-into-new-york-primaries-tests-political-power
-  headline: Mamdani wades into New York primaries, tests political power
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6051
-- slug: 2026-06-04-k-shaped-inequality-widens-as-wealthy-gain-working-americans-feel-inflation-sque
-  headline: K-shaped" inequality widens as wealthy gain, working Americans feel inflation squeeze
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6166
-- slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
-  headline: Economists offer competing visions to reduce U.S. income inequality
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6025
+  strength: 0.6559
 ---
-
 ## Populist right and democratic socialists draw closer on shared positions
 
 **Subtype:** fact
