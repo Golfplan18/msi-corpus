@@ -25,7 +25,8 @@ primary_themes:
 - commemoration
 topic_tags:
 - terrorism
-storyline_nexus: []
+storyline_nexus:
+- commemorations-of-the-2001-attacks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -146,6 +147,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## 25 years after 9/11, grief and meaning still vary across America
 
 **Subtype:** fact

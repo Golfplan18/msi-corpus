@@ -32,7 +32,8 @@ primary_themes:
 - Iraq and Afghanistan
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- commemorations-of-the-2001-attacks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -133,6 +134,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Confidence in presidency falls to 27% from 55% in 2003
 
 - A Wall Street Journal analysis by Gerald Seib argues the political unity that followed September 11, 2001 gave way to 25 years of polarization and declining institutional confidence.

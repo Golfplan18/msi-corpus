@@ -26,7 +26,8 @@ topic_tags:
 - politics
 - government
 - society
-storyline_nexus: []
+storyline_nexus:
+- commemorations-of-the-2001-attacks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -154,14 +155,19 @@ related_stories:
   strength: 0.6647
 image:
   url: /articles/2026-08-28-trump-to-observe-9-11-anniversary-at-pentagon-vance-to-attend-nyc-ceremony.png
-  alt: "Illustration accompanying article: Trump to observe 9/11 anniversary at Pentagon; Vance to attend NYC ceremony"
+  alt: 'Illustration accompanying article: Trump to observe 9/11 anniversary at Pentagon;
+    Vance to attend NYC ceremony'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Trump to observe 9/11 anniversary at Pentagon; Vance to attend NYC ceremony
 
 **Subtype:** fact

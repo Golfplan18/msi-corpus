@@ -25,7 +25,8 @@ topic_tags:
 - civil rights
 - government policy
 - conflict, war and peace
-storyline_nexus: []
+storyline_nexus:
+- commemorations-of-the-2001-attacks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -166,6 +167,7 @@ related_stories:
   relation: related
   strength: 0.7168
 ---
+
 ## American readers describe 9/11's lasting effect on daily life
 
 **Subtype:** fact

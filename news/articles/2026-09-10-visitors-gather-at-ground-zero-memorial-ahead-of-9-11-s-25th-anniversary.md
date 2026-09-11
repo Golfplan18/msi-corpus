@@ -25,7 +25,8 @@ topic_tags:
 - disaster, accident and emergency incident
 - human interest
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- commemorations-of-the-2001-attacks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -136,6 +137,7 @@ related_stories:
   relation: related
   strength: 0.6787
 ---
+
 ## Visitors gather at Ground Zero memorial ahead of 9/11's 25th anniversary
 
 **Subtype:** fact

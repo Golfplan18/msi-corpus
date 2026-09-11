@@ -23,7 +23,8 @@ primary_themes:
 topic_tags:
 - terrorism
 - education
-storyline_nexus: []
+storyline_nexus:
+- commemorations-of-the-2001-attacks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -74,6 +75,7 @@ related_stories:
   relation: related
   strength: 0.6545
 ---
+
 ## Teachers gather at Flight 93 memorial to plan 9/11 lessons
 
 - The Associated Press found that at least 40 US states expect or suggest that public schools address the September 11 attacks in some way.

@@ -22,7 +22,8 @@ primary_themes:
 - International solidarity
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- commemorations-of-the-2001-attacks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -141,6 +142,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Albanese marks 25 years since September 11 attacks
 
 **Subtype:** fact

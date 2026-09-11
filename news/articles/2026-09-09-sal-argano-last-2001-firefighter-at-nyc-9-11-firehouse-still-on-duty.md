@@ -29,7 +29,8 @@ topic_tags:
 - fundamental rights
 - government policy
 - human interest
-storyline_nexus: []
+storyline_nexus:
+- commemorations-of-the-2001-attacks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -150,6 +151,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Sal Argano, last 2001 firefighter at NYC 9/11 firehouse, still on duty
 
 **Subtype:** fact
