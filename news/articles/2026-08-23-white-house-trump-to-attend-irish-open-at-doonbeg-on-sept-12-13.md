@@ -25,7 +25,8 @@ primary_themes:
 - official duties
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- the-qatar-donated-boeing-747-s-presidential-deployment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -127,14 +128,19 @@ draft: false
 related_stories: []
 image:
   url: /articles/2026-08-23-white-house-trump-to-attend-irish-open-at-doonbeg-on-sept-12-13.png
-  alt: "Illustration accompanying article: White House: Trump to attend Irish Open at Doonbeg on Sept. 12-13"
+  alt: 'Illustration accompanying article: White House: Trump to attend Irish Open
+    at Doonbeg on Sept. 12-13'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## White House: Trump to attend Irish Open at Doonbeg on Sept. 12-13
 
 **Subtype:** fact

@@ -28,7 +28,8 @@ topic_tags:
 - politics
 - government
 - transport
-storyline_nexus: []
+storyline_nexus:
+- the-qatar-donated-boeing-747-s-presidential-deployment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.7718
 ---
+
 ## Trump to fly Qatar-donated 747 to Ireland next week on first foreign trip
 
 **Subtype:** fact
