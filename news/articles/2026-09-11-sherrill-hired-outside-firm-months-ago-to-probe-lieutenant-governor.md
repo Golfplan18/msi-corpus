@@ -54,7 +54,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -210,3 +210,10 @@ Sean Higgins, a spokesman for Sherrill's administration, pushed back on the Repu
 **Publication date:** 2026-09-11
 **Title:** Misconduct Inquiry Gives N.J. Gov. Mikie Sherrill Another Headache
 **URL:** https://www.wsj.com/politics/policy/misconduct-inquiry-gives-n-j-gov-mikie-sherrill-another-headache-b32e1baf
+
+### src_late_e080fe3193aade91 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Joseph De Avila
+**Publication date:** 2026-09-11
+**Title:** Misconduct Inquiry Gives N.J. Gov. Mikie Sherrill Another Headache
+**URL:** https://www.wsj.com/politics/misconduct-inquiry-gives-n-j-gov-mikie-sherrill-another-headache-b32e1baf
+**Added after publication:** true
