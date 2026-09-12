@@ -63,11 +63,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - BBC News
+  - United Press International
   outlet_classes:
   - public_broadcaster
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -221,3 +223,9 @@ Irish authorities had been planning for Trump's visit for months in what is one 
 **Publication date:** 2026-09-12
 **Title:** A united Ireland would be 'fantastic' says Trump during Irish visit
 **URL:** https://www.bbc.co.uk/news/articles/cy0zvx15rywo
+
+### src_late_b71490e683346640 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-12
+**Title:** Trump in Dublin says he'd love to see Ireland unified
+**URL:** https://www.upi.com/Top_News/US/2026/09/12/dublin-ireland-unified-remarks/9101789231108/
+**Added after publication:** true
