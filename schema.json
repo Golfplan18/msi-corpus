@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Golfplan18/msi-corpus/schema.json",
+  "$id": "https://github.com/ora-commons/msi-corpus/schema.json",
   "title": "Main Street Independent Corpus Schema",
   "description": "JSON Schema (draft 2020-12) for every record type in the msi-corpus JSONL indexes.",
   "$defs": {
@@ -94,7 +94,7 @@
       "properties": {
         "slug":               { "type": "string" },
         "headline":           { "type": "string" },
-        "publish_date":       { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "publish_date":       { "type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
         "publish_year":       { "type": ["integer", "null"] },
         "publish_month":      { "type": ["string", "null"] },
         "primary_entities":   { "type": "array", "items": { "type": "string" } },
@@ -140,7 +140,9 @@
             "diklis-chump", "mark-paulson", "ashley-wagner",
             "james-big-jim-zebedee", "thomas-reynolds", "hayzeus-l-salvador",
             "stewart-letterkenski", "prudence-wonk", "phukher-tarlson",
-            "hector-rentier", "editorial-board"
+            "hector-rentier", "barb-mcgowan", "carla-marks",
+            "wendell-burke", "ruth-justice", "judas-i-mather",
+            "sterling-varice", "mimi-wright-fubar", "editorial-board"
           ]
         },
         "parody":         { "type": "boolean" },
@@ -207,7 +209,7 @@
         "reliability_tier": { "type": "integer", "minimum": 1, "maximum": 5 },
         "originating_or_republishing": {
           "type": "string",
-          "enum": ["originating", "republishing"]
+          "enum": ["originating", "republishing", "primary_document"]
         },
         "author":           { "type": ["string", "null"] },
         "publication_date": { "type": ["string", "null"] },
@@ -275,7 +277,9 @@
             "diklis-chump", "mark-paulson", "ashley-wagner",
             "james-big-jim-zebedee", "thomas-reynolds", "hayzeus-l-salvador",
             "stewart-letterkenski", "prudence-wonk", "phukher-tarlson",
-            "hector-rentier", "editorial-board"
+            "hector-rentier", "barb-mcgowan", "carla-marks",
+            "wendell-burke", "ruth-justice", "judas-i-mather",
+            "sterling-varice", "mimi-wright-fubar", "editorial-board"
           ]
         },
         "column_count":   { "type": "integer", "minimum": 0 },
